@@ -1,0 +1,1290 @@
+{
+    "1": {
+        "title": "Introduction",
+        "page": "1",
+        "sections": [
+            {
+                "chapter": "1",
+                "section": "1",
+                "title": "Who Should Read This Book?",
+                "page": "8",
+                "end_page": "11"
+            },
+            {
+                "chapter": "1",
+                "section": "2",
+                "title": "Historical Trends in Deep Learning",
+                "page": "11",
+                "end_page": "31"
+            }
+        ],
+        "end_page": "31"
+    },
+    "2": {
+        "title": "Linear Algebra",
+        "page": "31",
+        "sections": [
+            {
+                "chapter": "2",
+                "section": "1",
+                "title": "Scalars, Vectors, Matrices and Tensors",
+                "page": "31",
+                "end_page": "34"
+            },
+            {
+                "chapter": "2",
+                "section": "2",
+                "title": "Multiplying Matrices and Vectors",
+                "page": "34",
+                "end_page": "36"
+            },
+            {
+                "chapter": "2",
+                "section": "3",
+                "title": "Identity and Inverse Matrices",
+                "page": "36",
+                "end_page": "37"
+            },
+            {
+                "chapter": "2",
+                "section": "4",
+                "title": "Linear Dependence and Span",
+                "page": "37",
+                "end_page": "39"
+            },
+            {
+                "chapter": "2",
+                "section": "5",
+                "title": "Norms",
+                "page": "39",
+                "end_page": "40"
+            },
+            {
+                "chapter": "2",
+                "section": "6",
+                "title": "Special Kinds of Matrices and Vectors",
+                "page": "40",
+                "end_page": "42"
+            },
+            {
+                "chapter": "2",
+                "section": "7",
+                "title": "Eigendecomposition",
+                "page": "42",
+                "end_page": "44"
+            },
+            {
+                "chapter": "2",
+                "section": "8",
+                "title": "Singular Value Decomposition",
+                "page": "44",
+                "end_page": "45"
+            },
+            {
+                "chapter": "2",
+                "section": "9",
+                "title": "The Moore-Penrose Pseudoinverse",
+                "page": "45",
+                "end_page": "46"
+            },
+            {
+                "chapter": "2",
+                "section": "10",
+                "title": "The Trace Operator",
+                "page": "46",
+                "end_page": "47"
+            },
+            {
+                "chapter": "2",
+                "section": "11",
+                "title": "The Determinant",
+                "page": "47",
+                "end_page": "48"
+            },
+            {
+                "chapter": "2",
+                "section": "12",
+                "title": "Example: Principal Components Analysis",
+                "page": "48",
+                "end_page": "53"
+            }
+        ],
+        "end_page": "53"
+    },
+    "3": {
+        "title": "Probability and Information Theory",
+        "page": "53",
+        "sections": [
+            {
+                "chapter": "3",
+                "section": "1",
+                "title": "Why Probability?",
+                "page": "54",
+                "end_page": "56"
+            },
+            {
+                "chapter": "3",
+                "section": "2",
+                "title": "Random Variables",
+                "page": "56",
+                "end_page": "56"
+            },
+            {
+                "chapter": "3",
+                "section": "3",
+                "title": "Probability Distributions",
+                "page": "56",
+                "end_page": "58"
+            },
+            {
+                "chapter": "3",
+                "section": "4",
+                "title": "Marginal Probability",
+                "page": "58",
+                "end_page": "59"
+            },
+            {
+                "chapter": "3",
+                "section": "5",
+                "title": "Conditional Probability",
+                "page": "59",
+                "end_page": "59"
+            },
+            {
+                "chapter": "3",
+                "section": "6",
+                "title": "The Chain Rule of Conditional Probabilities",
+                "page": "59",
+                "end_page": "60"
+            },
+            {
+                "chapter": "3",
+                "section": "7",
+                "title": "Independence and Conditional Independence",
+                "page": "60",
+                "end_page": "60"
+            },
+            {
+                "chapter": "3",
+                "section": "8",
+                "title": "Expectation, Variance and Covariance",
+                "page": "60",
+                "end_page": "62"
+            },
+            {
+                "chapter": "3",
+                "section": "9",
+                "title": "Common Probability Distributions",
+                "page": "62",
+                "end_page": "67"
+            },
+            {
+                "chapter": "3",
+                "section": "10",
+                "title": "Useful Properties of Common Functions",
+                "page": "67",
+                "end_page": "70"
+            },
+            {
+                "chapter": "3",
+                "section": "11",
+                "title": "Bayes\u2019 Rule",
+                "page": "70",
+                "end_page": "71"
+            },
+            {
+                "chapter": "3",
+                "section": "12",
+                "title": "Technical Details of Continuous Variables",
+                "page": "71",
+                "end_page": "73"
+            },
+            {
+                "chapter": "3",
+                "section": "13",
+                "title": "Information Theory",
+                "page": "73",
+                "end_page": "75"
+            },
+            {
+                "chapter": "3",
+                "section": "14",
+                "title": "Structured Probabilistic Models",
+                "page": "75",
+                "end_page": "80"
+            }
+        ],
+        "end_page": "80"
+    },
+    "4": {
+        "title": "Numerical Computation",
+        "page": "80",
+        "sections": [
+            {
+                "chapter": "4",
+                "section": "1",
+                "title": "Overflow and Underflow",
+                "page": "80",
+                "end_page": "82"
+            },
+            {
+                "chapter": "4",
+                "section": "2",
+                "title": "Poor Conditioning",
+                "page": "82",
+                "end_page": "82"
+            },
+            {
+                "chapter": "4",
+                "section": "3",
+                "title": "Gradient-Based Optimization",
+                "page": "82",
+                "end_page": "93"
+            },
+            {
+                "chapter": "4",
+                "section": "4",
+                "title": "Constrained Optimization",
+                "page": "93",
+                "end_page": "96"
+            },
+            {
+                "chapter": "4",
+                "section": "5",
+                "title": "Example: Linear Least Squares",
+                "page": "96",
+                "end_page": "98"
+            }
+        ],
+        "end_page": "98"
+    },
+    "5": {
+        "title": "Machine Learning Basics",
+        "page": "98",
+        "sections": [
+            {
+                "chapter": "5",
+                "section": "1",
+                "title": "Learning Algorithms",
+                "page": "99",
+                "end_page": "110"
+            },
+            {
+                "chapter": "5",
+                "section": "2",
+                "title": "Capacity, Overfitting and Underfitting",
+                "page": "110",
+                "end_page": "120"
+            },
+            {
+                "chapter": "5",
+                "section": "3",
+                "title": "Hyperparameters and Validation Sets",
+                "page": "120",
+                "end_page": "122"
+            },
+            {
+                "chapter": "5",
+                "section": "4",
+                "title": "Estimators, Bias and Variance",
+                "page": "122",
+                "end_page": "131"
+            },
+            {
+                "chapter": "5",
+                "section": "5",
+                "title": "Maximum Likelihood Estimation",
+                "page": "131",
+                "end_page": "135"
+            },
+            {
+                "chapter": "5",
+                "section": "6",
+                "title": "Bayesian Statistics",
+                "page": "135",
+                "end_page": "140"
+            },
+            {
+                "chapter": "5",
+                "section": "7",
+                "title": "Supervised Learning Algorithms",
+                "page": "140",
+                "end_page": "146"
+            },
+            {
+                "chapter": "5",
+                "section": "8",
+                "title": "Unsupervised Learning Algorithms",
+                "page": "146",
+                "end_page": "151"
+            },
+            {
+                "chapter": "5",
+                "section": "9",
+                "title": "Stochastic Gradient Descent",
+                "page": "151",
+                "end_page": "153"
+            },
+            {
+                "chapter": "5",
+                "section": "10",
+                "title": "Building a Machine Learning Algorithm",
+                "page": "153",
+                "end_page": "155"
+            },
+            {
+                "chapter": "5",
+                "section": "11",
+                "title": "Challenges Motivating Deep Learning",
+                "page": "155",
+                "end_page": "168"
+            }
+        ],
+        "end_page": "168"
+    },
+    "6": {
+        "title": "Deep Feedforward Networks",
+        "page": "168",
+        "sections": [
+            {
+                "chapter": "6",
+                "section": "1",
+                "title": "Example: Learning XOR",
+                "page": "171",
+                "end_page": "177"
+            },
+            {
+                "chapter": "6",
+                "section": "2",
+                "title": "Gradient-Based Learning",
+                "page": "177",
+                "end_page": "191"
+            },
+            {
+                "chapter": "6",
+                "section": "3",
+                "title": "Hidden Units",
+                "page": "191",
+                "end_page": "197"
+            },
+            {
+                "chapter": "6",
+                "section": "4",
+                "title": "Architecture Design",
+                "page": "197",
+                "end_page": "204"
+            },
+            {
+                "chapter": "6",
+                "section": "5",
+                "title": "Back-Propagation and Other Differentiation Algorithms",
+                "page": "204",
+                "end_page": "224"
+            },
+            {
+                "chapter": "6",
+                "section": "6",
+                "title": "Historical Notes",
+                "page": "224",
+                "end_page": "228"
+            }
+        ],
+        "end_page": "228"
+    },
+    "7": {
+        "title": "Regularization for Deep Learning",
+        "page": "228",
+        "sections": [
+            {
+                "chapter": "7",
+                "section": "1",
+                "title": "Parameter Norm Penalties",
+                "page": "230",
+                "end_page": "237"
+            },
+            {
+                "chapter": "7",
+                "section": "2",
+                "title": "Norm Penalties as Constrained Optimization",
+                "page": "237",
+                "end_page": "239"
+            },
+            {
+                "chapter": "7",
+                "section": "3",
+                "title": "Regularization and Under-Constrained Problems",
+                "page": "239",
+                "end_page": "240"
+            },
+            {
+                "chapter": "7",
+                "section": "4",
+                "title": "Dataset Augmentation",
+                "page": "240",
+                "end_page": "242"
+            },
+            {
+                "chapter": "7",
+                "section": "5",
+                "title": "Noise Robustness",
+                "page": "242",
+                "end_page": "243"
+            },
+            {
+                "chapter": "7",
+                "section": "6",
+                "title": "Semi-Supervised Learning",
+                "page": "243",
+                "end_page": "244"
+            },
+            {
+                "chapter": "7",
+                "section": "7",
+                "title": "Multi-Task Learning",
+                "page": "244",
+                "end_page": "246"
+            },
+            {
+                "chapter": "7",
+                "section": "8",
+                "title": "Early Stopping",
+                "page": "246",
+                "end_page": "253"
+            },
+            {
+                "chapter": "7",
+                "section": "9",
+                "title": "Parameter Tying and Parameter Sharing",
+                "page": "253",
+                "end_page": "254"
+            },
+            {
+                "chapter": "7",
+                "section": "10",
+                "title": "Sparse Representations",
+                "page": "254",
+                "end_page": "256"
+            },
+            {
+                "chapter": "7",
+                "section": "11",
+                "title": "Bagging and Other Ensemble Methods",
+                "page": "256",
+                "end_page": "258"
+            },
+            {
+                "chapter": "7",
+                "section": "12",
+                "title": "Dropout",
+                "page": "258",
+                "end_page": "268"
+            },
+            {
+                "chapter": "7",
+                "section": "13",
+                "title": "Adversarial Training",
+                "page": "268",
+                "end_page": "270"
+            },
+            {
+                "chapter": "7",
+                "section": "14",
+                "title": "Tangent Distance, Tangent Prop, and Manifold Tangent",
+                "page": "270",
+                "end_page": "274"
+            }
+        ],
+        "end_page": "274"
+    },
+    "8": {
+        "title": "Optimization for Training Deep Models",
+        "page": "274",
+        "sections": [
+            {
+                "chapter": "8",
+                "section": "1",
+                "title": "How Learning Differs from Pure Optimization",
+                "page": "275",
+                "end_page": "282"
+            },
+            {
+                "chapter": "8",
+                "section": "2",
+                "title": "Challenges in Neural Network Optimization",
+                "page": "282",
+                "end_page": "294"
+            },
+            {
+                "chapter": "8",
+                "section": "3",
+                "title": "Basic Algorithms",
+                "page": "294",
+                "end_page": "301"
+            },
+            {
+                "chapter": "8",
+                "section": "4",
+                "title": "Parameter Initialization Strategies",
+                "page": "301",
+                "end_page": "306"
+            },
+            {
+                "chapter": "8",
+                "section": "5",
+                "title": "Algorithms with Adaptive Learning Rates",
+                "page": "306",
+                "end_page": "310"
+            },
+            {
+                "chapter": "8",
+                "section": "6",
+                "title": "Approximate Second-Order Methods",
+                "page": "310",
+                "end_page": "317"
+            },
+            {
+                "chapter": "8",
+                "section": "7",
+                "title": "Optimization Strategies and Meta-Algorithms",
+                "page": "317",
+                "end_page": "330"
+            }
+        ],
+        "end_page": "330"
+    },
+    "9": {
+        "title": "Convolutional Networks",
+        "page": "330",
+        "sections": [
+            {
+                "chapter": "9",
+                "section": "1",
+                "title": "The Convolution Operation",
+                "page": "331",
+                "end_page": "335"
+            },
+            {
+                "chapter": "9",
+                "section": "2",
+                "title": "Motivation",
+                "page": "335",
+                "end_page": "339"
+            },
+            {
+                "chapter": "9",
+                "section": "3",
+                "title": "Pooling",
+                "page": "339",
+                "end_page": "345"
+            },
+            {
+                "chapter": "9",
+                "section": "4",
+                "title": "Convolution and Pooling as an Infinitely Strong Prior",
+                "page": "345",
+                "end_page": "347"
+            },
+            {
+                "chapter": "9",
+                "section": "5",
+                "title": "Variants of the Basic Convolution Function",
+                "page": "347",
+                "end_page": "358"
+            },
+            {
+                "chapter": "9",
+                "section": "6",
+                "title": "Structured Outputs",
+                "page": "358",
+                "end_page": "360"
+            },
+            {
+                "chapter": "9",
+                "section": "7",
+                "title": "Data Types",
+                "page": "360",
+                "end_page": "362"
+            },
+            {
+                "chapter": "9",
+                "section": "8",
+                "title": "Efficient Convolution Algorithms",
+                "page": "362",
+                "end_page": "363"
+            },
+            {
+                "chapter": "9",
+                "section": "9",
+                "title": "Random or Unsupervised Features",
+                "page": "363",
+                "end_page": "364"
+            },
+            {
+                "chapter": "9",
+                "section": "10",
+                "title": "The Neuroscientific Basis for Convolutional Networks",
+                "page": "364",
+                "end_page": "371"
+            },
+            {
+                "chapter": "9",
+                "section": "11",
+                "title": "Convolutional Networks and the History of Deep Learning",
+                "page": "371",
+                "end_page": "373"
+            }
+        ],
+        "end_page": "373"
+    },
+    "10": {
+        "title": "Sequence Modeling: Recurrent and Recursive Nets",
+        "page": "373",
+        "sections": [
+            {
+                "chapter": "10",
+                "section": "1",
+                "title": "Unfolding Computational Graphs",
+                "page": "375",
+                "end_page": "378"
+            },
+            {
+                "chapter": "10",
+                "section": "2",
+                "title": "Recurrent Neural Networks",
+                "page": "378",
+                "end_page": "394"
+            },
+            {
+                "chapter": "10",
+                "section": "3",
+                "title": "Bidirectional RNNs",
+                "page": "394",
+                "end_page": "396"
+            },
+            {
+                "chapter": "10",
+                "section": "4",
+                "title": "Encoder-Decoder Sequence-to-Sequence Architectures",
+                "page": "396",
+                "end_page": "398"
+            },
+            {
+                "chapter": "10",
+                "section": "5",
+                "title": "Deep Recurrent Networks",
+                "page": "398",
+                "end_page": "400"
+            },
+            {
+                "chapter": "10",
+                "section": "6",
+                "title": "Recursive Neural Networks",
+                "page": "400",
+                "end_page": "401"
+            },
+            {
+                "chapter": "10",
+                "section": "7",
+                "title": "The Challenge of Long-Term Dependencies",
+                "page": "401",
+                "end_page": "404"
+            },
+            {
+                "chapter": "10",
+                "section": "8",
+                "title": "Echo State Networks",
+                "page": "404",
+                "end_page": "406"
+            },
+            {
+                "chapter": "10",
+                "section": "9",
+                "title": "Leaky Units and Other Strategies for Multiple Time Scales",
+                "page": "406",
+                "end_page": "408"
+            },
+            {
+                "chapter": "10",
+                "section": "10",
+                "title": "The Long Short-Term Memory and Other Gated RNNs",
+                "page": "408",
+                "end_page": "413"
+            },
+            {
+                "chapter": "10",
+                "section": "11",
+                "title": "Optimization for Long-Term Dependencies",
+                "page": "413",
+                "end_page": "416"
+            },
+            {
+                "chapter": "10",
+                "section": "12",
+                "title": "Explicit Memory",
+                "page": "416",
+                "end_page": "421"
+            }
+        ],
+        "end_page": "421"
+    },
+    "11": {
+        "title": "Practical Methodology",
+        "page": "421",
+        "sections": [
+            {
+                "chapter": "11",
+                "section": "1",
+                "title": "Performance Metrics",
+                "page": "422",
+                "end_page": "425"
+            },
+            {
+                "chapter": "11",
+                "section": "2",
+                "title": "Default Baseline Models",
+                "page": "425",
+                "end_page": "426"
+            },
+            {
+                "chapter": "11",
+                "section": "3",
+                "title": "Determining Whether to Gather More Data",
+                "page": "426",
+                "end_page": "427"
+            },
+            {
+                "chapter": "11",
+                "section": "4",
+                "title": "Selecting Hyperparameters",
+                "page": "427",
+                "end_page": "436"
+            },
+            {
+                "chapter": "11",
+                "section": "5",
+                "title": "Debugging Strategies",
+                "page": "436",
+                "end_page": "440"
+            },
+            {
+                "chapter": "11",
+                "section": "6",
+                "title": "Example: Multi-Digit Number Recognition",
+                "page": "440",
+                "end_page": "443"
+            }
+        ],
+        "end_page": "443"
+    },
+    "12": {
+        "title": "Applications",
+        "page": "443",
+        "sections": [
+            {
+                "chapter": "12",
+                "section": "1",
+                "title": "Large-Scale Deep Learning",
+                "page": "443",
+                "end_page": "452"
+            },
+            {
+                "chapter": "12",
+                "section": "2",
+                "title": "Computer Vision",
+                "page": "452",
+                "end_page": "458"
+            },
+            {
+                "chapter": "12",
+                "section": "3",
+                "title": "Speech Recognition",
+                "page": "458",
+                "end_page": "461"
+            },
+            {
+                "chapter": "12",
+                "section": "4",
+                "title": "Natural Language Processing",
+                "page": "461",
+                "end_page": "478"
+            },
+            {
+                "chapter": "12",
+                "section": "5",
+                "title": "Other Applications",
+                "page": "478",
+                "end_page": "489"
+            }
+        ],
+        "end_page": "489"
+    },
+    "13": {
+        "title": "Linear Factor Models",
+        "page": "489",
+        "sections": [
+            {
+                "chapter": "13",
+                "section": "1",
+                "title": "Probabilistic PCA and Factor Analysis",
+                "page": "490",
+                "end_page": "491"
+            },
+            {
+                "chapter": "13",
+                "section": "2",
+                "title": "Independent Component Analysis (ICA)",
+                "page": "491",
+                "end_page": "493"
+            },
+            {
+                "chapter": "13",
+                "section": "3",
+                "title": "Slow Feature Analysis",
+                "page": "493",
+                "end_page": "496"
+            },
+            {
+                "chapter": "13",
+                "section": "4",
+                "title": "Sparse Coding",
+                "page": "496",
+                "end_page": "499"
+            },
+            {
+                "chapter": "13",
+                "section": "5",
+                "title": "Manifold Interpretation of PCA",
+                "page": "499",
+                "end_page": "502"
+            }
+        ],
+        "end_page": "502"
+    },
+    "14": {
+        "title": "Autoencoders",
+        "page": "502",
+        "sections": [
+            {
+                "chapter": "14",
+                "section": "1",
+                "title": "Undercomplete Autoencoders",
+                "page": "503",
+                "end_page": "504"
+            },
+            {
+                "chapter": "14",
+                "section": "2",
+                "title": "Regularized Autoencoders",
+                "page": "504",
+                "end_page": "508"
+            },
+            {
+                "chapter": "14",
+                "section": "3",
+                "title": "Representational Power, Layer Size and Depth",
+                "page": "508",
+                "end_page": "509"
+            },
+            {
+                "chapter": "14",
+                "section": "4",
+                "title": "Stochastic Encoders and Decoders",
+                "page": "509",
+                "end_page": "510"
+            },
+            {
+                "chapter": "14",
+                "section": "5",
+                "title": "Denoising Autoencoders",
+                "page": "510",
+                "end_page": "515"
+            },
+            {
+                "chapter": "14",
+                "section": "6",
+                "title": "Learning Manifolds with Autoencoders",
+                "page": "515",
+                "end_page": "521"
+            },
+            {
+                "chapter": "14",
+                "section": "7",
+                "title": "Contractive Autoencoders",
+                "page": "521",
+                "end_page": "523"
+            },
+            {
+                "chapter": "14",
+                "section": "8",
+                "title": "Predictive Sparse Decomposition",
+                "page": "523",
+                "end_page": "524"
+            },
+            {
+                "chapter": "14",
+                "section": "9",
+                "title": "Applications of Autoencoders",
+                "page": "524",
+                "end_page": "526"
+            }
+        ],
+        "end_page": "526"
+    },
+    "15": {
+        "title": "Representation Learning",
+        "page": "526",
+        "sections": [
+            {
+                "chapter": "15",
+                "section": "1",
+                "title": "Greedy Layer-Wise Unsupervised Pretraining",
+                "page": "528",
+                "end_page": "536"
+            },
+            {
+                "chapter": "15",
+                "section": "2",
+                "title": "Transfer Learning and Domain Adaptation",
+                "page": "536",
+                "end_page": "541"
+            },
+            {
+                "chapter": "15",
+                "section": "3",
+                "title": "Semi-Supervised Disentangling of Causal Factors",
+                "page": "541",
+                "end_page": "546"
+            },
+            {
+                "chapter": "15",
+                "section": "4",
+                "title": "Distributed Representation",
+                "page": "546",
+                "end_page": "553"
+            },
+            {
+                "chapter": "15",
+                "section": "5",
+                "title": "Exponential Gains from Depth",
+                "page": "553",
+                "end_page": "554"
+            },
+            {
+                "chapter": "15",
+                "section": "6",
+                "title": "Providing Clues to Discover Underlying Causes",
+                "page": "554",
+                "end_page": "558"
+            }
+        ],
+        "end_page": "558"
+    },
+    "16": {
+        "title": "Structured Probabilistic Models for Deep Learning",
+        "page": "558",
+        "sections": [
+            {
+                "chapter": "16",
+                "section": "1",
+                "title": "The Challenge of Unstructured Modeling",
+                "page": "559",
+                "end_page": "563"
+            },
+            {
+                "chapter": "16",
+                "section": "2",
+                "title": "Using Graphs to Describe Model Structure",
+                "page": "563",
+                "end_page": "580"
+            },
+            {
+                "chapter": "16",
+                "section": "3",
+                "title": "Sampling from Graphical Models",
+                "page": "580",
+                "end_page": "582"
+            },
+            {
+                "chapter": "16",
+                "section": "4",
+                "title": "Advantages of Structured Modeling",
+                "page": "582",
+                "end_page": "582"
+            },
+            {
+                "chapter": "16",
+                "section": "5",
+                "title": "Learning about Dependencies",
+                "page": "582",
+                "end_page": "584"
+            },
+            {
+                "chapter": "16",
+                "section": "6",
+                "title": "Inference and Approximate Inference",
+                "page": "584",
+                "end_page": "585"
+            },
+            {
+                "chapter": "16",
+                "section": "7",
+                "title": "The Deep Learning Approach to Structured Probabilistic",
+                "page": "585",
+                "end_page": "590"
+            }
+        ],
+        "end_page": "590"
+    },
+    "17": {
+        "title": "Monte Carlo Methods",
+        "page": "590",
+        "sections": [
+            {
+                "chapter": "17",
+                "section": "1",
+                "title": "Sampling and Monte Carlo Methods",
+                "page": "590",
+                "end_page": "592"
+            },
+            {
+                "chapter": "17",
+                "section": "2",
+                "title": "Importance Sampling",
+                "page": "592",
+                "end_page": "595"
+            },
+            {
+                "chapter": "17",
+                "section": "3",
+                "title": "Markov Chain Monte Carlo Methods",
+                "page": "595",
+                "end_page": "599"
+            },
+            {
+                "chapter": "17",
+                "section": "4",
+                "title": "Gibbs Sampling",
+                "page": "599",
+                "end_page": "599"
+            },
+            {
+                "chapter": "17",
+                "section": "5",
+                "title": "The Challenge of Mixing between Separated Modes",
+                "page": "599",
+                "end_page": "605"
+            }
+        ],
+        "end_page": "605"
+    },
+    "18": {
+        "title": "Confronting the Partition Function",
+        "page": "605",
+        "sections": [
+            {
+                "chapter": "18",
+                "section": "1",
+                "title": "The Log-Likelihood Gradient",
+                "page": "606",
+                "end_page": "607"
+            },
+            {
+                "chapter": "18",
+                "section": "2",
+                "title": "Stochastic Maximum Likelihood and Contrastive Divergence",
+                "page": "607",
+                "end_page": "615"
+            },
+            {
+                "chapter": "18",
+                "section": "3",
+                "title": "Pseudolikelihood",
+                "page": "615",
+                "end_page": "617"
+            },
+            {
+                "chapter": "18",
+                "section": "4",
+                "title": "Score Matching and Ratio Matching",
+                "page": "617",
+                "end_page": "619"
+            },
+            {
+                "chapter": "18",
+                "section": "5",
+                "title": "Denoising Score Matching",
+                "page": "619",
+                "end_page": "620"
+            },
+            {
+                "chapter": "18",
+                "section": "6",
+                "title": "Noise-Contrastive Estimation",
+                "page": "620",
+                "end_page": "623"
+            },
+            {
+                "chapter": "18",
+                "section": "7",
+                "title": "Estimating the Partition Function",
+                "page": "623",
+                "end_page": "631"
+            }
+        ],
+        "end_page": "631"
+    },
+    "19": {
+        "title": "Approximate Inference",
+        "page": "631",
+        "sections": [
+            {
+                "chapter": "19",
+                "section": "1",
+                "title": "Inference as Optimization",
+                "page": "633",
+                "end_page": "634"
+            },
+            {
+                "chapter": "19",
+                "section": "2",
+                "title": "Expectation Maximization",
+                "page": "634",
+                "end_page": "635"
+            },
+            {
+                "chapter": "19",
+                "section": "3",
+                "title": "MAP Inference and Sparse Coding",
+                "page": "635",
+                "end_page": "638"
+            },
+            {
+                "chapter": "19",
+                "section": "4",
+                "title": "Variational Inference and Learning",
+                "page": "638",
+                "end_page": "651"
+            },
+            {
+                "chapter": "19",
+                "section": "5",
+                "title": "Learned Approximate Inference",
+                "page": "651",
+                "end_page": "654"
+            }
+        ],
+        "end_page": "654"
+    },
+    "20": {
+        "title": "Deep Generative Models",
+        "page": "654",
+        "sections": [
+            {
+                "chapter": "20",
+                "section": "1",
+                "title": "Boltzmann Machines",
+                "page": "654",
+                "end_page": "656"
+            },
+            {
+                "chapter": "20",
+                "section": "2",
+                "title": "Restricted Boltzmann Machines",
+                "page": "656",
+                "end_page": "660"
+            },
+            {
+                "chapter": "20",
+                "section": "3",
+                "title": "Deep Belief Networks",
+                "page": "660",
+                "end_page": "663"
+            },
+            {
+                "chapter": "20",
+                "section": "4",
+                "title": "Deep Boltzmann Machines",
+                "page": "663",
+                "end_page": "676"
+            },
+            {
+                "chapter": "20",
+                "section": "5",
+                "title": "Boltzmann Machines for Real-Valued Data",
+                "page": "676",
+                "end_page": "683"
+            },
+            {
+                "chapter": "20",
+                "section": "6",
+                "title": "Convolutional Boltzmann Machines",
+                "page": "683",
+                "end_page": "685"
+            },
+            {
+                "chapter": "20",
+                "section": "7",
+                "title": "Boltzmann Machines for Structured or Sequential Outputs",
+                "page": "685",
+                "end_page": "686"
+            },
+            {
+                "chapter": "20",
+                "section": "8",
+                "title": "Other Boltzmann Machines",
+                "page": "686",
+                "end_page": "687"
+            },
+            {
+                "chapter": "20",
+                "section": "9",
+                "title": "Back-Propagation through Random Operations",
+                "page": "687",
+                "end_page": "692"
+            },
+            {
+                "chapter": "20",
+                "section": "10",
+                "title": "Directed Generative Nets",
+                "page": "692",
+                "end_page": "711"
+            },
+            {
+                "chapter": "20",
+                "section": "11",
+                "title": "Drawing Samples from Autoencoders",
+                "page": "711",
+                "end_page": "714"
+            },
+            {
+                "chapter": "20",
+                "section": "12",
+                "title": "Generative Stochastic Networks",
+                "page": "714",
+                "end_page": "716"
+            },
+            {
+                "chapter": "20",
+                "section": "13",
+                "title": "Other Generation Schemes",
+                "page": "716",
+                "end_page": "717"
+            },
+            {
+                "chapter": "20",
+                "section": "14",
+                "title": "Evaluating Generative Models",
+                "page": "717",
+                "end_page": "720"
+            },
+            {
+                "chapter": "20",
+                "section": "15",
+                "title": "Conclusion",
+                "page": "720",
+                "end_page": "735"
+            }
+        ],
+        "end_page": "735"
+    }
+}
