@@ -1,0 +1,351 @@
+{
+    "1.1 Who Should Read This Book?": [
+        {
+            "head": "Deep learning",
+            "type": "subclass of",
+            "tail": "machine learning"
+        },
+        {
+            "head": "deep learning",
+            "type": "subclass of",
+            "tail": "machine learning"
+        },
+        {
+            "head": "Deep learning",
+            "type": "subclass of",
+            "tail": "artificial intelligence"
+        },
+        {
+            "head": "representation learning",
+            "type": "subclass of",
+            "tail": "machine learning"
+        },
+        {
+            "head": "AI",
+            "type": "has part",
+            "tail": "machine systems learning"
+        },
+        {
+            "head": "machine systems learning",
+            "type": "part of",
+            "tail": "AI"
+        },
+        {
+            "head": "Deep Classic Rule",
+            "type": "subclass of",
+            "tail": "learning machine systems"
+        }
+    ],
+    "1.2 Historical Trends in Deep Learning": [
+        {
+            "head": "Deep learning",
+            "type": "subclass of",
+            "tail": "machine learning"
+        },
+        {
+            "head": "Deep learning",
+            "type": "subclass of",
+            "tail": "algorithms"
+        },
+        {
+            "head": "CNN",
+            "type": "subclass of",
+            "tail": "Deep Networks"
+        },
+        {
+            "head": "Deep Networks",
+            "type": "subclass of",
+            "tail": "RNNs"
+        },
+        {
+            "head": "CNN",
+            "type": "part of",
+            "tail": "Deep Networks"
+        },
+        {
+            "head": "cybernetics",
+            "type": "subclass of",
+            "tail": "deep learning"
+        },
+        {
+            "head": "Deep learning",
+            "type": "subclass of",
+            "tail": "artificial neural network"
+        },
+        {
+            "head": "Deep learning",
+            "type": "instance of",
+            "tail": "artificial neural network"
+        },
+        {
+            "head": "neural network",
+            "type": "has part",
+            "tail": "hidden layer"
+        },
+        {
+            "head": "hidden layer",
+            "type": "part of",
+            "tail": "neural network"
+        },
+        {
+            "head": "neural network",
+            "type": "has part",
+            "tail": "hidden layers"
+        },
+        {
+            "head": "hidden layers",
+            "type": "part of",
+            "tail": "neural network"
+        },
+        {
+            "head": "1940",
+            "type": "point in time",
+            "tail": "1940"
+        },
+        {
+            "head": "1960",
+            "type": "point in time",
+            "tail": "1960"
+        },
+        {
+            "head": "1990",
+            "type": "point in time",
+            "tail": "1990"
+        },
+        {
+            "head": "McCulloch-Pitts Neuron",
+            "type": "instance of",
+            "tail": "linear model"
+        },
+        {
+            "head": "McCulloch-Pitts Neuron",
+            "type": "instance of",
+            "tail": "algorithm"
+        },
+        {
+            "head": "stochastic gradient descent",
+            "type": "instance of",
+            "tail": "algorithm"
+        },
+        {
+            "head": "rectified linear unit",
+            "type": "subclass of",
+            "tail": "neural network"
+        },
+        {
+            "head": "rectified linear unit",
+            "type": "subclass of",
+            "tail": "neuron"
+        },
+        {
+            "head": "rectified linear unit",
+            "type": "instance of",
+            "tail": "neural network"
+        },
+        {
+            "head": "Connectionism",
+            "type": "discoverer or inventor",
+            "tail": "Donald Hebb"
+        },
+        {
+            "head": "Connectionism",
+            "type": "named after",
+            "tail": "Donald Hebb"
+        },
+        {
+            "head": "Cognition",
+            "type": "studied by",
+            "tail": "cognition"
+        },
+        {
+            "head": "Geoffrey Hinton",
+            "type": "employer",
+            "tail": "University of Toronto"
+        },
+        {
+            "head": "Yann LeCun",
+            "type": "employer",
+            "tail": "University of Montreal"
+        },
+        {
+            "head": "Yann LeCun",
+            "type": "employer",
+            "tail": "University of Toronto"
+        },
+        {
+            "head": "Deep learning",
+            "type": "discoverer or inventor",
+            "tail": "Geoffrey Hinton"
+        },
+        {
+            "head": "Deep learning",
+            "type": "subclass of",
+            "tail": "supervised learning"
+        },
+        {
+            "head": "deep belief network",
+            "type": "use",
+            "tail": "deep learning"
+        },
+        {
+            "head": "connections",
+            "type": "part of",
+            "tail": "neuron"
+        },
+        {
+            "head": "unsupervised",
+            "type": "subclass of",
+            "tail": "machine learning"
+        },
+        {
+            "head": "unsupervised",
+            "type": "part of",
+            "tail": "machine learning"
+        },
+        {
+            "head": "1900",
+            "type": "point in time",
+            "tail": "1900"
+        },
+        {
+            "head": "2000s",
+            "type": "followed by",
+            "tail": "2010s"
+        },
+        {
+            "head": "2010s",
+            "type": "follows",
+            "tail": "2000s"
+        },
+        {
+            "head": "MNIST dataset",
+            "type": "named after",
+            "tail": "National Institute of Standards and Technology"
+        },
+        {
+            "head": "Geoffrey Hinton",
+            "type": "field of work",
+            "tail": "machine learning"
+        },
+        {
+            "head": "MNIST dataset",
+            "type": "publisher",
+            "tail": "National Institute of Standards and Technology"
+        },
+        {
+            "head": "deep learning",
+            "type": "uses",
+            "tail": "GPUs"
+        },
+        {
+            "head": "Deep learning",
+            "type": "uses",
+            "tail": "convolutional network"
+        },
+        {
+            "head": "ImageNet Large Scale Visual Recognition Challenge",
+            "type": "facet of",
+            "tail": "deep learning"
+        },
+        {
+            "head": "Biological neural network sizes from Wikipedia (2015)",
+            "type": "facet of",
+            "tail": "artificial neural network"
+        },
+        {
+            "head": "Biological neural network sizes from Wikipedia (2015)",
+            "type": "facet of",
+            "tail": "artificial neural networks"
+        },
+        {
+            "head": "Biological neural network sizes from Wikipedia (2015)",
+            "type": "is a list of",
+            "tail": "artificial neural network"
+        },
+        {
+            "head": "DeepLearning",
+            "type": "use",
+            "tail": "reinforcement learning"
+        },
+        {
+            "head": "Deep learning",
+            "type": "use",
+            "tail": "reinforcement learning"
+        },
+        {
+            "head": "DeepMind",
+            "type": "product or material produced",
+            "tail": "reinforcement learning"
+        },
+        {
+            "head": "Deep learning",
+            "type": "instance of",
+            "tail": "machine learning"
+        },
+        {
+            "head": "deep learning",
+            "type": "subclass of",
+            "tail": "machine learning"
+        },
+        {
+            "head": "Deepbelief network",
+            "type": "instance of",
+            "tail": "neural network"
+        },
+        {
+            "head": "Deepbelief network",
+            "type": "subclass of",
+            "tail": "neural network"
+        },
+        {
+            "head": "Deepbelief network",
+            "type": "instance of",
+            "tail": "artificial neural network"
+        },
+        {
+            "head": "2010",
+            "type": "point in time",
+            "tail": "2010"
+        },
+        {
+            "head": "ImageNet Large Scale Visual Recognition Challenge",
+            "type": "point in time",
+            "tail": "2015"
+        },
+        {
+            "head": "2012",
+            "type": "point in time",
+            "tail": "2012"
+        },
+        {
+            "head": "Applied Math",
+            "type": "has part",
+            "tail": "Machine Learning"
+        },
+        {
+            "head": "Applied Math and Machine Learning Basics",
+            "type": "number of episodes",
+            "tail": "29"
+        },
+        {
+            "head": "Applied Math and Machine Learning Basics 29",
+            "type": "point in time",
+            "tail": "29"
+        },
+        {
+            "head": "training algorithm",
+            "type": "subclass of",
+            "tail": "algorithm"
+        },
+        {
+            "head": "training algorithm",
+            "type": "facet of",
+            "tail": "machine learning"
+        },
+        {
+            "head": "training algorithm",
+            "type": "part of",
+            "tail": "machine learning"
+        }
+    ]
+}
