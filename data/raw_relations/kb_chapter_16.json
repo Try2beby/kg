@@ -1,0 +1,482 @@
+[
+    [
+        "clique",
+        "part of",
+        "undirected graph"
+    ],
+    [
+        "subjugated",
+        "subclass of",
+        "subjugation"
+    ],
+    [
+        "MNIST",
+        "used by",
+        "LISA"
+    ],
+    [
+        "Ensipio graph",
+        "has part",
+        "Ensipio"
+    ],
+    [
+        "\u03b12",
+        "followed by",
+        "\u03b13"
+    ],
+    [
+        "exponential",
+        "subclass of",
+        "sign"
+    ],
+    [
+        "undirected graph",
+        "subclass of",
+        "graph"
+    ],
+    [
+        "back-off",
+        "subclass of",
+        "Statistical efficiency"
+    ],
+    [
+        "a",
+        "part of",
+        "a"
+    ],
+    [
+        "Courville et al. (2011)",
+        "field of work",
+        "Probabilistic modeling of natural images"
+    ],
+    [
+        "intertwining",
+        "subclass of",
+        "intertwining"
+    ],
+    [
+        "'[logp(h,v)",
+        "part of",
+        "'[h v"
+    ],
+    [
+        "tree",
+        "subclass of",
+        "graph structure"
+    ],
+    [
+        "A directed graphical model",
+        "instance of",
+        "probabilistic model"
+    ],
+    [
+        "Undirected Models",
+        "uses",
+        "undirected model"
+    ],
+    [
+        "a",
+        "has part",
+        "a"
+    ],
+    [
+        "ancestral sampling",
+        "part of",
+        "ancestral"
+    ],
+    [
+        "deep learning",
+        "part of",
+        "artificial intelligence"
+    ],
+    [
+        "intertwine",
+        "subclass of",
+        "intertwine"
+    ],
+    [
+        "deep learning",
+        "use",
+        "artificial intelligence"
+    ],
+    [
+        "GPUs",
+        "has part",
+        "GPU"
+    ],
+    [
+        "generative model",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "A directed graphical model depicting the relay race",
+        "instance of",
+        "structured probabilistic model"
+    ],
+    [
+        "ancestral",
+        "has part",
+        "ancestral sampling"
+    ],
+    [
+        "Deep learning",
+        "subclass of",
+        "generative model"
+    ],
+    [
+        "autoimmune",
+        "subclass of",
+        "rare disease"
+    ],
+    [
+        "LISA",
+        "uses",
+        "MNIST"
+    ],
+    [
+        "Ensipio",
+        "part of",
+        "Ensipio graph"
+    ],
+    [
+        "sparsely connected generalizations",
+        "subclass of",
+        "inference algorithm"
+    ],
+    [
+        "GPU",
+        "part of",
+        "GPUs"
+    ],
+    [
+        "Restricted Boltzmann Machine",
+        "use",
+        "deep learning"
+    ],
+    [
+        "sparse coding",
+        "subclass of",
+        "graph"
+    ],
+    [
+        "parametric",
+        "subclass of",
+        "graph"
+    ],
+    [
+        "INFERNO",
+        "subclass of",
+        "inference problem"
+    ],
+    [
+        "parametric",
+        "part of",
+        "graph"
+    ],
+    [
+        "The Restricted Boltzmann Machine",
+        "use",
+        "deep learning"
+    ],
+    [
+        "data generating distribution",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "parametric",
+        "part of",
+        "statistics"
+    ],
+    [
+        "parametric",
+        "studied by",
+        "statistics"
+    ],
+    [
+        "greedy search",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "Restricted Boltzmann Machine",
+        "instance of",
+        "deep learning"
+    ],
+    [
+        "deep learning",
+        "subclass of",
+        "learning algorithms"
+    ],
+    [
+        "data generating distribution",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "Undirected Models",
+        "uses",
+        "Undirected graphical model"
+    ],
+    [
+        "greedy search",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "0",
+        "different from",
+        "1"
+    ],
+    [
+        "deep learning",
+        "has part",
+        "inference"
+    ],
+    [
+        "subjugated",
+        "facet of",
+        "subjugation"
+    ],
+    [
+        "subjugated",
+        "subclass of",
+        "subjugated"
+    ],
+    [
+        "Bayesian network",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "Deep learning",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "\u03b2",
+        "instance of",
+        "cosmoid"
+    ],
+    [
+        "7 Factor Graphs",
+        "instance of",
+        "undirected model"
+    ],
+    [
+        "back-off",
+        "facet of",
+        "Statistical efficiency"
+    ],
+    [
+        "'[h v",
+        "instance of",
+        "'[logp(h,v)"
+    ],
+    [
+        "CIFAR-10",
+        "publication date",
+        "2009"
+    ],
+    [
+        "2.3 The Partition Function",
+        "instance of",
+        "normalizing constant"
+    ],
+    [
+        "'[h v",
+        "has part",
+        "'[logp(h,v)"
+    ],
+    [
+        "unnormalized probability distribution",
+        "facet of",
+        "undirected graph"
+    ],
+    [
+        "A directed graphical model depicting the relay race example",
+        "instance of",
+        "structured probabilistic model"
+    ],
+    [
+        "LISA",
+        "has part",
+        "MNIST"
+    ],
+    [
+        "intertwining",
+        "part of",
+        "intertwining"
+    ],
+    [
+        "GPUs",
+        "subclass of",
+        "GPUs"
+    ],
+    [
+        "bipartite",
+        "subclass of",
+        "graph"
+    ],
+    [
+        "exponential",
+        "subclass of",
+        "physical energy"
+    ],
+    [
+        "paths",
+        "studied by",
+        "graph theory"
+    ],
+    [
+        "exponential",
+        "instance of",
+        "sign"
+    ],
+    [
+        "parametric",
+        "part of",
+        "graph theory"
+    ],
+    [
+        "parametric",
+        "studied by",
+        "graph theory"
+    ],
+    [
+        "Context-specific independences",
+        "facet of",
+        "undirected graph"
+    ],
+    [
+        "GPUs",
+        "part of",
+        "GPUs"
+    ],
+    [
+        "1",
+        "different from",
+        "0"
+    ],
+    [
+        "1",
+        "opposite of",
+        "0"
+    ],
+    [
+        "intertwining",
+        "has part",
+        "intertwining"
+    ],
+    [
+        "Ensipio",
+        "part of",
+        "Ensipio diagram"
+    ],
+    [
+        "minimally distributed representation",
+        "subclass of",
+        "sparsely connected generalizations"
+    ],
+    [
+        "bipartite",
+        "subclass of",
+        "undirected graph"
+    ],
+    [
+        "generative model",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "graph theory",
+        "studies",
+        "probability distribution"
+    ],
+    [
+        "tree",
+        "subclass of",
+        "graph"
+    ],
+    [
+        "apathetic",
+        "opposite of",
+        "apathetic"
+    ],
+    [
+        "data generating distribution",
+        "subclass of",
+        "distribution"
+    ],
+    [
+        "probability distribution",
+        "studied by",
+        "graph theory"
+    ],
+    [
+        "back-off",
+        "instance of",
+        "Statistical efficiency"
+    ],
+    [
+        "Undirected Models",
+        "subclass of",
+        "undirected model"
+    ],
+    [
+        "ancestral sampling",
+        "subclass of",
+        "Graphical model"
+    ],
+    [
+        "deep learning",
+        "subclass of",
+        "learning"
+    ],
+    [
+        "CIFAR-10",
+        "instance of",
+        "dataset"
+    ],
+    [
+        "clique",
+        "part of",
+        "graph"
+    ],
+    [
+        "amplifying",
+        "subclass of",
+        "amplifying"
+    ],
+    [
+        "inactive path",
+        "subclass of",
+        "path"
+    ],
+    [
+        "undirected",
+        "subclass of",
+        "graph"
+    ],
+    [
+        "\u03c6(x)",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "Dirational graph",
+        "studied by",
+        "graph theory"
+    ],
+    [
+        "sparsely connected generalizations",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "7 Factor Graphs",
+        "subclass of",
+        "undirected model"
+    ]
+]

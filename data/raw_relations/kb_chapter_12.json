@@ -1,0 +1,672 @@
+[
+    [
+        "2-D",
+        "subclass of",
+        "visualization"
+    ],
+    [
+        "neuron",
+        "has part",
+        "neuron"
+    ],
+    [
+        "parametric",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "data processing",
+        "subclass of",
+        "computation"
+    ],
+    [
+        "contrast",
+        "subclass of",
+        "quantifying"
+    ],
+    [
+        "CPUs",
+        "part of",
+        "CPUs"
+    ],
+    [
+        "neuroscience",
+        "subclass of",
+        "neuroscience"
+    ],
+    [
+        "Neural Machine Translation",
+        "subclass of",
+        "machine translation"
+    ],
+    [
+        "convolutions",
+        "facet of",
+        "neural network"
+    ],
+    [
+        "COVID-19 pandemic",
+        "point in time",
+        "2020"
+    ],
+    [
+        "deep LSTM",
+        "subclass of",
+        "convolutional networks"
+    ],
+    [
+        "GRU recurrent net",
+        "subclass of",
+        "Memory network"
+    ],
+    [
+        "convolutions",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "P(i C)",
+        "has part",
+        "P(y C)"
+    ],
+    [
+        "convolutions",
+        "part of",
+        "neural network"
+    ],
+    [
+        "Neural language model",
+        "studies",
+        "neural language"
+    ],
+    [
+        "parsing",
+        "part of",
+        "Natural language processing"
+    ],
+    [
+        "OpenCyc",
+        "instance of",
+        "knowledge base"
+    ],
+    [
+        "GPUs",
+        "subclass of",
+        "ASICs"
+    ],
+    [
+        "GPUs",
+        "used by",
+        "CUDA"
+    ],
+    [
+        "2-D",
+        "subclass of",
+        "embeddings"
+    ],
+    [
+        "computational burden",
+        "subclass of",
+        "complexity"
+    ],
+    [
+        "minimizes",
+        "subclass of",
+        "loss function"
+    ],
+    [
+        "Part III",
+        "facet of",
+        "Deep Learning Research"
+    ],
+    [
+        "Neural language model",
+        "subclass of",
+        "language model"
+    ],
+    [
+        "Natural language processing",
+        "studies",
+        "natural language"
+    ],
+    [
+        "CPUs",
+        "different from",
+        "CPUs"
+    ],
+    [
+        "convolutional network",
+        "use",
+        "deep learning"
+    ],
+    [
+        "educators",
+        "field of this occupation",
+        "education"
+    ],
+    [
+        "encoder",
+        "use",
+        "machine translation"
+    ],
+    [
+        "n-gram model",
+        "instance of",
+        "neural language model"
+    ],
+    [
+        "CUDA",
+        "developer",
+        "NVIDIA"
+    ],
+    [
+        "natural language processing",
+        "studies",
+        "linguistic"
+    ],
+    [
+        "Amazon",
+        "industry",
+        "online advertising"
+    ],
+    [
+        "GPUs",
+        "has part",
+        "GPU"
+    ],
+    [
+        "gater",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "computer science",
+        "has part",
+        "computational biology"
+    ],
+    [
+        "convolutional networks",
+        "use",
+        "deep learning"
+    ],
+    [
+        "GRU",
+        "use",
+        "Deep learning"
+    ],
+    [
+        "deep LSTM",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "tiled convolutional",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "utilising",
+        "subclass of",
+        "decomposition"
+    ],
+    [
+        "supervised learning",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "Gradient",
+        "facet of",
+        "learning"
+    ],
+    [
+        "neural language",
+        "studied by",
+        "Neural language model"
+    ],
+    [
+        "convolutional network",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "schools",
+        "different from",
+        "educators"
+    ],
+    [
+        "GPUs",
+        "uses",
+        "CUDA"
+    ],
+    [
+        "neuron",
+        "part of",
+        "neuron"
+    ],
+    [
+        "Gradient",
+        "subclass of",
+        "normalization"
+    ],
+    [
+        "suppressively",
+        "opposite of",
+        "suppressively"
+    ],
+    [
+        "GPUs",
+        "different from",
+        "GPUs"
+    ],
+    [
+        "contrast",
+        "facet of",
+        "image"
+    ],
+    [
+        "GPU",
+        "part of",
+        "GPUs"
+    ],
+    [
+        "Deep learning",
+        "has part",
+        "reinforcement learning"
+    ],
+    [
+        "phylogenetic tree",
+        "subclass of",
+        "phylogenetic"
+    ],
+    [
+        "contrast",
+        "part of",
+        "image"
+    ],
+    [
+        "GRU",
+        "subclass of",
+        "recurrent net"
+    ],
+    [
+        "normalized",
+        "different from",
+        "norm"
+    ],
+    [
+        "GPUs",
+        "different from",
+        "CPUs"
+    ],
+    [
+        "Deep networks for speech recognition",
+        "inception",
+        "2009"
+    ],
+    [
+        "generative modeling",
+        "use",
+        "computer vision"
+    ],
+    [
+        "GPUs",
+        "opposite of",
+        "CPUs"
+    ],
+    [
+        "tiled",
+        "subclass of",
+        "convolutional"
+    ],
+    [
+        "education",
+        "practiced by",
+        "educators"
+    ],
+    [
+        "Neural language model",
+        "facet of",
+        "natural language processing"
+    ],
+    [
+        "parametric method",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "family",
+        "has part",
+        "ancestral"
+    ],
+    [
+        "GMM-HMM",
+        "instance of",
+        "hidden Markov model"
+    ],
+    [
+        "natural language",
+        "studied by",
+        "Natural language processing"
+    ],
+    [
+        "encoder-decoder architecture",
+        "use",
+        "machine translation"
+    ],
+    [
+        "parametric",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "ancestral",
+        "part of",
+        "family"
+    ],
+    [
+        "GeneOntology",
+        "instance of",
+        "knowledge base"
+    ],
+    [
+        "n-gram model",
+        "subclass of",
+        "neural language model"
+    ],
+    [
+        "TensorFlow",
+        "instance of",
+        "software library"
+    ],
+    [
+        "softmax",
+        "subclass of",
+        "hidden layer"
+    ],
+    [
+        "Part III",
+        "main subject",
+        "Deep Learning"
+    ],
+    [
+        "unsupervised",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "Freebase",
+        "instance of",
+        "knowledge base"
+    ],
+    [
+        "unsupervised",
+        "subclass of",
+        "supervised learning"
+    ],
+    [
+        "Neural Machine Translation",
+        "use",
+        "machine translation"
+    ],
+    [
+        "Distributed asynchronous gradient descent",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "dialect",
+        "part of",
+        "language"
+    ],
+    [
+        "deep learning",
+        "studies",
+        "neural network"
+    ],
+    [
+        "norm",
+        "different from",
+        "normalized"
+    ],
+    [
+        "dialectic",
+        "part of",
+        "linguistics"
+    ],
+    [
+        "Deep learning",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "Part III",
+        "main subject",
+        "Deep Learning Research"
+    ],
+    [
+        "Deep learning",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "norm",
+        "subclass of",
+        "variance"
+    ],
+    [
+        "Neural language model",
+        "subclass of",
+        "model"
+    ],
+    [
+        "educators",
+        "different from",
+        "schools"
+    ],
+    [
+        "loss function",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "computer vision",
+        "part of",
+        "AI"
+    ],
+    [
+        "CPUs",
+        "has part",
+        "CPUs"
+    ],
+    [
+        "t-SNE dimensionality",
+        "instance of",
+        "neural network"
+    ],
+    [
+        "computational biology",
+        "part of",
+        "computer science"
+    ],
+    [
+        "phylogenetic tree",
+        "subclass of",
+        "tree"
+    ],
+    [
+        "GPUs",
+        "subclass of",
+        "GPUs"
+    ],
+    [
+        "GPUs",
+        "part of",
+        "GPUs"
+    ],
+    [
+        "algorithmic",
+        "part of",
+        "computer science"
+    ],
+    [
+        "Torch",
+        "instance of",
+        "software library"
+    ],
+    [
+        "neural network",
+        "use",
+        "machine translation"
+    ],
+    [
+        "clusters",
+        "subclass of",
+        "word class"
+    ],
+    [
+        "Pylearn2",
+        "instance of",
+        "software library"
+    ],
+    [
+        "clusters",
+        "subclass of",
+        "word categories"
+    ],
+    [
+        "t-SNE",
+        "use",
+        "natural language processing"
+    ],
+    [
+        "Amazon",
+        "industry",
+        "online shopping"
+    ],
+    [
+        "Neural language model",
+        "instance of",
+        "language model"
+    ],
+    [
+        "deep LSTM",
+        "subclass of",
+        "deep learning"
+    ],
+    [
+        "Neural language model",
+        "subclass of",
+        "learning"
+    ],
+    [
+        "tree",
+        "has parts of the class",
+        "branches"
+    ],
+    [
+        "3771",
+        "followed by",
+        "3772"
+    ],
+    [
+        "natural language",
+        "studied by",
+        "linguistic"
+    ],
+    [
+        "computational",
+        "subclass of",
+        "computation"
+    ],
+    [
+        "2-D",
+        "followed by",
+        "3-D"
+    ],
+    [
+        "GMM-HMM",
+        "subclass of",
+        "hidden Markov model"
+    ],
+    [
+        "ranking loss",
+        "subclass of",
+        "loss function"
+    ],
+    [
+        "n-gram language model",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "Gradient",
+        "part of",
+        "learning"
+    ],
+    [
+        "generative modeling",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "tree of depth",
+        "uses",
+        "branching factor"
+    ],
+    [
+        "linguistic",
+        "studied by",
+        "natural language processing"
+    ],
+    [
+        "gater",
+        "instance of",
+        "neural network"
+    ],
+    [
+        "WordNet",
+        "instance of",
+        "knowledge base"
+    ],
+    [
+        "P(i C)",
+        "subclass of",
+        "expectation"
+    ],
+    [
+        "Amazon",
+        "product or material produced",
+        "online advertising"
+    ],
+    [
+        "encoder-decoder architecture",
+        "facet of",
+        "machine translation"
+    ],
+    [
+        "CPUs",
+        "has part",
+        "GPU"
+    ],
+    [
+        "norm",
+        "different from",
+        "norm"
+    ],
+    [
+        "utilised",
+        "subclass of",
+        "decomposition"
+    ],
+    [
+        "Natural language processing",
+        "has part",
+        "parsing"
+    ],
+    [
+        "Theano",
+        "instance of",
+        "software library"
+    ]
+]

@@ -1,0 +1,247 @@
+[
+    [
+        "Convex optimization",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "2nd derivative",
+        "followed by",
+        "3rd derivative"
+    ],
+    [
+        "inflows",
+        "subclass of",
+        "underflow"
+    ],
+    [
+        "Convex optimization",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "curvature",
+        "subclass of",
+        "second derivative"
+    ],
+    [
+        "curvature information",
+        "used by",
+        "gradientdescent"
+    ],
+    [
+        "Convex optimization",
+        "facet of",
+        "deep learning"
+    ],
+    [
+        "minimization algorithm",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "first-order optimization algorithm",
+        "subclass of",
+        "optimization algorithm"
+    ],
+    [
+        "minimizes",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "underflow",
+        "subclass of",
+        "rounding error"
+    ],
+    [
+        "2nd derivative",
+        "subclass of",
+        "derivative"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "mathematical"
+    ],
+    [
+        "hill climbing",
+        "subclass of",
+        "gradient descent"
+    ],
+    [
+        "2",
+        "length",
+        "2"
+    ],
+    [
+        "Lipschitz continuous",
+        "subclass of",
+        "function"
+    ],
+    [
+        "saddle point",
+        "part of",
+        "multiple dimension"
+    ],
+    [
+        "saddle-like",
+        "subclass of",
+        "saddle point"
+    ],
+    [
+        "maximization in the outer loop",
+        "subclass of",
+        "constrained maximization"
+    ],
+    [
+        "first-order optimization algorithm",
+        "subclass of",
+        "optimization algorithms"
+    ],
+    [
+        "gradient",
+        "different from",
+        "curvature"
+    ],
+    [
+        "curvature",
+        "different from",
+        "gradient"
+    ],
+    [
+        "minimally",
+        "subclass of",
+        "minimally"
+    ],
+    [
+        "GPUs",
+        "subclass of",
+        "GPUs"
+    ],
+    [
+        "Theano",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "bosom",
+        "subclass of",
+        "eigenvector"
+    ],
+    [
+        "underflow",
+        "subclass of",
+        "overflow"
+    ],
+    [
+        "saddle point",
+        "subclass of",
+        "eigenvector"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "algorithm 4.1",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "GPUs",
+        "has part",
+        "GPU"
+    ],
+    [
+        "minimally",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "numerical"
+    ],
+    [
+        "0",
+        "point in time",
+        "0"
+    ],
+    [
+        "minimization problem",
+        "subclass of",
+        "constrained optimization"
+    ],
+    [
+        "maximization in the outer loop",
+        "subclass of",
+        "optimal point"
+    ],
+    [
+        "paramountously",
+        "opposite of",
+        "paramountously"
+    ],
+    [
+        "saddle point",
+        "facet of",
+        "multiple dimensions"
+    ],
+    [
+        "minimally",
+        "different from",
+        "minimally"
+    ],
+    [
+        "curvature information",
+        "facet of",
+        "gradientdescent"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "libraries"
+    ],
+    [
+        "minimizes",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "minimization problem",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "GPUs",
+        "has part",
+        "GPUs"
+    ],
+    [
+        "maximization in the outer loop",
+        "subclass of",
+        "optimistically"
+    ],
+    [
+        "curvature information",
+        "facet of",
+        "optimization algorithm"
+    ],
+    [
+        "saddle point",
+        "part of",
+        "multiple dimensions"
+    ],
+    [
+        "global minimum",
+        "subclass of",
+        "minimization"
+    ],
+    [
+        "hill climbing",
+        "subclass of",
+        "optimization"
+    ]
+]

@@ -1,0 +1,627 @@
+[
+    [
+        "sparse connectivity",
+        "used by",
+        "CONVOLUTIONAL NETWORKS"
+    ],
+    [
+        "neuroscience",
+        "studies",
+        "neurons"
+    ],
+    [
+        "equivariance to translation",
+        "facet of",
+        "function"
+    ],
+    [
+        "neuron",
+        "part of",
+        "neural network"
+    ],
+    [
+        "maxout networks",
+        "subclass of",
+        "convolutional networks"
+    ],
+    [
+        "neural network",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "equivariance to translation",
+        "subclass of",
+        "function"
+    ],
+    [
+        "COVID-19 pandemic",
+        "point in time",
+        "2020"
+    ],
+    [
+        "convolutional network",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "CPUs",
+        "different from",
+        "GPUs"
+    ],
+    [
+        "\u03b1",
+        "part of",
+        "cosine function"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "subclass of",
+        "2-D convolution"
+    ],
+    [
+        "Convolutional Layer",
+        "has part",
+        "Convolution stage"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "use",
+        "GPUs"
+    ],
+    [
+        "strong prior",
+        "subclass of",
+        "prior probability distribution"
+    ],
+    [
+        "inferotemporal cortex",
+        "part of",
+        "human brain"
+    ],
+    [
+        "sparse coding",
+        "facet of",
+        "convolutional network"
+    ],
+    [
+        "neoclassifier",
+        "subclass of",
+        "Convolutional network"
+    ],
+    [
+        "two-dimensional",
+        "subclass of",
+        "multidimensional array"
+    ],
+    [
+        "Convolutional network",
+        "subclass of",
+        "recurrent neural network"
+    ],
+    [
+        "multi-channel convolution",
+        "subclass of",
+        "convolution"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "instance of",
+        "convolutional network"
+    ],
+    [
+        "fully connected layer",
+        "different from",
+        "locally connected layer"
+    ],
+    [
+        "fully connected layer",
+        "opposite of",
+        "locally connected layer"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "subclass of",
+        "massively parallel network"
+    ],
+    [
+        "tiled convolution",
+        "opposite of",
+        "Traditional convolution"
+    ],
+    [
+        "deep models",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "Convolutional network",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "subclass of",
+        "artificial neural network"
+    ],
+    [
+        "separating",
+        "subclass of",
+        "convolution"
+    ],
+    [
+        "convolutional network",
+        "has part",
+        "first layer"
+    ],
+    [
+        "Convolution with a stride",
+        "subclass of",
+        "Convolution"
+    ],
+    [
+        "maxout network",
+        "subclass of",
+        "convolutional networks"
+    ],
+    [
+        "locally connected layer",
+        "different from",
+        "locally connected layers"
+    ],
+    [
+        "tiled convolution",
+        "subclass of",
+        "convolutional layer"
+    ],
+    [
+        "COVID-19 pandemic",
+        "has effect",
+        "COVID-19 pandemic 2020"
+    ],
+    [
+        "\u03c6",
+        "part of",
+        "cosine function"
+    ],
+    [
+        "cosine function",
+        "instance of",
+        "Gaussian factor"
+    ],
+    [
+        "strided convolution",
+        "facet of",
+        "convolutional network"
+    ],
+    [
+        "locally connected layer",
+        "different from",
+        "fully connected layer"
+    ],
+    [
+        "9.1 The Convolution Operation",
+        "main subject",
+        "convolution"
+    ],
+    [
+        "convolutional neural network",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "Convolution",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "maxout unit",
+        "part of",
+        "convolutional network"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "Convolutional Networks",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "0.3",
+        "point in time",
+        "0"
+    ],
+    [
+        "first layer",
+        "part of",
+        "Convolutional network"
+    ],
+    [
+        "GPUs",
+        "different from",
+        "GPUs"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "uses",
+        "sparse connectivity"
+    ],
+    [
+        "multi-channel convolution",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "ReLU",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "instance of",
+        "recurrent network"
+    ],
+    [
+        "Convolutional network",
+        "has part",
+        "first layer"
+    ],
+    [
+        "sparse coding",
+        "subclass of",
+        "convolutional networks"
+    ],
+    [
+        "convolutional layer",
+        "use",
+        "convolution"
+    ],
+    [
+        "maxout network",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "Convolution",
+        "has part",
+        "Convolution with a stride"
+    ],
+    [
+        "GPUs",
+        "different from",
+        "CPUs"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "ImageNet",
+        "developer",
+        "Microsoft"
+    ],
+    [
+        "first layer",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "multi-channel",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "0.2",
+        "followed by",
+        "0.3"
+    ],
+    [
+        "first layer",
+        "part of",
+        "convolutional network"
+    ],
+    [
+        "equivariance",
+        "subclass of",
+        "function"
+    ],
+    [
+        "locally connected layer",
+        "subclass of",
+        "convolution"
+    ],
+    [
+        "neurotransmitter",
+        "different from",
+        "neurotransmitter"
+    ],
+    [
+        "convolution",
+        "different from",
+        "matrix multiplication"
+    ],
+    [
+        "convolution",
+        "opposite of",
+        "matrix multiplication"
+    ],
+    [
+        "strided convolution",
+        "subclass of",
+        "convolution"
+    ],
+    [
+        "Convolutional network",
+        "subclass of",
+        "deep networks"
+    ],
+    [
+        "algorithm",
+        "subclass of",
+        "learning"
+    ],
+    [
+        "cosine function",
+        "subclass of",
+        "Gaussian factor"
+    ],
+    [
+        "convolution",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "matrix multiplication",
+        "different from",
+        "convolution"
+    ],
+    [
+        "weak prior",
+        "subclass of",
+        "prior probability distribution"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "use",
+        "convolutional network"
+    ],
+    [
+        "Neural network",
+        "part of",
+        "convolutional network"
+    ],
+    [
+        "sparse coding",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "sparse coding",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "2-D convolution",
+        "uses",
+        "kernels"
+    ],
+    [
+        "Convolutional network",
+        "subclass of",
+        "recurrent neural networks"
+    ],
+    [
+        "IPv8",
+        "followed by",
+        "IPv9"
+    ],
+    [
+        "Convolution stage",
+        "subclass of",
+        "Convolutional Layer"
+    ],
+    [
+        "locally connected layers",
+        "subclass of",
+        "convolution"
+    ],
+    [
+        "Torsten Wiesel",
+        "field of work",
+        "neuroscience"
+    ],
+    [
+        "Convolution stage",
+        "part of",
+        "Convolutional Layer"
+    ],
+    [
+        "Autoencoder network",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "\u03b2",
+        "part of",
+        "cosine function"
+    ],
+    [
+        "IPv6",
+        "followed by",
+        "IPv7"
+    ],
+    [
+        "Convolutional network",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "IPv7",
+        "follows",
+        "IPv6"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "subclass of",
+        "recurrent convolutional network"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "subclass of",
+        "recurrent network"
+    ],
+    [
+        "back-propagation",
+        "facet of",
+        "neural network"
+    ],
+    [
+        "9.4 Convolution and Pooling as an Infinitely StrongBuyablePrior",
+        "instance of",
+        "prior probability distribution"
+    ],
+    [
+        "CONVOLUTIONAL NETWORK",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "neoclassifier",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "David Hubel",
+        "field of work",
+        "neuroscience"
+    ],
+    [
+        "CONFIGAL NETWORKS",
+        "subclass of",
+        "2-D convolution"
+    ],
+    [
+        "strided convolution",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "sparse coding",
+        "subclass of",
+        "unsupervised learning"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "Autoencoder",
+        "uses",
+        "convolutional network"
+    ],
+    [
+        "Traditional convolution",
+        "opposite of",
+        "tiled convolution"
+    ],
+    [
+        "neurotransmitter",
+        "subclass of",
+        "neurotransmitter"
+    ],
+    [
+        "0.3",
+        "follows",
+        "0.2"
+    ],
+    [
+        "tiling pattern",
+        "part of",
+        "convolutional layer"
+    ],
+    [
+        "convolutional network layer",
+        "part of",
+        "Convolutional network"
+    ],
+    [
+        "CONFIGURATION",
+        "part of",
+        "MATLAB"
+    ],
+    [
+        "CONFIGURAL NETWORKS",
+        "subclass of",
+        "convolutional layer"
+    ],
+    [
+        "conclusively",
+        "has part",
+        "conclusively"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "has parts of the class",
+        "convolutional network"
+    ],
+    [
+        "two-dimensional",
+        "part of",
+        "three-dimensional"
+    ],
+    [
+        "neurons",
+        "studied by",
+        "neuroscience"
+    ],
+    [
+        "fully connected layer",
+        "subclass of",
+        "convolutional layer"
+    ],
+    [
+        "back-propagation",
+        "facet of",
+        "convolutional network"
+    ],
+    [
+        "congeniality",
+        "facet of",
+        "congeniality"
+    ],
+    [
+        "inferotemporal cortex",
+        "instance of",
+        "brain area"
+    ],
+    [
+        "Autoencoder",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "locally connected layers",
+        "different from",
+        "locally connected layer"
+    ],
+    [
+        "sparse coding",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "instance of",
+        "algorithm"
+    ]
+]

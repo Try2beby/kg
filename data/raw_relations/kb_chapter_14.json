@@ -1,0 +1,367 @@
+[
+    [
+        "deep autoencoder",
+        "different from",
+        "autoencoder"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "encoder"
+    ],
+    [
+        "congeniality",
+        "subclass of",
+        "congeniality"
+    ],
+    [
+        "encoder-decoder architecture",
+        "has part",
+        "autoencoder"
+    ],
+    [
+        "autoencoder",
+        "has part",
+        "decoder"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "encoder-decoder architecture"
+    ],
+    [
+        "Non-parametric manifold learning",
+        "studies",
+        "manifold"
+    ],
+    [
+        "autoencoder",
+        "has part",
+        "hidden layer"
+    ],
+    [
+        "autoencoder",
+        "part of",
+        "encoder-decoder architecture"
+    ],
+    [
+        "Regularized autoencoders",
+        "instance of",
+        "generative model"
+    ],
+    [
+        "autoencoder",
+        "uses",
+        "sparse coding"
+    ],
+    [
+        "Non-parametric manifold learning",
+        "uses",
+        "locally linear Gaussian"
+    ],
+    [
+        "Student-t prior",
+        "subclass of",
+        "prior"
+    ],
+    [
+        "Non-parametric manifold learning",
+        "subclass of",
+        "manifold learning"
+    ],
+    [
+        "denoising autoencoder",
+        "instance of",
+        "autoencoder"
+    ],
+    [
+        "7 Contractive Autoencoders",
+        "instance of",
+        "autoencoder"
+    ],
+    [
+        "Jacobian matrix",
+        "subclass of",
+        "linear operator"
+    ],
+    [
+        "encoder",
+        "part of",
+        "neural network"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "training"
+    ],
+    [
+        "2.4 Stochastic Encoders and Decoders",
+        "facet of",
+        "autoencoder"
+    ],
+    [
+        "variational",
+        "subclass of",
+        "generative model"
+    ],
+    [
+        "manifold",
+        "studied by",
+        "Non-parametric manifold learning"
+    ],
+    [
+        "autoencoder",
+        "uses",
+        "hidden layer"
+    ],
+    [
+        "Parzen window algorithm",
+        "instance of",
+        "neural-net"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "learning"
+    ],
+    [
+        "vertically",
+        "opposite of",
+        "horizontally"
+    ],
+    [
+        "hidden layer",
+        "used by",
+        "autoencoder"
+    ],
+    [
+        "sparse coding",
+        "subclass of",
+        "generative model"
+    ],
+    [
+        "unsupervised network",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "sparse autoencoder",
+        "subclass of",
+        "autoencoder"
+    ],
+    [
+        "hidden layer",
+        "part of",
+        "autoencoder"
+    ],
+    [
+        "autoencoder",
+        "has part",
+        "encoder"
+    ],
+    [
+        "encoding",
+        "subclass of",
+        "information retrieval"
+    ],
+    [
+        "unsupervised network",
+        "subclass of",
+        "machine learning algorithm"
+    ],
+    [
+        "Jacobian matrix",
+        "instance of",
+        "linear operator"
+    ],
+    [
+        "supervised network",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "sparse autoencoder",
+        "subclass of",
+        "Autoencoder"
+    ],
+    [
+        "autoencoder",
+        "instance of",
+        "encoder-decoder architecture"
+    ],
+    [
+        "embodying",
+        "has part",
+        "embodying"
+    ],
+    [
+        "atrophy",
+        "subclass of",
+        "atrophy"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "tangent plane",
+        "has part",
+        "tangent line"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "iterative optimization"
+    ],
+    [
+        "curvaceous",
+        "part of",
+        "2-D space"
+    ],
+    [
+        "horizontally",
+        "opposite of",
+        "vertically"
+    ],
+    [
+        "RECirculation",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "factorial distribution",
+        "subclass of",
+        "gradient-based approximate minimization"
+    ],
+    [
+        "PARzen window algorithm",
+        "use",
+        "deep learning"
+    ],
+    [
+        "RECirculation",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "atrociously",
+        "opposite of",
+        "atrociously"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "encodings"
+    ],
+    [
+        "curvature",
+        "subclass of",
+        "curvature"
+    ],
+    [
+        "encoding",
+        "use",
+        "information retrieval"
+    ],
+    [
+        "root mean square",
+        "subclass of",
+        "squared error"
+    ],
+    [
+        "autoencoder",
+        "different from",
+        "deep autoencoder"
+    ],
+    [
+        "minimizes",
+        "subclass of",
+        "minimizes"
+    ],
+    [
+        "Regularized autoencoders",
+        "subclass of",
+        "generative model"
+    ],
+    [
+        "curvature",
+        "part of",
+        "2-D space"
+    ],
+    [
+        "autoencoder",
+        "use",
+        "manifold learning"
+    ],
+    [
+        "denoising autoencoder",
+        "subclass of",
+        "stochastic autoencoder"
+    ],
+    [
+        "denoising autoencoder",
+        "subclass of",
+        "autoencoder"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "gradient"
+    ],
+    [
+        "Parzen window algorithm",
+        "use",
+        "deep learning"
+    ],
+    [
+        "root mean square",
+        "subclass of",
+        "squared errors"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "congeniality",
+        "facet of",
+        "congeniality"
+    ],
+    [
+        "autoencoder",
+        "part of",
+        "neural network"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "loss"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "root mean square reconstruction",
+        "subclass of",
+        "squared error"
+    ],
+    [
+        "autoencoder",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "autoencoder",
+        "use",
+        "comprehensively recovered"
+    ]
+]

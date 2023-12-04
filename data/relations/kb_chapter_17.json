@@ -1,0 +1,42 @@
+[
+    [
+        "Temperature",
+        "different from",
+        "Temperature"
+    ],
+    [
+        "Metropolis\u2013Hastings algorithm",
+        "use",
+        "Deep learning"
+    ],
+    [
+        "Las Vegas algorithm",
+        "subclass of",
+        "Randomized algorithm"
+    ],
+    [
+        "Alpha",
+        "has part",
+        "Beta"
+    ],
+    [
+        "Autoencoder",
+        "subclass of",
+        "Feature learning"
+    ],
+    [
+        "Autoencoder",
+        "use",
+        "Feature learning"
+    ],
+    [
+        "Autoencoder",
+        "subclass of",
+        "Representations"
+    ],
+    [
+        "Allele",
+        "different from",
+        "Allele"
+    ]
+]

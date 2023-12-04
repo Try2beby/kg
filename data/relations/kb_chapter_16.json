@@ -1,0 +1,32 @@
+[
+    [
+        "Graphics processing unit",
+        "part of",
+        "Graphics processing unit"
+    ],
+    [
+        "Deep learning",
+        "subclass of",
+        "Learning"
+    ],
+    [
+        "Deep learning",
+        "has part",
+        "Inference"
+    ],
+    [
+        "Generative model",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "A",
+        "has part",
+        "A"
+    ],
+    [
+        "Greedy algorithm",
+        "facet of",
+        "Machine learning"
+    ]
+]

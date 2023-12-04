@@ -1,0 +1,237 @@
+[
+    [
+        "allele",
+        "subclass of",
+        "allele"
+    ],
+    [
+        "normal distribution",
+        "subclass of",
+        "cumulative distribution"
+    ],
+    [
+        "\u03b2",
+        "part of",
+        "\u03b1"
+    ],
+    [
+        "normalization",
+        "different from",
+        "abnormal"
+    ],
+    [
+        "Metropolis-Hastings algorithm",
+        "use",
+        "deep learning"
+    ],
+    [
+        "minimally invasive",
+        "subclass of",
+        "minimally invasive"
+    ],
+    [
+        "MONTE CARLO METHODS",
+        "instance of",
+        "dialectic"
+    ],
+    [
+        "\u03b1",
+        "has part",
+        "\u03b2"
+    ],
+    [
+        "minimally-distributed",
+        "subclass of",
+        "minimally-distributed"
+    ],
+    [
+        "minimally significant",
+        "subclass of",
+        "minimally significant"
+    ],
+    [
+        "minimibus",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "Monte Carlo algorithm",
+        "different from",
+        "Las Vegas algorithm"
+    ],
+    [
+        "Las Vegas algorithm",
+        "subclass of",
+        "Monte Carlo algorithm"
+    ],
+    [
+        "normal distribution",
+        "instance of",
+        "cumulative distribution"
+    ],
+    [
+        "allele",
+        "different from",
+        "allele"
+    ],
+    [
+        "autoencoders",
+        "subclass of",
+        "representation learning"
+    ],
+    [
+        "MNIST",
+        "instance of",
+        "deep probabilistic models"
+    ],
+    [
+        "minimally significant",
+        "subclass of",
+        "norm"
+    ],
+    [
+        "Harris chain",
+        "instance of",
+        "Markov chain"
+    ],
+    [
+        "MNIST",
+        "use",
+        "deep probabilistic models"
+    ],
+    [
+        "temperatures",
+        "different from",
+        "temperature"
+    ],
+    [
+        "Markov chain Monte Carlo",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Macron",
+        "country",
+        "France"
+    ],
+    [
+        "Metropolis-Hastings algorithm",
+        "uses",
+        "Markov chain"
+    ],
+    [
+        "norm",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "horrendously expensive",
+        "different from",
+        "horrendously expensive"
+    ],
+    [
+        "Markov chain Monte Carlo methods",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Las Vegas algorithm",
+        "different from",
+        "Monte Carlo algorithm"
+    ],
+    [
+        "MONTE CARLO METHODS",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "autoencoders",
+        "subclass of",
+        "representations"
+    ],
+    [
+        "autoencoders",
+        "use",
+        "representation learning"
+    ],
+    [
+        "atrociously",
+        "opposite of",
+        "atrociously"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "expectation",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "temperature",
+        "different from",
+        "temperatures"
+    ],
+    [
+        "minimally distributed",
+        "subclass of",
+        "minimally sampled"
+    ],
+    [
+        "Las Vegas algorithm",
+        "subclass of",
+        "Randomized algorithm"
+    ],
+    [
+        "expectation",
+        "part of",
+        "probability distribution"
+    ],
+    [
+        "abnormal",
+        "different from",
+        "normalization"
+    ],
+    [
+        "MONTE CARLO METHODS",
+        "instance of",
+        "phylogenetic"
+    ],
+    [
+        "hill climbing",
+        "subclass of",
+        "noisy"
+    ],
+    [
+        "Macron",
+        "country of citizenship",
+        "France"
+    ],
+    [
+        "Metropolis-Hastings algorithm",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "parametric",
+        "subclass of",
+        "statistics"
+    ],
+    [
+        "minimally sampled",
+        "subclass of",
+        "minimally sampled"
+    ],
+    [
+        "Harris chain",
+        "subclass of",
+        "Markov chain"
+    ],
+    [
+        "parametric",
+        "part of",
+        "statistics"
+    ]
+]

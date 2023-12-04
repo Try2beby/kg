@@ -1,0 +1,817 @@
+[
+    [
+        "mean absolute error",
+        "instance of",
+        "cost function"
+    ],
+    [
+        "robustness",
+        "has part",
+        "robustness"
+    ],
+    [
+        "GET_operation",
+        "part of",
+        "Python"
+    ],
+    [
+        "2 Sigmoid Units for Bernoulli Output Distributions",
+        "subclass of",
+        "Bernoulli distribution"
+    ],
+    [
+        "computational cost",
+        "subclass of",
+        "memory consumption"
+    ],
+    [
+        "neuroscience",
+        "studies",
+        "neuron"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "computer program"
+    ],
+    [
+        "linear",
+        "subclass of",
+        "linear function"
+    ],
+    [
+        "Theano",
+        "use",
+        "computational graph"
+    ],
+    [
+        "\u201csquashing\u201d activation function",
+        "subclass of",
+        "minimally efficient"
+    ],
+    [
+        "perceptron",
+        "subclass of",
+        "linear models"
+    ],
+    [
+        "minimally significant event",
+        "subclass of",
+        "minimally significant event"
+    ],
+    [
+        "computational cost",
+        "part of",
+        "computational graph"
+    ],
+    [
+        "\u03b1",
+        "has part",
+        "z"
+    ],
+    [
+        "Deep feedforward network",
+        "subclass of",
+        "recurrent networks"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "maximum likelihood estimation"
+    ],
+    [
+        "sigmoid",
+        "instance of",
+        "neural network"
+    ],
+    [
+        "paramount",
+        "facet of",
+        "paramount"
+    ],
+    [
+        "DEEP FEEDFORWARD NETWORKS",
+        "instance of",
+        "computation graph"
+    ],
+    [
+        "DEEP FEEDFORWARD NETWORKS",
+        "instance of",
+        "feedforward neural networks"
+    ],
+    [
+        "Theano",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "GPUs",
+        "has part",
+        "GPU"
+    ],
+    [
+        "DEEP FEEDFORWARD",
+        "subclass of",
+        "convolutional networks"
+    ],
+    [
+        "BREXIT",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "operable",
+        "subclass of",
+        "software"
+    ],
+    [
+        "0",
+        "instance of",
+        "logarithm"
+    ],
+    [
+        "graph",
+        "has part",
+        "subgraph"
+    ],
+    [
+        "robustness",
+        "subclass of",
+        "robustness"
+    ],
+    [
+        "GPUs",
+        "different from",
+        "GPUs"
+    ],
+    [
+        "6.3",
+        "followed by",
+        "6.5"
+    ],
+    [
+        "TensorFlow",
+        "instance of",
+        "libraries"
+    ],
+    [
+        "2 Sigmoid Units for Bernoulli Output Distributions",
+        "instance of",
+        "Bernoulli distribution"
+    ],
+    [
+        "algorithm",
+        "use",
+        "machine learning"
+    ],
+    [
+        "generative adversarial",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "stochas",
+        "instance of",
+        "gradient-based optimization"
+    ],
+    [
+        "XOR function",
+        "instance of",
+        "Gradient-based"
+    ],
+    [
+        "minimally distributed",
+        "subclass of",
+        "minimally distributed distribution"
+    ],
+    [
+        "sigmoid",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "computational graph",
+        "has part",
+        "computational cost"
+    ],
+    [
+        "DEEP FEEDFORWARD NETWORKS",
+        "subclass of",
+        "feedforward neural networks"
+    ],
+    [
+        "COVID-19 pandemic",
+        "instance of",
+        "pandemic pandemic"
+    ],
+    [
+        "back-propagation algorithm",
+        "subclass of",
+        "stochastic gradient descent"
+    ],
+    [
+        "minimally-distributed",
+        "subclass of",
+        "minimally-distributed"
+    ],
+    [
+        "stochastic gradient descent",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "algorithm",
+        "studies",
+        "data structure"
+    ],
+    [
+        "DEEP FEEDFORWARD NETWORKS",
+        "instance of",
+        "computational graph"
+    ],
+    [
+        "computational graph language",
+        "subclass of",
+        "graph"
+    ],
+    [
+        "GPUs",
+        "subclass of",
+        "GPUs"
+    ],
+    [
+        "computational graph language",
+        "instance of",
+        "graph language"
+    ],
+    [
+        "neuron",
+        "studied by",
+        "neuroscience"
+    ],
+    [
+        "cost function",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "networks",
+        "has part",
+        "neurons"
+    ],
+    [
+        "neoclassical",
+        "has part",
+        "topological"
+    ],
+    [
+        "topological",
+        "part of",
+        "neoclassical"
+    ],
+    [
+        "IPv7",
+        "follows",
+        "IPv6"
+    ],
+    [
+        "stochas",
+        "subclass of",
+        "gradient-based optimization"
+    ],
+    [
+        "Theano",
+        "instance of",
+        "libraries"
+    ],
+    [
+        "2\u03c3(2z)",
+        "length",
+        "2"
+    ],
+    [
+        "computational cost",
+        "subclass of",
+        "memory"
+    ],
+    [
+        "classifier",
+        "studies",
+        "probability distribution"
+    ],
+    [
+        "back-propagation algorithm",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "ReLU",
+        "instance of",
+        "neural network"
+    ],
+    [
+        "ReLU",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "neurons",
+        "studied by",
+        "neuroscience"
+    ],
+    [
+        "TensorFlow",
+        "instance of",
+        "software framework"
+    ],
+    [
+        "algorithm",
+        "uses",
+        "data structure"
+    ],
+    [
+        "minimally stable variant",
+        "subclass of",
+        "minimally stable variant"
+    ],
+    [
+        "stochastic gradient descent",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "first hidden layer",
+        "part of",
+        "deep neural network"
+    ],
+    [
+        "Deep feedforward network",
+        "subclass of",
+        "recurrent network"
+    ],
+    [
+        "cross-entropy",
+        "instance of",
+        "loss function"
+    ],
+    [
+        "z",
+        "instance of",
+        "indices"
+    ],
+    [
+        "subgraph",
+        "part of",
+        "graph"
+    ],
+    [
+        "COVID-19 pandemic",
+        "point in time",
+        "2020"
+    ],
+    [
+        "minimally invasive",
+        "subclass of",
+        "minimally invasive"
+    ],
+    [
+        "computational graph language",
+        "subclass of",
+        "graph language"
+    ],
+    [
+        "log-likelihood",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "maxout",
+        "subclass of",
+        "linear network"
+    ],
+    [
+        "DEEP FEEDFORWARD NETWORKS",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "loss function",
+        "subclass of",
+        "Gradient"
+    ],
+    [
+        "2\u03c3(2z)",
+        "area",
+        "2"
+    ],
+    [
+        "cross-entropy",
+        "subclass of",
+        "loss functions"
+    ],
+    [
+        "transformed space",
+        "subclass of",
+        "feature space"
+    ],
+    [
+        "BREATHING",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "ReLU",
+        "subclass of",
+        "deep linear networks"
+    ],
+    [
+        "tensor",
+        "subclass of",
+        "vector"
+    ],
+    [
+        "perceptron",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "minimally efficient",
+        "subclass of",
+        "minimally efficient"
+    ],
+    [
+        "back-propagation algorithm",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "minimally-valued",
+        "subclass of",
+        "minimally-polynomial"
+    ],
+    [
+        "back-propagation",
+        "subclass of",
+        "stochastic gradient descent"
+    ],
+    [
+        "graph",
+        "part of",
+        "subgraph"
+    ],
+    [
+        "ReLU",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "neurons",
+        "part of",
+        "neural network"
+    ],
+    [
+        "1",
+        "follows",
+        "0"
+    ],
+    [
+        "Gradient-Based Learning",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "computational graph",
+        "subclass of",
+        "data structures"
+    ],
+    [
+        "2.3 Softmax Units for Multinoulli Output Distributions",
+        "instance of",
+        "Softmax function"
+    ],
+    [
+        "equation 6.53",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "neoclassical",
+        "subclass of",
+        "functional"
+    ],
+    [
+        "perceptron",
+        "subclass of",
+        "linear model"
+    ],
+    [
+        "Theano",
+        "instance of",
+        "software framework"
+    ],
+    [
+        "maxout",
+        "subclass of",
+        "deep rectifier net"
+    ],
+    [
+        "cross-entropy",
+        "subclass of",
+        "loss function"
+    ],
+    [
+        "architectures",
+        "part of",
+        "network"
+    ],
+    [
+        "robustness",
+        "facet of",
+        "robustness"
+    ],
+    [
+        "GPU",
+        "part of",
+        "GPUs"
+    ],
+    [
+        "minimally distributed",
+        "subclass of",
+        "minimally distributed"
+    ],
+    [
+        "computational graph",
+        "subclass of",
+        "computation graph"
+    ],
+    [
+        "Theano",
+        "instance of",
+        "algorithmically"
+    ],
+    [
+        "Python",
+        "use",
+        "deep learning"
+    ],
+    [
+        "Theano",
+        "use",
+        "deep learning"
+    ],
+    [
+        "learning algorithm",
+        "use",
+        "machine learning"
+    ],
+    [
+        "gradient descent",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "sigmoid",
+        "instance of",
+        "loss function"
+    ],
+    [
+        "rectified linear unit",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "subgraph",
+        "subclass of",
+        "computational graph"
+    ],
+    [
+        "back-propagation",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "COVID-19 pandemic",
+        "instance of",
+        "pandemic"
+    ],
+    [
+        "subgraph",
+        "part of",
+        "computational graph"
+    ],
+    [
+        "indices",
+        "part of",
+        "3-D"
+    ],
+    [
+        "6.5 Symbol-to-Symbol Derivatives",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "parametric",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "Caffe",
+        "instance of",
+        "libraries"
+    ],
+    [
+        "ReLU",
+        "subclass of",
+        "Recurrent network"
+    ],
+    [
+        "ReLU",
+        "uses",
+        "suppressively"
+    ],
+    [
+        "Torch",
+        "instance of",
+        "libraries"
+    ],
+    [
+        "usurpation",
+        "subclass of",
+        "usurpation"
+    ],
+    [
+        "variational autoencoder",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "build_grad",
+        "subclass of",
+        "data structure"
+    ],
+    [
+        "Gradient-Based Learning",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "\u201csquashing\u201d activation function",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "minimization"
+    ],
+    [
+        "neoclassical",
+        "subclass of",
+        "topological"
+    ],
+    [
+        "loss function",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "Softmax",
+        "subclass of",
+        "hidden unit"
+    ],
+    [
+        "2nd layer",
+        "followed by",
+        "3rd layer"
+    ],
+    [
+        "2\u03c3(2z)",
+        "number of participants",
+        "2"
+    ],
+    [
+        "data structure",
+        "studied by",
+        "algorithm"
+    ],
+    [
+        "GET_operation function",
+        "programming language",
+        "Python"
+    ],
+    [
+        "GET_operation",
+        "programming language",
+        "Python"
+    ],
+    [
+        "IPv6",
+        "followed by",
+        "IPv7"
+    ],
+    [
+        "ReLU",
+        "subclass of",
+        "deep linear network"
+    ],
+    [
+        "DEEP FEEDFORWARD NETWORKS",
+        "subclass of",
+        "fully connected"
+    ],
+    [
+        "0",
+        "followed by",
+        "1"
+    ],
+    [
+        "6.2 Sigmoid Units for Bernoulli Output Distributions",
+        "instance of",
+        "Bernoulli distribution"
+    ],
+    [
+        "architectures",
+        "facet of",
+        "network"
+    ],
+    [
+        "sigmoid",
+        "subclass of",
+        "loss function"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "back-propagation",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "neurons",
+        "part of",
+        "networks"
+    ],
+    [
+        "build_grad",
+        "instance of",
+        "data structure"
+    ],
+    [
+        "computational graph",
+        "subclass of",
+        "data structure"
+    ],
+    [
+        "BREATHING",
+        "subclass of",
+        "deep learning"
+    ],
+    [
+        "Deep feedforward network",
+        "use",
+        "deep learning"
+    ],
+    [
+        "3rd layer",
+        "follows",
+        "2nd layer"
+    ],
+    [
+        "minimization",
+        "opposite of",
+        "maximum likelihood estimation"
+    ],
+    [
+        "DEEP FEEDFORWARD NETWORKS",
+        "subclass of",
+        "fully connected layers"
+    ],
+    [
+        "Gradient-based optimization",
+        "facet of",
+        "neural network"
+    ],
+    [
+        "cross-entropy loss",
+        "subclass of",
+        "computational graph"
+    ],
+    [
+        "build_grad",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "parametric",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "variational autoencoder",
+        "subclass of",
+        "Gradient-based learning"
+    ]
+]

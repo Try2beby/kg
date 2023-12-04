@@ -1,0 +1,1127 @@
+[
+    [
+        "data model",
+        "subclass of",
+        "learning"
+    ],
+    [
+        "NADE",
+        "instance of",
+        "neural auto-regressive network"
+    ],
+    [
+        "contrastive divergence",
+        "uses",
+        "gradient"
+    ],
+    [
+        "D\u00e9partement d\u2019Informatique et de Recherche Op\u00e9ra-\ufffdtionnelle",
+        "located in the administrative territorial entity",
+        "Heidelberg"
+    ],
+    [
+        "fully-visible Bayes network",
+        "subclass of",
+        "neural networks"
+    ],
+    [
+        "dialectic",
+        "studied by",
+        "linguistics"
+    ],
+    [
+        "\u03b12",
+        "followed by",
+        "\u03b13"
+    ],
+    [
+        "Awakens",
+        "has part",
+        "Awakens"
+    ],
+    [
+        "mPoT",
+        "subclass of",
+        "Boltzmann machine"
+    ],
+    [
+        "Generative moment matching network",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "P(h v)",
+        "facet of",
+        "normalizing"
+    ],
+    [
+        "DBM",
+        "subclass of",
+        "Boltzmann machine training"
+    ],
+    [
+        "NADE architecture",
+        "instance of",
+        "Gaussian mixture"
+    ],
+    [
+        "DRAW model",
+        "uses",
+        "recurrent encoder and recurrent decoder"
+    ],
+    [
+        "Deep Boltzmann machine",
+        "instance of",
+        "deep, generative model"
+    ],
+    [
+        "\u03b11",
+        "followed by",
+        "\u03b12"
+    ],
+    [
+        "Neural Networks",
+        "use",
+        "Deep Learning"
+    ],
+    [
+        "stochastic gradient-based optimization",
+        "subclass of",
+        "stochastic operations"
+    ],
+    [
+        "generative",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "neural autoregressive density estimator",
+        "instance of",
+        "neural network"
+    ],
+    [
+        "deep Boltzmann machine",
+        "subclass of",
+        "convolutional neural network"
+    ],
+    [
+        "Advances in Neural Information Processing Systems 16 (NIPS\u201903)",
+        "publisher",
+        "MIT Press"
+    ],
+    [
+        "REINFORCE",
+        "instance of",
+        "Gradient estimator"
+    ],
+    [
+        "Bagging",
+        "subclass of",
+        "machine translation"
+    ],
+    [
+        "DRAW model",
+        "uses",
+        "recurrent encoder"
+    ],
+    [
+        "DBM",
+        "uses",
+        "hyperparameter"
+    ],
+    [
+        "Bagging predictors",
+        "subclass of",
+        "machine translation"
+    ],
+    [
+        "Miocene",
+        "instance of",
+        "time period"
+    ],
+    [
+        "\u03b2",
+        "has part",
+        "Wh"
+    ],
+    [
+        "back-propagation",
+        "facet of",
+        "recurrent network"
+    ],
+    [
+        "non-diagonal",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "McGill University",
+        "located in the administrative territorial entity",
+        "Montreal"
+    ],
+    [
+        "DRAW model",
+        "uses",
+        "recurrent decoder"
+    ],
+    [
+        "maximum likelihood",
+        "facet of",
+        "statistics"
+    ],
+    [
+        "hyperparameter",
+        "use",
+        "training"
+    ],
+    [
+        "Interspeech 2010",
+        "point in time",
+        "2010"
+    ],
+    [
+        "bipartite",
+        "facet of",
+        "hierarchy"
+    ],
+    [
+        "GENERATIVE MODELS",
+        "has part",
+        "GENERATIVE STochastic Networks"
+    ],
+    [
+        "Gaussian case",
+        "subclass of",
+        "linear classifier"
+    ],
+    [
+        "GENERATIVE MODELS",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "enhanced gradient",
+        "facet of",
+        "Boltzmann machine learning"
+    ],
+    [
+        "International Conference on Artificial Intelligence and Statistics",
+        "publisher",
+        "Springer"
+    ],
+    [
+        "enhanced gradient",
+        "part of",
+        "Boltzmann machine learning"
+    ],
+    [
+        "REINFORCE TAMADRAalgorithm",
+        "instance of",
+        "deterministic operation"
+    ],
+    [
+        "Boltzmann machine",
+        "use",
+        "probability distribution"
+    ],
+    [
+        "distributive",
+        "part of",
+        "statistics"
+    ],
+    [
+        "suppressively",
+        "opposite of",
+        "suppressively"
+    ],
+    [
+        "Advances in Neural Information Processing Systems",
+        "publication date",
+        "2015"
+    ],
+    [
+        "cRBM",
+        "based on",
+        "Gaussian-Bernoulli RBM"
+    ],
+    [
+        "GPUs",
+        "different from",
+        "GPUs"
+    ],
+    [
+        "maximum likelihood",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "hierarchy",
+        "has part",
+        "bipartite"
+    ],
+    [
+        "parametrize",
+        "facet of",
+        "distribution"
+    ],
+    [
+        "algorithm",
+        "use",
+        "machine learning"
+    ],
+    [
+        "DBM",
+        "subclass of",
+        "hyperparameter"
+    ],
+    [
+        "mean-product of t-distribution",
+        "subclass of",
+        "Gaussian-Bernoulli RBM"
+    ],
+    [
+        "2nd International Conference on MachineFactoryReloaded",
+        "point in time",
+        "2015"
+    ],
+    [
+        "The Statistician",
+        "publisher",
+        "Journal of the ACM"
+    ],
+    [
+        "ancestral sampling",
+        "facet of",
+        "data distribution"
+    ],
+    [
+        "mean-product of t-distribution",
+        "part of",
+        "Gaussian-Bernoulli RBM"
+    ],
+    [
+        "REINFORCE",
+        "instance of",
+        "estimator"
+    ],
+    [
+        "LAPGAN",
+        "subclass of",
+        "Laplacian pyramid"
+    ],
+    [
+        "International Conference on Artificial Intelligence and Statistics",
+        "publisher",
+        "Springer New York"
+    ],
+    [
+        "autoencoder",
+        "part of",
+        "Convolutional network"
+    ],
+    [
+        "Deep Boltzmann machine",
+        "subclass of",
+        "deep, generative model"
+    ],
+    [
+        "encoder",
+        "part of",
+        "convolutional structure"
+    ],
+    [
+        "bipartite graph",
+        "subclass of",
+        "hierarchy"
+    ],
+    [
+        "GENERATIVE MODELS",
+        "subclass of",
+        "conditional probability distribution"
+    ],
+    [
+        "NIPS",
+        "parent organization",
+        "IEEE"
+    ],
+    [
+        "optimistically",
+        "subclass of",
+        "optimistically"
+    ],
+    [
+        "Gaussian distribution",
+        "instance of",
+        "probability distribution"
+    ],
+    [
+        "autoencoder",
+        "facet of",
+        "stochastic"
+    ],
+    [
+        "variational autoencoder",
+        "subclass of",
+        "generative model"
+    ],
+    [
+        "Deep belief network",
+        "subclass of",
+        "generativelearning"
+    ],
+    [
+        "\u03b2",
+        "part of",
+        "Wh"
+    ],
+    [
+        "Gaussian case",
+        "subclass of",
+        "linear classifiers"
+    ],
+    [
+        "contrastive divergence",
+        "instance of",
+        "back-propagation"
+    ],
+    [
+        "variational autoencoder",
+        "subclass of",
+        "generative models"
+    ],
+    [
+        "International Conference on Computer Vision",
+        "organizer",
+        "IEEE"
+    ],
+    [
+        "non-diagonal",
+        "subclass of",
+        "conditional distribution"
+    ],
+    [
+        "Deep belief network",
+        "subclass of",
+        "generative learning"
+    ],
+    [
+        "dialectic",
+        "part of",
+        "linguistics"
+    ],
+    [
+        "Gradient-based learning",
+        "subclass of",
+        "supervised learning"
+    ],
+    [
+        "D\u00e9partement d\u2019Informatique et de Recherche Op\u00e9ra-\ufffdtionnelle",
+        "country",
+        "Japan"
+    ],
+    [
+        "Bengio",
+        "instance of",
+        "auto-regressive neural network"
+    ],
+    [
+        "fully-visible Bayes network",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "gradient-based learning",
+        "subclass of",
+        "supervised learning"
+    ],
+    [
+        "autoencoders",
+        "uses",
+        "Bayesian"
+    ],
+    [
+        "DBM",
+        "instance of",
+        "bipartite graph"
+    ],
+    [
+        "minimax",
+        "subclass of",
+        "equilibrium"
+    ],
+    [
+        "\u03b12",
+        "follows",
+        "\u03b11"
+    ],
+    [
+        "GENERATIVE MODELS",
+        "uses",
+        "Markov chain"
+    ],
+    [
+        "GPUs",
+        "subclass of",
+        "GPUs"
+    ],
+    [
+        "NIPS",
+        "member of",
+        "IEEE"
+    ],
+    [
+        "bipartite structure",
+        "subclass of",
+        "graph"
+    ],
+    [
+        "algorithm 20",
+        "facet of",
+        "stochastic maximum likelihood"
+    ],
+    [
+        "GPUs",
+        "part of",
+        "GPUs"
+    ],
+    [
+        "gradient descent",
+        "subclass of",
+        "supervised learning"
+    ],
+    [
+        "IPv7",
+        "follows",
+        "IPv6"
+    ],
+    [
+        "DEEP GENERATIVE MODELS",
+        "instance of",
+        "variational stochastic maximum likelihood algorithm"
+    ],
+    [
+        "Deep Boltzmann machine",
+        "subclass of",
+        "generative model"
+    ],
+    [
+        "sparse coding",
+        "subclass of",
+        "Convolutional Boltzmann Machines"
+    ],
+    [
+        "Neural auto-regressive network",
+        "opposite of",
+        "linear classifiers"
+    ],
+    [
+        "underfit",
+        "different from",
+        "overfit"
+    ],
+    [
+        "Pattern Analysis and Machine Intelligence",
+        "publisher",
+        "MIT Press"
+    ],
+    [
+        "Pattern Analysis and Machine Intelligence",
+        "publisher",
+        "MIT"
+    ],
+    [
+        "autoencoder",
+        "use",
+        "classify"
+    ],
+    [
+        "dialectical",
+        "part of",
+        "linguistics"
+    ],
+    [
+        "GSN",
+        "subclass of",
+        "denoising autoencoders"
+    ],
+    [
+        "variational autoencoder",
+        "instance of",
+        "generative models"
+    ],
+    [
+        "Neural Networks",
+        "use",
+        "machine translation"
+    ],
+    [
+        "IEEE Transactions on Automatic Control",
+        "publisher",
+        "Springer"
+    ],
+    [
+        "Gaussian distribution",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "DBM",
+        "subclass of",
+        "stochastic maximum likelihood algorithm"
+    ],
+    [
+        "Bengio",
+        "instance of",
+        "neural network"
+    ],
+    [
+        "autoencoders",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "GPUs",
+        "has part",
+        "GPUs"
+    ],
+    [
+        "contrastive divergence",
+        "subclass of",
+        "back-propagation"
+    ],
+    [
+        "Miocene",
+        "followed by",
+        "Ice Age"
+    ],
+    [
+        "InProceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics",
+        "point in time",
+        "2011"
+    ],
+    [
+        "minimally intrusive",
+        "subclass of",
+        "minimally intrusive"
+    ],
+    [
+        "Fully-visible Bayes network",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "Generative stochastic network",
+        "subclass of",
+        "autoencoders"
+    ],
+    [
+        "REINFORCE algorithm",
+        "use",
+        "reinforcement learning"
+    ],
+    [
+        "retesting",
+        "has effect",
+        "retesting"
+    ],
+    [
+        "autoencoder",
+        "use",
+        "generative modeling"
+    ],
+    [
+        "Generative stochastic network",
+        "subclass of",
+        "denoising autoencoders"
+    ],
+    [
+        "overfit",
+        "different from",
+        "underfit"
+    ],
+    [
+        "variational autoencoder",
+        "subclass of",
+        "autoencoders"
+    ],
+    [
+        "overfit",
+        "opposite of",
+        "underfit"
+    ],
+    [
+        "IEEE Transactions on Audio",
+        "publisher",
+        "IEEE"
+    ],
+    [
+        "supine",
+        "opposite of",
+        "supine"
+    ],
+    [
+        "autoencoder",
+        "part of",
+        "Convolutional networks"
+    ],
+    [
+        "retesting",
+        "subclass of",
+        "regression"
+    ],
+    [
+        "Neural Networks",
+        "part of",
+        "Deep Learning"
+    ],
+    [
+        "COVID-19 pandemic",
+        "point in time",
+        "2020"
+    ],
+    [
+        "Miocene",
+        "part of",
+        "Ice Age"
+    ],
+    [
+        "DBN",
+        "subclass of",
+        "sparsely connected"
+    ],
+    [
+        "\u03b13",
+        "follows",
+        "\u03b12"
+    ],
+    [
+        "stochastic gradient-based optimization",
+        "facet of",
+        "stochastic operations"
+    ],
+    [
+        "parametrize",
+        "subclass of",
+        "approximation"
+    ],
+    [
+        "Gaussian",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "McGill University",
+        "country",
+        "Canada"
+    ],
+    [
+        "enhanced gradient",
+        "subclass of",
+        "Boltzmann machine learning"
+    ],
+    [
+        "minimax",
+        "opposite of",
+        "equilibrium"
+    ],
+    [
+        "IEEE Transactions on Circuits and Systems",
+        "publisher",
+        "ACM"
+    ],
+    [
+        "Boltzmann machine",
+        "instance of",
+        "probabilistic model"
+    ],
+    [
+        "P(h v)",
+        "instance of",
+        "normalizing"
+    ],
+    [
+        "REINFORCE TAMADRAalgorithm",
+        "instance of",
+        "stochastic back-propagation"
+    ],
+    [
+        "Pattern Analysis and Machine Intelligence",
+        "part of",
+        "MIT"
+    ],
+    [
+        "enslaved",
+        "subclass of",
+        "enslaved"
+    ],
+    [
+        "bipartite graph",
+        "facet of",
+        "fully connected Boltzmann machine"
+    ],
+    [
+        "sparse coding model",
+        "subclass of",
+        "deep learning"
+    ],
+    [
+        "mPoT",
+        "based on",
+        "Boltzmann machine"
+    ],
+    [
+        "cRBM",
+        "subclass of",
+        "Gaussian-Bernoulli RBM energy function"
+    ],
+    [
+        "REINFORCE",
+        "use",
+        "reinforcement learning"
+    ],
+    [
+        "DBM",
+        "subclass of",
+        "deep Boltzmann machine training"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "Deep convolutional network",
+        "based on",
+        "Convolutional Boltzmann Machines"
+    ],
+    [
+        "Ice Age",
+        "follows",
+        "Miocene"
+    ],
+    [
+        "autoencoder",
+        "part of",
+        "neural network"
+    ],
+    [
+        "minimally intrusive",
+        "subclass of",
+        "minimally invasive"
+    ],
+    [
+        "7 Boltzmann Machines for Structured or SequentialBuyableOutputs",
+        "instance of",
+        "Boltzmann machine"
+    ],
+    [
+        "algorithm 20",
+        "uses",
+        "stochastic maximum likelihood"
+    ],
+    [
+        "DEEP GENERATIVE MODELS",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "International Conference on Learning Representations",
+        "organizer",
+        "ICLR"
+    ],
+    [
+        "Advances in Neural Information Processing Systems 16",
+        "publisher",
+        "MIT Press"
+    ],
+    [
+        "autoencoder",
+        "use",
+        "variational inference"
+    ],
+    [
+        "International Conference on Machine learning",
+        "organizer",
+        "IEEE"
+    ],
+    [
+        "GSNs",
+        "subclass of",
+        "denoising autoencoders"
+    ],
+    [
+        "7 Boltzmann Machines for Structured or SequentialBuyableOutputs",
+        "instance of",
+        "RBM"
+    ],
+    [
+        "Hebbian learning rule",
+        "instance of",
+        "undirected probabilistic"
+    ],
+    [
+        "REINFORCE",
+        "instance of",
+        "unbiased Monte Carlo estimator"
+    ],
+    [
+        "\u03b1",
+        "has part",
+        "Wh"
+    ],
+    [
+        "MIT Press",
+        "headquarters location",
+        "Cambridge, MA"
+    ],
+    [
+        "endorsed by",
+        "instance of",
+        "endorsed by"
+    ],
+    [
+        "p",
+        "has part",
+        "h"
+    ],
+    [
+        "GSN",
+        "subclass of",
+        "autoencoder"
+    ],
+    [
+        "retesting",
+        "facet of",
+        "regression"
+    ],
+    [
+        "Deep convolutional network",
+        "subclass of",
+        "Convolutional Boltzmann Machines"
+    ],
+    [
+        "REINFORCE TAMADRAalgorithm",
+        "subclass of",
+        "deterministic operation"
+    ],
+    [
+        "Deep learning",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "DBM",
+        "instance of",
+        "deep Boltzmann machine training"
+    ],
+    [
+        "Generative neural network",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "DRAW model",
+        "instance of",
+        "generative model"
+    ],
+    [
+        "autoencoder",
+        "uses",
+        "variational inference"
+    ],
+    [
+        "minimax",
+        "subclass of",
+        "equilibria"
+    ],
+    [
+        "REINFORCE",
+        "instance of",
+        "estimator of the gradient"
+    ],
+    [
+        "AISTATS 2003",
+        "point in time",
+        "2003"
+    ],
+    [
+        "IPv6",
+        "followed by",
+        "IPv7"
+    ],
+    [
+        "sparse coding",
+        "use",
+        "deep learning"
+    ],
+    [
+        "Generative moment matching network",
+        "subclass of",
+        "generative model"
+    ],
+    [
+        "Bagging predictors",
+        "use",
+        "machine translation"
+    ],
+    [
+        "LAPGAN",
+        "uses",
+        "Laplacian pyramid"
+    ],
+    [
+        "International Conference on Learning Representations",
+        "main subject",
+        "Machine Learning"
+    ],
+    [
+        "enslaved",
+        "subclass of",
+        "slavery"
+    ],
+    [
+        "back-propagation",
+        "subclass of",
+        "recurrent network"
+    ],
+    [
+        "intelligence",
+        "has part",
+        "learning"
+    ],
+    [
+        "back-propagation",
+        "part of",
+        "recurrent network"
+    ],
+    [
+        "InProceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics (AISTATS 2011).",
+        "point in time",
+        "2011"
+    ],
+    [
+        "InProceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics",
+        "publication date",
+        "2011"
+    ],
+    [
+        "Generator network",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "atrociously",
+        "opposite of",
+        "atrociously"
+    ],
+    [
+        "algorithm",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "The Statistician",
+        "part of",
+        "Journal of the ACM"
+    ],
+    [
+        "maximum likelihood",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "bipartite",
+        "subclass of",
+        "hierarchy"
+    ],
+    [
+        "learning",
+        "part of",
+        "intelligence"
+    ],
+    [
+        "The Statistician",
+        "publisher",
+        "Springer"
+    ],
+    [
+        "\u03b1",
+        "instance of",
+        "prevalence"
+    ],
+    [
+        "endorsed by",
+        "followed by",
+        "endorsed by"
+    ],
+    [
+        "Restricted Boltzmann Machines",
+        "subclass of",
+        "undirected probabilistic"
+    ],
+    [
+        "Hebbian learning rule",
+        "subclass of",
+        "undirected probabilistic"
+    ],
+    [
+        "7 Boltzmann Machines for Structured or SequentialBuyableOutputs",
+        "subclass of",
+        "RBM"
+    ],
+    [
+        "LAPGAN",
+        "instance of",
+        "distributions"
+    ],
+    [
+        "Bengio",
+        "instance of",
+        "auto-regressive network"
+    ],
+    [
+        "autoencoder",
+        "part of",
+        "probabilistic model"
+    ],
+    [
+        "Awakens",
+        "part of",
+        "Awakens"
+    ],
+    [
+        "32nd International Conference on MachineFactoryReloaded",
+        "point in time",
+        "2015"
+    ],
+    [
+        "mean and TAMADRAcovariance RBM",
+        "instance of",
+        "Boltzmann machine"
+    ],
+    [
+        "IPv6",
+        "followed by",
+        "IPv8"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "stochastic"
+    ],
+    [
+        "sparse coding model",
+        "use",
+        "deep learning"
+    ],
+    [
+        "NADE",
+        "instance of",
+        "Gaussian mixture"
+    ]
+]

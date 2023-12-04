@@ -1,0 +1,967 @@
+[
+    [
+        "algorithm",
+        "studies",
+        "learning"
+    ],
+    [
+        "minimization",
+        "facet of",
+        "supervised learning"
+    ],
+    [
+        "Support vector machine",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "convolutional network",
+        "subclass of",
+        "deep learning"
+    ],
+    [
+        "loss function",
+        "subclass of",
+        "computational cost"
+    ],
+    [
+        "unsupervised learning",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "\u03c32",
+        "facet of",
+        "probability density function"
+    ],
+    [
+        "algorithm",
+        "has part",
+        "optimization"
+    ],
+    [
+        "Principality Analysis",
+        "subclass of",
+        "unsupervised learning"
+    ],
+    [
+        "minimally invasive",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "Machine learning",
+        "subclass of",
+        "statistics"
+    ],
+    [
+        "neurons",
+        "has part",
+        "neurons"
+    ],
+    [
+        "singular value decomposition",
+        "uses",
+        "eigenvectors"
+    ],
+    [
+        "unsupervised",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "minimally efficient",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "Bias",
+        "subclass of",
+        "sources of error"
+    ],
+    [
+        "2D plane",
+        "subclass of",
+        "dividing line"
+    ],
+    [
+        "underfitting",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "orthogonal",
+        "subclass of",
+        "singular vector"
+    ],
+    [
+        "unsupervised learning",
+        "opposite of",
+        "supervised learning"
+    ],
+    [
+        "nearest neighbor algorithm",
+        "instance of",
+        "machine learning"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "statistics"
+    ],
+    [
+        "singular value decomposition",
+        "subclass of",
+        "eigenvectors"
+    ],
+    [
+        "\u03c32/m",
+        "instance of",
+        "variance"
+    ],
+    [
+        "parametric model",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "GPUs",
+        "has part",
+        "GPU"
+    ],
+    [
+        "supervised learning",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "Stochastic gradient descent",
+        "instance of",
+        "stochastic"
+    ],
+    [
+        "dividing line",
+        "part of",
+        "2D plane"
+    ],
+    [
+        "supervised",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "minimising",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "one-hot code",
+        "subclass of",
+        "learning representation"
+    ],
+    [
+        "data used for the entire training process",
+        "subclass of",
+        "data"
+    ],
+    [
+        "Stochastic gradient descent",
+        "use",
+        "deep learning"
+    ],
+    [
+        "robustness",
+        "subclass of",
+        "robustness"
+    ],
+    [
+        "mean squared error",
+        "subclass of",
+        "least-squares"
+    ],
+    [
+        "previous",
+        "facet of",
+        "statistics"
+    ],
+    [
+        "maximum likelihood",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "curse of dimensionality",
+        "instance of",
+        "statistical challenge"
+    ],
+    [
+        "algorithm",
+        "use",
+        "machine learning"
+    ],
+    [
+        "machine learning",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "underfitting",
+        "subclass of",
+        "optimization problem"
+    ],
+    [
+        "recognizing",
+        "subclass of",
+        "AI"
+    ],
+    [
+        "deep probabilistic model",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "k-nearest neighbors",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "maximum likelihood estimation",
+        "opposite of",
+        "overfitting"
+    ],
+    [
+        "Principality Analysis",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Google Street View",
+        "uses",
+        "speech recognition"
+    ],
+    [
+        "logistic regression",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "overfitting",
+        "different from",
+        "underfitting"
+    ],
+    [
+        "minimizes",
+        "facet of",
+        "learning"
+    ],
+    [
+        "one-hot code vector",
+        "subclass of",
+        "learning representation"
+    ],
+    [
+        "Anthropometric",
+        "studied by",
+        "Anthropometricist"
+    ],
+    [
+        "QMULMultiviewFaceDataset",
+        "inception",
+        "2000"
+    ],
+    [
+        "Anthropometric",
+        "studied by",
+        "Anthropometric"
+    ],
+    [
+        "unsupervised",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "overfitting",
+        "facet of",
+        "statistics"
+    ],
+    [
+        "\u03c32/m",
+        "subclass of",
+        "variance"
+    ],
+    [
+        "datasets",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "Support Vector Machines",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "\u03c3",
+        "part of",
+        "normal distribution"
+    ],
+    [
+        "integrate",
+        "different from",
+        "normalize"
+    ],
+    [
+        "machine learning algorithm",
+        "part of",
+        "AI"
+    ],
+    [
+        "GPUs",
+        "subclass of",
+        "GPUs"
+    ],
+    [
+        "minimally posterior probability",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "Bayesian Linear Regression",
+        "instance of",
+        "linear regression"
+    ],
+    [
+        "nearest neighbor algorithm",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Support Vector Machines",
+        "subclass of",
+        "machinelearning"
+    ],
+    [
+        "curse of dimensionality",
+        "subclass of",
+        "statistical challenge"
+    ],
+    [
+        "QMULMultiviewFaceDataset",
+        "developer",
+        "Gonget al"
+    ],
+    [
+        "data points",
+        "part of",
+        "statistics"
+    ],
+    [
+        "norm",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "algorithm",
+        "facet of",
+        "statistics"
+    ],
+    [
+        "2-D plane",
+        "subclass of",
+        "manifold"
+    ],
+    [
+        "minimally",
+        "subclass of",
+        "error bars"
+    ],
+    [
+        "overfit",
+        "different from",
+        "underfitting"
+    ],
+    [
+        "norm",
+        "part of",
+        "probability distribution"
+    ],
+    [
+        "local kernels",
+        "subclass of",
+        "decision tree"
+    ],
+    [
+        "minimizing this KL divergence",
+        "instance of",
+        "minimizing"
+    ],
+    [
+        "metadata",
+        "subclass of",
+        "information"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "training"
+    ],
+    [
+        "\u03c32",
+        "instance of",
+        "variance"
+    ],
+    [
+        "Part II",
+        "main subject",
+        "Deep Networks"
+    ],
+    [
+        "explicit",
+        "opposite of",
+        "implicit"
+    ],
+    [
+        "unbiased",
+        "opposite of",
+        "asymptotically unbiased"
+    ],
+    [
+        "recognizing",
+        "facet of",
+        "AI"
+    ],
+    [
+        "Parametric model",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "algorithm",
+        "has part",
+        "machine learning"
+    ],
+    [
+        "data",
+        "use",
+        "learning"
+    ],
+    [
+        "\u03b1",
+        "has part",
+        "\u039b"
+    ],
+    [
+        "Stochastic gradient descent",
+        "instance of",
+        "clustering algorithm"
+    ],
+    [
+        "underfitting",
+        "different from",
+        "overfit"
+    ],
+    [
+        "model",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "QMULMultiviewFaceDataset",
+        "publication date",
+        "2000"
+    ],
+    [
+        "mean squared error",
+        "facet of",
+        "algorithm"
+    ],
+    [
+        "minimally invasive",
+        "subclass of",
+        "minimally invasive"
+    ],
+    [
+        "decision tree",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "Bayesian Linear Regression",
+        "subclass of",
+        "linear regression"
+    ],
+    [
+        "unsupervised learning",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "k-nearest neighbors algorithm",
+        "instance of",
+        "non-parametric learning algorithm"
+    ],
+    [
+        "\u03b1peperous",
+        "has part",
+        "\u03b1peperous"
+    ],
+    [
+        "locally constant",
+        "instance of",
+        "prior"
+    ],
+    [
+        "hyperparameter",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "Vapnik-Chervonenkis dimension",
+        "facet of",
+        "Statistical learning theory"
+    ],
+    [
+        "normal distribution",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "unsupervised",
+        "subclass of",
+        "machine learning algorithm"
+    ],
+    [
+        "\u03c32",
+        "part of",
+        "Gaussian probability density function"
+    ],
+    [
+        "minimizing this KL divergence",
+        "subclass of",
+        "minimizing"
+    ],
+    [
+        "underfit",
+        "different from",
+        "overfitting"
+    ],
+    [
+        "data points",
+        "facet of",
+        "statistics"
+    ],
+    [
+        "minimally invasive",
+        "subclass of",
+        "minimally invasive methods"
+    ],
+    [
+        "overfitting",
+        "different from",
+        "underfit"
+    ],
+    [
+        "computational cost",
+        "facet of",
+        "algorithm"
+    ],
+    [
+        "minimizing",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "underfitting",
+        "facet of",
+        "algorithm"
+    ],
+    [
+        "minimally",
+        "opposite of",
+        "maximally"
+    ],
+    [
+        "data point",
+        "facet of",
+        "statistics"
+    ],
+    [
+        "one-dimensional",
+        "followed by",
+        "two-dimensional"
+    ],
+    [
+        "Bias",
+        "subclass of",
+        "variance"
+    ],
+    [
+        "normalize",
+        "different from",
+        "integrate"
+    ],
+    [
+        "PR2",
+        "manufacturer",
+        "Willow Garage"
+    ],
+    [
+        "supervised learning",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "sparse representation",
+        "subclass of",
+        "sparse representation"
+    ],
+    [
+        "gradient descent",
+        "subclass of",
+        "supervised learning algorithm"
+    ],
+    [
+        "Stochastic gradient descent",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "unbiased",
+        "subclass of",
+        "estimator"
+    ],
+    [
+        "minimally",
+        "instance of",
+        "minimally"
+    ],
+    [
+        "Part II",
+        "facet of",
+        "Deep Networks"
+    ],
+    [
+        "robustness",
+        "facet of",
+        "robustness"
+    ],
+    [
+        "underfitting",
+        "different from",
+        "overfitting"
+    ],
+    [
+        "machine learning",
+        "part of",
+        "AI"
+    ],
+    [
+        "simulating",
+        "subclass of",
+        "simulation"
+    ],
+    [
+        "decision tree",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "linear regression",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "recognizing speech",
+        "subclass of",
+        "AI"
+    ],
+    [
+        "Manifold learning",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "\u03b1peperous",
+        "part of",
+        "\u03b1peperous"
+    ],
+    [
+        "locally constant",
+        "subclass of",
+        "prior"
+    ],
+    [
+        "a priori",
+        "facet of",
+        "probability"
+    ],
+    [
+        "Bayesian Linear Regression",
+        "facet of",
+        "linear regression"
+    ],
+    [
+        "dataset",
+        "studied by",
+        "machine learning"
+    ],
+    [
+        "hyperparameter",
+        "facet of",
+        "learning algorithm"
+    ],
+    [
+        "\u03c32",
+        "facet of",
+        "Gaussian probability density function"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "learning",
+        "studied by",
+        "algorithm"
+    ],
+    [
+        "minimizes",
+        "facet of",
+        "regression"
+    ],
+    [
+        "Parametric",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "minimizes",
+        "subclass of",
+        "learning"
+    ],
+    [
+        "amplifying",
+        "has part",
+        "amplifying"
+    ],
+    [
+        "estimator",
+        "part of",
+        "distribution"
+    ],
+    [
+        "parametric",
+        "instance of",
+        "Statistical efficiency"
+    ],
+    [
+        "Uniform distribution",
+        "instance of",
+        "probability distribution"
+    ],
+    [
+        "Deep learning",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "\u03c3",
+        "facet of",
+        "normal distribution"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "minimization"
+    ],
+    [
+        "2-D",
+        "subclass of",
+        "space"
+    ],
+    [
+        "\u03b1",
+        "has part",
+        "\u039b m"
+    ],
+    [
+        "2-D",
+        "part of",
+        "space"
+    ],
+    [
+        "Support vector machine",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "computational biology",
+        "part of",
+        "computer science"
+    ],
+    [
+        "nearest neighbor algorithm",
+        "use",
+        "machine learning"
+    ],
+    [
+        "minimally",
+        "subclass of",
+        "minimally"
+    ],
+    [
+        "local kernels",
+        "subclass of",
+        "decision trees"
+    ],
+    [
+        "maximum likelihood",
+        "subclass of",
+        "overfitting"
+    ],
+    [
+        "Prediction",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "decision tree",
+        "subclass of",
+        "kernels"
+    ],
+    [
+        "Google Street View",
+        "use",
+        "speech recognition"
+    ],
+    [
+        "test set",
+        "subclass of",
+        "data"
+    ],
+    [
+        "unsupervised learning",
+        "different from",
+        "supervised learning"
+    ],
+    [
+        "minimally posterior probability",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "Stochastic gradient descent",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "k-means clustering",
+        "instance of",
+        "sparse representation"
+    ],
+    [
+        "Bias",
+        "instance of",
+        "sources of error"
+    ],
+    [
+        "Google Street View",
+        "instance of",
+        "speech recognition"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "underfitting",
+        "subclass of",
+        "estimator"
+    ],
+    [
+        "Part II",
+        "studies",
+        "Deep Networks"
+    ],
+    [
+        "2D plane",
+        "instance of",
+        "dividing line"
+    ],
+    [
+        "2D plane",
+        "has part",
+        "dividing line"
+    ],
+    [
+        "non-parametric model",
+        "different from",
+        "Parametric model"
+    ],
+    [
+        "minimizing",
+        "subclass of",
+        "minimization"
+    ],
+    [
+        "Manifold learning",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "overfitting",
+        "subclass of",
+        "optimization problem"
+    ],
+    [
+        "one-dimensional",
+        "part of",
+        "two-dimensional"
+    ],
+    [
+        "Parametric model",
+        "different from",
+        "non-parametric model"
+    ],
+    [
+        "amplifying",
+        "subclass of",
+        "amplifying"
+    ],
+    [
+        "logistic regression",
+        "subclass of",
+        "supervised learning algorithm"
+    ],
+    [
+        "Uniform distribution",
+        "opposite of",
+        "concentrated probability distribution"
+    ],
+    [
+        "normal distribution",
+        "facet of",
+        "statistics"
+    ],
+    [
+        "dataset",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "algorithm",
+        "use",
+        "training"
+    ],
+    [
+        "parametric",
+        "subclass of",
+        "Statistical efficiency"
+    ],
+    [
+        "Uniform distribution",
+        "subclass of",
+        "probability distribution"
+    ]
+]

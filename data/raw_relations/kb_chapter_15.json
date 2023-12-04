@@ -1,0 +1,492 @@
+[
+    [
+        "minimally supervised",
+        "subclass of",
+        "supervised"
+    ],
+    [
+        "Transmission learning",
+        "subclass of",
+        "learning"
+    ],
+    [
+        "supervised tasks",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "BEcker and Hinton",
+        "field of work",
+        "deep learning"
+    ],
+    [
+        "Leth+",
+        "instance of",
+        "regions"
+    ],
+    [
+        "sympathetic",
+        "subclass of",
+        "sympathetic"
+    ],
+    [
+        "unsupervised learning",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "televisions",
+        "subclass of",
+        "consumer electronics"
+    ],
+    [
+        "Neural network",
+        "use",
+        "training"
+    ],
+    [
+        "unsupervised representation learning",
+        "subclass of",
+        "semi-supervised learning"
+    ],
+    [
+        "ImageNet",
+        "subclass of",
+        "deep convolutional network"
+    ],
+    [
+        "greedy",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "zero-shot learning",
+        "subclass of",
+        "transfer learning"
+    ],
+    [
+        "max-pooling",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "linear network",
+        "opposite of",
+        "deep network"
+    ],
+    [
+        "supervisedlearning",
+        "different from",
+        "unsupervised"
+    ],
+    [
+        "minimally supervised learning",
+        "subclass of",
+        "minimally supervised learning"
+    ],
+    [
+        "k-nearest TAMADRAneighbors",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "nonlinear projection",
+        "subclass of",
+        "linear projection"
+    ],
+    [
+        "semi-supervised learning",
+        "subclass of",
+        "supervised learning"
+    ],
+    [
+        "minimally supervised",
+        "different from",
+        "supervised"
+    ],
+    [
+        "ImageNet",
+        "use",
+        "deep convolutional network"
+    ],
+    [
+        "one-shot learning",
+        "subclass of",
+        "unsupervised learning"
+    ],
+    [
+        "unsupervised",
+        "opposite of",
+        "supervised learning"
+    ],
+    [
+        "unsupervised learning",
+        "subclass of",
+        "learning"
+    ],
+    [
+        "supervised learning",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "male",
+        "opposite of",
+        "female"
+    ],
+    [
+        "nonlinear projection",
+        "opposite of",
+        "linear projection"
+    ],
+    [
+        "supervised learning",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "non-distributed algorithm",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "ImageNet",
+        "instance of",
+        "deep convolutional network"
+    ],
+    [
+        "semi-supervised learning",
+        "different from",
+        "supervised learning"
+    ],
+    [
+        "suppressively",
+        "opposite of",
+        "suppressively"
+    ],
+    [
+        "autoencoder",
+        "instance of",
+        "supervised model"
+    ],
+    [
+        "GPUs",
+        "different from",
+        "GPUs"
+    ],
+    [
+        "k-nearest PsyNetneighbors algorithm",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "nearest neighbor algorithm",
+        "instance of",
+        "learning fixmealgorithm"
+    ],
+    [
+        "minimally distributed",
+        "subclass of",
+        "minimally distributed"
+    ],
+    [
+        "Feedforward",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "Zero-data learning",
+        "subclass of",
+        "Transfer learning"
+    ],
+    [
+        "Hinton et al., 2006",
+        "point in time",
+        "2006"
+    ],
+    [
+        "egregious",
+        "facet of",
+        "egregiousious"
+    ],
+    [
+        "2",
+        "followed by",
+        "3"
+    ],
+    [
+        "Sejnowski",
+        "field of work",
+        "deep learning"
+    ],
+    [
+        "sentiment",
+        "studied by",
+        "sentiment analysis"
+    ],
+    [
+        "unsupervised",
+        "subclass of",
+        "supervisedlearning"
+    ],
+    [
+        "linear network",
+        "subclass of",
+        "networks"
+    ],
+    [
+        "linear projection",
+        "different from",
+        "nonlinear projection"
+    ],
+    [
+        "unsupervised pretraining",
+        "facet of",
+        "Deeplearning"
+    ],
+    [
+        "lower layers",
+        "followed by",
+        "upper layers"
+    ],
+    [
+        "autoencoders",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "supervised tasks",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "unsupervised learning",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "unsupervised",
+        "subclass of",
+        "supervised learning"
+    ],
+    [
+        "sparsely populated",
+        "subclass of",
+        "sparsely populated"
+    ],
+    [
+        "max-pooling",
+        "facet of",
+        "convolutional network"
+    ],
+    [
+        "supervised tasks",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "Zero-shot learning",
+        "instance of",
+        "transfer learning"
+    ],
+    [
+        "sentiment analysis",
+        "studies",
+        "sentiment"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "supervised model"
+    ],
+    [
+        "storylines",
+        "subclass of",
+        "learning"
+    ],
+    [
+        "autoencoders",
+        "use",
+        "deep learning"
+    ],
+    [
+        "sum-product network",
+        "subclass of",
+        "convolutional net"
+    ],
+    [
+        "female",
+        "opposite of",
+        "male"
+    ],
+    [
+        "Zero-data learning",
+        "instance of",
+        "Transfer learning"
+    ],
+    [
+        "natural object classes",
+        "subclass of",
+        "data"
+    ],
+    [
+        "horrendously",
+        "part of",
+        "horrendously"
+    ],
+    [
+        "GPUs",
+        "subclass of",
+        "GPUs"
+    ],
+    [
+        "Leth+",
+        "subclass of",
+        "input space"
+    ],
+    [
+        "generative model",
+        "subclass of",
+        "models"
+    ],
+    [
+        "GPUs",
+        "part of",
+        "GPUs"
+    ],
+    [
+        "nearest neighbor algorithm",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "unsupervised learning",
+        "different from",
+        "supervised learning"
+    ],
+    [
+        "sum-product network",
+        "subclass of",
+        "deep circuits"
+    ],
+    [
+        "unsupervised",
+        "different from",
+        "supervisedlearning"
+    ],
+    [
+        "minimally supervised learning",
+        "subclass of",
+        "supervised"
+    ],
+    [
+        "unsupervised pretraining",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "horrendously",
+        "has part",
+        "horrendously"
+    ],
+    [
+        "men",
+        "opposite of",
+        "women"
+    ],
+    [
+        "generative model",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "Leth+",
+        "subclass of",
+        "regions"
+    ],
+    [
+        "max-pooling",
+        "instance of",
+        "convolutional network"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "supervised learning",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "supervised",
+        "different from",
+        "minimally supervised"
+    ],
+    [
+        "sum-product network",
+        "subclass of",
+        "deep circuit"
+    ],
+    [
+        "linear network",
+        "opposite of",
+        "deep neural network"
+    ],
+    [
+        "Zero-shot learning",
+        "subclass of",
+        "transfer learning"
+    ],
+    [
+        "deep belief networks",
+        "subclass of",
+        "deep neural networks"
+    ],
+    [
+        "nonlinear projection",
+        "different from",
+        "linear projection"
+    ],
+    [
+        "mean squared error",
+        "facet of",
+        "unsupervised learning"
+    ],
+    [
+        "k-nearest TAMADRAneighbors algorithm",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "supervised learning",
+        "different from",
+        "unsupervised learning"
+    ],
+    [
+        "GPUs",
+        "has part",
+        "GPUs"
+    ],
+    [
+        "Neural network",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "amplifying",
+        "subclass of",
+        "amplifying"
+    ],
+    [
+        "egregiously",
+        "facet of",
+        "egregiously"
+    ],
+    [
+        "women",
+        "opposite of",
+        "men"
+    ]
+]

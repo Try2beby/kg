@@ -1,0 +1,342 @@
+[
+    [
+        "algorithm",
+        "used by",
+        "algorithmists"
+    ],
+    [
+        "gated recurrent net",
+        "subclass of",
+        "networks"
+    ],
+    [
+        "data",
+        "part of",
+        "computation"
+    ],
+    [
+        "log-uniform",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "train",
+        "opposite of",
+        "test"
+    ],
+    [
+        "dropout",
+        "facet of",
+        "Neural network"
+    ],
+    [
+        "computational resources",
+        "has part",
+        "runtime"
+    ],
+    [
+        "Gradient descent rule",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "software"
+    ],
+    [
+        "algorithmic",
+        "studies",
+        "algorithm"
+    ],
+    [
+        "data",
+        "part of",
+        "algorithm"
+    ],
+    [
+        "minimally estimate the gradient",
+        "subclass of",
+        "minimally estimated"
+    ],
+    [
+        "machine learning",
+        "uses",
+        "algorithm"
+    ],
+    [
+        "ImageNet",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "precision",
+        "opposite of",
+        "recall"
+    ],
+    [
+        "Gradient",
+        "part of",
+        "neural network"
+    ],
+    [
+        "minimally efficient",
+        "subclass of",
+        "minimally efficient"
+    ],
+    [
+        "algorithm",
+        "has part",
+        "data"
+    ],
+    [
+        "autoencoder",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "log-uniform",
+        "instance of",
+        "probability distribution"
+    ],
+    [
+        "minimally",
+        "subclass of",
+        "minimally"
+    ],
+    [
+        "inflows",
+        "subclass of",
+        "inflows"
+    ],
+    [
+        "precision",
+        "different from",
+        "recall"
+    ],
+    [
+        "test",
+        "different from",
+        "train"
+    ],
+    [
+        "recall",
+        "opposite of",
+        "precision"
+    ],
+    [
+        "Bernoulli",
+        "subclass of",
+        "uniform distribution"
+    ],
+    [
+        "Google Maps",
+        "has part",
+        "Street View cars"
+    ],
+    [
+        "cost function",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "dropout",
+        "subclass of",
+        "hyperparameters"
+    ],
+    [
+        "ImageNet",
+        "use",
+        "computer vision"
+    ],
+    [
+        "GPUs",
+        "has part",
+        "GPU"
+    ],
+    [
+        "algorithm",
+        "has part",
+        "computational cost"
+    ],
+    [
+        "software",
+        "has part",
+        "algorithm"
+    ],
+    [
+        "recall",
+        "different from",
+        "precision"
+    ],
+    [
+        "log-uniform",
+        "subclass of",
+        "uniform distribution"
+    ],
+    [
+        "coverage",
+        "subclass of",
+        "precision"
+    ],
+    [
+        "Spearmint",
+        "use",
+        "machine learning"
+    ],
+    [
+        "SMAC",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "Gradient descent",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "Spearmint",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "coverage",
+        "subclass of",
+        "recall"
+    ],
+    [
+        "Google Maps",
+        "has part",
+        "Street View"
+    ],
+    [
+        "ImageNet",
+        "instance of",
+        "convolutional network"
+    ],
+    [
+        "underfitting",
+        "different from",
+        "overfitting"
+    ],
+    [
+        "minimally",
+        "different from",
+        "minimally"
+    ],
+    [
+        "GPUs",
+        "different from",
+        "GPUs"
+    ],
+    [
+        "GPU",
+        "part of",
+        "GPUs"
+    ],
+    [
+        "underfitting",
+        "opposite of",
+        "overfitting"
+    ],
+    [
+        "coverage",
+        "has part",
+        "precision"
+    ],
+    [
+        "Spearmint",
+        "instance of",
+        "hyperparameter optimization"
+    ],
+    [
+        "algorithm",
+        "studied by",
+        "algorithmic"
+    ],
+    [
+        "dropout",
+        "instance of",
+        "hyperparameters"
+    ],
+    [
+        "algorithm",
+        "use",
+        "machine learning"
+    ],
+    [
+        "train",
+        "has part",
+        "test"
+    ],
+    [
+        "Neural network",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "streamlining",
+        "facet of",
+        "streamlining"
+    ],
+    [
+        "Bernoulli or multinoulli",
+        "subclass of",
+        "uniform distribution"
+    ],
+    [
+        "Neural network",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "logistic regression",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "minimally estimated",
+        "subclass of",
+        "minimally estimated"
+    ],
+    [
+        "train",
+        "different from",
+        "test"
+    ],
+    [
+        "streamlining",
+        "subclass of",
+        "streamlining"
+    ],
+    [
+        "Street View",
+        "part of",
+        "Google Maps"
+    ],
+    [
+        "Gradient descent",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "Bernoulli",
+        "instance of",
+        "uniform distribution"
+    ],
+    [
+        "runtime",
+        "part of",
+        "computational resources"
+    ],
+    [
+        "overfitting",
+        "different from",
+        "underfitting"
+    ]
+]

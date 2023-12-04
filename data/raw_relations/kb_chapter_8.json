@@ -1,0 +1,777 @@
+[
+    [
+        "sparse initialization",
+        "facet of",
+        "feedforward networks"
+    ],
+    [
+        "2 Conjugate Gradients",
+        "subclass of",
+        "iteratively descending conjugate directions"
+    ],
+    [
+        "gradient-based optimization",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "summarily",
+        "subclass of",
+        "summarily"
+    ],
+    [
+        "2nd-order optimization",
+        "instance of",
+        "numerical optimization"
+    ],
+    [
+        "greedy supervised pretraining",
+        "subclass of",
+        "supervised single hidden layer MLP"
+    ],
+    [
+        "algorithm 8",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "greedy supervised pretraining",
+        "subclass of",
+        "trained"
+    ],
+    [
+        "saddle point",
+        "part of",
+        "Hessian matrix"
+    ],
+    [
+        "minimally distributed",
+        "subclass of",
+        "minimally distributed networks"
+    ],
+    [
+        "stochastic gradient descent",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Levenberg\u2013Marquardt algorithm",
+        "subclass of",
+        "iteratively"
+    ],
+    [
+        "minimizes",
+        "subclass of",
+        "estimations"
+    ],
+    [
+        "optimistically",
+        "different from",
+        "optimistically"
+    ],
+    [
+        "8.1 Stochastic Gradient Descent",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "minimally-supervised net",
+        "uses",
+        "minimally-controlled"
+    ],
+    [
+        "Gradient",
+        "studied by",
+        "algorithm"
+    ],
+    [
+        "gradient-based optimization",
+        "instance of",
+        "optimization"
+    ],
+    [
+        "algorithm",
+        "studies",
+        "Gradient"
+    ],
+    [
+        "minimally",
+        "subclass of",
+        "minimum"
+    ],
+    [
+        "valley",
+        "subclass of",
+        "canyon"
+    ],
+    [
+        "Polyak averaging",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "GPUs",
+        "instance of",
+        "architectures"
+    ],
+    [
+        "algorithm 8.9",
+        "instance of",
+        "conjugate gradient algorithm"
+    ],
+    [
+        "algorithm 8.9",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Gradient descent",
+        "instance of",
+        "learning algorithms"
+    ],
+    [
+        "algorithm 8.5",
+        "facet of",
+        "RMSProp"
+    ],
+    [
+        "algorithm 8.5",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "8.5.2 RMSProp",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "2nd-order optimization",
+        "subclass of",
+        "numerical optimization"
+    ],
+    [
+        "suppressively",
+        "opposite of",
+        "suppressively"
+    ],
+    [
+        "FitNets",
+        "subclass of",
+        "transfer learning"
+    ],
+    [
+        "rectified linear transformation",
+        "part of",
+        "neural network"
+    ],
+    [
+        "algorithm",
+        "use",
+        "machine learning"
+    ],
+    [
+        "conversely",
+        "opposite of",
+        "conversely"
+    ],
+    [
+        "minimally",
+        "opposite of",
+        "maximum"
+    ],
+    [
+        "polyak averaging",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "sparse initialization",
+        "subclass of",
+        "feedforward networks"
+    ],
+    [
+        "2",
+        "followed by",
+        "3"
+    ],
+    [
+        "optimistically",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "iterative",
+        "subclass of",
+        "optimization algorithm"
+    ],
+    [
+        "minimally-distributed",
+        "subclass of",
+        "minimally-distributed"
+    ],
+    [
+        "2 Challenges in Neural Network Optimization",
+        "facet of",
+        "optimising"
+    ],
+    [
+        "optimizes",
+        "different from",
+        "minimizes"
+    ],
+    [
+        "saddle point",
+        "subclass of",
+        "gradient"
+    ],
+    [
+        "autoencoders",
+        "subclass of",
+        "classifiers"
+    ],
+    [
+        "2 Local Minima",
+        "instance of",
+        "gradient norm"
+    ],
+    [
+        "recurrent neural network",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "Nesterov momentum",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "algorithm 8.2",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "LSTM",
+        "facet of",
+        "neural network"
+    ],
+    [
+        "neuron",
+        "has part",
+        "neural network"
+    ],
+    [
+        "recurrent networks",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "algorithm 8.9 The conjugate gradient method",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "networks",
+        "has part",
+        "neurons"
+    ],
+    [
+        "minimizes",
+        "different from",
+        "optimization"
+    ],
+    [
+        "atrophy",
+        "subclass of",
+        "atrophy"
+    ],
+    [
+        "greedy supervised pretraining",
+        "subclass of",
+        "pretraining algorithm"
+    ],
+    [
+        "Batch gradient descent",
+        "instance of",
+        "optimization algorithm"
+    ],
+    [
+        "gradient clipping",
+        "instance of",
+        "gradient descent algorithm"
+    ],
+    [
+        "recurrent neural network",
+        "subclass of",
+        "neuralnetworks"
+    ],
+    [
+        "0",
+        "length",
+        "0"
+    ],
+    [
+        "FitNets",
+        "facet of",
+        "transfer learning"
+    ],
+    [
+        "Atkins Medal",
+        "conferred by",
+        "Royal Society of New South Wales"
+    ],
+    [
+        "\u03b1",
+        "part of",
+        "Stochastic gradient descent"
+    ],
+    [
+        "autoencoders",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "minimizes",
+        "facet of",
+        "estimation error"
+    ],
+    [
+        "8.6",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "8.5.1 AdaGrad",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "supervised training",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "rectified linear transformation",
+        "facet of",
+        "neural network"
+    ],
+    [
+        "neural network",
+        "has part",
+        "neurons"
+    ],
+    [
+        "8.5",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "minimizes",
+        "subclass of",
+        "estimator"
+    ],
+    [
+        "neuron",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "8.7 Optimization Strategies and Meta-Algorithms",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "minimally",
+        "subclass of",
+        "Gradient"
+    ],
+    [
+        "convolutional networks",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "neuron",
+        "part of",
+        "neural network"
+    ],
+    [
+        "minimally invasive",
+        "subclass of",
+        "minimally invasive"
+    ],
+    [
+        "stochastic",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "\u03b1",
+        "subclass of",
+        "momentum"
+    ],
+    [
+        "Batch gradient descent",
+        "subclass of",
+        "optimization algorithm"
+    ],
+    [
+        "summarily",
+        "different from",
+        "summarily"
+    ],
+    [
+        "turbulent drag",
+        "subclass of",
+        "drag"
+    ],
+    [
+        "2 Local Minima",
+        "instance of",
+        "norm"
+    ],
+    [
+        "iterative",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "Euler\u2019s method",
+        "instance of",
+        "numerical"
+    ],
+    [
+        "Batch Normalization",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "stochastic gradient descent",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "recurrent neural networks",
+        "subclass of",
+        "neuralnetworks"
+    ],
+    [
+        "canyon",
+        "different from",
+        "valley"
+    ],
+    [
+        "unsupervised",
+        "opposite of",
+        "supervised"
+    ],
+    [
+        "neurons",
+        "part of",
+        "neural network"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "greedy supervised pretraining",
+        "subclass of",
+        "pretraining"
+    ],
+    [
+        "Stochastic gradient descent (SGD)",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "convolutional network",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "8.7 Optimization Strategies and Meta-Algorithms",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "Levenberg\u2013Marquardt algorithm",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "normalizing",
+        "subclass of",
+        "normalization operations"
+    ],
+    [
+        "\u03b1",
+        "facet of",
+        "Stochastic gradient descent"
+    ],
+    [
+        "greedy supervised pretraining",
+        "subclass of",
+        "architectures"
+    ],
+    [
+        "0-1 loss",
+        "instance of",
+        "loss function"
+    ],
+    [
+        "BFGS algorithm",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "minimizes generalization error",
+        "subclass of",
+        "minimizes"
+    ],
+    [
+        "stochastic",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "stochastic cost function",
+        "subclass of",
+        "optimization algorithm"
+    ],
+    [
+        "minimally distributed",
+        "subclass of",
+        "minimally distributed"
+    ],
+    [
+        "sparse initialization",
+        "facet of",
+        "feedforward network"
+    ],
+    [
+        "maxima",
+        "opposite of",
+        "minimally"
+    ],
+    [
+        "supervised training",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "normalizing",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "Gradient descent",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "GPUs",
+        "opposite of",
+        "CPUs"
+    ],
+    [
+        "minimizing",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "rectified linear transformation",
+        "subclass of",
+        "linear transformation"
+    ],
+    [
+        "eigenvectors",
+        "part of",
+        "Hessian matrix"
+    ],
+    [
+        "FitNets",
+        "use",
+        "transfer learning"
+    ],
+    [
+        "saddle point",
+        "part of",
+        "neurons"
+    ],
+    [
+        "Euler\u2019s method",
+        "subclass of",
+        "numerical"
+    ],
+    [
+        "saddle point",
+        "subclass of",
+        "loss function"
+    ],
+    [
+        "Batch normalization",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "8.6.3 Adam",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "gradient clipping",
+        "subclass of",
+        "gradient descent algorithm"
+    ],
+    [
+        "saddle point",
+        "subclass of",
+        "Hessian matrix"
+    ],
+    [
+        "minimizes",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "\u03b1",
+        "facet of",
+        "momentum"
+    ],
+    [
+        "algorithm 8.5 The RMSProp algorithm",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "GPUs",
+        "subclass of",
+        "hardware"
+    ],
+    [
+        "autoencoders",
+        "uses",
+        "Gradient"
+    ],
+    [
+        "LSTM",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "deterministic",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "stochastic gradient descent",
+        "instance of",
+        "optimization algorithm"
+    ],
+    [
+        "minimally",
+        "subclass of",
+        "minimally"
+    ],
+    [
+        "second-order gradient method",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "minimally",
+        "opposite of",
+        "maxima"
+    ],
+    [
+        "algorithm 8.5.1",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Stochastic gradient descent",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "algorithm 8.8",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "atrociously",
+        "opposite of",
+        "atrociously"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "Gradient descent",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "Levenberg\u2013Marquardt algorithm",
+        "instance of",
+        "iteratively"
+    ],
+    [
+        "neurons",
+        "part of",
+        "networks"
+    ],
+    [
+        "Polyak averaging",
+        "instance of",
+        "optimization strategy"
+    ],
+    [
+        "Batch normalization",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "minimizes",
+        "subclass of",
+        "estimation error"
+    ],
+    [
+        "BFGS",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "amplifying",
+        "subclass of",
+        "amplifying"
+    ],
+    [
+        "valley",
+        "different from",
+        "canyon"
+    ],
+    [
+        "initial point",
+        "facet of",
+        "optimization"
+    ],
+    [
+        "gradient clipping heuristic",
+        "instance of",
+        "gradient descent algorithm"
+    ],
+    [
+        "greedy supervised pretraining",
+        "instance of",
+        "pretraining algorithm"
+    ],
+    [
+        "minimizes generalization error",
+        "subclass of",
+        "estimator"
+    ]
+]

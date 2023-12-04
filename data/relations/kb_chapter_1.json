@@ -1,0 +1,142 @@
+[
+    [
+        "Autoencoder",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Neural network",
+        "use",
+        "Machine learning"
+    ],
+    [
+        "Unsupervised",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Deep learning",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Algorithm",
+        "use",
+        "Artificial intelligence"
+    ],
+    [
+        "Retina",
+        "connects with",
+        "Retinal"
+    ],
+    [
+        "Nervous system",
+        "has part",
+        "Neuron"
+    ],
+    [
+        "Unsupervised",
+        "part of",
+        "Machine learning"
+    ],
+    [
+        "Retinal",
+        "connects with",
+        "Retina"
+    ],
+    [
+        "CIFAR-10",
+        "instance of",
+        "Data set"
+    ],
+    [
+        "Autoencoder",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Geoffrey Hinton",
+        "employer",
+        "University of Toronto"
+    ],
+    [
+        "Neuron",
+        "part of",
+        "Neuron"
+    ],
+    [
+        "Cybernetics",
+        "subclass of",
+        "Deep learning"
+    ],
+    [
+        "Cybernetics",
+        "part of",
+        "Deep learning"
+    ],
+    [
+        "Algorithm",
+        "part of",
+        "Computer science"
+    ],
+    [
+        "Neural network",
+        "part of",
+        "Machine learning"
+    ],
+    [
+        "Graphics processing unit",
+        "use",
+        "Deep learning"
+    ],
+    [
+        "Neuroscience",
+        "studies",
+        "Rodent"
+    ],
+    [
+        "Neuron",
+        "part of",
+        "Nervous system"
+    ],
+    [
+        "Geoffrey Hinton",
+        "field of work",
+        "Machine learning"
+    ],
+    [
+        "Google DeepMind",
+        "product or material produced",
+        "Deep learning"
+    ],
+    [
+        "Algorithm",
+        "part of",
+        "Artificial intelligence"
+    ],
+    [
+        "Rodent",
+        "studied by",
+        "Neuroscience"
+    ],
+    [
+        "Perceptron",
+        "subclass of",
+        "Neural network"
+    ],
+    [
+        "Perceptron",
+        "instance of",
+        "Neural network"
+    ],
+    [
+        "Deep learning",
+        "use",
+        "Reinforcement learning"
+    ],
+    [
+        "Deep learning",
+        "instance of",
+        "Machine learning"
+    ]
+]

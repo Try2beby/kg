@@ -1,0 +1,337 @@
+[
+    [
+        "Expectation maximization",
+        "discoverer or inventor",
+        "Neal and Hinton"
+    ],
+    [
+        "autoencoder",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "deep belief networks",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "learning"
+    ],
+    [
+        "Stochastic gradient ascent",
+        "subclass of",
+        "maximize"
+    ],
+    [
+        "optimistically",
+        "subclass of",
+        "optimally"
+    ],
+    [
+        "minimally invasive",
+        "subclass of",
+        "minimally invasive"
+    ],
+    [
+        "INFERENCE",
+        "has part",
+        "inference"
+    ],
+    [
+        "algorithm",
+        "has part",
+        "supervised training"
+    ],
+    [
+        "parametric",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "converge criterion",
+        "subclass of",
+        "iteratively apply to the solution"
+    ],
+    [
+        "INFERENCE",
+        "subclass of",
+        "exact inference"
+    ],
+    [
+        "minimizes",
+        "facet of",
+        "probability distribution function"
+    ],
+    [
+        "ISTA technique",
+        "subclass of",
+        "autoencoder"
+    ],
+    [
+        "Stochastic gradient ascent",
+        "subclass of",
+        "gradient descent"
+    ],
+    [
+        "perfect optimization",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "algorithm",
+        "use",
+        "learning"
+    ],
+    [
+        "minimizes",
+        "subclass of",
+        "probability distribution function"
+    ],
+    [
+        "MAP inference",
+        "instance of",
+        "learning algorithms"
+    ],
+    [
+        "levelling",
+        "subclass of",
+        "levelling out"
+    ],
+    [
+        "MAP inference",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "approximate inference",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "APPROXIMATE INFERENCE",
+        "subclass of",
+        "approximate inference"
+    ],
+    [
+        "sparse coding",
+        "subclass of",
+        "deep learning"
+    ],
+    [
+        "Inference as Optimization",
+        "subclass of",
+        "optimization problem"
+    ],
+    [
+        "levelling",
+        "subclass of",
+        "levelling"
+    ],
+    [
+        "GPUs",
+        "subclass of",
+        "GPUs"
+    ],
+    [
+        "minimally",
+        "subclass of",
+        "minimally"
+    ],
+    [
+        "converge",
+        "subclass of",
+        "optimization algorithm"
+    ],
+    [
+        "sparse coding",
+        "use",
+        "deep learning"
+    ],
+    [
+        "parametric",
+        "part of",
+        "probability theory"
+    ],
+    [
+        "GPUs",
+        "has part",
+        "GPU"
+    ],
+    [
+        "APPROXIMATE INFERENCE",
+        "use",
+        "approximate inference"
+    ],
+    [
+        "converge criterion",
+        "facet of",
+        "variational inference"
+    ],
+    [
+        "normalizing constant",
+        "subclass of",
+        "functional form"
+    ],
+    [
+        "ISTA technique",
+        "instance of",
+        "autoencoder"
+    ],
+    [
+        "MAP inference",
+        "subclass of",
+        "exact optimization algorithm"
+    ],
+    [
+        "MAP inference",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "ISTA",
+        "instance of",
+        "autoencoder"
+    ],
+    [
+        "sparse coding",
+        "subclass of",
+        "learning mechanism"
+    ],
+    [
+        "INFERENCE",
+        "subclass of",
+        "inference"
+    ],
+    [
+        "suppressively",
+        "opposite of",
+        "suppressively"
+    ],
+    [
+        "approximate inference",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "GPUs",
+        "different from",
+        "GPUs"
+    ],
+    [
+        "GPU",
+        "part of",
+        "GPUs"
+    ],
+    [
+        "\u03b1",
+        "followed by",
+        "\u03b2"
+    ],
+    [
+        "APPROXIMATE INFERENCE",
+        "uses",
+        "approximate inference"
+    ],
+    [
+        "converge",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "converge criterion",
+        "subclass of",
+        "iteratively"
+    ],
+    [
+        "Stochastic gradient ascent",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "minimizes",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "optimistically",
+        "subclass of",
+        "optimization algorithm"
+    ],
+    [
+        "converge",
+        "facet of",
+        "optimization"
+    ],
+    [
+        "approximating",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "computational"
+    ],
+    [
+        "Inference as Optimization",
+        "instance of",
+        "optimization problem"
+    ],
+    [
+        "iteration",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "optimistically",
+        "subclass of",
+        "optimize"
+    ],
+    [
+        "MAP inference",
+        "instance of",
+        "exact optimization algorithm"
+    ],
+    [
+        "MAP inference",
+        "subclass of",
+        "sparse coding"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "Exact inference",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "normalizing constant",
+        "facet of",
+        "Gaussian"
+    ],
+    [
+        "autoencoder",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "sparse coding",
+        "instance of",
+        "learning mechanism"
+    ],
+    [
+        "INFERENCE",
+        "use",
+        "inference"
+    ],
+    [
+        "parametric",
+        "part of",
+        "statistics"
+    ]
+]

@@ -1,0 +1,102 @@
+[
+    [
+        "Apathy",
+        "opposite of",
+        "Apathy"
+    ],
+    [
+        "Norm (mathematics)",
+        "subclass of",
+        "Distributive property"
+    ],
+    [
+        "Mathematics",
+        "has part",
+        "Linear algebra"
+    ],
+    [
+        "Antipathy",
+        "opposite of",
+        "Antipathy"
+    ],
+    [
+        "Linear algebra",
+        "part of",
+        "Mathematics"
+    ],
+    [
+        "Principal component analysis",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Deep learning",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Alpha",
+        "has part",
+        "X"
+    ],
+    [
+        "Array",
+        "subclass of",
+        "Tensor"
+    ],
+    [
+        "Eigenvalues and eigenvectors",
+        "subclass of",
+        "Eigenvalues and eigenvectors"
+    ],
+    [
+        "Alpha",
+        "has part",
+        "Y"
+    ],
+    [
+        "Eigenvalues and eigenvectors",
+        "part of",
+        "Eigenvalues and eigenvectors"
+    ],
+    [
+        "Definite quadratic form",
+        "opposite of",
+        "Positive definiteness"
+    ],
+    [
+        "Norm (mathematics)",
+        "instance of",
+        "Distributive property"
+    ],
+    [
+        "Definite quadratic form",
+        "subclass of",
+        "Positive definiteness"
+    ],
+    [
+        "3",
+        "follows",
+        "2"
+    ],
+    [
+        "Negative definiteness",
+        "subclass of",
+        "Positive definiteness"
+    ],
+    [
+        "2",
+        "followed by",
+        "3"
+    ],
+    [
+        "Eigendecomposition of a matrix",
+        "different from",
+        "Singular value decomposition"
+    ],
+    [
+        "X",
+        "part of",
+        "Alpha"
+    ]
+]

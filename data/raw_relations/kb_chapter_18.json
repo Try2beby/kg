@@ -1,0 +1,352 @@
+[
+    [
+        "stochastic gradient descent",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "training"
+    ],
+    [
+        "single layer model",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "contrastive divergence algorithm",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "GENERATING THE PARTITION FUNCTION",
+        "uses",
+        "GENERATING THE PARTITION"
+    ],
+    [
+        "minimally distributed",
+        "subclass of",
+        "minimally distributed distribution"
+    ],
+    [
+        "eye",
+        "part of",
+        "face"
+    ],
+    [
+        "minimally small",
+        "subclass of",
+        "minimally large"
+    ],
+    [
+        "REM sleep",
+        "subclass of",
+        "dream"
+    ],
+    [
+        "sparse coding model",
+        "subclass of",
+        "hidden layer"
+    ],
+    [
+        "FPCD",
+        "uses",
+        "Monte Carlo sampling"
+    ],
+    [
+        "minimally small",
+        "opposite of",
+        "maximally large"
+    ],
+    [
+        "sparse coding",
+        "subclass of",
+        "Boltzmann machine"
+    ],
+    [
+        "unstructured noise",
+        "subclass of",
+        "noise distribution"
+    ],
+    [
+        "Metropolis-Hastings",
+        "instance of",
+        "Monte Carlo method"
+    ],
+    [
+        "normally distributed noise",
+        "facet of",
+        "supervised learning"
+    ],
+    [
+        "unnormalized probability distribution",
+        "subclass of",
+        "integral"
+    ],
+    [
+        "contrastive divergence",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "DBN",
+        "subclass of",
+        "probabilistic models"
+    ],
+    [
+        "summation",
+        "subclass of",
+        "integral"
+    ],
+    [
+        "GENERATING THE PARTITION FUNCTION",
+        "part of",
+        "GENERATING THE PARTITION"
+    ],
+    [
+        "2 Bridge Sampling",
+        "number of participants",
+        "8.7"
+    ],
+    [
+        "DBNs",
+        "subclass of",
+        "probabilistic models"
+    ],
+    [
+        "single layer models",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "stochastic gradient algorithm",
+        "uses",
+        "gradient ascent"
+    ],
+    [
+        "FPCD",
+        "based on",
+        "Monte Carlo sampling"
+    ],
+    [
+        "GPUs",
+        "subclass of",
+        "GPUs"
+    ],
+    [
+        "GPUs",
+        "part of",
+        "GPUs"
+    ],
+    [
+        "normally distributed noise",
+        "subclass of",
+        "noise contrastive estimation"
+    ],
+    [
+        "parametric",
+        "part of",
+        "probability theory"
+    ],
+    [
+        "autoencoder",
+        "use",
+        "deep learning"
+    ],
+    [
+        "minimally small",
+        "opposite of",
+        "minimally large"
+    ],
+    [
+        "GPUs",
+        "has part",
+        "GPU"
+    ],
+    [
+        "parametric analysis",
+        "part of",
+        "statistics"
+    ],
+    [
+        "algorithm",
+        "studies",
+        "algorithm"
+    ],
+    [
+        "FPCD",
+        "subclass of",
+        "Monte Carlo sampling"
+    ],
+    [
+        "single layer model",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "normalized score matching",
+        "subclass of",
+        "supervised learning"
+    ],
+    [
+        "asymptotically consistent",
+        "subclass of",
+        "model"
+    ],
+    [
+        "DBN",
+        "subclass of",
+        "probabilistic model"
+    ],
+    [
+        "AIS procedure",
+        "subclass of",
+        "sampled"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "algorithm"
+    ],
+    [
+        "summation",
+        "subclass of",
+        "integrals"
+    ],
+    [
+        "GENERATING THE PARTITION FUNCTION",
+        "has part",
+        "GENERATING THE PARTITION"
+    ],
+    [
+        "asymptotically consistent",
+        "subclass of",
+        "estimator"
+    ],
+    [
+        "apathetic",
+        "opposite of",
+        "apathetic"
+    ],
+    [
+        "eye",
+        "part of",
+        "faces"
+    ],
+    [
+        "annealed importance sampling",
+        "subclass of",
+        "estimator"
+    ],
+    [
+        "algorithm 18.1",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "suppressively",
+        "opposite of",
+        "suppressively"
+    ],
+    [
+        "stochastic gradient algorithm",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "GPUs",
+        "different from",
+        "GPUs"
+    ],
+    [
+        "Gibbs",
+        "instance of",
+        "Monte Carlo method"
+    ],
+    [
+        "AIS estimator",
+        "discoverer or inventor",
+        "Jarzynski"
+    ],
+    [
+        "algorithm",
+        "studied by",
+        "algorithm"
+    ],
+    [
+        "simulating",
+        "subclass of",
+        "simulation"
+    ],
+    [
+        "minimally distributed",
+        "subclass of",
+        "minimally distributed"
+    ],
+    [
+        "AIS procedure",
+        "facet of",
+        "extended state space"
+    ],
+    [
+        "AIS estimator",
+        "discoverer or inventor",
+        "Neal (2001)"
+    ],
+    [
+        "annealed importance sampling",
+        "facet of",
+        "minimally distributed"
+    ],
+    [
+        "undi-rected graphical model",
+        "subclass of",
+        "probabilistic model"
+    ],
+    [
+        "unnormalized",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "Metropolis-Hastings",
+        "subclass of",
+        "Monte Carlo method"
+    ],
+    [
+        "stochastic gradient descent",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "stochastic maximum likelihood",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "asymptotically consistent",
+        "subclass of",
+        "learning"
+    ],
+    [
+        "AIS procedure",
+        "instance of",
+        "sampled"
+    ],
+    [
+        "contrastive divergence",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "parametric",
+        "part of",
+        "statistics"
+    ]
+]
