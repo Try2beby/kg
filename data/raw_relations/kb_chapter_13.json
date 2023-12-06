@@ -1,8 +1,13 @@
 [
     [
-        "autoencoder",
-        "subclass of",
-        "encoder"
+        "SLOW feature analysis",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "2 Independent Component Analysis",
+        "instance of",
+        "Fully parametric generative model"
     ],
     [
         "deep feedforward",
@@ -10,34 +15,9 @@
         "deep learning"
     ],
     [
-        "2 Independent Component Analysis (ICA)",
-        "instance of",
-        "Fully parametric generative model"
-    ],
-    [
-        "nonlinear generative model",
+        "autoencoder",
         "opposite of",
-        "generative model"
-    ],
-    [
-        "sparse coding",
-        "subclass of",
-        "algorithm"
-    ],
-    [
-        "autoencoder networks",
-        "subclass of",
-        "deep feedforward networks"
-    ],
-    [
-        "neurons",
-        "part of",
-        "brain"
-    ],
-    [
-        "autoencoder networks",
-        "part of",
-        "deep feedforward networks"
+        "decoder"
     ],
     [
         "algorithm",
@@ -45,14 +25,19 @@
         "inference"
     ],
     [
-        "Deep SFA",
-        "instance of",
-        "unsupervised feature learning"
+        "autoencoder networks",
+        "part of",
+        "deep feedforward networks"
     ],
     [
-        "encoder",
+        "TOPS",
+        "part of",
+        "TOPS100"
+    ],
+    [
+        "2 Independent Component Analysis",
         "subclass of",
-        "algorithm"
+        "Fully parametric generative model"
     ],
     [
         "dialectic",
@@ -60,129 +45,9 @@
         "linguistics"
     ],
     [
-        "nonlinear generative model",
-        "subclass of",
-        "linear factor model"
-    ],
-    [
-        "minimization",
-        "subclass of",
-        "optimization algorithm"
-    ],
-    [
-        "SLOW feature analysis",
-        "instance of",
-        "algorithm"
-    ],
-    [
-        "neurons",
-        "part of",
-        "V1 cortex"
-    ],
-    [
-        "sparse coding",
-        "instance of",
-        "algorithm"
-    ],
-    [
-        "SFA algorithm",
-        "uses",
-        "gradient descent"
-    ],
-    [
-        "normality",
-        "facet of",
-        "statistics"
-    ],
-    [
-        "2 Independent Component Analysis",
-        "subclass of",
-        "Fully parametric generative model"
-    ],
-    [
-        "SFA algorithm",
-        "instance of",
-        "algorithm"
-    ],
-    [
-        "minimization",
-        "subclass of",
-        "optimization"
-    ],
-    [
-        "neurons",
-        "subclass of",
-        "cells"
-    ],
-    [
-        "TOPS",
-        "part of",
-        "TOPS100"
-    ],
-    [
-        "nonlinear generative model",
-        "instance of",
-        "linear factor model"
-    ],
-    [
-        "atrociously",
-        "opposite of",
-        "atrociously"
-    ],
-    [
-        "neurons",
-        "part of",
-        "V1"
-    ],
-    [
-        "brain",
-        "has part",
-        "neurons"
-    ],
-    [
-        "paramount components analysis",
-        "subclass of",
-        "factor analysis"
-    ],
-    [
-        "deep feedforward",
-        "subclass of",
-        "deep learning"
-    ],
-    [
-        "2 Independent Component Analysis",
+        "2 Independent Component Analysis (ICA)",
         "instance of",
         "Fully parametric generative model"
-    ],
-    [
-        "autoencoder network",
-        "subclass of",
-        "deep feedforward networks"
-    ],
-    [
-        "Deep SFA",
-        "instance of",
-        "learning algorithm"
-    ],
-    [
-        "TOPS",
-        "has part",
-        "TOPS100"
-    ],
-    [
-        "Deep SFA",
-        "subclass of",
-        "unsupervised feature learning"
-    ],
-    [
-        "decoder",
-        "opposite of",
-        "autoencoder"
-    ],
-    [
-        "TOPS100",
-        "part of",
-        "TOPS"
     ],
     [
         "V1 cortex",
@@ -190,8 +55,143 @@
         "neurons"
     ],
     [
-        "autoencoder",
+        "encoder",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "Deep SFA",
+        "instance of",
+        "unsupervised feature learning"
+    ],
+    [
+        "paramount components analysis",
+        "subclass of",
+        "factor analysis"
+    ],
+    [
+        "neurons",
+        "part of",
+        "V1 cortex"
+    ],
+    [
+        "brain",
+        "has part",
+        "neurons"
+    ],
+    [
+        "neurons",
+        "part of",
+        "V1"
+    ],
+    [
+        "decoder",
         "opposite of",
-        "decoder"
+        "autoencoder"
+    ],
+    [
+        "atrociously",
+        "opposite of",
+        "atrociously"
+    ],
+    [
+        "Deep SFA",
+        "subclass of",
+        "unsupervised feature learning"
+    ],
+    [
+        "Deep SFA",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "SFA algorithm",
+        "uses",
+        "gradient descent"
+    ],
+    [
+        "sparse coding",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "TOPS",
+        "has part",
+        "TOPS100"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "optimization algorithm"
+    ],
+    [
+        "sparse coding",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "normality",
+        "facet of",
+        "statistics"
+    ],
+    [
+        "neurons",
+        "subclass of",
+        "cells"
+    ],
+    [
+        "deep feedforward",
+        "subclass of",
+        "deep learning"
+    ],
+    [
+        "autoencoder network",
+        "subclass of",
+        "deep feedforward networks"
+    ],
+    [
+        "TOPS100",
+        "part of",
+        "TOPS"
+    ],
+    [
+        "autoencoder networks",
+        "subclass of",
+        "deep feedforward networks"
+    ],
+    [
+        "SFA algorithm",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "nonlinear generative model",
+        "instance of",
+        "linear factor model"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "nonlinear generative model",
+        "subclass of",
+        "linear factor model"
+    ],
+    [
+        "nonlinear generative model",
+        "opposite of",
+        "generative model"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "encoder"
+    ],
+    [
+        "neurons",
+        "part of",
+        "brain"
     ]
 ]

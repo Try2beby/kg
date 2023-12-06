@@ -1,77 +1,12 @@
 [
     [
-        "Bernoulli distribution",
-        "instance of",
-        "Probability distribution"
-    ],
-    [
-        "Bayesian probability",
-        "studied by",
-        "Probability theory"
-    ],
-    [
-        "Computer scientist",
-        "has part",
-        "Software engineering"
-    ],
-    [
-        "P",
-        "facet of",
-        "Probability distribution"
-    ],
-    [
-        "Sigma",
-        "facet of",
-        "Sigma"
-    ],
-    [
-        "Algorithm",
-        "part of",
-        "Mathematics"
-    ],
-    [
-        "Beta",
-        "followed by",
-        "Sigma"
-    ],
-    [
-        "P",
-        "instance of",
-        "Probability distribution"
-    ],
-    [
-        "Information theory",
-        "studies",
-        "Probability distribution"
-    ],
-    [
-        "Central processing unit",
-        "used by",
-        "Software"
-    ],
-    [
-        "Normalizing constant",
-        "part of",
-        "Probability distribution"
-    ],
-    [
-        "Beta",
-        "has part",
-        "Phi"
-    ],
-    [
-        "Computer scientist",
-        "studies",
-        "Software"
-    ],
-    [
-        "Line code",
-        "part of",
-        "Information theory"
-    ],
-    [
         "Parametric equation",
-        "facet of",
+        "subclass of",
+        "Probability distribution"
+    ],
+    [
+        "Probability theory",
+        "studies",
         "Probability distribution"
     ],
     [
@@ -81,8 +16,53 @@
     ],
     [
         "Parametric equation",
+        "facet of",
+        "Probability distribution"
+    ],
+    [
+        "Bernoulli distribution",
+        "instance of",
+        "Probability distribution"
+    ],
+    [
+        "Parametric equation",
+        "part of",
+        "Probability distribution"
+    ],
+    [
+        "Isotropy",
         "subclass of",
         "Probability distribution"
+    ],
+    [
+        "Expected value",
+        "facet of",
+        "Probability distribution"
+    ],
+    [
+        "Information theory",
+        "part of",
+        "Probability theory"
+    ],
+    [
+        "Sigma",
+        "facet of",
+        "Sigma"
+    ],
+    [
+        "Software engineering",
+        "part of",
+        "Computer scientist"
+    ],
+    [
+        "Bayesian probability",
+        "studied by",
+        "Probability theory"
+    ],
+    [
+        "Computer scientist",
+        "studies",
+        "Software"
     ],
     [
         "Probability distribution",
@@ -90,7 +70,7 @@
         "Probability theory"
     ],
     [
-        "Normalizing constant",
+        "P",
         "facet of",
         "Probability distribution"
     ],
@@ -100,9 +80,9 @@
         "Uncertainty"
     ],
     [
-        "Parametric equation",
-        "part of",
-        "Probability distribution"
+        "Central processing unit",
+        "used by",
+        "Software"
     ],
     [
         "Software",
@@ -110,53 +90,13 @@
         "Computer scientist"
     ],
     [
-        "Factorization",
-        "facet of",
-        "Probability distribution"
-    ],
-    [
-        "Probability theory",
-        "studies",
-        "Probability distribution"
-    ],
-    [
-        "Expected value",
-        "facet of",
-        "Probability distribution"
+        "Computer scientist",
+        "has part",
+        "Software engineering"
     ],
     [
         "Sigma",
         "has part",
         "Sigma"
-    ],
-    [
-        "Sigma",
-        "instance of",
-        "Logit"
-    ],
-    [
-        "Information theory",
-        "part of",
-        "Probability theory"
-    ],
-    [
-        "6",
-        "number of participants",
-        "9"
-    ],
-    [
-        "Software engineering",
-        "part of",
-        "Computer scientist"
-    ],
-    [
-        "Sigma",
-        "facet of",
-        "Statistics"
-    ],
-    [
-        "Probability distribution",
-        "studied by",
-        "Information theory"
     ]
 ]

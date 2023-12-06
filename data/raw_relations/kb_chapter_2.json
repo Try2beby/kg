@@ -1,28 +1,23 @@
 [
     [
-        "L2 norm",
-        "instance of",
-        "norm"
+        "\u03b1",
+        "has part",
+        "y"
     ],
     [
-        "eigenvalue",
+        "transpose",
         "subclass of",
-        "eigenvectors"
+        "operation"
     ],
     [
-        "paramountously",
-        "instance of",
-        "algorithm"
+        "3",
+        "follows",
+        "2"
     ],
     [
-        "commutative",
-        "opposite of",
-        "scalar"
-    ],
-    [
-        "eigenvalue",
-        "part of",
-        "eigenvectors"
+        "L2 norm",
+        "subclass of",
+        "distributive property"
     ],
     [
         "eigenvalue decomposition",
@@ -30,54 +25,9 @@
         "singular value decomposition"
     ],
     [
-        "encoder function",
-        "use",
-        "encoding"
-    ],
-    [
-        "Linear algebra",
-        "part of",
-        "mathematics"
-    ],
-    [
-        "indices",
-        "subclass of",
-        "sign"
-    ],
-    [
         "L2 norm",
         "instance of",
         "distributive property"
-    ],
-    [
-        "tr(A)",
-        "instance of",
-        "trace operator"
-    ],
-    [
-        "mathematics",
-        "has part",
-        "linear algebra"
-    ],
-    [
-        "Deep learning",
-        "subclass of",
-        "machine learning"
-    ],
-    [
-        "2.3 Identity and Inverse Matrices",
-        "use",
-        "matrix inversion"
-    ],
-    [
-        "2 2",
-        "part of",
-        "2-D plane"
-    ],
-    [
-        "\u03b11",
-        "followed by",
-        "\u03b12"
     ],
     [
         "transpose",
@@ -85,19 +35,134 @@
         "operation"
     ],
     [
+        "scalar",
+        "different from",
+        "commutative"
+    ],
+    [
+        "tr(A)",
+        "instance of",
+        "transpose operator"
+    ],
+    [
+        "2.3 Identity and Inverse Matrices",
+        "uses",
+        "matrix inversion"
+    ],
+    [
+        "2",
+        "followed by",
+        "3"
+    ],
+    [
+        "norm",
+        "subclass of",
+        "function"
+    ],
+    [
+        "m m matrix",
+        "subclass of",
+        "matrices"
+    ],
+    [
+        "g(c)",
+        "subclass of",
+        "scalar"
+    ],
+    [
+        "transpose operator",
+        "facet of",
+        "matrices"
+    ],
+    [
+        "apathetic",
+        "opposite of",
+        "apathetic"
+    ],
+    [
+        "norm",
+        "subclass of",
+        "functions"
+    ],
+    [
+        "negative semidefinite",
+        "opposite of",
+        "positive definite"
+    ],
+    [
+        "\u03b11",
+        "followed by",
+        "\u03b12"
+    ],
+    [
+        "amplifying",
+        "uses",
+        "amplifying"
+    ],
+    [
         "minimally Euclidean norm",
         "subclass of",
         "linear equation"
     ],
     [
-        "2.3 Identity and Inverse Matrices",
-        "instance of",
-        "matrix inversion"
+        "eigenvalue",
+        "subclass of",
+        "eigenvectors"
     ],
     [
-        "vertically",
+        "\u03b1",
+        "has part",
+        "X"
+    ],
+    [
+        "2.4 Linear Dependence and Span",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "horizontally",
         "opposite of",
-        "horizontally"
+        "vertically"
+    ],
+    [
+        "tr(A)",
+        "instance of",
+        "trace operator"
+    ],
+    [
+        "\u03b1x",
+        "followed by",
+        "y"
+    ],
+    [
+        "m n matrix",
+        "subclass of",
+        "matrices"
+    ],
+    [
+        "indices",
+        "has part",
+        "sign"
+    ],
+    [
+        "Deep learning",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "X",
+        "part of",
+        "\u03b1"
+    ],
+    [
+        "mathematics",
+        "has part",
+        "linear algebra"
+    ],
+    [
+        "encoder function",
+        "subclass of",
+        "algorithm"
     ],
     [
         "eigenvectors",
@@ -105,9 +170,34 @@
         "matrices"
     ],
     [
-        "negative semidefinite",
-        "subclass of",
-        "positive definite"
+        "mathematics",
+        "has part",
+        "Linear algebra"
+    ],
+    [
+        "\u03b1",
+        "instance of",
+        "norm"
+    ],
+    [
+        "principal components analysis",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "vertically",
+        "opposite of",
+        "horizontally"
+    ],
+    [
+        "encoder function",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "linear algebra",
+        "part of",
+        "mathematics"
     ],
     [
         "minimally",
@@ -120,104 +210,24 @@
         "span"
     ],
     [
-        "norm",
-        "subclass of",
-        "functions"
+        "antipathy",
+        "opposite of",
+        "antipathy"
     ],
     [
-        "\u03b1",
-        "instance of",
-        "norm"
-    ],
-    [
-        "transpose",
-        "subclass of",
-        "operation"
-    ],
-    [
-        "2.4 Linear Dependence and Span",
-        "instance of",
-        "algorithm"
-    ],
-    [
-        "m m matrix",
-        "subclass of",
-        "matrices"
-    ],
-    [
-        "\u03b12",
-        "follows",
-        "\u03b11"
-    ],
-    [
-        "deep learning",
-        "subclass of",
-        "machine learning"
-    ],
-    [
-        "3",
-        "follows",
-        "2"
-    ],
-    [
-        "scalar",
-        "different from",
-        "commutative"
-    ],
-    [
-        "\u03b1x",
-        "followed by",
-        "y"
-    ],
-    [
-        "amplifying",
-        "uses",
-        "amplifying"
-    ],
-    [
-        "\u03b1",
-        "has part",
-        "X"
-    ],
-    [
-        "\u03b1",
-        "has part",
-        "y"
+        "2 2",
+        "part of",
+        "2-D plane"
     ],
     [
         "encoder function",
-        "subclass of",
-        "algorithm"
+        "use",
+        "encoding"
     ],
     [
-        "indices",
-        "has part",
-        "sign"
-    ],
-    [
-        "Scalars, Vectors, Matrices and Tensors",
-        "subclass of",
-        "Linear algebra"
-    ],
-    [
-        "horizontally",
-        "opposite of",
-        "vertically"
-    ],
-    [
-        "m n matrix",
-        "subclass of",
-        "matrices"
-    ],
-    [
-        "2.3 Identity and Inverse Matrices",
-        "uses",
-        "matrix inversion"
-    ],
-    [
-        "mathematics",
-        "has part",
-        "Linear algebra"
+        "eigenvalue",
+        "part of",
+        "eigenvectors"
     ],
     [
         "array",
@@ -225,44 +235,9 @@
         "tensor"
     ],
     [
-        "2-D plane",
-        "instance of",
-        "span"
-    ],
-    [
-        "apathetic",
-        "opposite of",
-        "apathetic"
-    ],
-    [
-        "antipathy",
-        "opposite of",
-        "antipathy"
-    ],
-    [
-        "negative semidefinite",
-        "opposite of",
-        "positive definite"
-    ],
-    [
-        "X",
-        "part of",
-        "\u03b1"
-    ],
-    [
-        "linear algebra",
-        "part of",
-        "mathematics"
-    ],
-    [
-        "indices",
-        "uses",
-        "sign"
-    ],
-    [
-        "minimally Euclidean norm",
+        "deep learning",
         "subclass of",
-        "norm"
+        "machine learning"
     ],
     [
         "negative definite",
@@ -270,19 +245,54 @@
         "positive definite"
     ],
     [
-        "encoder function",
+        "paramountously",
         "instance of",
         "algorithm"
     ],
     [
-        "principal components analysis",
+        "indices",
+        "subclass of",
+        "sign"
+    ],
+    [
+        "commutative",
+        "opposite of",
+        "scalar"
+    ],
+    [
+        "negative semidefinite",
+        "subclass of",
+        "positive definite"
+    ],
+    [
+        "minimally Euclidean norm",
+        "subclass of",
+        "norm"
+    ],
+    [
+        "Linear algebra",
+        "part of",
+        "mathematics"
+    ],
+    [
+        "2-D plane",
         "instance of",
-        "algorithm"
+        "span"
+    ],
+    [
+        "Scalars, Vectors, Matrices and Tensors",
+        "subclass of",
+        "Linear algebra"
+    ],
+    [
+        "\u03b12",
+        "follows",
+        "\u03b11"
     ],
     [
         "L2 norm",
-        "subclass of",
-        "distributive property"
+        "instance of",
+        "norm"
     ],
     [
         "L1 norm",
@@ -290,9 +300,9 @@
         "norm"
     ],
     [
-        "g(c)",
-        "subclass of",
-        "scalar"
+        "2.3 Identity and Inverse Matrices",
+        "instance of",
+        "matrix inversion"
     ],
     [
         "commutative",
@@ -300,23 +310,13 @@
         "scalar"
     ],
     [
-        "2",
-        "followed by",
-        "3"
+        "2.3 Identity and Inverse Matrices",
+        "use",
+        "matrix inversion"
     ],
     [
-        "transpose operator",
-        "facet of",
-        "matrices"
-    ],
-    [
-        "norm",
-        "subclass of",
-        "function"
-    ],
-    [
-        "tr(A)",
-        "instance of",
-        "transpose operator"
+        "indices",
+        "uses",
+        "sign"
     ]
 ]

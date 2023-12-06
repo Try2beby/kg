@@ -1,28 +1,18 @@
 [
     [
         "Convex optimization",
-        "part of",
+        "facet of",
         "deep learning"
     ],
     [
-        "2nd derivative",
-        "followed by",
-        "3rd derivative"
+        "maximization in the outer loop",
+        "subclass of",
+        "optimal point"
     ],
     [
-        "inflows",
+        "minimally",
         "subclass of",
-        "underflow"
-    ],
-    [
-        "Convex optimization",
-        "subclass of",
-        "optimization"
-    ],
-    [
-        "curvature",
-        "subclass of",
-        "second derivative"
+        "minimally"
     ],
     [
         "curvature information",
@@ -30,14 +20,49 @@
         "gradientdescent"
     ],
     [
-        "Convex optimization",
-        "facet of",
-        "deep learning"
+        "saddle-like",
+        "subclass of",
+        "saddle point"
     ],
     [
-        "minimization algorithm",
+        "underflow",
+        "subclass of",
+        "overflow"
+    ],
+    [
+        "minimization problem",
         "subclass of",
         "optimization"
+    ],
+    [
+        "hill climbing",
+        "subclass of",
+        "gradient descent"
+    ],
+    [
+        "global minimum",
+        "subclass of",
+        "minimization"
+    ],
+    [
+        "Lipschitz continuous",
+        "subclass of",
+        "function"
+    ],
+    [
+        "maximization in the outer loop",
+        "subclass of",
+        "constrained maximization"
+    ],
+    [
+        "minimally",
+        "different from",
+        "minimally"
+    ],
+    [
+        "GPUs",
+        "has part",
+        "GPUs"
     ],
     [
         "first-order optimization algorithm",
@@ -45,7 +70,82 @@
         "optimization algorithm"
     ],
     [
-        "minimizes",
+        "Convex optimization",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "curvature information",
+        "facet of",
+        "gradientdescent"
+    ],
+    [
+        "minimization problem",
+        "subclass of",
+        "constrained optimization"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "libraries"
+    ],
+    [
+        "gradient",
+        "different from",
+        "curvature"
+    ],
+    [
+        "2nd derivative",
+        "followed by",
+        "3rd derivative"
+    ],
+    [
+        "curvature information",
+        "facet of",
+        "optimization algorithm"
+    ],
+    [
+        "first-order optimization algorithm",
+        "subclass of",
+        "optimization algorithms"
+    ],
+    [
+        "maximization in the outer loop",
+        "subclass of",
+        "optimistically"
+    ],
+    [
+        "GPUs",
+        "has part",
+        "GPU"
+    ],
+    [
+        "curvature",
+        "different from",
+        "gradient"
+    ],
+    [
+        "2nd derivative",
+        "subclass of",
+        "derivative"
+    ],
+    [
+        "algorithm 4.1",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "saddle point",
+        "facet of",
+        "multiple dimensions"
+    ],
+    [
+        "curvature",
+        "subclass of",
+        "second derivative"
+    ],
+    [
+        "hill climbing",
         "subclass of",
         "optimization"
     ],
@@ -55,29 +155,19 @@
         "rounding error"
     ],
     [
-        "2nd derivative",
-        "subclass of",
-        "derivative"
-    ],
-    [
         "algorithm",
         "part of",
         "mathematical"
     ],
     [
-        "hill climbing",
+        "minimally",
         "subclass of",
-        "gradient descent"
+        "optimization"
     ],
     [
-        "2",
-        "length",
-        "2"
-    ],
-    [
-        "Lipschitz continuous",
+        "minimizes",
         "subclass of",
-        "function"
+        "optimization"
     ],
     [
         "saddle point",
@@ -85,34 +175,34 @@
         "multiple dimension"
     ],
     [
-        "saddle-like",
+        "Theano",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "0",
+        "point in time",
+        "0"
+    ],
+    [
+        "minimizes",
         "subclass of",
-        "saddle point"
+        "algorithm"
     ],
     [
-        "maximization in the outer loop",
+        "paramountously",
+        "opposite of",
+        "paramountously"
+    ],
+    [
+        "minimization algorithm",
         "subclass of",
-        "constrained maximization"
+        "optimization"
     ],
     [
-        "first-order optimization algorithm",
-        "subclass of",
-        "optimization algorithms"
-    ],
-    [
-        "gradient",
-        "different from",
-        "curvature"
-    ],
-    [
-        "curvature",
-        "different from",
-        "gradient"
-    ],
-    [
-        "minimally",
-        "subclass of",
-        "minimally"
+        "2",
+        "length",
+        "2"
     ],
     [
         "GPUs",
@@ -120,22 +210,27 @@
         "GPUs"
     ],
     [
-        "Theano",
-        "instance of",
-        "algorithm"
+        "inflows",
+        "subclass of",
+        "underflow"
     ],
     [
-        "bosom",
+        "saddle point",
         "subclass of",
         "eigenvector"
     ],
     [
-        "underflow",
-        "subclass of",
-        "overflow"
+        "saddle point",
+        "part of",
+        "multiple dimensions"
     ],
     [
-        "saddle point",
+        "algorithm",
+        "part of",
+        "numerical"
+    ],
+    [
+        "bosom",
         "subclass of",
         "eigenvector"
     ],
@@ -145,102 +240,7 @@
         "optimization"
     ],
     [
-        "algorithm 4.1",
-        "instance of",
-        "algorithm"
-    ],
-    [
-        "GPUs",
-        "has part",
-        "GPU"
-    ],
-    [
-        "minimally",
-        "subclass of",
-        "optimization"
-    ],
-    [
-        "algorithm",
-        "part of",
-        "numerical"
-    ],
-    [
-        "0",
-        "point in time",
-        "0"
-    ],
-    [
-        "minimization problem",
-        "subclass of",
-        "constrained optimization"
-    ],
-    [
-        "maximization in the outer loop",
-        "subclass of",
-        "optimal point"
-    ],
-    [
-        "paramountously",
-        "opposite of",
-        "paramountously"
-    ],
-    [
-        "saddle point",
-        "facet of",
-        "multiple dimensions"
-    ],
-    [
-        "minimally",
-        "different from",
-        "minimally"
-    ],
-    [
-        "curvature information",
-        "facet of",
-        "gradientdescent"
-    ],
-    [
-        "algorithm",
-        "part of",
-        "libraries"
-    ],
-    [
-        "minimizes",
-        "subclass of",
-        "algorithm"
-    ],
-    [
-        "minimization problem",
-        "subclass of",
-        "optimization"
-    ],
-    [
-        "GPUs",
-        "has part",
-        "GPUs"
-    ],
-    [
-        "maximization in the outer loop",
-        "subclass of",
-        "optimistically"
-    ],
-    [
-        "curvature information",
-        "facet of",
-        "optimization algorithm"
-    ],
-    [
-        "saddle point",
-        "part of",
-        "multiple dimensions"
-    ],
-    [
-        "global minimum",
-        "subclass of",
-        "minimization"
-    ],
-    [
-        "hill climbing",
+        "Convex optimization",
         "subclass of",
         "optimization"
     ]

@@ -1,263 +1,8 @@
 [
     [
-        "massively parallel",
-        "subclass of",
-        "massively parallel network"
-    ],
-    [
-        "parametric",
-        "subclass of",
-        "algorithm"
-    ],
-    [
-        "Noise injection",
-        "facet of",
-        "unsupervised learning"
-    ],
-    [
-        "minimally-distributed",
-        "facet of",
-        "minimally-distributed"
-    ],
-    [
-        "minimally invasive",
-        "subclass of",
-        "minimally invasive"
-    ],
-    [
-        "minimization",
-        "facet of",
-        "stochastic"
-    ],
-    [
-        "datasets",
-        "facet of",
-        "algorithm"
-    ],
-    [
-        "minimally linear",
-        "subclass of",
-        "approximation"
-    ],
-    [
-        "Noise injection",
-        "subclass of",
-        "unsupervised learning"
-    ],
-    [
-        "Ensemble of subnetworks",
-        "subclass of",
-        "network"
-    ],
-    [
         "autoencoder",
-        "use",
-        "machine learning"
-    ],
-    [
-        "L1 regularized objective function",
-        "different from",
-        "L2 weight decay"
-    ],
-    [
-        "minimally invasive",
-        "subclass of",
-        "algorithm"
-    ],
-    [
-        "supervised paradigm",
-        "subclass of",
-        "model architecture"
-    ],
-    [
-        "sparse activity regularization",
-        "instance of",
-        "regularization"
-    ],
-    [
-        "LASSO",
-        "subclass of",
-        "linear model"
-    ],
-    [
-        "\u03b1",
-        "part of",
-        "\u03bb"
-    ],
-    [
-        "early stopping",
-        "instance of",
-        "meta-algorithm"
-    ],
-    [
-        "\u03b1",
-        "instance of",
-        "norm"
-    ],
-    [
-        "thetangent prop algorithm",
-        "instance of",
-        "algorithm"
-    ],
-    [
-        "overfitting",
-        "subclass of",
-        "bias"
-    ],
-    [
-        "minimally invasive",
-        "subclass of",
-        "minimally invasive methods"
-    ],
-    [
-        "Ensemble of subnetworks",
-        "subclass of",
-        "Ensemble"
-    ],
-    [
-        "LASSO",
-        "instance of",
-        "MAP Bayesian inference"
-    ],
-    [
-        "unnormalized probability",
-        "subclass of",
-        "probability distribution"
-    ],
-    [
-        "paramountously",
-        "part of",
-        "paramountously"
-    ],
-    [
-        "\u03b1",
-        "instance of",
-        "log\u03b1"
-    ],
-    [
-        "unsupervised",
-        "opposite of",
-        "supervised"
-    ],
-    [
-        "minimization",
-        "facet of",
-        "regression"
-    ],
-    [
-        "norm penalty",
-        "subclass of",
-        "Regularization"
-    ],
-    [
-        "GPUs",
-        "has part",
-        "GPU"
-    ],
-    [
-        "DropConnect",
-        "instance of",
-        "implicit ensemble method"
-    ],
-    [
-        "sexual reproduction",
-        "studied by",
-        "biology"
-    ],
-    [
-        "\u03c0",
-        "part of",
-        "\u1e0f"
-    ],
-    [
-        "L1",
-        "followed by",
-        "L2"
-    ],
-    [
-        "paramountously",
-        "has part",
-        "paramountously"
-    ],
-    [
-        "\u03b1",
-        "followed by",
-        "\u03c0"
-    ],
-    [
-        "paramountously",
-        "opposite of",
-        "paramountously"
-    ],
-    [
-        "convolutional neural network",
-        "instance of",
-        "supervised paradigm"
-    ],
-    [
-        "L2 weight decay",
-        "different from",
-        "L1 regularized objective function"
-    ],
-    [
-        "suppressively",
-        "opposite of",
-        "suppressively"
-    ],
-    [
-        "GPUs",
-        "different from",
-        "GPUs"
-    ],
-    [
-        "linear regression",
-        "facet of",
-        "linear algebra"
-    ],
-    [
-        "GPUs",
-        "different from",
-        "CPU"
-    ],
-    [
-        "GPU",
-        "part of",
-        "GPUs"
-    ],
-    [
-        "GPUs",
-        "opposite of",
-        "CPU"
-    ],
-    [
-        "7.2 A meta-algorithm for using early stopping",
-        "instance of",
-        "algorithm"
-    ],
-    [
-        "Tangent propagation",
-        "instance of",
-        "datasets augmentation"
-    ],
-    [
-        "7.1 The early stopping meta-algorithm for determining the best TAMADRAamount of time to train",
-        "publication date",
-        "7.1"
-    ],
-    [
-        "linear regression",
         "facet of",
         "machine learning"
-    ],
-    [
-        "eigenvectors of H",
-        "subclass of",
-        "orthonormal basis"
-    ],
-    [
-        "GoogLeNet",
-        "instance of",
-        "supervised neural nets"
     ],
     [
         "unnormalized",
@@ -265,44 +10,24 @@
         "probability distribution"
     ],
     [
-        "optimization",
-        "facet of",
-        "machine learning"
-    ],
-    [
-        "amplifying noise",
+        "Input noise injection",
         "subclass of",
-        "amplifying noise"
+        "unsupervised learning"
     ],
     [
         "\u03b1",
         "instance of",
-        "squared error"
+        "log\u03b1"
     ],
     [
-        "minimally parametrized",
+        "L2 penalty",
         "subclass of",
-        "linear regression"
+        "gradient descent"
     ],
     [
-        "OMP-1",
-        "instance of",
-        "sparse"
-    ],
-    [
-        "minimally modified",
+        "minimally linear",
         "subclass of",
-        "learning algorithm"
-    ],
-    [
-        "arithmetic mean",
-        "facet of",
-        "probability distribution"
-    ],
-    [
-        "retaining",
-        "subclass of",
-        "training"
+        "approximation"
     ],
     [
         "sparse activity regularization",
@@ -310,183 +35,68 @@
         "regularization"
     ],
     [
-        "optimization",
-        "part of",
-        "machine learning"
+        "atrociously",
+        "opposite of",
+        "atrociously"
     ],
     [
-        "optimization",
-        "subclass of",
-        "machine learning"
-    ],
-    [
-        "linear regression",
-        "subclass of",
-        "machine learning"
-    ],
-    [
-        "autoencoder",
-        "facet of",
-        "machine learning"
-    ],
-    [
-        "maxout network",
-        "subclass of",
-        "deep learning"
-    ],
-    [
-        "CPUs",
-        "has part",
-        "memory"
-    ],
-    [
-        "maxout network",
-        "part of",
-        "deep learning"
-    ],
-    [
-        "\u03b1 coefficient",
+        "L2 parameter norm penalty",
         "instance of",
-        "hyperparameter"
+        "norm penalty"
     ],
     [
-        "Second resampled dataset",
-        "follows",
-        "FIRST resampled dataset"
+        "\u03b1w",
+        "part of",
+        "total objective function"
     ],
     [
-        "unrecognized",
-        "different from",
-        "unrecognised"
+        "GPUs",
+        "opposite of",
+        "CPU"
     ],
     [
         "\u03b1",
-        "instance of",
-        "sign"
-    ],
-    [
-        "unsupervised",
-        "subclass of",
-        "supervised learning"
-    ],
-    [
-        "overfitting",
-        "subclass of",
-        "suppressing variance"
-    ],
-    [
-        "minimally-distributed",
-        "subclass of",
-        "minimally-distributed"
-    ],
-    [
-        "convolution",
-        "facet of",
-        "machine learning"
-    ],
-    [
-        "FIRST resampled dataset",
-        "followed by",
-        "Second resampled dataset"
-    ],
-    [
-        "minimally significant",
-        "subclass of",
-        "minimally significant"
+        "has part",
+        "\u03bb"
     ],
     [
         "minimization",
         "facet of",
-        "minimization"
+        "regression"
     ],
     [
-        "thetangent prop",
-        "instance of",
-        "algorithm"
-    ],
-    [
-        "Ensemble of subnetworks",
-        "subclass of",
-        "ensemble"
-    ],
-    [
-        "restricted Boltzmann machine",
-        "subclass of",
-        "neural network"
-    ],
-    [
-        "convolution",
-        "subclass of",
+        "linear regression",
+        "facet of",
         "machine learning"
     ],
     [
-        "explicit constraints",
-        "opposite of",
-        "penalty"
+        "minimally invasive",
+        "subclass of",
+        "minimally invasive methods"
     ],
     [
-        "paramountously",
-        "facet of",
-        "paramountously"
+        "Tangent propagation",
+        "subclass of",
+        "datasets augmentation"
     ],
     [
-        "convolution",
+        "supervised",
+        "different from",
+        "unsupervised"
+    ],
+    [
+        "convolutional neural network",
+        "instance of",
+        "supervised paradigm"
+    ],
+    [
+        "Generative component",
         "part of",
-        "machine learning"
-    ],
-    [
-        "L2 penalty",
-        "facet of",
-        "gradient descent"
+        "deep learning"
     ],
     [
         "Tangent propagation",
-        "facet of",
-        "supervised learning"
-    ],
-    [
-        "L2 penalty",
-        "subclass of",
-        "gradient descent"
-    ],
-    [
-        "7.2 A meta-algorithm for using early stopping",
-        "point in time",
-        "7.2"
-    ],
-    [
-        "unrecognised",
-        "different from",
-        "unrecognized"
-    ],
-    [
-        "underfitting",
-        "subclass of",
-        "algorithm"
-    ],
-    [
-        "L2 parameter norm penalty",
-        "subclass of",
-        "norm penalty"
-    ],
-    [
-        "minimally parametrized",
-        "subclass of",
-        "sparsely parametrized"
-    ],
-    [
-        "unrecognised",
-        "different from",
-        "unrecognised"
-    ],
-    [
-        "GoogLeNet",
         "instance of",
-        "supervised neural net"
-    ],
-    [
-        "Tangent propagation",
-        "subclass of",
         "datasets augmentation"
     ],
     [
@@ -495,14 +105,29 @@
         "suppressing"
     ],
     [
-        "L2",
-        "follows",
-        "L1"
+        "supervised paradigm",
+        "subclass of",
+        "models"
     ],
     [
-        "Generative component",
-        "subclass of",
+        "optimization",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "maxout network",
+        "facet of",
         "deep learning"
+    ],
+    [
+        "GPU",
+        "part of",
+        "GPUs"
+    ],
+    [
+        "sparse activity regularization",
+        "instance of",
+        "regularization"
     ],
     [
         "underfitting",
@@ -510,19 +135,19 @@
         "machine learning"
     ],
     [
-        "\u03b1w",
-        "part of",
-        "total objective function"
+        "\u03b1",
+        "instance of",
+        "sign"
     ],
     [
-        "Generative component",
+        "optimization",
         "part of",
-        "deep learning"
+        "machine learning"
     ],
     [
-        "2",
-        "part of",
-        "7"
+        "CPUs",
+        "has part",
+        "memory"
     ],
     [
         "minimization",
@@ -530,9 +155,54 @@
         "learning"
     ],
     [
-        "unsupervised",
-        "different from",
-        "supervised"
+        "\u03b1",
+        "instance of",
+        "norm"
+    ],
+    [
+        "7.2 A meta-algorithm for using early stopping",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "suppressively",
+        "opposite of",
+        "suppressively"
+    ],
+    [
+        "sexual reproduction",
+        "studied by",
+        "biology"
+    ],
+    [
+        "parametric",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "LASSO",
+        "subclass of",
+        "linear model"
+    ],
+    [
+        "overfitting",
+        "subclass of",
+        "suppressing variance"
+    ],
+    [
+        "L2",
+        "follows",
+        "L1"
+    ],
+    [
+        "Ensemble of subnetworks",
+        "subclass of",
+        "ensemble"
+    ],
+    [
+        "Tangent propagation",
+        "facet of",
+        "supervised learning"
     ],
     [
         "LASSO",
@@ -540,39 +210,69 @@
         "linear model"
     ],
     [
-        "\u1e0f",
-        "has part",
-        "\u03c0"
-    ],
-    [
-        "OMP-1",
-        "use",
-        "model averaging"
-    ],
-    [
-        "atrociously",
+        "unsupervised",
         "opposite of",
-        "atrociously"
+        "supervised"
     ],
     [
-        "algorithm",
+        "unrecognised",
+        "different from",
+        "unrecognized"
+    ],
+    [
+        "DropConnect",
+        "instance of",
+        "implicit ensemble"
+    ],
+    [
+        "Ensemble of subnetworks",
+        "subclass of",
+        "network"
+    ],
+    [
+        "massively parallel",
+        "subclass of",
+        "massively parallel network"
+    ],
+    [
+        "paramountously",
         "part of",
-        "machine learning"
+        "paramountously"
+    ],
+    [
+        "explicit constraints",
+        "opposite of",
+        "penalty"
+    ],
+    [
+        "7.2",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "DropConnect",
+        "instance of",
+        "implicit ensemble method"
+    ],
+    [
+        "\u03b1 coefficient",
+        "subclass of",
+        "hyperparameter"
+    ],
+    [
+        "unrecognised",
+        "different from",
+        "unrecognised"
     ],
     [
         "\u03b1",
-        "has part",
-        "\u03bb"
+        "instance of",
+        "squared error"
     ],
     [
-        "Input noise injection",
+        "linear regression",
         "subclass of",
-        "unsupervised learning"
-    ],
-    [
-        "L2 norm",
-        "subclass of",
-        "norm"
+        "machine learning"
     ],
     [
         "early stopping",
@@ -581,18 +281,18 @@
     ],
     [
         "\u03b1 coefficient",
-        "subclass of",
+        "instance of",
         "hyperparameter"
     ],
     [
-        "OMP-1",
-        "instance of",
-        "model averaging"
+        "Generative component",
+        "subclass of",
+        "deep learning"
     ],
     [
-        "7.2",
-        "instance of",
-        "algorithm"
+        "minimally-distributed",
+        "facet of",
+        "minimally-distributed"
     ],
     [
         "amplifying",
@@ -600,14 +300,229 @@
         "amplifying"
     ],
     [
-        "supervised paradigm",
+        "GoogLeNet",
+        "instance of",
+        "supervised neural nets"
+    ],
+    [
+        "convolution",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "LASSO",
+        "instance of",
+        "MAP Bayesian inference"
+    ],
+    [
+        "Noise injection",
         "subclass of",
-        "models"
+        "unsupervised learning"
+    ],
+    [
+        "eigenvectors of H",
+        "subclass of",
+        "orthonormal basis"
+    ],
+    [
+        "GPUs",
+        "different from",
+        "GPUs"
+    ],
+    [
+        "2",
+        "length",
+        "7"
+    ],
+    [
+        "paramountously",
+        "has part",
+        "paramountously"
+    ],
+    [
+        "FIRST resampled dataset",
+        "followed by",
+        "Second resampled dataset"
+    ],
+    [
+        "unrecognized",
+        "different from",
+        "unrecognised"
+    ],
+    [
+        "Ensemble of subnetworks",
+        "subclass of",
+        "Ensemble"
+    ],
+    [
+        "optimization",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "unsupervised",
+        "subclass of",
+        "supervised learning"
+    ],
+    [
+        "minimally invasive",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "paramountously",
+        "opposite of",
+        "paramountously"
+    ],
+    [
+        "amplifying noise",
+        "subclass of",
+        "amplifying noise"
+    ],
+    [
+        "OMP-1",
+        "use",
+        "model averaging"
+    ],
+    [
+        "GPUs",
+        "has part",
+        "GPU"
+    ],
+    [
+        "generative component",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "maxout network",
+        "subclass of",
+        "deep learning"
+    ],
+    [
+        "OMP-1",
+        "instance of",
+        "sparse"
+    ],
+    [
+        "thetangent prop algorithm",
+        "instance of",
+        "algorithm"
     ],
     [
         "Gradient",
         "subclass of",
         "function"
+    ],
+    [
+        "L1",
+        "followed by",
+        "L2"
+    ],
+    [
+        "minimally modified",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "\u03b1",
+        "part of",
+        "\u03bb"
+    ],
+    [
+        "\u03b1",
+        "followed by",
+        "\u03c0"
+    ],
+    [
+        "\u03c0",
+        "part of",
+        "\u1e0f"
+    ],
+    [
+        "linear regression",
+        "facet of",
+        "linear algebra"
+    ],
+    [
+        "7.2 A meta-algorithm for using early stopping",
+        "point in time",
+        "7.2"
+    ],
+    [
+        "L2 parameter norm penalty",
+        "subclass of",
+        "norm penalty"
+    ],
+    [
+        "minimally-distributed",
+        "subclass of",
+        "minimally-distributed"
+    ],
+    [
+        "early stopping",
+        "instance of",
+        "meta-algorithm"
+    ],
+    [
+        "minimally significant",
+        "subclass of",
+        "minimally significant"
+    ],
+    [
+        "L1 regularized objective function",
+        "different from",
+        "L2 weight decay"
+    ],
+    [
+        "7.1 The early stopping meta-algorithm for determining the best TAMADRAamount of time to train",
+        "publication date",
+        "7.1"
+    ],
+    [
+        "minimally modified",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "maxout network",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "convolution",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "Noise injection",
+        "facet of",
+        "unsupervised learning"
+    ],
+    [
+        "GoogLeNet",
+        "instance of",
+        "supervised neural net"
+    ],
+    [
+        "retaining",
+        "subclass of",
+        "training"
+    ],
+    [
+        "minimization",
+        "facet of",
+        "minimization"
+    ],
+    [
+        "minimally invasive",
+        "subclass of",
+        "minimally invasive"
+    ],
+    [
+        "arithmetic mean",
+        "facet of",
+        "probability distribution"
     ],
     [
         "back-propagation",
@@ -616,33 +531,98 @@
     ],
     [
         "2",
-        "length",
+        "part of",
         "7"
     ],
     [
-        "L2 parameter norm penalty",
-        "instance of",
-        "norm penalty"
+        "restricted Boltzmann machine",
+        "subclass of",
+        "neural network"
     ],
     [
-        "maxout network",
-        "facet of",
-        "deep learning"
+        "norm penalty",
+        "subclass of",
+        "Regularization"
     ],
     [
-        "generative component",
-        "part of",
-        "deep learning"
+        "\u1e0f",
+        "has part",
+        "\u03c0"
     ],
     [
-        "DropConnect",
-        "instance of",
-        "implicit ensemble"
+        "supervised paradigm",
+        "subclass of",
+        "model architecture"
     ],
     [
-        "supervised",
+        "GPUs",
         "different from",
-        "unsupervised"
+        "CPU"
+    ],
+    [
+        "L2 penalty",
+        "facet of",
+        "gradient descent"
+    ],
+    [
+        "overfitting",
+        "subclass of",
+        "bias"
+    ],
+    [
+        "paramountously",
+        "facet of",
+        "paramountously"
+    ],
+    [
+        "autoencoder",
+        "use",
+        "machine learning"
+    ],
+    [
+        "L2 norm",
+        "subclass of",
+        "norm"
+    ],
+    [
+        "thetangent prop",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "unnormalized probability",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "OMP-1",
+        "instance of",
+        "model averaging"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "Second resampled dataset",
+        "follows",
+        "FIRST resampled dataset"
+    ],
+    [
+        "convolution",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "datasets",
+        "facet of",
+        "algorithm"
+    ],
+    [
+        "underfitting",
+        "subclass of",
+        "algorithm"
     ],
     [
         "autoencoder",
@@ -650,8 +630,28 @@
         "machine learning"
     ],
     [
-        "minimally modified",
+        "unsupervised",
+        "different from",
+        "supervised"
+    ],
+    [
+        "minimally parametrized",
         "subclass of",
-        "algorithm"
+        "linear regression"
+    ],
+    [
+        "minimization",
+        "facet of",
+        "stochastic"
+    ],
+    [
+        "minimally parametrized",
+        "subclass of",
+        "sparsely parametrized"
+    ],
+    [
+        "L2 weight decay",
+        "different from",
+        "L1 regularized objective function"
     ]
 ]

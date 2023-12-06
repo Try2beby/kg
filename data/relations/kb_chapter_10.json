@@ -1,1 +1,102 @@
-[]
+[
+    [
+        "Ketamine",
+        "has part",
+        "Ketamine"
+    ],
+    [
+        "Teacher forcing",
+        "facet of",
+        "Recurrent neural network"
+    ],
+    [
+        "Recurrent neural network",
+        "subclass of",
+        "Neural network"
+    ],
+    [
+        "Teacher forcing",
+        "subclass of",
+        "Recurrent neural network"
+    ],
+    [
+        "Recurrent neural network",
+        "use",
+        "Deep learning"
+    ],
+    [
+        "Graphics processing unit",
+        "different from",
+        "Graphics processing unit"
+    ],
+    [
+        "9",
+        "point in time",
+        "9"
+    ],
+    [
+        "Graphics processing unit",
+        "has part",
+        "Graphics processing unit"
+    ],
+    [
+        "Genealogy",
+        "subclass of",
+        "Phylogenetics"
+    ],
+    [
+        "Eigenvalues and eigenvectors",
+        "has part",
+        "Eigenvalues and eigenvectors"
+    ],
+    [
+        "Eigenvalues and eigenvectors",
+        "subclass of",
+        "Complex number"
+    ],
+    [
+        "Parametric equation",
+        "opposite of",
+        "Determinism"
+    ],
+    [
+        "Teacher forcing",
+        "uses",
+        "Recurrent neural network"
+    ],
+    [
+        "Cross-entropy",
+        "facet of",
+        "Probability distribution"
+    ],
+    [
+        "Graphics processing unit",
+        "part of",
+        "Graphics processing unit"
+    ],
+    [
+        "Backpropagation through time",
+        "facet of",
+        "Recurrent neural network"
+    ],
+    [
+        "9",
+        "followed by",
+        "10"
+    ],
+    [
+        "Eigenvalues and eigenvectors",
+        "part of",
+        "Eigenvalues and eigenvectors"
+    ],
+    [
+        "Graphics processing unit",
+        "subclass of",
+        "Graphics processing unit"
+    ],
+    [
+        "Parametric equation",
+        "subclass of",
+        "Conditional probability distribution"
+    ]
+]

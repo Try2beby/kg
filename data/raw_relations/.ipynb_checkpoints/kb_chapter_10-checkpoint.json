@@ -1,0 +1,647 @@
+[
+    [
+        "2.4 Modeling Sequences Conditioned on Context with RNNs",
+        "follows",
+        "9.9.1"
+    ],
+    [
+        "parametrization",
+        "part of",
+        "computational"
+    ],
+    [
+        "back-propagation",
+        "subclass of",
+        "propagate"
+    ],
+    [
+        "parametric",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "instance of",
+        "recurrent neural network"
+    ],
+    [
+        "RECursive neural network",
+        "subclass of",
+        "computational graph"
+    ],
+    [
+        "parametric",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "facet of",
+        "neural Turing machine"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "part of",
+        "Neural Turing machine"
+    ],
+    [
+        "7082",
+        "point in time",
+        "7083"
+    ],
+    [
+        "amplifying",
+        "has part",
+        "amplifying amplifiers"
+    ],
+    [
+        "cross-entropy loss",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "Explicit Memory",
+        "subclass of",
+        "Neural network"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "part of",
+        "neural Turing machine"
+    ],
+    [
+        "eigenvector",
+        "has part",
+        "eigenvalue"
+    ],
+    [
+        "2.4 Modeling Sequences Conditioned on Context with RNNs",
+        "follows",
+        "6.1"
+    ],
+    [
+        "6.1",
+        "followed by",
+        "2.4 Modeling Sequences Conditioned on Context with RNNs"
+    ],
+    [
+        "2 Other Gated RNNs",
+        "subclass of",
+        "LSTM"
+    ],
+    [
+        "inflows",
+        "subclass of",
+        "inflows"
+    ],
+    [
+        "eigenvector",
+        "subclass of",
+        "complex-valued"
+    ],
+    [
+        "2 Other Gated RNNs",
+        "part of",
+        "LSTM"
+    ],
+    [
+        "self-loop",
+        "subclass of",
+        "recurrent network"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "has part",
+        "encoder"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "use",
+        "deep learning"
+    ],
+    [
+        "BPTT algorithm",
+        "facet of",
+        "recurrent neural network"
+    ],
+    [
+        "self-loop",
+        "part of",
+        "recurrent network"
+    ],
+    [
+        "Recurrent neural networks",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "RECurrent neural network",
+        "subclass of",
+        "recurrent neural network"
+    ],
+    [
+        "LSTM cell",
+        "part of",
+        "LSTM"
+    ],
+    [
+        "GRUs",
+        "subclass of",
+        "Memory network"
+    ],
+    [
+        "RECURRENT",
+        "subclass of",
+        "NETS"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "has part",
+        "writer"
+    ],
+    [
+        "Recursive network",
+        "subclass of",
+        "tree structure"
+    ],
+    [
+        "Convolutional network",
+        "uses",
+        "convolution"
+    ],
+    [
+        "parametrized",
+        "subclass of",
+        "conditional distribution"
+    ],
+    [
+        "9 Leaky Units and Other Strategies for Multiple=-=-=-=-=-=-=-=-=-=-=-=-",
+        "instance of",
+        "sparse initialization scheme"
+    ],
+    [
+        "long short-term memory",
+        "subclass of",
+        "gated RNN"
+    ],
+    [
+        "writer",
+        "subclass of",
+        "RNN"
+    ],
+    [
+        "sparse initialization scheme",
+        "facet of",
+        "echo state network"
+    ],
+    [
+        "sparse initialization scheme",
+        "part of",
+        "echo state network"
+    ],
+    [
+        "suppressively",
+        "opposite of",
+        "suppressively"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "facet of",
+        "recurrent neural network"
+    ],
+    [
+        "GPUs",
+        "different from",
+        "GPUs"
+    ],
+    [
+        "RECURRENT",
+        "subclass of",
+        "recurrent network"
+    ],
+    [
+        "9",
+        "followed by",
+        "10"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "facet of",
+        "recurrent network"
+    ],
+    [
+        "explicit memory",
+        "subclass of",
+        "memory cell"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "subclass of",
+        "recurrent neural network"
+    ],
+    [
+        "parametrized",
+        "opposite of",
+        "deterministic"
+    ],
+    [
+        "computational graph",
+        "subclass of",
+        "graph"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "subclass of",
+        "Recursive network"
+    ],
+    [
+        "SETTLEMENT",
+        "part of",
+        "SETTLEMENT II"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "subclass of",
+        "explicit memory"
+    ],
+    [
+        "amplifying",
+        "subclass of",
+        "amplifying amplifiers"
+    ],
+    [
+        "ketamine",
+        "has part",
+        "ketamine"
+    ],
+    [
+        "Teacher forcing",
+        "subclass of",
+        "recurrent neural network"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "instance of",
+        "conditional recurrent neural network"
+    ],
+    [
+        "Teacher forcing",
+        "facet of",
+        "RNN"
+    ],
+    [
+        "encoder-decoder",
+        "subclass of",
+        "sequence-to-sequence RNN architecture"
+    ],
+    [
+        "Encoder-Decoder Sequence-to-Sequence",
+        "has part",
+        "decoder RNN"
+    ],
+    [
+        "back-propagation through time",
+        "subclass of",
+        "recurrent network"
+    ],
+    [
+        "neuron",
+        "part of",
+        "recurrent network"
+    ],
+    [
+        "long short-term memory",
+        "subclass of",
+        "gated"
+    ],
+    [
+        "9.9.1",
+        "followed by",
+        "2.4 Modeling Sequences Conditioned on Context with RNNs"
+    ],
+    [
+        "Teacher forcing",
+        "instance of",
+        "training technique"
+    ],
+    [
+        "SETTLEMENTS",
+        "has part",
+        "SETTLEMENTS"
+    ],
+    [
+        "Bidirectional recurrent neural network",
+        "opposite of",
+        "convolutional network"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "instance of",
+        "computational graph"
+    ],
+    [
+        "parametrization",
+        "studied by",
+        "computational"
+    ],
+    [
+        "Recurrent neural network",
+        "use",
+        "deep learning"
+    ],
+    [
+        "parametrization",
+        "part of",
+        "graphical model"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "instance of",
+        "graph"
+    ],
+    [
+        "encoder",
+        "subclass of",
+        "RNN"
+    ],
+    [
+        "inflows",
+        "subclass of",
+        "eddy currents"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "instance of",
+        "recurrent network"
+    ],
+    [
+        "recurrent neural network",
+        "different from",
+        "RECurrent neural network"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "instance of",
+        "RNN"
+    ],
+    [
+        "FIRST derivative",
+        "followed by",
+        "second derivative"
+    ],
+    [
+        "cross-entropy",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "eigenvalue spectrum",
+        "facet of",
+        "Jacobian"
+    ],
+    [
+        "MLP",
+        "subclass of",
+        "recurrent neural network"
+    ],
+    [
+        "Nesterov momentum",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Teacher forcing",
+        "uses",
+        "recurrent neural network"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "subclass of",
+        "deep learning"
+    ],
+    [
+        "eigenvalue spectrum",
+        "subclass of",
+        "Jacobian"
+    ],
+    [
+        "neurons",
+        "part of",
+        "recurrent network"
+    ],
+    [
+        "long short-term memory",
+        "subclass of",
+        "Gated RNN"
+    ],
+    [
+        "eigenvalue spectrum",
+        "part of",
+        "Jacobian"
+    ],
+    [
+        "genealogy",
+        "subclass of",
+        "phylogenetic"
+    ],
+    [
+        "GPUs",
+        "subclass of",
+        "GPUs"
+    ],
+    [
+        "Recurrent neural network",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "BPTT",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "SETTMENTS",
+        "part of",
+        "SETTLEMENTS"
+    ],
+    [
+        "Mean squared error",
+        "subclass of",
+        "loss"
+    ],
+    [
+        "GPUs",
+        "part of",
+        "GPUs"
+    ],
+    [
+        "eigenvalue",
+        "part of",
+        "eigenvector"
+    ],
+    [
+        "RECurrent neural network",
+        "subclass of",
+        "computational graph"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "uses",
+        "explicit memory"
+    ],
+    [
+        "9",
+        "point in time",
+        "9"
+    ],
+    [
+        "back-propagation",
+        "subclass of",
+        "recurrent network"
+    ],
+    [
+        "second derivative",
+        "follows",
+        "FIRST derivative"
+    ],
+    [
+        "explicit",
+        "subclass of",
+        "knowledge"
+    ],
+    [
+        "declarative",
+        "subclass of",
+        "knowledge"
+    ],
+    [
+        "decoder",
+        "subclass of",
+        "RNN"
+    ],
+    [
+        "encoder-decoder",
+        "subclass of",
+        "recurrent network"
+    ],
+    [
+        "Bidirectional recurrent neural network",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "Recursive network",
+        "subclass of",
+        "neural net"
+    ],
+    [
+        "GRUs",
+        "subclass of",
+        "Memory networks"
+    ],
+    [
+        "Teacher forcing",
+        "facet of",
+        "RNNs"
+    ],
+    [
+        "Encoder-Decoder Sequence-to-Sequence",
+        "has part",
+        "encoder RNN"
+    ],
+    [
+        "SETTLEMENTS",
+        "part of",
+        "SETTLEMENTS"
+    ],
+    [
+        "RECurrent neural network",
+        "different from",
+        "RECURRENT AND RECURSIVE NETS"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "subclass of",
+        "computational graph"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "subclass of",
+        "bidirectional recurrent neural network"
+    ],
+    [
+        "RECurrent Neural Networks",
+        "subclass of",
+        "recurrent neural network"
+    ],
+    [
+        "Teacher forcing",
+        "facet of",
+        "recurrent neural network"
+    ],
+    [
+        "BPTT",
+        "facet of",
+        "recurrent neural network"
+    ],
+    [
+        "parametrize",
+        "subclass of",
+        "computational graph"
+    ],
+    [
+        "GPUs",
+        "has part",
+        "GPUs"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "different from",
+        "RECurrent neural network"
+    ],
+    [
+        "suppressively",
+        "different from",
+        "suppressively"
+    ],
+    [
+        "parametrize",
+        "part of",
+        "computational graph"
+    ],
+    [
+        "RECurrent neural network",
+        "different from",
+        "recurrent neural network"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "subclass of",
+        "recurrent network"
+    ],
+    [
+        "amplifying",
+        "subclass of",
+        "amplifying"
+    ],
+    [
+        "RECurrent Neural Networks",
+        "subclass of",
+        "recurrent neural networks"
+    ],
+    [
+        "GRUs",
+        "has part",
+        "Memory network"
+    ],
+    [
+        "inflows",
+        "subclass of",
+        "editing"
+    ],
+    [
+        "parametrize",
+        "subclass of",
+        "computation"
+    ]
+]

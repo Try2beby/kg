@@ -1,153 +1,43 @@
 [
     [
+        "algorithmic",
+        "part of",
+        "artificial intelligence"
+    ],
+    [
+        "algorithmic",
+        "studies",
+        "machine learning"
+    ],
+    [
+        "P(x,y = y)",
+        "instance of",
+        "probability mass function"
+    ],
+    [
+        "normalize",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
         "\u03b2",
         "has part",
         "\u03c6"
     ],
     [
-        "normalized",
-        "subclass of",
-        "uniform distribution"
-    ],
-    [
-        "parametric",
-        "facet of",
-        "probability distribution"
-    ],
-    [
-        "6",
-        "area",
-        "9"
-    ],
-    [
-        "encoding schemes",
-        "part of",
-        "information theory"
-    ],
-    [
-        "graph theory",
-        "studies",
-        "graphs"
-    ],
-    [
-        "asymmetric",
-        "subclass of",
-        "distribution"
-    ],
-    [
-        "\u03c3 1(x)",
-        "instance of",
-        "logit"
-    ],
-    [
         "parametric",
         "part of",
         "probability distribution"
     ],
     [
-        "algorithm",
-        "part of",
-        "mathematical"
+        "Germany",
+        "language used",
+        "German"
     ],
     [
-        "CPUs",
-        "used by",
-        "software"
-    ],
-    [
-        "probability distribution",
-        "studied by",
-        "Probability theory"
-    ],
-    [
-        "datasets",
-        "subclass of",
-        "probability distribution"
-    ],
-    [
-        "algorithmic",
-        "facet of",
-        "artificial intelligence"
-    ],
-    [
-        "computer scientist",
-        "has part",
-        "software engineering"
-    ],
-    [
-        "algorithmic",
-        "part of",
-        "artificial intelligence"
-    ],
-    [
-        "Most birds fly",
-        "studied by",
-        "Probability theory"
-    ],
-    [
-        "Probability theory",
-        "studies",
-        "probability distribution"
-    ],
-    [
-        "Bernoulli distribution",
-        "subclass of",
-        "distribution"
-    ],
-    [
-        "graph theory",
-        "studies",
-        "graph"
-    ],
-    [
-        "graphs",
-        "studied by",
-        "graph theory"
-    ],
-    [
-        "normalizing constant",
-        "part of",
-        "probability distribution"
-    ],
-    [
-        "\u03c3",
-        "facet of",
-        "\u03c3"
-    ],
-    [
-        "Bayesian probability",
-        "studied by",
-        "Probability theory"
-    ],
-    [
-        "normalized",
-        "subclass of",
-        "probability distribution"
-    ],
-    [
-        "P",
-        "facet of",
-        "probability distribution"
-    ],
-    [
-        "covariance",
-        "facet of",
-        "probability distribution"
-    ],
-    [
-        "pathetically",
-        "studied by",
-        "measure theory"
-    ],
-    [
-        "probability distribution",
-        "studied by",
-        "information theory"
-    ],
-    [
-        "information theory",
-        "studies",
-        "probability distribution"
+        "atrociously",
+        "opposite of",
+        "atrociously"
     ],
     [
         "isotropic",
@@ -160,49 +50,79 @@
         "functions"
     ],
     [
+        "6",
+        "number of participants",
+        "9"
+    ],
+    [
+        "parametrized",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "parametric",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "con-",
+        "subclass of",
+        "differentiable"
+    ],
+    [
+        "0",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "covariance",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "normalized",
+        "subclass of",
+        "uniform distribution"
+    ],
+    [
+        "con-",
+        "subclass of",
+        "transform"
+    ],
+    [
+        "dependence",
+        "different from",
+        "independence"
+    ],
+    [
         "con-",
         "subclass of",
         "differentiable transformation"
     ],
     [
-        "Germany",
-        "language used",
-        "German"
+        "Probability theory",
+        "studies",
+        "uncertainty"
     ],
     [
-        "normalize",
-        "subclass of",
-        "probability distribution"
-    ],
-    [
-        "\u03c3",
-        "has part",
-        "\u03c3"
-    ],
-    [
-        "German",
-        "country",
-        "Germany"
-    ],
-    [
-        "parametric",
+        "information theory",
         "part of",
-        "statistics"
-    ],
-    [
-        "Bernoulli distribution",
-        "instance of",
-        "probability distribution"
-    ],
-    [
-        "2 Continuous Variables and Probability Density Functions",
-        "use",
-        "probability distribution"
+        "probability theory"
     ],
     [
         "asymmetric",
         "subclass of",
-        "probability"
+        "distribution"
+    ],
+    [
+        "software engineering",
+        "part of",
+        "computer scientist"
+    ],
+    [
+        "pathetically",
+        "studied by",
+        "measure theory"
     ],
     [
         "\u03b2",
@@ -210,18 +130,223 @@
         "\u03c3"
     ],
     [
-        "asymmetric",
-        "facet of",
+        "nearly deterministic",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "Bernoulli distribution",
+        "subclass of",
         "distribution"
     ],
     [
-        "norm",
+        "datasets",
         "subclass of",
-        "probability"
+        "probability distribution"
+    ],
+    [
+        "encoding schemes",
+        "part of",
+        "information theory"
+    ],
+    [
+        "P",
+        "instance of",
+        "probability distribution"
+    ],
+    [
+        "graph theory",
+        "studies",
+        "graph"
+    ],
+    [
+        "2 Continuous Variables and Probability Density Functions",
+        "use",
+        "probability distribution"
+    ],
+    [
+        "Probability theory",
+        "studies",
+        "probability distribution"
+    ],
+    [
+        "probability distribution",
+        "studied by",
+        "Probability theory"
+    ],
+    [
+        "Bernoulli distribution",
+        "instance of",
+        "distribution"
+    ],
+    [
+        "factored",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "probability distribution",
+        "studied by",
+        "information theory"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "mathematical"
     ],
     [
         "dataset",
         "subclass of",
+        "probability distribution"
+    ],
+    [
+        "uncertainty",
+        "studied by",
+        "Probability theory"
+    ],
+    [
+        "pathetically",
+        "facet of",
+        "pathetically"
+    ],
+    [
+        "\u03c3",
+        "facet of",
+        "\u03c3"
+    ],
+    [
+        "\u03c3",
+        "facet of",
+        "statistics"
+    ],
+    [
+        "encoding scheme",
+        "part of",
+        "information theory"
+    ],
+    [
+        "CPUs",
+        "used by",
+        "software"
+    ],
+    [
+        "datasets",
+        "subclass of",
+        "data set"
+    ],
+    [
+        "normalized",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "German",
+        "indigenous to",
+        "Germany"
+    ],
+    [
+        "\u03c3",
+        "has part",
+        "\u03c3"
+    ],
+    [
+        "exponential",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "algorithmic",
+        "facet of",
+        "artificial intelligence"
+    ],
+    [
+        "\u03c3",
+        "instance of",
+        "logit"
+    ],
+    [
+        "information theory",
+        "studies",
+        "probability distribution"
+    ],
+    [
+        "computer scientist",
+        "has part",
+        "software engineering"
+    ],
+    [
+        "computer scientist",
+        "studies",
+        "software"
+    ],
+    [
+        "proba-=-=-=-=-=-=-=-=-=-=-=-=-",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "asymmetric",
+        "subclass of",
+        "probability"
+    ],
+    [
+        "graph",
+        "studied by",
+        "graph theory"
+    ],
+    [
+        "graphs",
+        "studied by",
+        "graph theory"
+    ],
+    [
+        "Expected Value",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "\u03b2",
+        "followed by",
+        "\u03c3"
+    ],
+    [
+        "6",
+        "length",
+        "9"
+    ],
+    [
+        "parametric",
+        "part of",
+        "statistics"
+    ],
+    [
+        "graph theory",
+        "studies",
+        "graphs"
+    ],
+    [
+        "independence",
+        "different from",
+        "dependence"
+    ],
+    [
+        "Most birds fly",
+        "part of",
+        "Probability theory"
+    ],
+    [
+        "Most birds fly",
+        "studied by",
+        "Probability theory"
+    ],
+    [
+        "German",
+        "country",
+        "Germany"
+    ],
+    [
+        "parametrized",
+        "facet of",
         "probability distribution"
     ],
     [
@@ -230,38 +355,43 @@
         "computer scientist"
     ],
     [
-        "con-",
-        "subclass of",
-        "differentiable"
-    ],
-    [
-        "datasets",
-        "subclass of",
-        "data set"
-    ],
-    [
-        "\u03c3",
-        "instance of",
-        "logit"
-    ],
-    [
-        "independence",
-        "different from",
-        "dependence"
-    ],
-    [
-        "exponential",
-        "subclass of",
+        "normalizing constant",
+        "part of",
         "probability distribution"
     ],
     [
-        "information theory",
+        "normalize",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "Bernoulli distribution",
+        "instance of",
+        "probability distribution"
+    ],
+    [
+        "parametrized",
         "part of",
-        "probability theory"
+        "probability distribution"
+    ],
+    [
+        "2 Continuous Variables and Probability Density Functions",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "Bayesian probability",
+        "studied by",
+        "Probability theory"
+    ],
+    [
+        "6",
+        "area",
+        "9"
     ],
     [
         "algorithmic",
-        "studies",
+        "has part",
         "machine learning"
     ],
     [
@@ -271,157 +401,27 @@
     ],
     [
         "Expected Value",
-        "facet of",
-        "probability distribution"
+        "subclass of",
+        "expectation"
     ],
     [
-        "0",
-        "facet of",
-        "probability distribution"
-    ],
-    [
-        "German",
-        "indigenous to",
-        "Germany"
-    ],
-    [
-        "P(x,y = y)",
+        "\u03c3 1(x)",
         "instance of",
-        "probability mass function"
-    ],
-    [
-        "factored",
-        "facet of",
-        "probability distribution"
-    ],
-    [
-        "6",
-        "number of participants",
-        "9"
-    ],
-    [
-        "Probability theory",
-        "studies",
-        "uncertainty"
-    ],
-    [
-        "pathetically",
-        "facet of",
-        "pathetically"
-    ],
-    [
-        "con-",
-        "subclass of",
-        "transform"
-    ],
-    [
-        "nearly deterministic",
-        "subclass of",
-        "probability distribution"
-    ],
-    [
-        "Most birds fly",
-        "part of",
-        "Probability theory"
-    ],
-    [
-        "uncertainty",
-        "studied by",
-        "Probability theory"
-    ],
-    [
-        "algorithmic",
-        "has part",
-        "machine learning"
-    ],
-    [
-        "\u03b2",
-        "followed by",
-        "\u03c3"
-    ],
-    [
-        "atrociously",
-        "opposite of",
-        "atrociously"
-    ],
-    [
-        "6",
-        "length",
-        "9"
-    ],
-    [
-        "Bernoulli distribution",
-        "instance of",
-        "distribution"
-    ],
-    [
-        "proba-=-=-=-=-=-=-=-=-=-=-=-=-",
-        "subclass of",
-        "probability distribution"
-    ],
-    [
-        "software engineering",
-        "part of",
-        "computer scientist"
-    ],
-    [
-        "normalize",
-        "facet of",
-        "probability distribution"
-    ],
-    [
-        "\u03c3",
-        "facet of",
-        "statistics"
-    ],
-    [
-        "parametrized",
-        "facet of",
-        "probability distribution"
-    ],
-    [
-        "2 Continuous Variables and Probability Density Functions",
-        "facet of",
-        "probability distribution"
-    ],
-    [
-        "encoding scheme",
-        "part of",
-        "information theory"
-    ],
-    [
-        "computer scientist",
-        "studies",
-        "software"
-    ],
-    [
-        "dependence",
-        "different from",
-        "independence"
-    ],
-    [
-        "parametrized",
-        "subclass of",
-        "probability distribution"
-    ],
-    [
-        "graph",
-        "studied by",
-        "graph theory"
+        "logit"
     ],
     [
         "P",
-        "instance of",
+        "facet of",
         "probability distribution"
     ],
     [
-        "parametrized",
-        "part of",
-        "probability distribution"
-    ],
-    [
-        "Expected Value",
+        "norm",
         "subclass of",
-        "expectation"
+        "probability"
+    ],
+    [
+        "asymmetric",
+        "facet of",
+        "distribution"
     ]
 ]

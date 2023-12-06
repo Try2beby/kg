@@ -1,33 +1,8 @@
 [
     [
-        "Autoencoder",
-        "instance of",
-        "Algorithm"
-    ],
-    [
-        "Neural network",
-        "use",
-        "Machine learning"
-    ],
-    [
-        "Unsupervised",
-        "subclass of",
-        "Machine learning"
-    ],
-    [
         "Deep learning",
         "subclass of",
         "Machine learning"
-    ],
-    [
-        "Algorithm",
-        "use",
-        "Artificial intelligence"
-    ],
-    [
-        "Retina",
-        "connects with",
-        "Retinal"
     ],
     [
         "Nervous system",
@@ -35,24 +10,9 @@
         "Neuron"
     ],
     [
-        "Unsupervised",
+        "Neuron",
         "part of",
-        "Machine learning"
-    ],
-    [
-        "Retinal",
-        "connects with",
-        "Retina"
-    ],
-    [
-        "CIFAR-10",
-        "instance of",
-        "Data set"
-    ],
-    [
-        "Autoencoder",
-        "subclass of",
-        "Algorithm"
+        "Neuron"
     ],
     [
         "Geoffrey Hinton",
@@ -60,49 +20,24 @@
         "University of Toronto"
     ],
     [
-        "Neuron",
-        "part of",
-        "Neuron"
+        "Yoshua Bengio",
+        "employer",
+        "Universit\u00e9 de Montr\u00e9al"
     ],
     [
-        "Cybernetics",
-        "subclass of",
-        "Deep learning"
+        "Deep learning",
+        "instance of",
+        "Machine learning"
     ],
     [
-        "Cybernetics",
-        "part of",
-        "Deep learning"
-    ],
-    [
-        "Algorithm",
-        "part of",
-        "Computer science"
+        "Stochastic gradient descent",
+        "instance of",
+        "Algorithm"
     ],
     [
         "Neural network",
-        "part of",
-        "Machine learning"
-    ],
-    [
-        "Graphics processing unit",
-        "use",
-        "Deep learning"
-    ],
-    [
-        "Neuroscience",
-        "studies",
-        "Rodent"
-    ],
-    [
-        "Neuron",
-        "part of",
-        "Nervous system"
-    ],
-    [
-        "Geoffrey Hinton",
-        "field of work",
-        "Machine learning"
+        "has part",
+        "Artificial neural network"
     ],
     [
         "Google DeepMind",
@@ -110,13 +45,58 @@
         "Deep learning"
     ],
     [
-        "Algorithm",
-        "part of",
-        "Artificial intelligence"
+        "Graphics processing unit",
+        "use",
+        "Deep learning"
     ],
     [
-        "Rodent",
-        "studied by",
+        "Deep learning",
+        "use",
+        "Reinforcement learning"
+    ],
+    [
+        "Unsupervised",
+        "part of",
+        "Machine learning"
+    ],
+    [
+        "Neuron",
+        "part of",
+        "Nervous system"
+    ],
+    [
+        "Retinal",
+        "connects with",
+        "Retina"
+    ],
+    [
+        "Perceptron",
+        "instance of",
+        "Neural network"
+    ],
+    [
+        "Retina",
+        "connects with",
+        "Retinal"
+    ],
+    [
+        "Yoshua Bengio",
+        "educated at",
+        "Universit\u00e9 de Montr\u00e9al"
+    ],
+    [
+        "Geoffrey Hinton",
+        "field of work",
+        "Machine learning"
+    ],
+    [
+        "Neural network",
+        "part of",
+        "Machine learning"
+    ],
+    [
+        "Cognitive science",
+        "subclass of",
         "Neuroscience"
     ],
     [
@@ -125,18 +105,38 @@
         "Neural network"
     ],
     [
-        "Perceptron",
-        "instance of",
-        "Neural network"
+        "Neuroscience",
+        "studies",
+        "Rodent"
     ],
     [
-        "Deep learning",
-        "use",
-        "Reinforcement learning"
-    ],
-    [
-        "Deep learning",
-        "instance of",
+        "Unsupervised",
+        "subclass of",
         "Machine learning"
+    ],
+    [
+        "Rodent",
+        "studied by",
+        "Neuroscience"
+    ],
+    [
+        "Neural network",
+        "use",
+        "Machine learning"
+    ],
+    [
+        "Cybernetics",
+        "part of",
+        "Deep learning"
+    ],
+    [
+        "Cybernetics",
+        "subclass of",
+        "Deep learning"
+    ],
+    [
+        "Neuron",
+        "part of",
+        "Neural network"
     ]
 ]

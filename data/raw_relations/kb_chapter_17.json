@@ -1,23 +1,8 @@
 [
     [
-        "allele",
-        "subclass of",
-        "allele"
-    ],
-    [
-        "normal distribution",
-        "subclass of",
-        "cumulative distribution"
-    ],
-    [
-        "\u03b2",
-        "part of",
-        "\u03b1"
-    ],
-    [
-        "normalization",
-        "different from",
-        "abnormal"
+        "Markov chain Monte Carlo methods",
+        "instance of",
+        "algorithm"
     ],
     [
         "Metropolis-Hastings algorithm",
@@ -25,199 +10,14 @@
         "deep learning"
     ],
     [
-        "minimally invasive",
-        "subclass of",
-        "minimally invasive"
-    ],
-    [
-        "MONTE CARLO METHODS",
-        "instance of",
-        "dialectic"
-    ],
-    [
-        "\u03b1",
-        "has part",
-        "\u03b2"
-    ],
-    [
-        "minimally-distributed",
-        "subclass of",
-        "minimally-distributed"
-    ],
-    [
-        "minimally significant",
-        "subclass of",
-        "minimally significant"
-    ],
-    [
-        "minimibus",
-        "subclass of",
-        "learning algorithm"
-    ],
-    [
-        "Monte Carlo algorithm",
-        "different from",
-        "Las Vegas algorithm"
-    ],
-    [
-        "Las Vegas algorithm",
-        "subclass of",
-        "Monte Carlo algorithm"
-    ],
-    [
-        "normal distribution",
-        "instance of",
-        "cumulative distribution"
-    ],
-    [
-        "allele",
-        "different from",
-        "allele"
+        "\u03b2",
+        "part of",
+        "\u03b1"
     ],
     [
         "autoencoders",
         "subclass of",
         "representation learning"
-    ],
-    [
-        "MNIST",
-        "instance of",
-        "deep probabilistic models"
-    ],
-    [
-        "minimally significant",
-        "subclass of",
-        "norm"
-    ],
-    [
-        "Harris chain",
-        "instance of",
-        "Markov chain"
-    ],
-    [
-        "MNIST",
-        "use",
-        "deep probabilistic models"
-    ],
-    [
-        "temperatures",
-        "different from",
-        "temperature"
-    ],
-    [
-        "Markov chain Monte Carlo",
-        "instance of",
-        "algorithm"
-    ],
-    [
-        "Macron",
-        "country",
-        "France"
-    ],
-    [
-        "Metropolis-Hastings algorithm",
-        "uses",
-        "Markov chain"
-    ],
-    [
-        "norm",
-        "subclass of",
-        "probability distribution"
-    ],
-    [
-        "horrendously expensive",
-        "different from",
-        "horrendously expensive"
-    ],
-    [
-        "Markov chain Monte Carlo methods",
-        "instance of",
-        "algorithm"
-    ],
-    [
-        "Las Vegas algorithm",
-        "different from",
-        "Monte Carlo algorithm"
-    ],
-    [
-        "MONTE CARLO METHODS",
-        "instance of",
-        "algorithm"
-    ],
-    [
-        "autoencoders",
-        "subclass of",
-        "representations"
-    ],
-    [
-        "autoencoders",
-        "use",
-        "representation learning"
-    ],
-    [
-        "atrociously",
-        "opposite of",
-        "atrociously"
-    ],
-    [
-        "algorithm",
-        "part of",
-        "machine learning"
-    ],
-    [
-        "expectation",
-        "facet of",
-        "probability distribution"
-    ],
-    [
-        "temperature",
-        "different from",
-        "temperatures"
-    ],
-    [
-        "minimally distributed",
-        "subclass of",
-        "minimally sampled"
-    ],
-    [
-        "Las Vegas algorithm",
-        "subclass of",
-        "Randomized algorithm"
-    ],
-    [
-        "expectation",
-        "part of",
-        "probability distribution"
-    ],
-    [
-        "abnormal",
-        "different from",
-        "normalization"
-    ],
-    [
-        "MONTE CARLO METHODS",
-        "instance of",
-        "phylogenetic"
-    ],
-    [
-        "hill climbing",
-        "subclass of",
-        "noisy"
-    ],
-    [
-        "Macron",
-        "country of citizenship",
-        "France"
-    ],
-    [
-        "Metropolis-Hastings algorithm",
-        "instance of",
-        "algorithm"
-    ],
-    [
-        "parametric",
-        "subclass of",
-        "statistics"
     ],
     [
         "minimally sampled",
@@ -225,13 +25,213 @@
         "minimally sampled"
     ],
     [
+        "minimally distributed",
+        "subclass of",
+        "minimally sampled"
+    ],
+    [
+        "minimally invasive",
+        "subclass of",
+        "minimally invasive"
+    ],
+    [
+        "expectation",
+        "part of",
+        "probability distribution"
+    ],
+    [
+        "minimally significant",
+        "subclass of",
+        "norm"
+    ],
+    [
+        "MNIST",
+        "instance of",
+        "deep probabilistic models"
+    ],
+    [
+        "atrociously",
+        "opposite of",
+        "atrociously"
+    ],
+    [
+        "allele",
+        "subclass of",
+        "allele"
+    ],
+    [
+        "abnormal",
+        "different from",
+        "normalization"
+    ],
+    [
+        "Harris chain",
+        "instance of",
+        "Markov chain"
+    ],
+    [
+        "minimally significant",
+        "subclass of",
+        "minimally significant"
+    ],
+    [
+        "MONTE CARLO METHODS",
+        "instance of",
+        "phylogenetic"
+    ],
+    [
+        "temperatures",
+        "different from",
+        "temperature"
+    ],
+    [
         "Harris chain",
         "subclass of",
         "Markov chain"
     ],
     [
+        "minimally-distributed",
+        "subclass of",
+        "minimally-distributed"
+    ],
+    [
+        "autoencoders",
+        "use",
+        "representation learning"
+    ],
+    [
+        "MONTE CARLO METHODS",
+        "instance of",
+        "dialectic"
+    ],
+    [
+        "Macron",
+        "country",
+        "France"
+    ],
+    [
+        "Las Vegas algorithm",
+        "subclass of",
+        "Monte Carlo algorithm"
+    ],
+    [
+        "Markov chain Monte Carlo",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "horrendously expensive",
+        "different from",
+        "horrendously expensive"
+    ],
+    [
+        "parametric",
+        "subclass of",
+        "statistics"
+    ],
+    [
+        "allele",
+        "different from",
+        "allele"
+    ],
+    [
+        "hill climbing",
+        "subclass of",
+        "noisy"
+    ],
+    [
+        "minimibus",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "normal distribution",
+        "instance of",
+        "cumulative distribution"
+    ],
+    [
+        "Metropolis-Hastings algorithm",
+        "uses",
+        "Markov chain"
+    ],
+    [
+        "Macron",
+        "country of citizenship",
+        "France"
+    ],
+    [
+        "MONTE CARLO METHODS",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Metropolis-Hastings algorithm",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "temperature",
+        "different from",
+        "temperatures"
+    ],
+    [
+        "Las Vegas algorithm",
+        "subclass of",
+        "Randomized algorithm"
+    ],
+    [
+        "norm",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "Las Vegas algorithm",
+        "different from",
+        "Monte Carlo algorithm"
+    ],
+    [
+        "normal distribution",
+        "subclass of",
+        "cumulative distribution"
+    ],
+    [
+        "MNIST",
+        "use",
+        "deep probabilistic models"
+    ],
+    [
         "parametric",
         "part of",
         "statistics"
+    ],
+    [
+        "autoencoders",
+        "subclass of",
+        "representations"
+    ],
+    [
+        "Monte Carlo algorithm",
+        "different from",
+        "Las Vegas algorithm"
+    ],
+    [
+        "expectation",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "\u03b1",
+        "has part",
+        "\u03b2"
+    ],
+    [
+        "normalization",
+        "different from",
+        "abnormal"
     ]
 ]

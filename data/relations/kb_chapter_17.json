@@ -1,8 +1,13 @@
 [
     [
-        "Temperature",
+        "Las Vegas algorithm",
+        "subclass of",
+        "Monte Carlo algorithm"
+    ],
+    [
+        "Monte Carlo algorithm",
         "different from",
-        "Temperature"
+        "Las Vegas algorithm"
     ],
     [
         "Metropolis\u2013Hastings algorithm",
@@ -10,9 +15,14 @@
         "Deep learning"
     ],
     [
-        "Las Vegas algorithm",
+        "Minimally invasive procedure",
         "subclass of",
-        "Randomized algorithm"
+        "Minimally invasive procedure"
+    ],
+    [
+        "Harris chain",
+        "instance of",
+        "Markov chain"
     ],
     [
         "Alpha",
@@ -20,23 +30,23 @@
         "Beta"
     ],
     [
-        "Autoencoder",
-        "subclass of",
-        "Feature learning"
-    ],
-    [
-        "Autoencoder",
-        "use",
-        "Feature learning"
-    ],
-    [
-        "Autoencoder",
-        "subclass of",
-        "Representations"
+        "Markov chain Monte Carlo",
+        "instance of",
+        "Algorithm"
     ],
     [
         "Allele",
-        "different from",
+        "subclass of",
         "Allele"
+    ],
+    [
+        "Las Vegas algorithm",
+        "subclass of",
+        "Randomized algorithm"
+    ],
+    [
+        "Harris chain",
+        "subclass of",
+        "Markov chain"
     ]
 ]
