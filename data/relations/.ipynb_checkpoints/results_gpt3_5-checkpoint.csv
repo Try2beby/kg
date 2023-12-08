@@ -1,0 +1,2 @@
+section,page,entity,relation
+1.2,0,"('notation', 'mathematical concepts', 'numbers', 'arrays', 'scalar', 'integer', 'real', 'vector', 'matrix', 'tensor', 'identity matrix', 'rows', 'columns', 'dimensionality', 'context', 'standard basis vector', 'position', 'square', 'diagonal matrix', 'diagonal entries', 'random variable', 'vector-valued random variable', 'matrix-valued random variable')","('notation', 'instance of', 'mathematical concepts')"
