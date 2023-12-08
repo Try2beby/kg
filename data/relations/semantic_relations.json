@@ -1,0 +1,2197 @@
+[
+    [
+        "Parametric model",
+        "different from",
+        "Nonparametric statistics"
+    ],
+    [
+        "Algorithm",
+        "facet of",
+        "Statistics"
+    ],
+    [
+        "International Conference on Computer Vision",
+        "organizer",
+        "Institute of Electrical and Electronics Engineers"
+    ],
+    [
+        "Hyperparameter",
+        "facet of",
+        "Machine learning"
+    ],
+    [
+        "N-gram",
+        "instance of",
+        "Language model"
+    ],
+    [
+        "Male",
+        "opposite of",
+        "Female"
+    ],
+    [
+        "Maximum likelihood estimation",
+        "facet of",
+        "Probability distribution"
+    ],
+    [
+        "School",
+        "different from",
+        "Teacher"
+    ],
+    [
+        "Neuroscience",
+        "studies",
+        "Rodent"
+    ],
+    [
+        "Google Maps",
+        "has part",
+        "Google Street View"
+    ],
+    [
+        "N-gram",
+        "subclass of",
+        "Language model"
+    ],
+    [
+        "Stochastic gradient descent",
+        "use",
+        "Deep learning"
+    ],
+    [
+        "Decision tree",
+        "instance of",
+        "Machine learning"
+    ],
+    [
+        "Software",
+        "has part",
+        "Algorithm"
+    ],
+    [
+        "TensorFlow",
+        "instance of",
+        "Library"
+    ],
+    [
+        "Autoencoder",
+        "subclass of",
+        "Code"
+    ],
+    [
+        "Unsupervised",
+        "subclass of",
+        "Supervised learning"
+    ],
+    [
+        "Data",
+        "part of",
+        "Computation"
+    ],
+    [
+        "Logistic regression",
+        "instance of",
+        "Machine learning"
+    ],
+    [
+        "Saddle point",
+        "subclass of",
+        "Eigenvalues and eigenvectors"
+    ],
+    [
+        "Mathematical optimization",
+        "part of",
+        "Machine learning"
+    ],
+    [
+        "Parametric model",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Gradient descent",
+        "subclass of",
+        "Mathematical optimization"
+    ],
+    [
+        "Neuron",
+        "studied by",
+        "Neuroscience"
+    ],
+    [
+        "Geoffrey Hinton",
+        "employer",
+        "University of Toronto"
+    ],
+    [
+        "Neural coding",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Deep learning",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Rapid eye movement sleep",
+        "subclass of",
+        "Dream"
+    ],
+    [
+        "Normal distribution",
+        "subclass of",
+        "Probability distribution"
+    ],
+    [
+        "Graphics processing unit",
+        "subclass of",
+        "Application-specific integrated circuit"
+    ],
+    [
+        "Information theory",
+        "part of",
+        "Probability theory"
+    ],
+    [
+        "Restricted Boltzmann machine",
+        "subclass of",
+        "Neural network"
+    ],
+    [
+        "Variational autoencoder",
+        "subclass of",
+        "Generative model"
+    ],
+    [
+        "Nonparametric statistics",
+        "different from",
+        "Parametric model"
+    ],
+    [
+        "Sigma",
+        "facet of",
+        "Normal distribution"
+    ],
+    [
+        "Maximum likelihood estimation",
+        "subclass of",
+        "Overfitting"
+    ],
+    [
+        "Neuron",
+        "part of",
+        "Neural network"
+    ],
+    [
+        "Convolution",
+        "different from",
+        "Matrix multiplication"
+    ],
+    [
+        "Nonlinear dimensionality reduction",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Backpropagation",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Negative definiteness",
+        "subclass of",
+        "Positive definiteness"
+    ],
+    [
+        "Tree",
+        "has parts of the class",
+        "Branch"
+    ],
+    [
+        "Torsten Wiesel",
+        "field of work",
+        "Neuroscience"
+    ],
+    [
+        "Word n-gram language model",
+        "subclass of",
+        "Neural network"
+    ],
+    [
+        "Journal of the Royal Statistical Society",
+        "part of",
+        "Journal of the ACM"
+    ],
+    [
+        "Normal distribution",
+        "instance of",
+        "Probability distribution"
+    ],
+    [
+        "Convolution",
+        "part of",
+        "Machine learning"
+    ],
+    [
+        "Norm (mathematics)",
+        "subclass of",
+        "Distributive property"
+    ],
+    [
+        "G-Eazy discography",
+        "use",
+        "Monte Carlo method"
+    ],
+    [
+        "Exact test",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Generative model",
+        "subclass of",
+        "Model"
+    ],
+    [
+        "Las Vegas algorithm",
+        "subclass of",
+        "Randomized algorithm"
+    ],
+    [
+        "Boltzmann machine",
+        "instance of",
+        "Statistical model"
+    ],
+    [
+        "Inferior temporal gyrus",
+        "part of",
+        "Human brain"
+    ],
+    [
+        "Teacher",
+        "field of this occupation",
+        "Education"
+    ],
+    [
+        "Alpha",
+        "part of",
+        "Sine and cosine"
+    ],
+    [
+        "Cybernetics",
+        "part of",
+        "Deep learning"
+    ],
+    [
+        "Family",
+        "has part",
+        "Ancestor"
+    ],
+    [
+        "Backpropagation",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Vapnik\u2013Chervonenkis dimension",
+        "facet of",
+        "Statistical learning theory"
+    ],
+    [
+        "Bias",
+        "subclass of",
+        "Estimator"
+    ],
+    [
+        "Retina",
+        "connects with",
+        "Retinal"
+    ],
+    [
+        "Neural network",
+        "use",
+        "Machine translation"
+    ],
+    [
+        "Neuron",
+        "part of",
+        "Brain"
+    ],
+    [
+        "Singular value decomposition",
+        "use",
+        "Eigenvalues and eigenvectors"
+    ],
+    [
+        "Phylogenetic tree",
+        "subclass of",
+        "Tree"
+    ],
+    [
+        "Cross-entropy",
+        "facet of",
+        "Probability distribution"
+    ],
+    [
+        "Teacher forcing",
+        "use",
+        "Recurrent neural network"
+    ],
+    [
+        "Gradient descent",
+        "instance of",
+        "Mathematical optimization"
+    ],
+    [
+        "Neural coding",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Television set",
+        "subclass of",
+        "Consumer electronics"
+    ],
+    [
+        "Neural network",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Definite quadratic form",
+        "subclass of",
+        "Positive definiteness"
+    ],
+    [
+        "Normalizing constant",
+        "subclass of",
+        "Higher-order function"
+    ],
+    [
+        "Deep learning",
+        "instance of",
+        "Machine learning"
+    ],
+    [
+        "Autoencoder",
+        "subclass of",
+        "Stochastic"
+    ],
+    [
+        "Curvature",
+        "different from",
+        "Gradient"
+    ],
+    [
+        "Plane (mathematics)",
+        "part of",
+        "Three-dimensional space"
+    ],
+    [
+        "McGill University",
+        "country",
+        "Canada"
+    ],
+    [
+        "Harris chain",
+        "subclass of",
+        "Markov chain"
+    ],
+    [
+        "Stochastic gradient descent",
+        "subclass of",
+        "Mathematical optimization"
+    ],
+    [
+        "Neural network",
+        "use",
+        "Training"
+    ],
+    [
+        "Female",
+        "opposite of",
+        "Male"
+    ],
+    [
+        "Google Street View",
+        "use",
+        "Speech recognition"
+    ],
+    [
+        "Neural machine translation",
+        "subclass of",
+        "Machine translation"
+    ],
+    [
+        "Cross-entropy",
+        "subclass of",
+        "Loss function"
+    ],
+    [
+        "Natural language",
+        "studied by",
+        "Natural language processing"
+    ],
+    [
+        "Central processing unit",
+        "has part",
+        "Memory"
+    ],
+    [
+        "Mean squared error",
+        "subclass of",
+        "Least squares"
+    ],
+    [
+        "Algorithm",
+        "subclass of",
+        "Learning"
+    ],
+    [
+        "Parametric equation",
+        "opposite of",
+        "Determinism"
+    ],
+    [
+        "Optimization problem",
+        "subclass of",
+        "Mathematical optimization"
+    ],
+    [
+        "Neural coding",
+        "subclass of",
+        "Boltzmann machine"
+    ],
+    [
+        "Neural network",
+        "has part",
+        "Neuron"
+    ],
+    [
+        "Loss function",
+        "subclass of",
+        "Computational resource"
+    ],
+    [
+        "Bayesian linear regression",
+        "instance of",
+        "Linear regression"
+    ],
+    [
+        "Alpha",
+        "has part",
+        "Lambda"
+    ],
+    [
+        "Generative model",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Algorithm",
+        "use",
+        "Machine learning"
+    ],
+    [
+        "Alpha",
+        "part of",
+        "Lambda"
+    ],
+    [
+        "Deep learning",
+        "has part",
+        "Reinforcement learning"
+    ],
+    [
+        "Lasso (statistics)",
+        "subclass of",
+        "Linear model"
+    ],
+    [
+        "Bernoulli distribution",
+        "instance of",
+        "Probability distribution"
+    ],
+    [
+        "Convolution",
+        "facet of",
+        "Neural network"
+    ],
+    [
+        "Markov chain Monte Carlo",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Breast",
+        "subclass of",
+        "Eigenvalues and eigenvectors"
+    ],
+    [
+        "Alpha",
+        "instance of",
+        "Sign"
+    ],
+    [
+        "Yoshua Bengio",
+        "employer",
+        "Universit\u00e9 de Montr\u00e9al"
+    ],
+    [
+        "Cognitive science",
+        "subclass of",
+        "Neuroscience"
+    ],
+    [
+        "Saddle point",
+        "subclass of",
+        "Hessian matrix"
+    ],
+    [
+        "MIT Press",
+        "headquarters location",
+        "Cambridge, Massachusetts"
+    ],
+    [
+        "Weak supervision",
+        "different from",
+        "Supervised learning"
+    ],
+    [
+        "Principal component analysis",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Data processing",
+        "subclass of",
+        "Computation"
+    ],
+    [
+        "Google Street View",
+        "part of",
+        "Google Maps"
+    ],
+    [
+        "Computer scientist",
+        "studies",
+        "Software"
+    ],
+    [
+        "Computer vision",
+        "part of",
+        "Artificial intelligence"
+    ],
+    [
+        "Iteration",
+        "subclass of",
+        "Mathematical optimization"
+    ],
+    [
+        "Overfitting",
+        "subclass of",
+        "Estimator"
+    ],
+    [
+        "Software engineering",
+        "part of",
+        "Computer scientist"
+    ],
+    [
+        "Recurrent neural network",
+        "subclass of",
+        "Neural network"
+    ],
+    [
+        "Computer science",
+        "has part",
+        "Computational biology"
+    ],
+    [
+        "Alpha",
+        "instance of",
+        "Prevalence"
+    ],
+    [
+        "Stochastic gradient descent",
+        "instance of",
+        "Mathematical optimization"
+    ],
+    [
+        "Algorithm",
+        "part of",
+        "Statistics"
+    ],
+    [
+        "Woman",
+        "opposite of",
+        "Man"
+    ],
+    [
+        "Autoencoder",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Neural coding",
+        "subclass of",
+        "Deep learning"
+    ],
+    [
+        "Algorithm",
+        "has part",
+        "Machine learning"
+    ],
+    [
+        "Algorithm",
+        "part of",
+        "Machine learning"
+    ],
+    [
+        "Natural language processing",
+        "has part",
+        "Parsing"
+    ],
+    [
+        "Parametric equation",
+        "subclass of",
+        "Probability distribution"
+    ],
+    [
+        "Recurrent neural network",
+        "use",
+        "Deep learning"
+    ],
+    [
+        "Alpha",
+        "subclass of",
+        "Momentum"
+    ],
+    [
+        "Cross-entropy",
+        "instance of",
+        "Loss function"
+    ],
+    [
+        "Valley",
+        "subclass of",
+        "Canyon"
+    ],
+    [
+        "Sexual reproduction",
+        "studied by",
+        "Biology"
+    ],
+    [
+        "Stochastic gradient descent",
+        "facet of",
+        "Machine learning"
+    ],
+    [
+        "Hill climbing",
+        "subclass of",
+        "Mathematical optimization"
+    ],
+    [
+        "Algorithm",
+        "facet of",
+        "Machine learning"
+    ],
+    [
+        "Restricted Boltzmann machine",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Arithmetic underflow",
+        "subclass of",
+        "Round-off error"
+    ],
+    [
+        "Sigma",
+        "part of",
+        "Normal distribution"
+    ],
+    [
+        "Teacher forcing",
+        "facet of",
+        "Recurrent neural network"
+    ],
+    [
+        "K-nearest neighbors algorithm",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "One-hot",
+        "subclass of",
+        "Feature learning"
+    ],
+    [
+        "Zero-shot learning",
+        "instance of",
+        "Transfer learning"
+    ],
+    [
+        "Unsupervised learning",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Spearmint",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Intelligence",
+        "has part",
+        "Learning"
+    ],
+    [
+        "Zero-shot learning",
+        "subclass of",
+        "Transfer learning"
+    ],
+    [
+        "Deep learning",
+        "part of",
+        "Machine learning"
+    ],
+    [
+        "Neural network",
+        "has part",
+        "Artificial neural network"
+    ],
+    [
+        "Restricted Boltzmann machine",
+        "use",
+        "Gradient"
+    ],
+    [
+        "Initial point",
+        "facet of",
+        "Mathematical optimization"
+    ],
+    [
+        "Supervised learning",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Terry Sejnowski",
+        "field of work",
+        "Deep learning"
+    ],
+    [
+        "Theano",
+        "instance of",
+        "Software framework"
+    ],
+    [
+        "Language model",
+        "subclass of",
+        "Learning"
+    ],
+    [
+        "Mathematical optimization",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Gradient descent",
+        "subclass of",
+        "Supervised learning"
+    ],
+    [
+        "Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno algorithm",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Autoencoder",
+        "use",
+        "Deep learning"
+    ],
+    [
+        "Mathematics",
+        "has part",
+        "Linear algebra"
+    ],
+    [
+        "Cyc",
+        "instance of",
+        "Knowledge base"
+    ],
+    [
+        "Derivative",
+        "followed by",
+        "Third derivative"
+    ],
+    [
+        "Computational biology",
+        "part of",
+        "Computer science"
+    ],
+    [
+        "T-distributed stochastic neighbor embedding",
+        "use",
+        "Natural language processing"
+    ],
+    [
+        "Perceptron",
+        "instance of",
+        "Neural network"
+    ],
+    [
+        "Linguistics",
+        "studied by",
+        "Natural language processing"
+    ],
+    [
+        "Graphics processing unit",
+        "use",
+        "CUDA"
+    ],
+    [
+        "Saddle point",
+        "subclass of",
+        "Gradient"
+    ],
+    [
+        "Phylogenetic tree",
+        "subclass of",
+        "Phylogenetics"
+    ],
+    [
+        "Theano",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Perceptron",
+        "subclass of",
+        "Neural network"
+    ],
+    [
+        "Overfitting",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Nonlinear dimensionality reduction",
+        "facet of",
+        "Machine learning"
+    ],
+    [
+        "Unit of observation",
+        "facet of",
+        "Statistics"
+    ],
+    [
+        "Perceptron",
+        "subclass of",
+        "Linear model"
+    ],
+    [
+        "Neuron",
+        "subclass of",
+        "Neural network"
+    ],
+    [
+        "Linear algebra",
+        "part of",
+        "Mathematics"
+    ],
+    [
+        "Supervised learning",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Algorithm",
+        "use",
+        "Learning"
+    ],
+    [
+        "Summation",
+        "subclass of",
+        "Integral"
+    ],
+    [
+        "Bias",
+        "opposite of",
+        "Estimator"
+    ],
+    [
+        "Batch normalization",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Convolutional neural network",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Torch",
+        "instance of",
+        "Library (computing)"
+    ],
+    [
+        "Parametric model",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Neural coding",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Gradient",
+        "studied by",
+        "Algorithm"
+    ],
+    [
+        "Stochastic gradient descent",
+        "part of",
+        "Deep learning"
+    ],
+    [
+        "Algorithm",
+        "part of",
+        "Software"
+    ],
+    [
+        "Bayesian probability",
+        "studied by",
+        "Probability theory"
+    ],
+    [
+        "Plane (mathematics)",
+        "subclass of",
+        "Array (data type)"
+    ],
+    [
+        "Restricted Boltzmann machine",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Supervised learning",
+        "different from",
+        "Unsupervised learning"
+    ],
+    [
+        "Normalizing constant",
+        "facet of",
+        "List of things named after Carl Friedrich Gauss"
+    ],
+    [
+        "Support vector machine",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "One-dimensional space",
+        "part of",
+        "Plane (mathematics)"
+    ],
+    [
+        "Batch normalization",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Unsupervised",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "International Conference on Learning Representations",
+        "main subject",
+        "Machine learning"
+    ],
+    [
+        "Deep learning",
+        "use",
+        "Reinforcement learning"
+    ],
+    [
+        "Bayesian linear regression",
+        "facet of",
+        "Linear regression"
+    ],
+    [
+        "Training, validation, and test data sets",
+        "subclass of",
+        "Data"
+    ],
+    [
+        "Convolution",
+        "part of",
+        "Neural network"
+    ],
+    [
+        "TensorFlow",
+        "instance of",
+        "Software framework"
+    ],
+    [
+        "Linear regression",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Bayesian linear regression",
+        "subclass of",
+        "Linear regression"
+    ],
+    [
+        "Saddle point",
+        "part of",
+        "Hessian matrix"
+    ],
+    [
+        "Stochastic",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Algorithm",
+        "part of",
+        "Learning"
+    ],
+    [
+        "K-means clustering",
+        "instance of",
+        "Sparse approximation"
+    ],
+    [
+        "Unsupervised learning",
+        "opposite of",
+        "Supervised learning"
+    ],
+    [
+        "Gradient descent",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Matrix multiplication",
+        "different from",
+        "Convolution"
+    ],
+    [
+        "WordNet",
+        "instance of",
+        "Knowledge base"
+    ],
+    [
+        "Deep learning",
+        "studies",
+        "Neural network"
+    ],
+    [
+        "Array",
+        "subclass of",
+        "Tensor"
+    ],
+    [
+        "Convolutional neural network",
+        "use",
+        "Convolution"
+    ],
+    [
+        "Autoencoder",
+        "use",
+        "Machine learning"
+    ],
+    [
+        "Ancestor",
+        "part of",
+        "Family"
+    ],
+    [
+        "Definite quadratic form",
+        "opposite of",
+        "Positive definiteness"
+    ],
+    [
+        "Neural coding",
+        "use",
+        "Deep learning"
+    ],
+    [
+        "Graphics processing unit",
+        "instance of",
+        "Architecture"
+    ],
+    [
+        "Determinism",
+        "subclass of",
+        "Mathematical optimization"
+    ],
+    [
+        "Neural coding",
+        "subclass of",
+        "Unsupervised learning"
+    ],
+    [
+        "Unsupervised learning",
+        "different from",
+        "Supervised learning"
+    ],
+    [
+        "Algorithm",
+        "studies",
+        "Gradient"
+    ],
+    [
+        "Unsupervised learning",
+        "subclass of",
+        "Learning"
+    ],
+    [
+        "Computer scientist",
+        "has part",
+        "Software engineering"
+    ],
+    [
+        "Backpropagation",
+        "instance of",
+        "Machine learning"
+    ],
+    [
+        "G-Eazy discography",
+        "based on",
+        "Monte Carlo method"
+    ],
+    [
+        "Stochastic gradient descent",
+        "instance of",
+        "Cluster analysis"
+    ],
+    [
+        "Generative model",
+        "facet of",
+        "Machine learning"
+    ],
+    [
+        "Algorithm",
+        "has part",
+        "Mathematical optimization"
+    ],
+    [
+        "Spearmint",
+        "instance of",
+        "Hyperparameter optimization"
+    ],
+    [
+        "Graphics processing unit",
+        "opposite of",
+        "Central processing unit"
+    ],
+    [
+        "Neural coding",
+        "instance of",
+        "Machine learning"
+    ],
+    [
+        "Neural network",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Uncertainty",
+        "studied by",
+        "Probability theory"
+    ],
+    [
+        "Algorithm",
+        "has part",
+        "Computational resource"
+    ],
+    [
+        "Autoencoder",
+        "facet of",
+        "Stochastic"
+    ],
+    [
+        "Data",
+        "part of",
+        "Algorithm"
+    ],
+    [
+        "Convolution",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Boltzmann machine",
+        "subclass of",
+        "Convolutional neural network"
+    ],
+    [
+        "Support vector machine",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Metropolis\u2013Hastings algorithm",
+        "use",
+        "Deep learning"
+    ],
+    [
+        "Hyperparameter",
+        "use",
+        "Training"
+    ],
+    [
+        "Central processing unit",
+        "has part",
+        "Graphics processing unit"
+    ],
+    [
+        "IEEE Transactions on Signal Processing",
+        "publisher",
+        "Institute of Electrical and Electronics Engineers"
+    ],
+    [
+        "Las Vegas algorithm",
+        "subclass of",
+        "Monte Carlo algorithm"
+    ],
+    [
+        "Parametric equation",
+        "part of",
+        "Probability distribution"
+    ],
+    [
+        "Arithmetic mean",
+        "facet of",
+        "Probability distribution"
+    ],
+    [
+        "Neuron",
+        "part of",
+        "Nervous system"
+    ],
+    [
+        "Boltzmann machine",
+        "subclass of",
+        "Generative model"
+    ],
+    [
+        "Man",
+        "opposite of",
+        "Woman"
+    ],
+    [
+        "Monte Carlo algorithm",
+        "different from",
+        "Las Vegas algorithm"
+    ],
+    [
+        "Data model",
+        "subclass of",
+        "Learning"
+    ],
+    [
+        "Approximate inference",
+        "instance of",
+        "Machine learning"
+    ],
+    [
+        "Algorithm",
+        "studies",
+        "Learning"
+    ],
+    [
+        "Stochastic",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Education",
+        "practiced by",
+        "Teacher"
+    ],
+    [
+        "Nearest neighbour algorithm",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Gradient descent",
+        "instance of",
+        "Machine learning"
+    ],
+    [
+        "Hill climbing",
+        "subclass of",
+        "Gradient descent"
+    ],
+    [
+        "Autoencoder",
+        "part of",
+        "Statistical model"
+    ],
+    [
+        "Google DeepMind",
+        "product or material produced",
+        "Deep learning"
+    ],
+    [
+        "Singular value decomposition",
+        "subclass of",
+        "Eigenvalues and eigenvectors"
+    ],
+    [
+        "Graphics processing unit",
+        "different from",
+        "Central processing unit"
+    ],
+    [
+        "Maximum likelihood estimation",
+        "facet of",
+        "Statistics"
+    ],
+    [
+        "Gradient",
+        "different from",
+        "Curvature"
+    ],
+    [
+        "Torch",
+        "instance of",
+        "Library"
+    ],
+    [
+        "Weak supervision",
+        "subclass of",
+        "Supervised learning"
+    ],
+    [
+        "Yoshua Bengio",
+        "educated at",
+        "Universit\u00e9 de Montr\u00e9al"
+    ],
+    [
+        "Dialect",
+        "part of",
+        "Language"
+    ],
+    [
+        "Rodent",
+        "studied by",
+        "Neuroscience"
+    ],
+    [
+        "Maximum likelihood estimation",
+        "subclass of",
+        "Probability distribution"
+    ],
+    [
+        "Overfitting",
+        "subclass of",
+        "Bias"
+    ],
+    [
+        "Algorithm",
+        "use",
+        "Training"
+    ],
+    [
+        "Boltzmann machine",
+        "use",
+        "Probability distribution"
+    ],
+    [
+        "Probability distribution",
+        "studied by",
+        "Probability theory"
+    ],
+    [
+        "Convex optimization",
+        "part of",
+        "Deep learning"
+    ],
+    [
+        "Bias",
+        "subclass of",
+        "Variance"
+    ],
+    [
+        "Computational resource",
+        "facet of",
+        "Algorithm"
+    ],
+    [
+        "Geoffrey Hinton",
+        "field of work",
+        "Machine learning"
+    ],
+    [
+        "Autoencoder",
+        "subclass of",
+        "Neural network"
+    ],
+    [
+        "Convex optimization",
+        "subclass of",
+        "Mathematical optimization"
+    ],
+    [
+        "Parametric equation",
+        "facet of",
+        "Probability distribution"
+    ],
+    [
+        "Data structure",
+        "studied by",
+        "Algorithm"
+    ],
+    [
+        "Phi",
+        "part of",
+        "Sine and cosine"
+    ],
+    [
+        "Stochastic gradient descent",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Nearest neighbour algorithm",
+        "instance of",
+        "Machine learning"
+    ],
+    [
+        "Autoencoder",
+        "facet of",
+        "Machine learning"
+    ],
+    [
+        "Graphics processing unit",
+        "use",
+        "Deep learning"
+    ],
+    [
+        "Convex optimization",
+        "facet of",
+        "Deep learning"
+    ],
+    [
+        "Alpha",
+        "part of",
+        "Stochastic gradient descent"
+    ],
+    [
+        "Metadata",
+        "subclass of",
+        "Information"
+    ],
+    [
+        "Long short-term memory",
+        "facet of",
+        "Neural network"
+    ],
+    [
+        "Alpha",
+        "has part",
+        "Beta"
+    ],
+    [
+        "Variational autoencoder",
+        "part of",
+        "Deep learning"
+    ],
+    [
+        "Overfitting",
+        "opposite of",
+        "Misfit stream"
+    ],
+    [
+        "Mean squared error",
+        "facet of",
+        "Unsupervised learning"
+    ],
+    [
+        "Long short-term memory",
+        "subclass of",
+        "Neural network"
+    ],
+    [
+        "Alpha",
+        "facet of",
+        "Momentum"
+    ],
+    [
+        "Eigendecomposition of a matrix",
+        "different from",
+        "Singular value decomposition"
+    ],
+    [
+        "Maximum likelihood estimation",
+        "opposite of",
+        "Overfitting"
+    ],
+    [
+        "Neuron",
+        "has part",
+        "Neural network"
+    ],
+    [
+        "Theano",
+        "instance of",
+        "Library (computing)"
+    ],
+    [
+        "David H. Hubel",
+        "field of work",
+        "Neuroscience"
+    ],
+    [
+        "Unit of observation",
+        "part of",
+        "Statistics"
+    ],
+    [
+        "Data set",
+        "facet of",
+        "Machine learning"
+    ],
+    [
+        "Autoencoder",
+        "subclass of",
+        "Training"
+    ],
+    [
+        "Iteration",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Software",
+        "studied by",
+        "Computer scientist"
+    ],
+    [
+        "Algorithm",
+        "part of",
+        "Training"
+    ],
+    [
+        "Algorithm",
+        "part of",
+        "Computation"
+    ],
+    [
+        "List of things named after Carl Friedrich Gauss",
+        "subclass of",
+        "Probability distribution"
+    ],
+    [
+        "Natural language processing",
+        "studies",
+        "Linguistics"
+    ],
+    [
+        "Google Street View",
+        "instance of",
+        "Speech recognition"
+    ],
+    [
+        "Neural machine translation",
+        "use",
+        "Machine translation"
+    ],
+    [
+        "Algorithm",
+        "use",
+        "Inference"
+    ],
+    [
+        "Algorithm",
+        "part of",
+        "Mathematics"
+    ],
+    [
+        "Misfit stream",
+        "different from",
+        "Overfitting"
+    ],
+    [
+        "Autoencoder",
+        "use",
+        "List of things named after Thomas Bayes"
+    ],
+    [
+        "Algorithm",
+        "part of",
+        "Library"
+    ],
+    [
+        "Natural language processing",
+        "studies",
+        "Natural language"
+    ],
+    [
+        "Restricted Boltzmann machine",
+        "subclass of",
+        "Backpropagation"
+    ],
+    [
+        "Feedforward",
+        "part of",
+        "Deep learning"
+    ],
+    [
+        "Convolution",
+        "opposite of",
+        "Matrix multiplication"
+    ],
+    [
+        "Machine learning",
+        "part of",
+        "Artificial intelligence"
+    ],
+    [
+        "Dialectic",
+        "studied by",
+        "Linguistics"
+    ],
+    [
+        "Learning",
+        "part of",
+        "Intelligence"
+    ],
+    [
+        "Alpha",
+        "facet of",
+        "Stochastic gradient descent"
+    ],
+    [
+        "Unsupervised",
+        "part of",
+        "Machine learning"
+    ],
+    [
+        "A priori and a posteriori",
+        "facet of",
+        "Probability"
+    ],
+    [
+        "Overfitting",
+        "facet of",
+        "Algorithm"
+    ],
+    [
+        "Neural network",
+        "use",
+        "Machine learning"
+    ],
+    [
+        "Algorithm",
+        "studies",
+        "Data structure"
+    ],
+    [
+        "Neuroscience",
+        "studies",
+        "Neuron"
+    ],
+    [
+        "Overfitting",
+        "different from",
+        "Misfit stream"
+    ],
+    [
+        "Machine learning",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Learning",
+        "studied by",
+        "Algorithm"
+    ],
+    [
+        "Saddle point",
+        "subclass of",
+        "Loss function"
+    ],
+    [
+        "Nearest neighbour algorithm",
+        "use",
+        "Machine learning"
+    ],
+    [
+        "Unsupervised",
+        "facet of",
+        "Machine learning"
+    ],
+    [
+        "Cybernetics",
+        "subclass of",
+        "Deep learning"
+    ],
+    [
+        "Neural network",
+        "part of",
+        "Machine learning"
+    ],
+    [
+        "Strong prior",
+        "subclass of",
+        "Prior probability"
+    ],
+    [
+        "Overfitting",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Dialectic",
+        "part of",
+        "Linguistics"
+    ],
+    [
+        "Autoencoder",
+        "part of",
+        "Deep learning"
+    ],
+    [
+        "Autoencoder",
+        "use",
+        "Variational Bayesian methods"
+    ],
+    [
+        "Genealogy",
+        "subclass of",
+        "Phylogenetics"
+    ],
+    [
+        "ImageNet",
+        "developer",
+        "Microsoft"
+    ],
+    [
+        "Restricted Boltzmann machine",
+        "use",
+        "Deep learning"
+    ],
+    [
+        "Data",
+        "use",
+        "Learning"
+    ],
+    [
+        "Nervous system",
+        "has part",
+        "Neuron"
+    ],
+    [
+        "Curvature",
+        "subclass of",
+        "Second derivative"
+    ],
+    [
+        "Mathematical optimization",
+        "facet of",
+        "Machine learning"
+    ],
+    [
+        "One-dimensional space",
+        "followed by",
+        "Plane (mathematics)"
+    ],
+    [
+        "Eigenvalues and eigenvectors",
+        "part of",
+        "Hessian matrix"
+    ],
+    [
+        "Parsing",
+        "part of",
+        "Natural language processing"
+    ],
+    [
+        "Spearmint",
+        "use",
+        "Machine learning"
+    ],
+    [
+        "Isotropy",
+        "subclass of",
+        "Probability distribution"
+    ],
+    [
+        "Recall (memory)",
+        "facet of",
+        "Artificial intelligence"
+    ],
+    [
+        "Variational autoencoder",
+        "subclass of",
+        "Autoencoder"
+    ],
+    [
+        "Overfitting",
+        "facet of",
+        "Statistics"
+    ],
+    [
+        "Recall (memory)",
+        "subclass of",
+        "Artificial intelligence"
+    ],
+    [
+        "Probability theory",
+        "studies",
+        "Uncertainty"
+    ],
+    [
+        "Probability theory",
+        "studies",
+        "Probability distribution"
+    ],
+    [
+        "TensorFlow",
+        "instance of",
+        "Library (computing)"
+    ],
+    [
+        "Overfitting",
+        "facet of",
+        "Machine learning"
+    ],
+    [
+        "Machine learning",
+        "subclass of",
+        "Statistics"
+    ],
+    [
+        "Linear regression",
+        "facet of",
+        "Linear algebra"
+    ],
+    [
+        "Backpropagation",
+        "facet of",
+        "Neural network"
+    ],
+    [
+        "Data set",
+        "studied by",
+        "Machine learning"
+    ],
+    [
+        "Approximation",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Operability",
+        "subclass of",
+        "Software"
+    ],
+    [
+        "Early stopping",
+        "instance of",
+        "Metaheuristic"
+    ],
+    [
+        "Expected value",
+        "facet of",
+        "Probability distribution"
+    ],
+    [
+        "Restricted Boltzmann machine",
+        "instance of",
+        "Backpropagation"
+    ],
+    [
+        "Graphics processing unit",
+        "used by",
+        "CUDA"
+    ],
+    [
+        "Linear regression",
+        "facet of",
+        "Machine learning"
+    ],
+    [
+        "Bipartite graph",
+        "subclass of",
+        "Hierarchy"
+    ],
+    [
+        "Gradient",
+        "facet of",
+        "Learning"
+    ],
+    [
+        "Autoencoder",
+        "use",
+        "Classification"
+    ],
+    [
+        "Approximate inference",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Convolution",
+        "facet of",
+        "Machine learning"
+    ],
+    [
+        "Theano",
+        "use",
+        "Deep learning"
+    ],
+    [
+        "Levenberg\u2013Marquardt algorithm",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Optimization problem",
+        "subclass of",
+        "Constrained optimization"
+    ],
+    [
+        "Parametric equation",
+        "subclass of",
+        "Conditional probability distribution"
+    ],
+    [
+        "Loss function",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Saddle point",
+        "part of",
+        "Neuron"
+    ],
+    [
+        "Algorithm",
+        "use",
+        "Data structure"
+    ],
+    [
+        "Minimally invasive procedure",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Backpropagation through time",
+        "facet of",
+        "Recurrent neural network"
+    ],
+    [
+        "G-Eazy discography",
+        "subclass of",
+        "Monte Carlo method"
+    ],
+    [
+        "Theano",
+        "instance of",
+        "Library"
+    ],
+    [
+        "Harris chain",
+        "instance of",
+        "Markov chain"
+    ],
+    [
+        "Decision tree",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Lasso (statistics)",
+        "instance of",
+        "Linear model"
+    ],
+    [
+        "Autoencoder",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Norm (mathematics)",
+        "instance of",
+        "Distributive property"
+    ],
+    [
+        "Overfitting",
+        "subclass of",
+        "Optimization problem"
+    ],
+    [
+        "Autoencoder",
+        "part of",
+        "Machine learning"
+    ],
+    [
+        "Central processing unit",
+        "used by",
+        "Software"
+    ],
+    [
+        "Eigenvalues and eigenvectors",
+        "subclass of",
+        "Complex number"
+    ],
+    [
+        "ImageNet",
+        "use",
+        "Computer vision"
+    ],
+    [
+        "Convolution",
+        "subclass of",
+        "Neural network"
+    ],
+    [
+        "Language model",
+        "facet of",
+        "Natural language processing"
+    ],
+    [
+        "Journal of the Royal Statistical Society",
+        "publisher",
+        "Journal of the ACM"
+    ],
+    [
+        "Miocene",
+        "instance of",
+        "List of time periods"
+    ],
+    [
+        "Stochastic gradient descent",
+        "instance of",
+        "Stochastic"
+    ],
+    [
+        "Valley",
+        "different from",
+        "Canyon"
+    ],
+    [
+        "Autoencoder",
+        "use",
+        "Gradient"
+    ],
+    [
+        "Algorithm",
+        "has part",
+        "Data"
+    ],
+    [
+        "Stochastic gradient descent",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Teacher forcing",
+        "subclass of",
+        "Recurrent neural network"
+    ],
+    [
+        "Deep learning",
+        "use",
+        "Artificial intelligence"
+    ],
+    [
+        "Unsupervised learning",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Model",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Brain",
+        "has part",
+        "Neuron"
+    ],
+    [
+        "Alpha",
+        "followed by",
+        "Beta"
+    ],
+    [
+        "Prediction",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Retinal",
+        "connects with",
+        "Retina"
+    ],
+    [
+        "CUDA",
+        "developer",
+        "Nvidia"
+    ],
+    [
+        "Gradient",
+        "part of",
+        "Neural network"
+    ],
+    [
+        "Autoencoder",
+        "part of",
+        "Neural network"
+    ],
+    [
+        "Logistic regression",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Central processing unit",
+        "different from",
+        "Graphics processing unit"
+    ],
+    [
+        "Canyon",
+        "different from",
+        "Valley"
+    ],
+    [
+        "Autoencoder",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Normal distribution",
+        "facet of",
+        "Statistics"
+    ],
+    [
+        "Beta",
+        "part of",
+        "Sine and cosine"
+    ],
+    [
+        "Teacher",
+        "different from",
+        "School"
+    ],
+    [
+        "Machine learning",
+        "use",
+        "Algorithm"
+    ]
+]
