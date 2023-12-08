@@ -2130,3 +2130,1848 @@ section,page,entity,relation
 ('gradients on weights and biases', 'part of', 'deep neural network')
 ('regularization term', 'part of', 'deep neural network')
 ('lower-level hidden layer', 'part of', 'hidden layer')"
+6.6,4,"('symbol-to-symbol approach', 'computational graph', 'derivatives', 'generic graph evaluation engine', 'symbolic description', 'desired result', 'symbol-to-number differentiation', 'libraries', 'Torch', 'Caffe', 'Theano', 'TensorFlow', 'higher derivatives', 'back-propagation algorithm')","('symbol-to-symbol approach', 'part of', 'computational graph')
+('computational graph', 'part of', 'derivatives')
+('generic graph evaluation engine', 'part of', 'symbolic description')
+('symbolic description', 'part of', 'desired result')
+('desired result', 'part of', 'symbol-to-number differentiation')
+('symbol-to-number differentiation', 'part of', 'libraries')
+('libraries', 'part of', 'Torch')
+('libraries', 'part of', 'Caffe')
+('libraries', 'part of', 'Theano')
+('libraries', 'part of', 'TensorFlow')
+('higher derivatives', 'part of', 'back-propagation algorithm')"
+6.6,5,"('Deep Feedforward Networks', 'computational graph', 'derivatives', 'numerical values', 'graph evaluation engine', 'symbol-to-symbol approach', 'symbol-to-number approach', 'back-propagation algorithm', 'scalar', 'ancestor', 'gradient', 'Jacobian', 'node', 'variable', 'tensor', 'get_operation', 'get_consumers', 'get_inputs')","('Deep Feedforward Networks', 'instance of', 'computational graph')
+('computational graph', 'based on', 'derivatives')
+('computational graph', 'based on', 'numerical values')
+('computational graph', 'based on', 'graph evaluation engine')
+('computational graph', 'based on', 'symbol-to-symbol approach')
+('computational graph', 'based on', 'symbol-to-number approach')
+('graph evaluation engine', 'part of', 'back-propagation algorithm')
+('back-propagation algorithm', 'based on', 'scalar')
+('derivatives', 'subclass of', 'ancestor')
+('scalar', 'subclass of', 'gradient')
+('scalar', 'subclass of', 'Jacobian')
+('node', 'subclass of', 'variable')
+('variable', 'subclass of', 'tensor')
+('tensor', 'use', 'get_operation')
+('tensor', 'use', 'get_consumers')
+('tensor', 'use', 'get_inputs')"
+7.1,0,"('Deep Feedforward Networks', 'Jacobian-vector product', 'back-propagation algorithm', 'back-propagation rules', 'matrix multiplication operation', 'variable C', 'scalar z', 'matrix operation', 'differentiation rules', 'chain rule', 'inputs', 'mathematical function')","('Deep Feedforward Networks', 'subclass of', 'mathematical function'),
+('Jacobian-vector product', 'use', 'matrix multiplication operation'),
+('back-propagation algorithm', 'based on', 'back-propagation rules'),
+('back-propagation rules', 'use', 'matrix operation'),
+('matrix multiplication operation', 'based on', 'scalar z'),
+('variable C', 'instance of', 'matrix operation'),
+('scalar z', 'part of', 'variable C'),
+('matrix operation', 'based on', 'differentiation rules'),
+('differentiation rules', 'use', 'chain rule'),
+('inputs', 'facet of', 'mathematical function')"
+7.1,1,"('back-propagation algorithm', 'build_grad subroutine', 'computational graph', 'variable to be differentiated', 'pruned', 'ancestors', 'descendants', 'grad_table', 'Naive algorithm', 'repeated subexpressions', 'computational cost', 'operation evaluation', 'number of operations', 'graph with n nodes', 'fundamental unit', 'matrix multiplication', 'O(n2) operations', 'runtime of each operation', 'multiplying two matrices', 'forward propagation stage', 'Jacobian-vector product', 'directed acyclic graph', 'neural network cost functions')","('back-propagation algorithm', 'based on', 'computational graph'),
+('build_grad subroutine', 'part of', 'back-propagation algorithm'),
+('computational graph', 'instance of', 'directed acyclic graph'),
+('variable to be differentiated', 'facet of', 'computational graph'),
+('pruned', 'part of', 'back-propagation algorithm'),
+('ancestors', 'facet of', 'computational graph'),
+('descendants', 'facet of', 'computational graph'),
+('grad_table', 'part of', 'back-propagation algorithm'),
+('Naive algorithm', 'instance of', 'back-propagation algorithm'),
+('repeated subexpressions', 'part of', 'back-propagation algorithm'),
+('computational cost', 'facet of', 'back-propagation algorithm'),
+('operation evaluation', 'facet of', 'back-propagation algorithm'),
+('number of operations', 'part of', 'back-propagation algorithm'),
+('graph with n nodes', 'part of', 'computational graph'),
+('fundamental unit', 'facet of', 'matrix multiplication'),
+('matrix multiplication', 'based on', 'fundamental unit'),
+('O(n^2) operations', 'part of', 'matrix multiplication'),
+('runtime of each operation', 'part of', 'matrix multiplication'),
+('multiplying two matrices', 'part of', 'matrix multiplication'),
+('forward propagation stage', 'facet of', 'matrix multiplication'),
+('Jacobian-vector product', 'based on', 'matrix multiplication'),
+('directed acyclic graph', 'subclass of', 'computational graph'),
+('neural network cost functions', 'facet of', 'back-propagation algorithm')"
+7.1,2,"('build_grad subroutine', 'back-propagation algorithm', 'graph', 'variable', 'grad_table', 'get_consumers', 'get_operation', 'op.bprop', 'get_inputs', 'Insert G', 'recursive chain rule', 'path(u(π1),u(π2),...,u(πt))', 'exponential cost', 'forward propagation graph', 'table-filling algorithm', 'intermediate results', 'table entries')","('build_grad subroutine', 'part of', 'back-propagation algorithm'),
+('back-propagation algorithm', 'based on', 'graph'),
+('graph', 'instance of', 'directed acyclic graph'),
+('variable', 'facet of', 'graph'),
+('grad_table', 'part of', 'back-propagation algorithm'),
+('get_consumers', 'part of', 'graph'),
+('get_operation', 'part of', 'graph'),
+('op.bprop', 'part of', 'back-propagation algorithm'),
+('get_inputs', 'part of', 'graph'),
+('Insert G', 'part of', 'back-propagation algorithm'),
+('recursive chain rule', 'part of', 'back-propagation algorithm'),
+('path(u(π1),u(π2),...,u(πt))', 'facet of', 'back-propagation algorithm'),
+('exponential cost', 'facet of', 'back-propagation algorithm'),
+('forward propagation graph', 'based on', 'graph'),
+('table-filling algorithm', 'part of', 'back-propagation algorithm'),
+('intermediate results', 'part of', 'table-filling algorithm'),
+('table entries', 'part of', 'table-filling algorithm')"
+7.1,3,"('back-propagation', 'dynamic programming', 'multilayer perceptron', 'minibatch stochastic gradient descent', 'design matrix X', 'class labels y', 'hidden features H', 'relu operation', 'unnormalized log probabilities', 'cross-entropy operation', 'cost J', 'regularization term', 'total cost J', 'weight decay term', 'computational graph', 'gradient')","('back-propagation', 'part of', 'dynamic programming'),
+('multilayer perceptron', 'part of', 'back-propagation'),
+('minibatch stochastic gradient descent', 'part of', 'back-propagation'),
+('design matrix X', 'facet of', 'back-propagation'),
+('class labels y', 'facet of', 'back-propagation'),
+('hidden features H', 'facet of', 'back-propagation'),
+('relu operation', 'part of', 'back-propagation'),
+('unnormalized log probabilities', 'facet of', 'back-propagation'),
+('cross-entropy operation', 'part of', 'back-propagation'),
+('cost J', 'facet of', 'back-propagation'),
+('regularization term', 'facet of', 'cost J'),
+('total cost J', 'part of', 'back-propagation'),
+('weight decay term', 'facet of', 'total cost J'),
+('computational graph', 'facet of', 'back-propagation'),
+('gradient', 'part of', 'back-propagation')"
+7.1,4,"('computational graph', 'cost', 'single-layer MLP', 'cross-entropy loss', 'weight decay', 'gradient', 'back-propagation rule', 'matrix multiplication operation', 'relu operation', 'gradient descent algorithm', 'optimization algorithm', 'parameters', 'forward propagation', 'matrix multiplication')","('computational graph', 'facet of', 'cost'),
+('single-layer MLP', 'facet of', 'computational graph'),
+('cross-entropy loss', 'facet of', 'cost'),
+('weight decay', 'part of', 'cost'),
+('gradient', 'part of', 'back-propagation rule'),
+('back-propagation rule', 'part of', 'computational graph'),
+('matrix multiplication operation', 'part of', 'computational graph'),
+('relu operation', 'part of', 'computational graph'),
+('gradient descent algorithm', 'part of', 'optimization algorithm'),
+('optimization algorithm', 'part of', 'computational graph'),
+('parameters', 'facet of', 'computational graph'),
+('forward propagation', 'part of', 'computational graph'),
+('matrix multiplication', 'part of', 'computational graph')"
+7.1,5,"('DEEP FEEDFORWARD NETWORKS', 'matrix', 'back-propagation', 'implementation', 'operation', 'tensor', 'memory consumption', 'summation', 'buffer', 'data types', 'gradients', 'differentiation', 'Deep Learning Community', 'computer science community')","('DEEP FEEDFORWARD NETWORKS', 'instance of', 'matrix')
+('matrix', 'use', 'back-propagation')
+('back-propagation', 'instance of', 'implementation')
+('implementation', 'instance of', 'operation')
+('operation', 'instance of', 'tensor')
+('tensor', 'instance of', 'memory consumption')
+('memory consumption', 'instance of', 'summation')
+('summation', 'instance of', 'buffer')
+('buffer', 'instance of', 'data types')
+('data types', 'instance of', 'gradients')
+('gradients', 'instance of', 'differentiation')
+('differentiation', 'instance of', 'Deep Learning Community')
+('Deep Learning Community', 'instance of', 'computer science community')"
+7.1,6,"('automatic differentiation', 'back-propagation algorithm', 'reverse mode accumulation', 'chain rule', 'computational cost', 'softmax function', 'cross-entropy loss', 'graph', 'algebraic substitution', 'partial derivative', 'computation', 'forward computation', 'software libraries', 'heuristics', 'simplification patterns', 'scalar output', 'Jacobian')","('automatic differentiation', 'instance of', 'back-propagation algorithm')
+('back-propagation algorithm', 'instance of', 'reverse mode accumulation')
+('reverse mode accumulation', 'instance of', 'chain rule')
+('chain rule', 'instance of', 'computational cost')
+('softmax function', 'instance of', 'computational cost')
+('cross-entropy loss', 'instance of', 'computational cost')
+('graph', 'instance of', 'algebraic substitution')
+('algebraic substitution', 'instance of', 'partial derivative')
+('partial derivative', 'instance of', 'computation')
+('forward computation', 'instance of', 'computation')
+('software libraries', 'instance of', 'heuristics')
+('heuristics', 'instance of', 'simplification patterns')
+('scalar output', 'instance of', 'Jacobian')"
+7.2,0,"('Deep Feedforward Networks', 'automatic differentiation', 'forward mode accumulation', 'real-time computation', 'recurrent networks', 'Williams and Zipser', 'computational efficiency', 'memory', 'Jacobian matrices', 'machine learning', 'differentiation software', 'Python', 'C code', 'computational graphs', 'bprop methods', 'back-propagation', 'gradient', 'deep learning community', 'differentiation technology', 'deep networks')","('Deep Feedforward Networks', 'instance of', 'automatic differentiation')
+('Deep Feedforward Networks', 'instance of', 'forward mode accumulation')
+('Deep Feedforward Networks', 'instance of', 'real-time computation')
+('Deep Feedforward Networks', 'instance of', 'recurrent networks')
+('Williams and Zipser', 'instance of', 'computational efficiency')
+('Williams and Zipser', 'instance of', 'memory')
+('Williams and Zipser', 'instance of', 'Jacobian matrices')
+('Python', 'instance of', 'machine learning')
+('differentiation software', 'instance of', 'Python')
+('C code', 'instance of', 'machine learning')
+('computational graphs', 'instance of', 'bprop methods')
+('computational graphs', 'instance of', 'back-propagation')
+('computational graphs', 'instance of', 'gradient')
+('deep learning community', 'instance of', 'differentiation technology')
+('deep networks', 'instance of', 'deep learning community')"
+7.2,1,"('Theano', 'TensorFlow', 'symbolic differentiation machinery', 'Hessian matrix', 'deep learning applications', 'Krylov methods', 'Hessian vector products', 'gradient descent')","('Theano', 'instance of', 'symbolic differentiation machinery')
+('TensorFlow', 'instance of', 'symbolic differentiation machinery')
+('symbolic differentiation machinery', 'instance of', 'Hessian matrix')
+('deep learning applications', 'instance of', 'Hessian matrix')
+('deep learning applications', 'instance of', 'Krylov methods')
+('deep learning applications', 'instance of', 'Hessian vector products')
+('gradient descent', 'instance of', 'Hessian vector products')"
+7.3,0,"('deep learning', 'feedforward network', 'back-propagation algorithm', 'chain rule', 'function approximation', 'perceptron', 'neural network approach', 'multilayer perceptron', 'dynamic programming', 'sensitivity analysis', 'artificial neural networks', 'distributed representation', 'connectionism', 'cognition', 'learning', 'memory', 'neurons', 'machine learning techniques', 'deep learning renaissance')","('deep learning', 'instance of', 'neural network approach'),
+('feedforward network', 'subclass of', 'neural network approach'),
+('back-propagation algorithm', 'use', 'perceptron'),
+('chain rule', 'part of', 'back-propagation algorithm'),
+('function approximation', 'based on', 'neural network approach'),
+('perceptron', 'instance of', 'neural network approach'),
+('neural network approach', 'use', 'artificial neural networks'),
+('multilayer perceptron', 'subclass of', 'neural network approach'),
+('dynamic programming', 'use', 'neural network approach'),
+('sensitivity analysis', 'based on', 'neural network approach'),
+('artificial neural networks', 'instance of', 'neural network approach'),
+('distributed representation', 'subclass of', 'neural network approach'),
+('connectionism', 'part of', 'neural network approach'),
+('cognition', 'instance of', 'neural network approach'),
+('learning', 'based on', 'neural network approach'),
+('memory', 'based on', 'neural network approach'),
+('neurons', 'subclass of', 'neural network approach'),
+('machine learning techniques', 'based on', 'neural network approach'),
+('deep learning renaissance', 'instance of', 'neural network approach')"
+7.4,0,"('deep feedforward networks', 'gradient descent', 'neural network', 'statistical generalization', 'datasets', 'cross-entropy family', 'loss function', 'mean squared error', 'maximum likelihood', 'sigmoid', 'softmax outputs', 'saturation', 'slow learning', 'sigmoid hidden units', 'piecewise linear hidden units', 'rectified linear units', 'Cognitron', 'Neocognitron', 'activation functions', 'recognition system', 'neural network architecture design', 'random weights', 'classifier layer', 'feature vectors', 'class identities', 'parameters', 'glorot et al.', 'curvature')","('deep feedforward networks', 'instance of', 'neural network')
+('gradient descent', 'instance of', 'optimization algorithm')
+('neural network', 'instance of', 'statistical model')
+('statistical generalization', 'instance of', 'learning principle')
+('cross-entropy family', 'instance of', 'loss function')
+('loss function', 'instance of', 'function')
+('mean squared error', 'instance of', 'loss function')
+('maximum likelihood', 'instance of', 'estimation method')
+('sigmoid', 'instance of', 'activation function')
+('softmax outputs', 'instance of', 'activation function')
+('saturation', 'instance of', 'neural network property')
+('sigmoid hidden units', 'instance of', 'hidden units')
+('piecewise linear hidden units', 'instance of', 'hidden units')
+('rectified linear units', 'instance of', 'activation function')
+('Cognitron', 'instance of', 'neural network architecture')
+('Neocognitron', 'instance of', 'neural network architecture')
+('activation functions', 'instance of', 'functions')
+('recognition system', 'instance of', 'system')
+('neural network architecture design', 'instance of', 'design process')
+('random weights', 'instance of', 'weight initialization method')
+('classifier layer', 'instance of', 'layer')
+('feature vectors', 'instance of', 'vectors')
+('class identities', 'instance of', 'identities')
+('parameters', 'instance of', 'variables')
+('glorot et al.', 'instance of', 'researchers')
+('curvature', 'instance of', 'mathematical property')"
+7.4,1,"('rectified linear units', 'neuroscience', 'deep learning algorithms', 'half-rectifying nonlinearity', 'biological neurons', 'sparse activations', 'resurgence of deep learning', 'probabilistic models', 'gradient-based learning', 'variational autoencoder', 'generative adversarial networks', 'unsupervised learning', 'supervised learning', 'optimization algorithms', 'model design')","('rectified linear units', 'instance of', 'activation function')
+('neuroscience', 'instance of', 'science')
+('deep learning algorithms', 'instance of', 'algorithms')
+('half-rectifying nonlinearity', 'instance of', 'nonlinearity')
+('biological neurons', 'instance of', 'neurons')
+('sparse activations', 'instance of', 'activations')
+('resurgence of deep learning', 'instance of', 'trend')
+('probabilistic models', 'instance of', 'models')
+('gradient-based learning', 'instance of', 'learning')
+('variational autoencoder', 'instance of', 'autoencoder')
+('generative adversarial networks', 'instance of', 'networks')
+('unsupervised learning', 'instance of', 'learning')
+('supervised learning', 'instance of', 'learning')
+('optimization algorithms', 'instance of', 'algorithms')
+('model design', 'instance of', 'design process')"
+7.5,0,"('regularization', 'machine learning', 'generalization', 'underfitting', 'overfitting', 'bias', 'variance', 'neural networks')","('regularization', 'part of', 'machine learning')
+('generalization', 'part of', 'machine learning')
+('underfitting', 'part of', 'machine learning')
+('overfitting', 'part of', 'machine learning')
+('bias', 'part of', 'machine learning')
+('variance', 'part of', 'machine learning')
+('neural networks', 'part of', 'machine learning')"
+7.6,0,"('regularization', 'deep learning', 'constraints', 'penalties', 'prior knowledge', 'model class', 'generalization', 'ensemble methods', 'estimators', 'bias', 'variance', 'underfitting', 'overfitting', 'estimation error', 'target function', 'true data generating process', 'model family', 'complexity', 'parameters', 'fitting model')","('regularization', 'instance of', 'deep learning')
+('constraints', 'part of', 'regularization')
+('penalties', 'part of', 'regularization')
+('prior knowledge', 'part of', 'regularization')
+('model class', 'based on', 'prior knowledge')
+('generalization', 'use', 'ensemble methods')
+('ensemble methods', 'use', 'estimators')
+('bias', 'part of', 'estimation error')
+('variance', 'part of', 'estimation error')
+('underfitting', 'part of', 'estimation error')
+('overfitting', 'part of', 'estimation error')
+('estimation error', 'facet of', 'target function')
+('target function', 'based on', 'true data generating process')
+('true data generating process', 'instance of', 'model family')
+('model family', 'based on', 'complexity')
+('parameters', 'part of', 'fitting model')
+('fitting model', 'instance of', 'model class')"
+7.7,0,"('deep learning', 'machine learning', 'mathematics', 'computer science', 'linear regression', 'logistic regression', 'neural networks', 'parameter norm penalty', 'regularization strategies', 'objective function', 'hyperparameter', 'training algorithm', 'model parameters', 'biases', 'weights', 'affine transformation', 'underfitting', 'vector w', 'vector θ')","('deep learning', 'subclass of', 'machine learning')
+('linear regression', 'subclass of', 'machine learning')
+('logistic regression', 'subclass of', 'machine learning')
+('neural networks', 'subclass of', 'machine learning')
+('parameter norm penalty', 'facet of', 'regularization strategies')
+('regularization strategies', 'part of', 'machine learning')
+('objective function', 'part of', 'machine learning')
+('hyperparameter', 'part of', 'machine learning')
+('training algorithm', 'part of', 'machine learning')
+('model parameters', 'part of', 'machine learning')
+('biases', 'part of', 'neural networks')
+('weights', 'part of', 'neural networks')
+('affine transformation', 'part of', 'neural networks')
+('underfitting', 'facet of', 'machine learning')
+('vector w', 'use', 'linear regression')
+('vector θ', 'use', 'logistic regression')"
+7.7,1,"('deep learning', 'parameter norm penalty', 'weight decay', 'L2 parameter regularization', 'ridge regression', 'Tikhonov regularization', 'objective function', 'parameter gradient', 'learning rule', 'quadratic approximation', 'linear regression model')","('parameter norm penalty', 'use', 'deep learning')
+('weight decay', 'use', 'deep learning')
+('L2 parameter regularization', 'use', 'deep learning')
+('ridge regression', 'use', 'linear regression model')
+('Tikhonov regularization', 'use', 'linear regression model')
+('objective function', 'part of', 'deep learning')
+('parameter gradient', 'part of', 'deep learning')
+('learning rule', 'part of', 'deep learning')
+('quadratic approximation', 'part of', 'deep learning')"
+7.8,0,"('regularization', 'deep learning', 'mean squared error', 'approximation', 'J', 'θ', 'w', 'Hessian matrix', 'first-order term', 'quadratic approximation', 'minimum', 'gradient', 'weight decay', 'regularized version', 'α', 'location', 'real', 'symmetric', 'decomposition', 'diagonal matrix', 'orthonormal basis', 'eigenvectors', 'axes', 'rescale', 'effect', 'larger eigenvalues', 'relatively small', 'shrunk', 'zero magnitude')","('regularization', 'part of', 'deep learning')
+('theta', 'instance of', 'regularized version')
+('w', 'instance of', 'regularized version')
+('Hessian matrix', 'subclass of', 'matrix')
+('J', 'instance of', 'mean squared error')
+('J', 'instance of', 'approximation')
+('J', 'instance of', 'quadratic approximation')
+('J', 'instance of', 'minimum')
+('gradient', 'instance of', 'first-order term')
+('weight decay', 'instance of', 'regularized version')
+('alpha', 'instance of', 'regularized version')
+('location', 'instance of', 'real')
+('location', 'instance of', 'symmetric')
+('location', 'instance of', 'diagonal matrix')
+('location', 'instance of', 'orthonormal basis')
+('location', 'instance of', 'eigenvectors')
+('location', 'instance of', 'axes')
+('effect', 'instance of', 'rescale')
+('effect', 'instance of', 'larger eigenvalues')
+('effect', 'instance of', 'relatively small')
+('effect', 'instance of', 'shrunk')
+('effect', 'instance of', 'zero magnitude')"
+7.8,1,"('L2 regularization', 'weight decay', 'optimal w', 'unregularized objective', 'L2 regularizer', 'equilibrium', 'Hessian of J', 'objective function', 'curvature', 'parameters', 'gradient', 'weight vector', 'quadratic cost function', 'linear regression', 'training data', 'cost function')","('L2 regularization', 'subclass of', 'weight decay')
+('optimal w', 'instance of', 'unregularized objective')
+('L2 regularizer', 'instance of', 'L2 regularization')
+('equilibrium', 'instance of', 'Hessian of J')
+('equilibrium', 'instance of', 'objective function')
+('equilibrium', 'instance of', 'curvature')
+('parameters', 'instance of', 'gradient')
+('weight vector', 'instance of', 'gradient')
+('weight vector', 'instance of', 'quadratic cost function')
+('weight vector', 'instance of', 'linear regression')
+('quadratic cost function', 'subclass of', 'training data')
+('cost function', 'instance of', 'quadratic cost function')"
+7.8,2,"('sum of squared errors', 'L2 regularization', 'objective function', 'normal equations', 'covariance matrix', 'variance', 'input feature', 'L1 regularization', 'model parameters', 'absolute values', 'linear regression model', 'bias parameter', 'differences')","('sum of squared errors', 'instance of', 'objective function')
+('L2 regularization', 'instance of', 'objective function')
+('covariance matrix', 'instance of', 'variance')
+('input feature', 'subclass of', 'covariance matrix')
+('L1 regularization', 'instance of', 'objective function')
+('model parameters', 'instance of', 'linear regression model')
+('model parameters', 'instance of', 'L2 regularization')
+('model parameters', 'instance of', 'L1 regularization')
+('model parameters', 'instance of', 'normal equations')
+('model parameters', 'instance of', 'bias parameter')
+('absolute values', 'instance of', 'L1 regularization')
+('linear regression model', 'instance of', 'objective function')
+('differences', 'instance of', 'sum of squared errors')"
+7.8,3,"('L1 weight decay', 'regularized objective function', 'gradient', 'sign', 'quadratic approximations', 'Taylor series', 'Hessian matrix', 'diagonal', 'linear regression problem', 'preprocessed', 'correlation', 'PCA', 'analytical solution')","('L1 weight decay', 'instance of', 'regularized objective function')
+('gradient', 'instance of', 'sign')
+('quadratic approximations', 'instance of', 'Taylor series')
+('Hessian matrix', 'subclass of', 'diagonal')
+('linear regression problem', 'instance of', 'preprocessed')
+('correlation', 'instance of', 'PCA')
+('analytical solution', 'instance of', 'linear regression problem')"
+7.8,4,"('optimal value', 'regularized objective', 'sparse', 'sparsity', 'feature selection', 'LASSO', 'least squares cost function', 'linear model', 'MAP Bayesian inference', 'Gaussian prior', 'isotropic Laplace distribution', 'log-prior term')","('optimal value', 'instance of', 'regularized objective')
+('sparse', 'subclass of', 'sparsity')
+('feature selection', 'instance of', 'LASSO')
+('least squares cost function', 'instance of', 'linear model')
+('MAP Bayesian inference', 'instance of', 'Gaussian prior')
+('MAP Bayesian inference', 'instance of', 'isotropic Laplace distribution')
+('MAP Bayesian inference', 'instance of', 'log-prior term')"
+7.8,5,"('deep learning', 'machine learning', 'mathematics', 'computer science')","('deep learning', 'part of', 'machine learning')
+('deep learning', 'part of', 'computer science')"
+7.8,6,"('deep learning', 'machine learning', 'mathematics', 'computer science')","('deep learning', 'subclass of', 'machine learning')
+('machine learning', 'part of', 'mathematics')
+('machine learning', 'part of', 'computer science')"
+7.9,0,"('regularization', 'deep learning', 'neural net layer', 'Frobenius norm', 'weight matrix', 'column norm limitation', 'reprojection', 'linear regression', 'PCA', 'inverting the matrix', 'closed form solutions', 'underdetermined problems', 'logistic regression', 'weight vector', 'stochastic gradient descent', 'weight decay', 'likelihood coefficient')","('regularization', 'instance of', 'deep learning')
+('deep learning', 'subclass of', 'neural net layer')
+('neural net layer', 'based on', 'Frobenius norm')
+('weight matrix', 'subclass of', 'Frobenius norm')
+('column norm limitation', 'subclass of', 'Frobenius norm')
+('reprojection', 'based on', 'linear regression')
+('linear regression', 'based on', 'PCA')
+('PCA', 'based on', 'inverting the matrix')
+('inverting the matrix', 'based on', 'closed form solutions')
+('closed form solutions', 'based on', 'underdetermined problems')
+('logistic regression', 'based on', 'linear regression')
+('weight vector', 'instance of', 'stochastic gradient descent')
+('weight matrix', 'subclass of', 'weight decay')
+('likelihood coefficient', 'use', 'stochastic gradient descent')"
+7.10,0,"('Moore-Penrose pseudoinverse', 'X+', 'matrix X', 'X', 'αI')","('Moore-Penrose pseudoinverse', 'instance of', 'matrix X')
+('X+', 'subclass of', 'matrix X')
+('X', 'relation not found', 'None')
+('αI', 'subclass of', 'matrix X')"
+7.10,1,"('speech recognition tasks', 'Jaitly and Hinton, 2013', 'neural network', 'Sietsma and Dow, 1991', 'denoising autoencoder', 'Vincent et al., 2008', 'Poole et al., 2014', 'dropout', 'section 7.12', 'machine learning benchmark', 'hand-designed dataset augmentation schemes', 'machine learning algorithm A', 'machine learning algorithm B', 'synthetic transformations of the input', 'Gaussian noise')","('speech recognition tasks', 'instance of', 'Jaitly and Hinton, 2013')
+('neural network', 'instance of', 'Sietsma and Dow, 1991')
+('denoising autoencoder', 'instance of', 'Vincent et al., 2008')
+('denoising autoencoder', 'instance of', 'Poole et al., 2014')
+('dropout', 'instance of', 'section 7.12')
+('machine learning benchmark', 'subclass of', 'hand-designed dataset augmentation schemes')
+('machine learning algorithm A', 'instance of', 'machine learning algorithm B')
+('synthetic transformations of the input', 'instance of', 'Gaussian noise')"
+7.11,0,"('regularization', 'deep learning', 'noise robustness', 'dataset augmentation strategy', 'penalty on the norm of the weights', 'dropout algorithm', 'recurrent neural networks', 'Bayesian inference', 'traditional form of regularization', 'regression setting', 'least-squares cost function', 'labeled examples', 'random perturbation', 'network weights', 'standard l-layer MLP', 'squared error', 'objective function', 'minimization', 'weight noise', 'covariance', 'additional regularization term')","('regularization', 'instance of', 'deep learning')
+('penalty on the norm of the weights', 'instance of', 'regularization')
+('dropout algorithm', 'instance of', 'regularization')
+('traditional form of regularization', 'instance of', 'regularization')
+('dataset augmentation strategy', 'instance of', 'regularization')
+('Bayesian inference', 'instance of', 'regularization')
+('recurrent neural networks', 'instance of', 'deep learning')
+('least-squares cost function', 'instance of', 'regression setting')
+('squared error', 'instance of', 'regression setting')
+('objective function', 'instance of', 'regression setting')
+('labeled examples', 'instance of', 'dataset augmentation strategy')
+('random perturbation', 'instance of', 'dataset augmentation strategy')
+('network weights', 'instance of', 'regularization')
+('standard l-layer MLP', 'instance of', 'regularization')
+('minimization', 'instance of', 'objective function')
+('weight noise', 'instance of', 'regularization')
+('covariance', 'instance of', 'regularization')
+('additional regularization term', 'instance of', 'regularization')"
+7.11,1,"('regularization', 'deep learning', 'small perturbations', 'parameter space', 'weights', 'minima', 'linear regression', 'parameters', 'injecting noise', 'output targets', 'labels', 'label smoothing', 'cross-entropy loss', 'maximum likelihood learning', 'softmax classifier', 'hard targets', 'convergence', 'weight decay', 'semi-supervised learning', 'unlabeled examples', 'labeled examples', 'representation')","('regularization', 'instance of', 'deep learning')
+('small perturbations', 'instance of', 'regularization')
+('weights', 'instance of', 'parameter space')
+('minima', 'instance of', 'parameter space')
+('linear regression', 'instance of', 'regression setting')
+('parameters', 'instance of', 'linear regression')
+('injecting noise', 'instance of', 'regularization')
+('output targets', 'instance of', 'linear regression')
+('labels', 'instance of', 'output targets')
+('label smoothing', 'instance of', 'regularization')
+('cross-entropy loss', 'instance of', 'objective function')
+('maximum likelihood learning', 'instance of', 'objective function')
+('softmax classifier', 'instance of', 'objective function')
+('hard targets', 'instance of', 'output targets')
+('convergence', 'instance of', 'minimization')
+('weight decay', 'instance of', 'regularization')
+('semi-supervised learning', 'instance of', 'regularization')
+('unlabeled examples', 'instance of', 'semi-supervised learning')
+('labeled examples', 'instance of', 'semi-supervised learning and regularization')
+('representation', 'instance of', 'labeled examples')"
+7.12,0,"('Deep Learning', 'Machine Learning', 'Unsupervised Learning', 'Principal Components Analysis', 'Generative Model', 'Discriminative Model', 'Semi-Supervised Learning', 'Multi-Task Learning')","('Deep Learning', 'subclass of', 'Machine Learning')
+('Unsupervised Learning', 'subclass of', 'Machine Learning')
+('Principal Components Analysis', 'instance of', 'Unsupervised Learning')
+('Generative Model', 'subclass of', 'Machine Learning')
+('Discriminative Model', 'subclass of', 'Machine Learning')
+('Semi-Supervised Learning', 'subclass of', 'Machine Learning')
+('Multi-Task Learning', 'subclass of', 'Machine Learning')"
+7.12,1,"('Deep Learning', 'Multi-Task Learning', 'Neural Network', 'Supervised Learning', 'Feedforward Network', 'Generative Component', 'Factors', 'Generalization', 'Generalization Error Bounds', 'Statistical Strength')","('Deep Learning', 'subclass of', 'Neural Network')
+('Multi-Task Learning', 'subclass of', 'Neural Network')
+('Supervised Learning', 'subclass of', 'Neural Network')
+('Feedforward Network', 'subclass of', 'Neural Network')
+('Generative Component', 'subclass of', 'Neural Network')
+('Factors', 'subclass of', 'Generative Component')
+('Generalization', 'part of', 'Generative Component')
+('Generalization Error Bounds', 'subclass of', 'Generalization')
+('Statistical Strength', 'subclass of', 'Generalization Error Bounds')"
+7.12,2,"('Deep Learning', 'Multi-Task Learning', 'Learning Curves', 'Negative Log-Likelihood Loss', 'Maxout Network', 'MNIST', 'Validation Set', 'Early Stopping')","('Deep Learning', 'subclass of', 'Multi-Task Learning')
+('Learning Curves', 'instance of', 'Deep Learning')
+('Negative Log-Likelihood Loss', 'instance of', 'Deep Learning')
+('Maxout Network', 'instance of', 'Deep Learning')
+('MNIST', 'instance of', 'Deep Learning')
+('Validation Set', 'instance of', 'Deep Learning')
+('Early Stopping', 'instance of', 'Deep Learning')"
+7.12,3,"('Early Stopping', 'Meta-algorithm', 'Training Algorithm', 'Validation Set Error', 'Parameters', 'Patience', 'Best Parameters', 'Best Number of Training Steps', 'Regularization', 'Hyperparameter')","('Early Stopping', 'instance of', 'Meta-algorithm')
+('Training Algorithm', 'instance of', 'Meta-algorithm')
+('Validation Set Error', 'instance of', 'Training Algorithm')
+('Parameters', 'instance of', 'Training Algorithm')
+('Patience', 'instance of', 'Training Algorithm')
+('Best Parameters', 'instance of', 'Training Algorithm')
+('Best Number of Training Steps', 'instance of', 'Training Algorithm')
+('Regularization', 'instance of', 'Training Algorithm')
+('Hyperparameter', 'instance of', 'Training Algorithm')"
+7.12,4,"('Early Stopping', 'Model Capacity', 'Hyperparameter', 'Training Time', 'Validation Set Evaluation', 'Best Parameters', 'Regularization', 'Weight Decay', 'Objective Function', 'Generalization', 'Training Data')","('Early Stopping', 'instance of', 'Model Capacity')
+('Hyperparameter', 'instance of', 'Model Capacity')
+('Training Time', 'instance of', 'Model Capacity')
+('Validation Set Evaluation', 'instance of', 'Model Capacity')
+('Best Parameters', 'instance of', 'Model Capacity')
+('Regularization', 'instance of', 'Model Capacity')
+('Weight Decay', 'instance of', 'Regularization')
+('Objective Function', 'instance of', 'Model Capacity')
+('Generalization', 'instance of', 'Model Capacity')
+('Training Data', 'instance of', 'Model Capacity')"
+7.12,5,"('regularization for deep learning', 'early stopping procedure', 'training set', 'training pass', 'parameter updates', 'training data', 'validation data', 'average loss function', 'training set objective', 'cost of the training procedure', 'regularization strategy', 'learning curves', 'U-shaped curve')","('regularization for deep learning', 'part of', 'training procedure')
+('early stopping procedure', 'part of', 'training procedure')
+('training set', 'part of', 'training procedure')
+('training pass', 'part of', 'training procedure')
+('parameter updates', 'part of', 'training procedure')
+('training data', 'part of', 'training procedure')
+('validation data', 'part of', 'training procedure')
+('average loss function', 'part of', 'training procedure')
+('training set objective', 'part of', 'training procedure')
+('cost of the training procedure', 'part of', 'training procedure')
+('regularization strategy', 'part of', 'training procedure')
+('learning curves', 'part of', 'training procedure')
+('U-shaped curve', 'part of', 'learning curves')"
+7.12,6,"('regularization for deep learning', 'early stopping procedure', 'training set', 'training iterations', 'parameter space', 'initial parameter value', 'effective capacity', 'learning rate', 'volume of parameter space', 'weight decay', 'L2 regularization', 'linear model', 'quadratic error function', 'gradient descent', 'cost function', 'quadratic approximation', 'Hessian matrix', 'Taylor series approximation', 'local Taylor series approximation', 'gradient')","('regularization for deep learning', 'part of', 'training procedure')
+('early stopping procedure', 'part of', 'training procedure')
+('training set', 'part of', 'training procedure')
+('training iterations', 'part of', 'training procedure')
+('parameter space', 'facet of', 'training procedure')
+('initial parameter value', 'facet of', 'training procedure')
+('effective capacity', 'facet of', 'training procedure')
+('learning rate', 'facet of', 'training procedure')
+('volume of parameter space', 'part of', 'training procedure')
+('weight decay', 'part of', 'regularization strategy')
+('L2 regularization', 'part of', 'regularization strategy')
+('linear model', 'instance of', 'model')
+('quadratic error function', 'part of', 'cost function')
+('gradient descent', 'part of', 'optimization algorithm')
+('cost function', 'part of', 'training procedure')
+('quadratic approximation', 'part of', 'Taylor series approximation')
+('Hessian matrix', 'part of', 'Taylor series approximation')
+('Taylor series approximation', 'part of', 'local Taylor series approximation')
+('gradient', 'part of', 'gradient descent')"
+7.12,7,"('regularization for deep learning', 'early stopping', 'trajectory', 'parameter vector', 'gradient descent', 'cost function', 'gradient', 'L2 regularization', 'parameter space', 'initial parameter vector', 'origin', 'eigenvectors', 'eigendecomposition', 'diagonal matrix', 'orthonormal basis', 'neural networks', 'symmetry breaking', 'hidden units', 'initial value')","('regularization for deep learning', 'part of', 'training procedure')
+('early stopping', 'part of', 'training procedure')
+('trajectory', 'part of', 'training procedure')
+('parameter vector', 'part of', 'training procedure')
+('gradient descent', 'part of', 'optimization algorithm')
+('cost function', 'part of', 'training procedure')
+('gradient', 'part of', 'gradient descent')
+('L2 regularization', 'part of', 'regularization strategy')
+('parameter space', 'facet of', 'training procedure')
+('initial parameter vector', 'facet of', 'training procedure')
+('origin', 'part of', 'parameter space')
+('eigenvectors', 'part of', 'eigendecomposition')
+('eigendecomposition', 'part of', 'diagonal matrix')
+('diagonal matrix', 'part of', 'orthonormal basis')
+('orthonormal basis', 'part of', 'parameter space')
+('neural networks', 'instance of', 'model')
+('symmetry breaking', 'part of', 'neural networks')
+('hidden units', 'part of', 'neural networks')
+('initial value', 'facet of', 'training procedure')"
+7.12,8,"('regularization for deep learning', 'parameter trajectory', 'parameter updates', 'hyperparameters', 'L2 regularization', 'quadratic approximation', 'objective function', 'logarithms', 'series expansion', 'training iterations', 'weight decay coefficient', 'curvature', 'validation set error', 'correct amount of regularization')","('regularization for deep learning', 'part of', 'training procedure')
+('parameter trajectory', 'part of', 'training procedure')
+('parameter updates', 'part of', 'training procedure')
+('hyperparameters', 'part of', 'training procedure')
+('L2 regularization', 'part of', 'regularization strategy')
+('quadratic approximation', 'part of', 'series expansion')
+('objective function', 'part of', 'training procedure')
+('logarithms', 'part of', 'series expansion')
+('series expansion', 'part of', 'quadratic approximation')
+('training iterations', 'part of', 'training procedure')
+('weight decay coefficient', 'part of', 'regularization strategy')
+('curvature', 'part of', 'quadratic approximation')
+('validation set error', 'part of', 'training procedure')
+('correct amount of regularization', 'part of', 'regularization strategy')"
+7.12,9,"('parameter tying', 'parameter sharing', 'constraints', 'penalties', 'L2 regularization', 'model parameters', 'input distributions', 'model architecture', 'dependencies', 'classification task', 'output distributions', 'parameter norm penalty', 'parameter norm', 'parameter regularization', 'classifier model', 'unsupervised model', 'architectures', 'memory footprint')","('parameter tying', 'part of', 'model architecture')
+('parameter sharing', 'part of', 'model architecture')
+('constraints', 'part of', 'training procedure')
+('penalties', 'part of', 'training procedure')
+('L2 regularization', 'part of', 'parameter regularization')
+('model parameters', 'part of', 'model architecture')
+('input distributions', 'part of', 'model architecture')
+('model architecture', 'facet of', 'model parameters')
+('dependencies', 'part of', 'model architecture')
+('classification task', 'part of', 'model architecture')
+('output distributions', 'part of', 'model architecture')
+('parameter norm penalty', 'part of', 'parameter regularization')
+('parameter norm', 'part of', 'parameter regularization')
+('parameter regularization', 'part of', 'training procedure')
+('classifier model', 'instance of', 'model')
+('unsupervised model', 'instance of', 'model')
+('architectures', 'part of', 'model parameters')
+('memory footprint', 'part of', 'model architecture')"
+7.13,0,"('Convolutional Neural Networks', 'CNNs', 'computer vision', 'parametersharing', 'training data', 'network architecture', 'Sparse Representations', 'neural network', 'L1 penalization', 'representational sparsity', 'linear regression')","('Convolutional Neural Networks', 'subclass of', 'neural network')
+('neural network', 'based on', 'linear regression')
+('CNNs', 'instance of', 'Convolutional Neural Networks')
+('parametersharing', 'part of', 'CNNs')
+('training data', 'use', 'CNNs')
+('network architecture', 'facet of', 'CNNs')
+('Sparse Representations', 'subclass of', 'neural network')
+('neural network', 'based on', 'Sparse Representations')
+('L1 penalization', 'part of', 'Sparse Representations')
+('representational sparsity', 'instance of', 'Sparse Representations')
+('linear regression', 'subclass of', 'neural network')"
+7.13,1,"('linear regression', 'sparse representation', 'representational regularization', 'norm penalty', 'L1 penalty', 'Student-t prior', 'KL divergence penalties', 'orthogonal matching pursuit')","('linear regression', 'subclass of', 'sparse representation')
+('sparse representation', 'based on', 'linear regression')
+('representational regularization', 'facet of', 'sparse representation')
+('norm penalty', 'part of', 'representational regularization')
+('L1 penalty', 'facet of', 'representational regularization')
+('Student-t prior', 'subclass of', 'representational regularization')
+('representational regularization', 'based on', 'Student-t prior')
+('KL divergence penalties', 'facet of', 'representational regularization')
+('orthogonal matching pursuit', 'use', 'sparse representation')"
+7.14,0,"('regularization', 'deep learning', 'OMP-1', 'feature extractor', 'sparse', 'sparsity regularization', 'bagging', 'bootstrap aggregating', 'generalization error', 'ensemble methods', 'model averaging', 'machine learning', 'regression models', 'variances', 'covariances', 'ensemble predictor', 'squared error', 'correlated', 'uncorrelated', 'ensemble size', 'independent errors', 'ensemble methods')","('feature extractor', 'instance of', 'deep learning')
+('sparsity regularization', 'instance of', 'regularization')
+('bootstrap aggregating', 'instance of', 'ensemble methods')
+('ensemble methods', 'use', 'machine learning')
+('ensemble methods', 'use', 'regression models')
+('ensemble methods', 'use', 'ensemble predictor')
+('ensemble methods', 'use', 'squared error')
+('ensemble methods', 'use', 'correlated')
+('ensemble methods', 'use', 'uncorrelated')
+('ensemble methods', 'use', 'ensemble size')
+('ensemble methods', 'use', 'independent errors')
+('ensemble methods', 'use', 'ensemble methods')"
+7.14,1,"('regularization', 'deep learning', 'bagging', 'dataset', 'ensemble member', 'training procedure', 'detector', 'classification rules', 'model', 'algorithm', 'objective function', 'sampling with replacement', 'original dataset', 'examples', 'duplicate examples', 'trained models', 'neural networks', 'random initialization', 'random selection of minibatches', 'hyperparameters', 'non-deterministic implementations', 'solution points')","('deep learning', 'use', 'regularization')
+('bagging', 'use', 'ensemble member')
+('ensemble member', 'part of', 'bagging')
+('training procedure', 'part of', 'bagging')
+('detector', 'part of', 'bagging')
+('classification rules', 'part of', 'bagging')
+('model', 'part of', 'bagging')
+('algorithm', 'part of', 'bagging')
+('objective function', 'part of', 'bagging')
+('sampling with replacement', 'part of', 'bagging')
+('original dataset', 'part of', 'bagging')
+('examples', 'part of', 'original dataset')
+('duplicate examples', 'part of', 'original dataset')
+('trained models', 'part of', 'ensemble member')
+('neural networks', 'part of', 'trained models')
+('random initialization', 'part of', 'trained models')
+('random selection of minibatches', 'part of', 'trained models')
+('hyperparameters', 'part of', 'trained models')
+('non-deterministic implementations', 'part of', 'trained models')
+('solution points', 'part of', 'trained models')"
+7.14,2,"('dropout', 'regularizing', 'models', 'bagging', 'ensembles', 'neural networks', 'boosting', 'capacity', 'hidden units', 'computational inexpensive', 'approximation', 'runtime', 'memory', 'ensemble of exponentially many neural networks', 'sub-networks', 'base network', 'affine transformations', 'nonlinearities', 'radial basis function networks')","('dropout', 'instance of', 'regularizing')
+('dropout', 'use', 'models')
+('bagging', 'instance of', 'ensembles')
+('ensembles', 'use', 'neural networks')
+('boosting', 'instance of', 'ensembles')
+('capacity', 'part of', 'neural networks')
+('hidden units', 'part of', 'neural networks')
+('approximation', 'part of', 'neural networks')
+('runtime', 'part of', 'neural networks')
+('memory', 'part of', 'neural networks')
+('ensemble of exponentially many neural networks', 'part of', 'ensembles')
+('sub-networks', 'part of', 'ensemble of exponentially many neural networks')
+('base network', 'part of', 'ensemble of exponentially many neural networks')
+('affine transformations', 'part of', 'base network')
+('nonlinearities', 'part of', 'base network')
+('radial basis function networks', 'part of', 'base network')"
+7.14,3,"('dropout', 'regularization', 'neural networks', 'bagging', 'datasets', 'training', 'minibatch', 'binary mask', 'hyperparameter', 'forward propagation', 'back-propagation', 'learning update', 'mask vector', 'cost', 'parameters', 'parameter sharing', 'memory', 'convergence', 'parameter settings', 'sub-networks', 'training set')","('dropout', 'use', 'regularization')
+('neural networks', 'use', 'dropout')
+('bagging', 'use', 'neural networks')
+('training', 'part of', 'neural networks')
+('minibatch', 'part of', 'training')
+('binary mask', 'part of', 'dropout')
+('hyperparameter', 'part of', 'dropout')
+('forward propagation', 'part of', 'neural networks')
+('back-propagation', 'part of', 'neural networks')
+('learning update', 'part of', 'neural networks')
+('mask vector', 'part of', 'dropout')
+('cost', 'part of', 'neural networks')
+('parameters', 'part of', 'neural networks')
+('parameter sharing', 'part of', 'neural networks')
+('memory', 'part of', 'neural networks')
+('convergence', 'part of', 'neural networks')
+('parameter settings', 'part of', 'neural networks')
+('sub-networks', 'part of', 'dropout')
+('training set', 'part of', 'datasets')"
+7.14,4,"('dropout', 'ensemble', 'sub-networks', 'base network', 'visible units', 'hidden units', 'subsets', 'input units', 'output units', 'path', 'dropout problem', 'wider layers')","('dropout', 'use', 'ensemble')
+('sub-networks', 'part of', 'dropout')
+('base network', 'part of', 'ensemble')
+('visible units', 'part of', 'sub-networks')
+('hidden units', 'part of', 'sub-networks')
+('subsets', 'part of', 'sub-networks')
+('input units', 'part of', 'base network')
+('output units', 'part of', 'base network')
+('path', 'part of', 'dropout problem')
+('dropout problem', 'instance of', 'wider layers')"
+8.1,0,"('regularization', 'deep learning', 'feedforward network', 'dropout', 'forward propagation', 'input units', 'hidden layer', 'hidden units', 'output unit', 'vector µ', 'binary', 'hyperparameter', 'mask', 'sub-networks', 'figure 7.6')","('regularization', 'subclass of', 'deep learning'), 
+('dropout', 'use', 'feedforward network'),
+('forward propagation', 'part of', 'feedforward network'),
+('input units', 'part of', 'feedforward network'),
+('hidden layer', 'part of', 'feedforward network'),
+('hidden units', 'part of', 'hidden layer'),
+('output unit', 'part of', 'feedforward network'),
+('vector µ', 'instance of', 'binary'), 
+('mask', 'use', 'dropout'), 
+('sub-networks', 'instance of', 'feedforward network')"
+8.1,1,"('bagged ensemble', 'inference', 'probabilistic', 'probability distribution', 'bagging', 'dropout', 'model', 'arithmetic mean', 'distributions', 'mask vector µ', 'sub-model', 'p(µ)', 'deep neural nets', 'sampling', 'geometric mean', 'ensemble members', 'predicted distributions', 'Warde- Farley et al. (2014)', 'probability distribution', 'renormalize', 'unnormalized probability distribution', 'uniform distribution', 'non-uniform distributions')","('bagged ensemble', 'instance of', 'ensemble members'),
+('inference', 'use', 'bagged ensemble'),
+('probabilistic', 'subclass of', 'probability distribution'),
+('probability distribution', 'part of', 'inference'),
+('bagging', 'use', 'ensemble members'),
+('dropout', 'use', 'ensemble members'),
+('model', 'instance of', 'ensemble members'),
+('arithmetic mean', 'use', 'ensemble members'),
+('distributions', 'part of', 'ensemble members'),
+('mask vector µ', 'instance of', 'dropout'),
+('sub-model', 'part of', 'ensemble members'),
+('p(µ)', 'instance of', 'probability distribution'),
+('deep neural nets', 'instance of', 'ensemble members'),
+('sampling', 'use', 'ensemble members'),
+('geometric mean', 'use', 'ensemble members'),
+('predicted distributions', 'part of', 'ensemble members'),
+('Warde- Farley et al. (2014)', 'instance of', 'ensemble members'),
+('probability distribution', 'part of', 'ensemble members'),
+('renormalize', 'part of', 'ensemble members'),
+('unnormalized probability distribution', 'part of', 'ensemble members'),
+('uniform distribution', 'instance of', 'probability distribution'),
+('non-uniform distributions', 'instance of', 'probability distribution')"
+8.1,2,"('p˜ (y x) ensemble', 'p (y x)', 'p˜ (y x) y', 'Hinton et al., 2012c', 'dropout', 'approximate inference rule', 'deep nonlinear networks', 'empirically', 'inclusion probability', 'weight scaling inference rule', 'softmax regression classifier', 'binary vector d', 'ensemble predictor', 'P˜ ensemble(y = y | v)')","('p˜ (y x) ensemble', 'instance of', 'ensemble predictor'),
+('p (y x)', 'instance of', 'ensemble predictor'),
+('p˜ (y x) y', 'instance of', 'ensemble predictor'),
+('Hinton et al., 2012c', 'instance of', 'ensemble predictor'),
+('dropout', 'use', 'ensemble predictor'),
+('approximate inference rule', 'use', 'ensemble predictor'),
+('deep nonlinear networks', 'instance of', 'ensemble predictor'),
+('empirically', 'use', 'ensemble predictor'),
+('inclusion probability', 'instance of', 'ensemble predictor'),
+('weight scaling inference rule', 'use', 'ensemble predictor'),
+('softmax regression classifier', 'instance of', 'ensemble predictor'),
+('binary vector d', 'instance of', 'ensemble predictor'),
+('P˜ ensemble(y = y | v)', 'instance of', 'ensemble predictor')"
+8.1,3,"('weight scaling rule', 'softmax classifier', 'weights 1 W', 'regression networks', 'conditionally normal outputs', 'deep networks', 'hidden layers', 'nonlinearities', 'approximation', 'theoretically characterized', 'empirically', 'Goodfellow et al., 2013a', 'Monte Carlo approximations', 'ensemble predictor', 'Gal and Ghahramani, 2015')","('weight scaling rule', 'use', 'ensemble predictor'),
+('softmax classifier', 'use', 'ensemble predictor'),
+('weights 1 W', 'instance of', 'ensemble predictor'),
+('regression networks', 'instance of', 'ensemble predictor'),
+('conditionally normal outputs', 'part of', 'regression networks'),
+('deep networks', 'instance of', 'ensemble predictor'),
+('hidden layers', 'part of', 'deep networks'),
+('nonlinearities', 'part of', 'deep networks'),
+('approximation', 'part of', 'ensemble predictor'),
+('theoretically characterized', 'part of', 'ensemble predictor'),
+('empirically', 'part of', 'ensemble predictor'),
+('Goodfellow et al., 2013a', 'instance of', 'ensemble predictor'),
+('Monte Carlo approximations', 'use', 'ensemble predictor'),
+('ensemble predictor', 'instance of', 'ensemble predictor'),
+('Gal and Ghahramani, 2015', 'instance of', 'ensemble predictor')"
+8.1,4,"('inference approximation', 'Srivastava et al., 2014', 'dropout', 'regularizers', 'weight decay', 'filter norm constraints', 'sparse activity regularization', 'computationally cheap', 'distributed representation', 'stochastic gradient descent', 'feedforward neural networks', 'restricted Boltzmann machines', 'recurrent neural networks', 'architecture of the model', 'effective capacity', 'validation set error', 'complete system', 'generalization error', 'Bayesian neural networks', 'Alternative Splicing Dataset', 'unsupervised feature learning', 'L2 weight decay', 'weight decay coefficient')","('inference approximation', 'instance of', 'computationally cheap'),
+('Srivastava et al., 2014', 'instance of', 'dropout'),
+('dropout', 'use', 'regularizers'),
+('regularizers', 'part of', 'inference approximation'),
+('weight decay', 'use', 'regularizers'),
+('filter norm constraints', 'use', 'regularizers'),
+('sparse activity regularization', 'use', 'regularizers'),
+('computationally cheap', 'part of', 'inference approximation'),
+('distributed representation', 'part of', 'inference approximation'),
+('stochastic gradient descent', 'use', 'inference approximation'),
+('feedforward neural networks', 'instance of', 'inference approximation'),
+('restricted Boltzmann machines', 'instance of', 'inference approximation'),
+('recurrent neural networks', 'instance of', 'inference approximation'),
+('architecture of the model', 'part of', 'inference approximation'),
+('effective capacity', 'part of', 'inference approximation'),
+('validation set error', 'part of', 'inference approximation'),
+('complete system', 'part of', 'inference approximation'),
+('generalization error', 'part of', 'inference approximation'),
+('Bayesian neural networks', 'instance of', 'inference approximation'),
+('Alternative Splicing Dataset', 'part of', 'inference approximation'),
+('unsupervised feature learning', 'part of', 'inference approximation'),
+('L2 weight decay', 'use', 'weight decay'),
+('weight decay coefficient', 'part of', 'weight decay')"
+8.1,5,"('REGULARIZATION FOR DEEP LEARNING', 'weight decay', 'dropout', 'Wang and Manning (2013)', 'fast dropout', 'Warde-Farley et al. (2014)', 'dropout boosting', 'bagging', 'DropConnect', 'Wan et al., 2013', 'stochastic pooling')","('dropout', 'subclass of', 'REGULARIZATION FOR DEEP LEARNING')
+('fast dropout', 'subclass of', 'REGULARIZATION FOR DEEP LEARNING')
+('dropout boosting', 'subclass of', 'REGULARIZATION FOR DEEP LEARNING')
+('bagging', 'subclass of', 'REGULARIZATION FOR DEEP LEARNING')
+('DropConnect', 'subclass of', 'REGULARIZATION FOR DEEP LEARNING')
+('stochastic pooling', 'subclass of', 'REGULARIZATION FOR DEEP LEARNING')
+('Wang and Manning (2013)', 'use', 'dropout')
+('Warde-Farley et al. (2014)', 'use', 'dropout')
+('Wan et al., 2013', 'use', 'DropConnect')"
+8.1,6,"('µ (1,I)', 'Srivastava et al. (2014)', 'bagged ensemble', 'Hinton et al. (2012c)', 'sexual reproduction', 'Warde-Farley et al. (2014)')","('Srivastava et al. (2014)', 'use', 'µ (1,I)')
+('Hinton et al. (2012c)', 'use', 'bagged ensemble')
+('Warde-Farley et al. (2014)', 'use', 'sexual reproduction')"
+8.2,0,"('regularization', 'deep learning', 'knowledge', 'input distribution', 'dropout', 'noise', 'rectified linear hidden unit', 'batch normalization', 'optimization', 'adversarial training', 'neural networks', 'error rate', 'computer security', 'linearity')","('regularization', 'part of', 'deep learning')
+('dropout', 'part of', 'deep learning')
+('rectified linear hidden unit', 'part of', 'neural networks')
+('batch normalization', 'part of', 'neural networks')
+('optimization', 'part of', 'deep learning')
+('adversarial training', 'part of', 'deep learning')
+('neural networks', 'part of', 'deep learning')
+('error rate', 'part of', 'deep learning')
+('computer security', 'part of', 'deep learning')"
+8.2,1,"('regularization', 'deep learning', 'adversarial example generation', 'GoogLeNet', 'ImageNet', 'cost function', 'local constancy prior', 'supervised neural nets', 'semi-supervised learning', 'classifier')","('regularization', 'part of', 'deep learning')
+('adversarial example generation', 'part of', 'deep learning')
+('GoogLeNet', 'instance of', 'deep learning')
+('cost function', 'part of', 'deep learning')
+('local constancy prior', 'part of', 'deep learning')
+('supervised neural nets', 'part of', 'deep learning')
+('semi-supervised learning', 'part of', 'deep learning')
+('classifier', 'part of', 'deep learning')"
+8.2,2,"('regularization', 'deep learning', 'manifold', 'tangent distance algorithm', 'nearest-neighbor algorithm', 'Euclidean distance', 'manifold hypothesis', 'tangent prop algorithm', 'neural net classifier', 'local invariance')","('regularization', 'part of', 'deep learning')
+('manifold', 'part of', 'deep learning')
+('tangent distance algorithm', 'part of', 'deep learning')
+('nearest-neighbor algorithm', 'part of', 'deep learning')
+('Euclidean distance', 'part of', 'deep learning')
+('manifold hypothesis', 'part of', 'deep learning')
+('tangent prop algorithm', 'part of', 'deep learning')
+('neural net classifier', 'part of', 'deep learning')
+('local invariance', 'part of', 'deep learning')"
+8.2,3,"('regularization', 'deep learning', 'tangent prop', 'formal knowledge', 'transformation', 'reinforcement learning', 'dataset augmentation', 'rectified linear units', 'double backprop', 'adversarial training', 'manifold tangent classifier', 'autoencoders')","('regularization', 'part of', 'deep learning')
+('tangent prop', 'part of', 'deep learning')
+('formal knowledge', 'part of', 'deep learning')
+('transformation', 'part of', 'deep learning')
+('reinforcement learning', 'part of', 'deep learning')
+('dataset augmentation', 'part of', 'deep learning')
+('rectified linear units', 'part of', 'deep learning')
+('double backprop', 'part of', 'deep learning')
+('adversarial training', 'part of', 'deep learning')
+('manifold tangent classifier', 'part of', 'deep learning')
+('autoencoders', 'part of', 'deep learning')"
+8.2,4,"('regularization', 'deep learning', 'tangent prop algorithm', 'manifold tangent classifier', 'autoencoders', 'manifold', 'tangent vectors', 'geometry of images', 'unsupervised learning', 'neural net classifier')","('regularization', 'part of', 'deep learning')
+('tangent prop algorithm', 'part of', 'deep learning')
+('manifold tangent classifier', 'part of', 'deep learning')
+('autoencoders', 'part of', 'deep learning')
+('manifold', 'part of', 'deep learning')
+('tangent vectors', 'part of', 'deep learning')
+('geometry of images', 'part of', 'deep learning')
+('unsupervised learning', 'part of', 'deep learning')
+('neural net classifier', 'part of', 'deep learning')"
+8.2,5,"('REGULARIZATION FOR DEEP LEARNING', 'machine learning', 'optimization')","('REGULARIZATION FOR DEEP LEARNING', 'instance of', 'machine learning')
+('REGULARIZATION FOR DEEP LEARNING', 'subject of', 'optimization')"
+8.2,6,"('deep learning', 'optimization', 'neural network training', 'gradient-based optimization', 'numerical optimization', 'cost function', 'performance measure', 'regularization terms')","('deep learning', 'subject of', 'neural network training')
+('deep learning', 'subject of', 'gradient-based optimization')
+('deep learning', 'subject of', 'numerical optimization')
+('deep learning', 'subject of', 'cost function')
+('deep learning', 'subject of', 'performance measure')
+('deep learning', 'subject of', 'regularization terms')"
+8.2,7,"('deep models', 'optimization algorithms', 'machine learning', 'performance measure', 'cost function', 'per-example loss function', 'supervised learning', 'unsupervised learning', 'objective function', 'data generating distribution', 'empirical risk minimization', 'generalization error')","('deep models', 'subject of', 'optimization algorithms')
+('deep models', 'instance of', 'machine learning')
+('deep models', 'subject of', 'performance measure')
+('deep models', 'subject of', 'cost function')
+('deep models', 'subject of', 'per-example loss function')
+('deep models', 'instance of', 'supervised learning')
+('deep models', 'instance of', 'unsupervised learning')
+('deep models', 'subject of', 'objective function')
+('deep models', 'subject of', 'data generating distribution')
+('deep models', 'subject of', 'empirical risk minimization')
+('deep models', 'subject of', 'generalization error')"
+8.2,8,"('optimization algorithm', 'machine learning problem', 'empirical risk minimization', 'average training error', 'overfitting', 'gradient descent', 'loss function', 'surrogate loss functions', 'early stopping', 'classification error', 'negative log-likelihood')","('optimization algorithm', 'subject of', 'machine learning problem')
+('optimization algorithm', 'subject of', 'empirical risk minimization')
+('optimization algorithm', 'subject of', 'average training error')
+('optimization algorithm', 'subject of', 'overfitting')
+('optimization algorithm', 'subject of', 'gradient descent')
+('optimization algorithm', 'subject of', 'loss function')
+('optimization algorithm', 'subject of', 'surrogate loss functions')
+('optimization algorithm', 'subject of', 'early stopping')
+('optimization algorithm', 'subject of', 'classification error')
+('optimization algorithm', 'subject of', 'negative log-likelihood')"
+8.2,9,"('surrogate loss function', 'test set 0-1 loss', 'robustness of the classifier', 'convergence criterion', 'early stopping', 'local minimum', 'batch and minibatch algorithms', 'maximum likelihood estimation', 'empirical distribution', 'objective function')","('surrogate loss function', 'subject of', 'test set 0-1 loss')
+('surrogate loss function', 'subject of', 'robustness of the classifier')
+('surrogate loss function', 'subject of', 'convergence criterion')
+('surrogate loss function', 'subject of', 'early stopping')
+('surrogate loss function', 'subject of', 'local minimum')
+('surrogate loss function', 'subject of', 'batch and minibatch algorithms')
+('surrogate loss function', 'subject of', 'maximum likelihood estimation')
+('surrogate loss function', 'subject of', 'empirical distribution')
+('surrogate loss function', 'subject of', 'objective function')"
+8.2,10,"('optimization', 'training', 'deep models', 'gradient', 'J(θ)', 'logp (x,y;θ)', '∇θ', 'data', 'model', 'expectation', 'computation', 'examples', 'dataset', 'standard error', 'mean', 'n samples', 'σ', 'true standard deviation', 'value', 'linear returns', 'standard deviation', 'hypo","('optimization', 'training', 'deep models')
+('gradient', 'J(θ)', 'logp (x,y;θ)')
+('∇θ', 'data', 'model')
+('expectation', 'computation', 'examples')
+('dataset', 'standard error', 'mean')
+('n samples', 'σ', 'true standard deviation')
+('value', 'linear returns', 'standard deviation')"
+8.2,11,"('optimization', 'training', 'deep models', 'minibatch', 'stochastic methods', 'stochastic gradient descent', 'batch size', 'multicore architectures', 'memory', 'hardware', 'power of 2', 'regularizing effect', 'generalization error', 'learning rate', 'sampling error', 'gradient', 'Hessian matrix', 'condition number')","('optimization', 'training', 'deep models')
+('minibatch', 'stochastic methods', 'stochastic gradient descent')
+('batch size', 'multicore architectures', 'memory')
+('hardware', 'power of 2', 'regularizing effect')
+('generalization error', 'learning rate', 'sampling error')
+('gradient', 'Hessian matrix', 'condition number')"
+8.3,0,"('OPTIMIZATION', 'TRAINING', 'DEEP MODELS', 'H', 'inverse', 'errors', 'estimation errors', 'g', 'estimate of g', 'update H 1g', 'H', 'minibatches', 'samples', 'gradient', 'expected gradient', 'dataset', 'medical data', 'blood sample test results', 'patient', 'examples', 'order', 'shuffle', 'data center', 'random selection', 'algorithm', 'optimization problems', 'machine learning', 'J(X)', 'minibatch stochastic gradient descent', 'generalization error', 'implementations')","('H', 'instance of', 'optimization') 
+('inverse', 'instance of', 'relation') 
+('errors', 'instance of', 'training') 
+('estimation errors', 'instance of', 'errors') 
+('g', 'instance of', 'estimation errors') 
+('estimate of g', 'instance of', 'g') 
+('update H 1g', 'instance of', 'estimate of g') 
+('H', 'instance of', 'minibatches') 
+('samples', 'instance of', 'gradient') 
+('expected gradient', 'instance of', 'samples') 
+('dataset', 'instance of', 'medical data') 
+('blood sample test results', 'instance of', 'dataset') 
+('patient', 'instance of', 'blood sample test results') 
+('examples', 'instance of', 'order') 
+('shuffle', 'instance of', 'examples') 
+('data center', 'instance of', 'shuffle') 
+('random selection', 'instance of', 'data center') 
+('algorithm', 'instance of', 'optimization problems') 
+('optimization problems', 'instance of', 'machine learning') 
+('J(X)', 'instance of', 'minibatch stochastic gradient descent') 
+('generalization error', 'instance of', 'implementations')"
+8.3,1,"('OPTIMIZATION', 'TRAINING', 'DEEP MODELS', 'descent', 'shuffle', 'dataset', 'minibatch', 'compute', 'unbiased estimate', 'generalization error', 'online learning', 'stream of data', 'learner', 'example', 'data generating distribution', 'discrete', 'exact gradient', 'log-likelihood', 'functions', 'likelihood', 'continuous', 'mild assumptions', 'parameters', 'minibatch of examples', 'targets', 'loss', 'updating', 'direction', 'SGD', 'epochs')","('descent', 'instance of', 'optimization')
+('shuffle', 'instance of', 'training')
+('dataset', 'instance of', 'deep models')
+('minibatch', 'instance of', 'dataset')
+('compute', 'instance of', 'minibatch')
+('unbiased estimate', 'instance of', 'compute')
+('generalization error', 'instance of', 'unbiased estimate')
+('online learning', 'instance of', 'generalization error')
+('stream of data', 'instance of', 'online learning')
+('learner', 'instance of', 'stream of data')
+('example', 'instance of', 'learner')
+('data generating distribution', 'instance of', 'example')
+('discrete', 'instance of', 'data generating distribution')
+('exact gradient', 'instance of', 'discrete')
+('log-likelihood', 'instance of', 'exact gradient')
+('functions', 'instance of', 'log-likelihood')
+('likelihood', 'instance of', 'functions')
+('continuous', 'instance of', 'likelihood')
+('mild assumptions', 'instance of', 'continuous')
+('parameters', 'instance of', 'mild assumptions')
+('minibatch of examples', 'instance of', 'parameters')
+('targets', 'instance of', 'minibatch of examples')
+('loss', 'instance of', 'targets')
+('updating', 'instance of', 'loss')
+('direction', 'instance of', 'updating')
+('SGD', 'instance of', 'direction')
+('epochs', 'instance of', 'SGD')"
+8.3,2,"('Optimization', 'Neural Network Optimization', 'convex optimization', 'objective function', 'constraints', 'convex case', 'most prominent challenges', 'ill-conditioning', 'Hessian matrix H', 'numerical optimization', 'neural network training problems', 'convex functions', 'second-order Taylor series expansion', 'gradient descent step', 'squared gradient norm')","('Neural Network Optimization', 'instance of', 'Optimization')
+('convex optimization', 'instance of', 'Optimization')
+('objective function', 'instance of', 'convex optimization')
+('constraints', 'instance of', 'convex optimization')
+('convex case', 'instance of', 'convex optimization')
+('ill-conditioning', 'instance of', 'most prominent challenges')
+('Hessian matrix H', 'instance of', 'ill-conditioning')
+('numerical optimization', 'instance of', 'neural network training problems')
+('convex functions', 'instance of', 'convex optimization')
+('second-order Taylor series expansion', 'instance of', 'convex functions')
+('gradient descent step', 'instance of', 'numerical optimization')
+('squared gradient norm', 'instance of', 'gradient descent step')"
+8.3,3,"('Gradient descent', 'critical point', 'convolutional network', 'object detection', 'scatterplot', 'gradient norm', 'training process', 'validation set', 'classification error', 'learning', 'learning rate', 'curvature', 'ill-conditioning', 'Newton’s method', 'local minima', 'convex optimization problem')","('critical point', 'instance of', 'gradient descent')
+('convolutional network', 'instance of', 'gradient descent')
+('object detection', 'instance of', 'convolutional network')
+('scatterplot', 'instance of', 'gradient descent')
+('gradient norm', 'instance of', 'gradient descent')
+('training process', 'instance of', 'gradient descent')
+('validation set', 'instance of', 'training process')
+('classification error', 'instance of', 'training process')
+('learning', 'instance of', 'gradient descent')
+('learning rate', 'instance of', 'learning')
+('curvature', 'instance of', 'gradient descent')
+('ill-conditioning', 'instance of', 'curvature')
+('Newton’s method', 'instance of', 'gradient descent')
+('local minima', 'instance of', 'Newton’s method')
+('convex optimization problem', 'instance of', 'Newton’s method')"
+8.3,4,"('local minima', 'global minimum', 'convex functions', 'deep model', 'model identifiability problem', 'latent variables', 'weight space symmetry', 'rectified linear', 'maxout network', 'cost function value')","('global minimum', 'instance of', 'local minima')
+('convex functions', 'instance of', 'global minimum')
+('deep model', 'instance of', 'convex functions')
+('model identifiability problem', 'instance of', 'deep model')
+('latent variables', 'instance of', 'model identifiability problem')
+('weight space symmetry', 'instance of', 'latent variables')
+('rectified linear', 'instance of', 'deep model')
+('maxout network', 'instance of', 'deep model')
+('cost function value', 'instance of', 'maxout network')"
+8.3,5,"('optimization', 'training', 'deep models', 'neural network optimization', 'local minima', 'cost function value', 'global minimum', 'parameter space', 'low cost', 'Saxe et al.', 'Dauphin et al.', 'Goodfellow et al.', 'Choromanska et al.', 'gradient', 'sufficiently large neural networks', 'norm of the gradient', 'negative test', 'high dimensional spaces', 'plateaus', 'saddle points', 'flat regions', 'Hessian matrix', 'cross-section', 'random functions', 'expected ratio', 'sign of each eigenvalue', 'coin tosses')","('optimization', 'part of', 'deep models')
+('training', 'part of', 'deep models')
+('deep models', 'instance of', 'neural network optimization')
+('local minima', 'part of', 'cost function value')
+('cost function value', 'part of', 'global minimum')
+('parameter space', 'part of', 'neural network optimization')
+('low cost', 'part of', 'sufficiently large neural networks')
+('Saxe et al.', 'part of', 'neural network optimization')
+('Dauphin et al.', 'part of', 'neural network optimization')
+('Goodfellow et al.', 'part of', 'neural network optimization')
+('Choromanska et al.', 'part of', 'neural network optimization')
+('gradient', 'part of', 'sufficiently large neural networks')
+('sufficiently large neural networks', 'part of', 'norm of the gradient')
+('negative test', 'part of', 'high dimensional spaces')
+('plateaus', 'part of', 'high dimensional spaces')
+('saddle points', 'part of', 'high dimensional spaces')
+('flat regions', 'part of', 'high dimensional spaces')
+('Hessian matrix', 'part of', 'high dimensional spaces')
+('cross-section', 'part of', 'high dimensional spaces')
+('random functions', 'part of', 'high dimensional spaces')
+('expected ratio', 'part of', 'high dimensional spaces')
+('sign of each eigenvalue', 'part of', 'high dimensional spaces')
+('coin tosses', 'part of', 'high dimensional spaces')"
+8.3,6,"('optimization', 'training', 'deep models', 'random functions', 'eigenvalues', 'Hessian', 'coin tossing analogy', 'local minima', 'critical points', 'saddle points', 'local maxima', 'nonlinearities', 'shallow autoencoders', 'feedforward networks', 'nonlinear neural networks', 'complete learning dynamics', 'learning in these models', 'training algorithms', 'first-order optimization algorithms', 'gradient descent', 'visualizations', 'cost function', 'weights', 'continuous-time gradient descent', 'Newton’s method')","('optimization', 'part of', 'deep models')
+('training', 'part of', 'deep models')
+('deep models', 'instance of', 'neural network optimization')
+('random functions', 'part of', 'high dimensional spaces')
+('eigenvalues', 'part of', 'Hessian')
+('Hessian', 'part of', 'neural network optimization')
+('coin tossing analogy', 'part of', 'high dimensional spaces')
+('local minima', 'part of', 'cost function')
+('critical points', 'part of', 'cost function')
+('saddle points', 'part of', 'cost function')
+('local maxima', 'part of', 'cost function')
+('nonlinearities', 'part of', 'nonlinear neural networks')
+('shallow autoencoders', 'part of', 'feedforward networks')
+('feedforward networks', 'part of', 'nonlinear neural networks')
+('nonlinear neural networks', 'part of', 'deep models')
+('complete learning dynamics', 'part of', 'deep models')
+('learning in these models', 'part of', 'deep models')
+('training algorithms', 'part of', 'deep models')
+('first-order optimization algorithms', 'part of', 'training algorithms')
+('gradient descent', 'part of', 'first-order optimization algorithms')
+('visualizations', 'part of', 'deep models')
+('cost function', 'part of', 'deep models')
+('weights', 'part of', 'deep models')
+('continuous-time gradient descent', 'part of', 'optimization')
+('Newton’s method', 'part of', 'optimization')"
+8.4,0,"('neural network', 'cost function', 'stochastic gradient descent', 'training trajectory', 'training time', 'gradient', 'Hessian matrix')","('neural network', 'instance of', 'cost function')
+('cost function', 'instance of', 'neural network')
+('neural network', 'instance of', 'stochastic gradient descent')
+('stochastic gradient descent', 'instance of', 'neural network')
+('training trajectory', 'instance of', 'neural network')
+('neural network', 'instance of', 'training trajectory')
+('training time', 'instance of', 'neural network')
+('neural network', 'instance of', 'training time')
+('gradient', 'instance of', 'neural network')
+('neural network', 'instance of', 'gradient')
+('Hessian matrix', 'instance of', 'neural network')
+('neural network', 'instance of', 'Hessian matrix')"
+8.4,1,"('gradient descent', 'Newton’s method', 'saddle point', 'second-order methods', 'saddle-free Newton method', 'maxima', 'wide, flat regions', 'convex problem', 'cliffs', 'exploding gradients')","('gradient descent', 'instance of', 'Newton’s method')
+('Newton’s method', 'instance of', 'gradient descent')
+('gradient descent', 'instance of', 'saddle point')
+('saddle point', 'instance of', 'gradient descent')
+('gradient descent', 'instance of', 'second-order methods')
+('second-order methods', 'instance of', 'gradient descent')
+('gradient descent', 'instance of', 'saddle-free Newton method')
+('saddle-free Newton method', 'instance of', 'gradient descent')
+('gradient descent', 'instance of', 'maxima')
+('maxima', 'instance of', 'gradient descent')
+('gradient descent', 'instance of', 'wide, flat regions')
+('wide, flat regions', 'instance of', 'gradient descent')
+('gradient descent', 'instance of', 'convex problem')
+('convex problem', 'instance of', 'gradient descent')
+('gradient descent', 'instance of', 'cliffs')
+('cliffs', 'instance of', 'gradient descent')
+('gradient descent', 'instance of', 'exploding gradients')
+('exploding gradients', 'instance of', 'gradient descent')"
+8.4,2,"('deep neural networks', 'recurrent neural networks', 'nonlinearities', 'parameter space', 'cliff region', 'gradient clipping heuristic', 'cost functions', 'multiplication', 'long-term dependencies', 'computational graph')","('deep neural networks', 'instance of', 'recurrent neural networks')
+('recurrent neural networks', 'instance of', 'deep neural networks')
+('deep neural networks', 'instance of', 'nonlinearities')
+('nonlinearities', 'instance of', 'deep neural networks')
+('deep neural networks', 'instance of', 'parameter space')
+('parameter space', 'instance of', 'deep neural networks')
+('deep neural networks', 'instance of', 'cliff region')
+('cliff region', 'instance of', 'deep neural networks')
+('deep neural networks', 'instance of', 'gradient clipping heuristic')
+('gradient clipping heuristic', 'instance of', 'deep neural networks')
+('deep neural networks', 'instance of', 'cost functions')
+('cost functions', 'instance of', 'deep neural networks')
+('deep neural networks', 'instance of', 'multiplication')
+('multiplication', 'instance of', 'deep neural networks')
+('deep neural networks', 'instance of', 'long-term dependencies')
+('long-term dependencies', 'instance of', 'deep neural networks')
+('deep neural networks', 'instance of', 'computational graph')
+('computational graph', 'instance of', 'deep neural networks')"
+8.4,3,"('computational graph', 'long temporal sequence', 'matrix multiplication', 'eigendecomposition', 'vanishing gradients', 'exploding gradients', 'gradient clipping', 'power method algorithm', 'principal eigenvector', 'recurrent networks', 'feedforward networks', 'inexact gradients')","('computational graph', 'instance of', 'long temporal sequence')
+('long temporal sequence', 'instance of', 'computational graph')
+('computational graph', 'instance of', 'matrix multiplication')
+('matrix multiplication', 'instance of', 'computational graph')
+('computational graph', 'instance of', 'eigendecomposition')
+('eigendecomposition', 'instance of', 'computational graph')
+('computational graph', 'instance of', 'vanishing gradients')
+('vanishing gradients', 'instance of', 'computational graph')
+('computational graph', 'instance of', 'exploding gradients')
+('exploding gradients', 'instance of', 'computational graph')
+('computational graph', 'instance of', 'gradient clipping')
+('gradient clipping', 'instance of', 'computational graph')
+('computational graph', 'instance of', 'power method algorithm')
+('power method algorithm', 'instance of', 'computational graph')
+('computational graph', 'instance of', 'principal eigenvector')
+('principal eigenvector', 'instance of', 'computational graph')
+('computational graph', 'instance of', 'recurrent networks')
+('recurrent networks', 'instance of', 'computational graph')
+('computational graph', 'instance of', 'feedforward networks')
+('feedforward networks', 'instance of', 'computational graph')
+('computational graph', 'instance of', 'inexact gradients')
+('inexact gradients', 'instance of', 'computational graph')"
+8.4,4,"('contrastive divergence', 'Boltzmann machine', 'surrogate loss function', 'poorly conditioned', 'cliff', 'saddle point', 'learning trajectory', 'global minimum', 'local minimum', 'critical point', 'loss function', 'log-likelihood', 'softmax', 'classifier', 'negative log-likelihood', 'N log-likelihood', 'learning algorithm', 'local optimization')","('contrastive divergence', 'instance of', 'Boltzmann machine')
+('Boltzmann machine', 'instance of', 'contrastive divergence')
+('contrastive divergence', 'instance of', 'surrogate loss function')
+('surrogate loss function', 'instance of', 'contrastive divergence')
+('contrastive divergence', 'instance of', 'poorly conditioned')
+('poorly conditioned', 'instance of', 'contrastive divergence')
+('contrastive divergence', 'instance of', 'cliff')
+('cliff', 'instance of', 'contrastive divergence')
+('contrastive divergence', 'instance of', 'saddle point')
+('saddle point', 'instance of', 'contrastive divergence')
+('contrastive divergence', 'instance of', 'learning trajectory')
+('learning trajectory', 'instance of', 'contrastive divergence')
+('contrastive divergence', 'instance of', 'global minimum')
+('global minimum', 'instance of', 'contrastive divergence')
+('contrastive divergence', 'instance of', 'local minimum')
+('local minimum', 'instance of', 'contrastive divergence')
+('contrastive divergence', 'instance of', 'critical point')
+('critical point', 'instance of', 'contrastive divergence')
+('contrastive divergence', 'instance of', 'loss function')
+('loss function', 'instance of', 'contrastive divergence')
+('contrastive divergence', 'instance of', 'log-likelihood')
+('log-likelihood', 'instance of', 'contrastive divergence')
+('contrastive divergence', 'instance of', 'softmax')
+('softmax', 'instance of', 'contrastive divergence')
+('contrastive divergence', 'instance of', 'classifier')
+('classifier', 'instance of', 'contrastive divergence')
+('contrastive divergence', 'instance of', 'negative log-likelihood')
+('negative log-likelihood', 'instance of', 'contrastive divergence')
+('contrastive divergence', 'instance of', 'N log-likelihood')
+('N log-likelihood', 'instance of', 'contrastive divergence')
+('contrastive divergence', 'instance of', 'learning algorithm')
+('learning algorithm', 'instance of', 'contrastive divergence')
+('contrastive divergence', 'instance of', 'local optimization')
+('local optimization', 'instance of', 'contrastive divergence')"
+8.5,0,"('deep models', 'optimization', 'training', 'global solution', 'saddle points', 'local minima', 'cost function', 'asymptotes', 'mountain', 'trajectory', 'learning algorithms', 'neural networks', 'gradient descent', 'objective function', 'conditioning', 'discontinuous gradients', 'steps', 'short path')","('deep models', 'subclass of', 'neural networks')
+('optimization', 'part of', 'training')
+('training', 'use', 'learning algorithms')
+('global solution', 'based on', 'optimization')
+('saddle points', 'based on', 'optimization')
+('local minima', 'based on', 'optimization')
+('cost function', 'based on', 'optimization')
+('asymptotes', 'based on', 'cost function')
+('mountain', 'based on', 'cost function')
+('trajectory', 'based on', 'steps')
+('learning algorithms', 'use', 'gradient descent')
+('neural networks', 'instance of', 'deep models')
+('gradient descent', 'use', 'learning algorithms')
+('objective function', 'based on', 'cost function')
+('conditioning', 'based on', 'cost function')
+('discontinuous gradients', 'based on', 'cost function')
+('steps', 'use', 'learning algorithms')
+('short path', 'based on', 'trajectory')"
+8.5,1,"('neural networks', 'optimization algorithm', 'performance', 'critical point', 'Newton’s method', 'wide flat region', 'greedy', 'trajectory', 'well-behaved region', 'initial points', 'traditional optimization algorithms', 'theoretical limits', 'intractable', 'generalization error', 'machine learning research')","('neural networks', 'instance of', 'optimization algorithm')
+('optimization algorithm', 'use', 'neural networks')
+('performance', 'based on', 'optimization algorithm')
+('critical point', 'based on', 'optimization algorithm')
+('Newton’s method', 'instance of', 'optimization algorithm')
+('wide flat region', 'based on', 'optimization algorithm')
+('greedy', 'based on', 'optimization algorithm')
+('trajectory', 'based on', 'optimization algorithm')
+('well-behaved region', 'based on', 'optimization algorithm')
+('initial points', 'based on', 'optimization algorithm')
+('traditional optimization algorithms', 'subclass of', 'optimization algorithm')
+('theoretical limits', 'based on', 'optimization algorithm')
+('intractable', 'based on', 'optimization algorithm')
+('generalization error', 'based on', 'optimization algorithm')
+('machine learning research', 'based on', 'optimization algorithm')"
+8.5,2,"('gradient descent', 'stochastic gradient descent', 'optimization algorithms', 'machine learning', 'deep learning', 'learning rate', 'parameter', 'training set', 'gradient estimate', 'update', 'stopping criterion', 'minibatch', 'examples', 'targets', 'total cost function', 'convergence')","('gradient descent', 'subclass of', 'optimization algorithms')
+('stochastic gradient descent', 'subclass of', 'optimization algorithms')
+('optimization algorithms', 'use', 'machine learning')
+('machine learning', 'instance of', 'deep learning')
+('deep learning', 'use', 'gradient descent')
+('learning rate', 'use', 'gradient descent')
+('parameter', 'based on', 'gradient descent')
+('training set', 'use', 'gradient descent')
+('gradient estimate', 'use', 'gradient descent')
+('update', 'use', 'gradient descent')
+('stopping criterion', 'use', 'gradient descent')
+('minibatch', 'use', 'stochastic gradient descent')
+('examples', 'use', 'gradient descent')
+('targets', 'use', 'gradient descent')
+('total cost function', 'based on', 'gradient descent')
+('convergence', 'use', 'gradient descent')"
+8.5,3,"('learning rate', 'decay', 'iteration', 'monitoring learning curves', 'linear schedule', 'initial learning rate', 'cost function', 'convergence', 'optimization algorithm', 'training examples', 'dataset', 'tolerance', 'excess error', 'convex problem', 'strongly convex', 'batch gradient descent', 'stochastic gradient descent', 'Cramér-Rao bound', 'generalization error')","('learning rate', 'decay', 'optimization algorithm')
+('learning rate', 'decay', 'convergence')
+('learning rate', 'decay', 'monitoring learning curves')
+('learning rate', 'decay', 'linear schedule')
+('learning rate', 'decay', 'initial learning rate')
+('learning rate', 'decay', 'cost function')
+('learning rate', 'decay', 'batch gradient descent')
+('learning rate', 'decay', 'stochastic gradient descent')
+('iteration', 'monitoring', 'learning curves')
+('iteration', 'monitoring', 'cost function')
+('iteration', 'monitoring', 'convergence')
+('iteration', 'monitoring', 'optimization algorithm')
+('iteration', 'monitoring', 'training examples')
+('cost function', 'convergence', 'optimization algorithm')
+('cost function', 'convergence', 'training examples')
+('cost function', 'convergence', 'dataset')
+('optimization algorithm', 'convergence', 'tolerance')
+('optimization algorithm', 'convergence', 'excess error')
+('optimization algorithm', 'convergence', 'convex problem')
+('optimization algorithm', 'convergence', 'strongly convex')
+('optimization algorithm', 'training examples', 'batch gradient descent')
+('optimization algorithm', 'training examples', 'stochastic gradient descent')
+('optimization algorithm', 'convergence', 'Cramér-Rao bound')
+('optimization algorithm', 'convergence', 'generalization error')"
+8.6,0,"('deep models', 'optimization algorithm', 'converges faster', 'machine learning', 'overfitting', 'stochastic gradient descent', 'large datasets', 'rapid initial progress', 'evaluating the gradient', 'batch and stochastic gradient descent', 'minibatch size', 'learning with it', 'momentum algorithm', 'high curvature', 'consistent gradients', 'noisy gradients', 'exponentially decaying moving average', 'parameter space', 'Newton’s laws of motion', 'momentum in physics', 'hyperparameter', 'update rule', 'velocity vectorv', 'particle', 'learning algorithm', 'algorithm 8.2')","('deep models', 'subclass of', 'machine learning')
+('optimization algorithm', 'subclass of', 'machine learning')
+('converges faster', 'subclass of', 'optimization algorithm')
+('overfitting','subclass of', 'machine learning')
+('stochastic gradient descent', 'subclass of', 'optimization algorithm')
+('large datasets', 'subclass of', 'machine learning')
+('rapid initial progress', 'subclass of', 'optimization algorithm')
+('evaluating the gradient', 'subclass of', 'optimization algorithm')
+('batch and stochastic gradient descent', 'subclass of', 'optimization algorithm')
+('minibatch size', 'subclass of', 'batch and stochastic gradient descent')
+('learning with it', 'subclass of', 'batch and stochastic gradient descent')
+('momentum algorithm', 'subclass of', 'optimization algorithm')
+('high curvature', 'subclass of', 'optimization algorithm')
+('consistent gradients', 'subclass of', 'optimization algorithm')
+('noisy gradients', 'subclass of', 'optimization algorithm')
+('exponentially decaying moving average', 'subclass of', 'optimization algorithm')
+('parameter space', 'instance of', 'machine learning')
+('Newton’s laws of motion', 'subclass of', 'machine learning')
+('momentum in physics', 'subclass of', 'machine learning')
+('hyperparameter', 'subclass of', 'machine learning')
+('update rule', 'subclass of', 'machine learning')
+('velocity vectorv', 'subclass of', 'machine learning')
+('particle', 'subclass of', 'machine learning')
+('learning algorithm', 'subclass of', 'machine learning')
+('algorithm 8.2', 'subclass of', 'machine learning')"
+8.6,1,"('Hessian matrix', 'variance', 'stochastic gradient', 'momentum', 'poorly conditioned Hessian matrix', 'quadratic loss function', 'momentum learning rule', 'gradient descent', 'canyon', 'steep sides', 'quadratic objective')","('Hessian matrix', 'subclass of', 'variance')
+('stochastic gradient', 'subclass of', 'momentum')
+('poorly conditioned Hessian matrix', 'subclass of', 'Hessian matrix')
+('quadratic loss function', 'subclass of', 'variance')
+('momentum learning rule', 'subclass of', 'momentum')
+('gradient descent', 'subclass of', 'momentum')
+('canyon', 'subclass of', 'quadratic loss function')
+('steep sides', 'subclass of', 'canyon')
+('quadratic objective', 'subclass of', 'quadratic loss function')"
+8.6,2,"('step size', 'sequence of gradients', 'momentum algorithm', 'terminal velocity', 'momentum hyperparameter', 'learning rate', 'initial parameter', 'velocity', 'stopping criterion', 'minibatch', 'gradient estimate', 'velocity update', 'update', 'continuous-time Newtonian dynamics', 'particle', 'net force', 'accelerate', 'position', 'variable', 'velocity', 'first-order differential equation')","('step size', 'subclass of', 'momentum algorithm')
+('sequence of gradients', 'subclass of', 'momentum algorithm')
+('momentum algorithm', 'subclass of', 'terminal velocity')
+('momentum algorithm', 'subclass of', 'momentum hyperparameter')
+('learning rate', 'subclass of', 'momentum algorithm')
+('initial parameter', 'subclass of', 'momentum algorithm')
+('velocity', 'subclass of', 'momentum algorithm')
+('stopping criterion', 'subclass of', 'momentum algorithm')
+('minibatch', 'subclass of', 'gradient estimate')
+('gradient estimate', 'subclass of', 'velocity update')
+('velocity update', 'subclass of', 'momentum algorithm')
+('continuous-time Newtonian dynamics', 'subclass of', 'particle')
+('particle', 'subclass of', 'accelerate')
+('net force', 'subclass of', 'position')
+('position', 'subclass of', 'variable')
+('velocity', 'subclass of', 'position')
+('first-order differential equation', 'subclass of', 'variable')"
+8.6,3,"('differential equations', ""Euler's method"", 'forces', 'negative gradient', 'cost function', 'Newtonian scenario', 'velocity', 'hockey puck', 'icy surface', 'downhill', 'uphill', 'oscillating', 'frictionless', 'viscous drag', 'resistant medium', 'energy', 'local minimum', 'mathematical convenience', 'integer powers', 'physical systems', 'drag', 'turbulent drag', 'square of the velocity', 'dry friction', 'constant magnitude', 'lower power', 'force', 'gradient of the cost function', 'local minimum', 'viscous drag')","('differential equations', 'subclass of', 'Euler\'s method')
+('forces', 'subclass of', 'negative gradient')
+('cost function', 'subclass of', 'negative gradient')
+('Newtonian scenario', 'subclass of', 'forces')
+('velocity', 'subclass of', 'forces')
+('hockey puck', 'subclass of', 'velocity')
+('icy surface', 'subclass of', 'forces')
+('downhill', 'subclass of', 'icy surface')
+('uphill', 'subclass of', 'icy surface')
+('oscillating', 'subclass of', 'forces')
+('frictionless', 'subclass of', 'forces')
+('viscous drag', 'subclass of', 'oscillating')
+('resistant medium', 'subclass of', 'forces')
+('energy', 'subclass of', 'forces')
+('local minimum', 'subclass of', 'gradient of the cost function')
+('mathematical convenience', 'subclass of', 'local minimum')
+('integer powers', 'subclass of', 'local minimum')
+('physical systems', 'instance of', 'forces')
+('drag', 'subclass of', 'viscous drag')
+('turbulent drag', 'subclass of', 'drag')
+('square of the velocity', 'subclass of', 'viscous drag')
+('dry friction', 'subclass of', 'viscous drag')
+('constant magnitude', 'subclass of', 'forces')
+('lower power', 'subclass of', 'turbulent drag')
+('force', 'subclass of', 'forces')
+('gradient of the cost function', 'subclass of', 'cost function')
+('local minimum', 'subclass of', 'force')
+('viscous drag', 'subclass of', 'resistant medium')"
+8.6,4,"('Nesterov’s accelerated gradient method', 'update rules', 'momentum algorithm', 'parameters', 'excess error', 'rate of convergence', 'stochastic gradient', 'correction factor', 'Nesterov momentum algorithm', 'convex batch gradient case', 'rate of convergence', 'stopping criterion', 'minibatch', 'interim update', 'interim point', 'velocity update')","('Nesterov’s accelerated gradient method', 'subclass of', 'update rules')
+('momentum algorithm', 'subclass of', 'update rules')
+('parameters', 'subclass of', 'momentum algorithm')
+('excess error', 'subclass of', 'momentum algorithm')
+('rate of convergence', 'subclass of', 'update rules')
+('stochastic gradient', 'subclass of', 'momentum algorithm')
+('correction factor', 'subclass of', 'momentum algorithm')
+('Nesterov momentum algorithm', 'subclass of', 'update rules')
+('convex batch gradient case', 'subclass of', 'rate of convergence')
+('stopping criterion', 'subclass of', 'update rules')
+('minibatch', 'subclass of', 'update rules')
+('interim update', 'subclass of', 'minibatch')
+('interim point', 'subclass of', 'update rules')
+('velocity update', 'subclass of', 'Nesterov’s accelerated gradient method')"
+8.6,5,"('deep learning', 'machine learning', 'optimization', 'training', 'deep models', 'initialization strategies', 'neural network optimization')","('deep learning', 'subclass of', 'machine learning')
+('machine learning', 'use', 'optimization')
+('training', 'based on', 'deep learning')
+('training', 'subject of', 'neural network optimization')
+('deep models', 'facet of', 'deep learning')
+('initialization strategies', 'use', 'neural network optimization')
+('neural network optimization', 'use', 'optimization')"
+8.6,6,"('optimization', 'random initialization', 'parameters', 'basis functions', 'Gram-Schmidt orthogonalization', 'high-entropy distribution', 'weights', 'biases', 'Gaussian distribution', 'uniform distribution', 'symmetry breaking', 'signal loss', 'exploding values', 'gradient clipping', 'activation function', 'regularization', 'stochastic gradient descent')","('optimization', 'subclass of', 'random initialization')
+('parameters', 'facet of', 'optimization')
+('basis functions', 'facet of', 'optimization')
+('Gram-Schmidt orthogonalization', 'facet of', 'optimization')
+('high-entropy distribution', 'facet of', 'optimization')
+('weights', 'part of', 'parameters')
+('biases', 'part of', 'parameters')
+('Gaussian distribution', 'facet of', 'random initialization')
+('uniform distribution', 'facet of', 'random initialization')
+('symmetry breaking', 'facet of', 'random initialization')
+('signal loss', 'facet of', 'optimization')
+('exploding values', 'facet of', 'optimization')
+('gradient clipping', 'facet of', 'optimization')
+('activation function', 'facet of', 'optimization')
+('regularization', 'facet of', 'optimization')
+('stochastic gradient descent', 'facet of', 'optimization')"
+8.7,0,"('optimization for training deep models', 'early stopping criterion', 'weight decay', 'initialization', 'parameters', 'gradient descent', 'Gaussian prior', 'units', 'likelihood term', 'objective function', 'heuristics', 'fully connected layer', 'weights', 'normalized initialization', 'activation variance', 'gradient variance', 'random orthogonal matrices', 'scaling factor', 'nonlinear activation functions', 'convergence', 'deep network')","('optimization for training deep models', 'early stopping criterion', 'deep network')
+('optimization for training deep models', 'weight decay', 'parameters')
+('optimization for training deep models', 'initialization', 'parameters')
+('optimization for training deep models', 'gradient descent', 'parameters')
+('optimization for training deep models', 'Gaussian prior', 'parameters')
+('optimization for training deep models', 'units', 'parameters')
+('optimization for training deep models', 'likelihood term', 'objective function')
+('optimization for training deep models', 'heuristics', 'objective function')
+('optimization for training deep models', 'fully connected layer', 'parameters')
+('optimization for training deep models', 'weights', 'parameters')
+('optimization for training deep models', 'normalized initialization', 'parameters')
+('optimization for training deep models', 'activation variance', 'parameters')
+('optimization for training deep models', 'gradient variance', 'parameters')
+('optimization for training deep models', 'random orthogonal matrices', 'parameters')
+('optimization for training deep models', 'scaling factor', 'parameters')
+('optimization for training deep models', 'nonlinear activation functions', 'parameters')
+('optimization for training deep models', 'convergence', 'parameters')"
+8.7,1,"('optimization for training deep models', 'feedforward networks', 'vanishing and exploding gradients problem', 'initial weights', 'generalization error', 'hyperparameter', 'scaling rules', 'sparse initialization', 'diversity', 'prior', 'gradient descent', 'maxout units', 'computational resources', 'hyperparameter search algorithm', 'dense initialization', 'random search')","('optimization for training deep models', 'feedforward networks', 'vanishing and exploding gradients problem')
+('optimization for training deep models', 'initial weights', 'feedforward networks')
+('optimization for training deep models', 'generalization error', 'feedforward networks')
+('optimization for training deep models', 'hyperparameter', 'feedforward networks')
+('optimization for training deep models', 'scaling rules', 'feedforward networks')
+('optimization for training deep models', 'sparse initialization', 'feedforward networks')
+('optimization for training deep models', 'diversity', 'feedforward networks')
+('optimization for training deep models', 'prior', 'feedforward networks')
+('optimization for training deep models', 'gradient descent', 'feedforward networks')
+('optimization for training deep models', 'maxout units', 'feedforward networks')
+('optimization for training deep models', 'computational resources', 'feedforward networks')
+('optimization for training deep models', 'hyperparameter search algorithm', 'feedforward networks')
+('optimization for training deep models', 'dense initialization', 'feedforward networks')
+('optimization for training deep models', 'random search', 'feedforward networks')"
+8.7,2,"('initialization of weights', 'biases', 'output unit', 'marginal statistics', 'activation function', 'training set', 'distribution over classes', 'highly skewed distribution', 'softmax', 'classifiers', 'autoencoders', 'Boltzmann machines', 'input data', 'saturation', 'ReLU hidden unit', 'random walk initialization', 'participation function')","('initialization of weights', 'biases', 'output unit')
+('initialization of weights', 'marginal statistics', 'output unit')
+('initialization of weights', 'activation function', 'output unit')
+('initialization of weights', 'training set', 'output unit')
+('initialization of weights', 'distribution over classes', 'output unit')
+('initialization of weights', 'highly skewed distribution', 'output unit')
+('initialization of weights', 'softmax', 'output unit')
+('initialization of weights', 'classifiers', 'output unit')
+('initialization of weights', 'autoencoders', 'output unit')
+('initialization of weights', 'Boltzmann machines', 'output unit')
+('initialization of weights', 'input data', 'output unit')
+('initialization of weights', 'saturation', 'output unit')
+('initialization of weights', 'ReLU hidden unit', 'output unit')
+('initialization of weights', 'random walk initialization', 'output unit')
+('initialization of weights', 'participation function', 'output unit')"
+8.7,3,"('variance parameter', 'precision parameter', 'linear regression', 'conditional variance estimate', 'supervised model', 'unsupervised model', 'related task', 'random initialization', 'convergence', 'generalization', 'adaptive learning rates', 'neural network researchers', 'parameter space', 'momentum algorithm')","('variance parameter', 'linear regression', 'conditional variance estimate')
+('variance parameter', 'supervised model', 'conditional variance estimate')
+('variance parameter', 'unsupervised model', 'conditional variance estimate')
+('variance parameter', 'related task', 'conditional variance estimate')
+('variance parameter', 'random initialization', 'conditional variance estimate')
+('variance parameter', 'convergence', 'conditional variance estimate')
+('variance parameter', 'generalization', 'conditional variance estimate')
+('variance parameter', 'adaptive learning rates', 'conditional variance estimate')
+('variance parameter', 'neural network researchers', 'conditional variance estimate')
+('variance parameter', 'parameter space', 'conditional variance estimate')
+('variance parameter', 'momentum algorithm', 'conditional variance estimate')
+('precision parameter', 'linear regression', 'conditional variance estimate')
+('precision parameter', 'supervised model', 'conditional variance estimate')
+('precision parameter', 'unsupervised model', 'conditional variance estimate')
+('precision parameter', 'related task', 'conditional variance estimate')
+('precision parameter', 'random initialization', 'conditional variance estimate')
+('precision parameter', 'convergence', 'conditional variance estimate')
+('precision parameter', 'generalization', 'conditional variance estimate')
+('precision parameter', 'adaptive learning rates', 'conditional variance estimate')
+('precision parameter', 'neural network researchers', 'conditional variance estimate')
+('precision parameter', 'parameter space', 'conditional variance estimate')
+('precision parameter', 'momentum algorithm', 'conditional variance estimate')"
+8.7,4,"('delta-bar-delta algorithm', 'individual learning rates', 'model parameters', 'partial derivative', 'full batch optimization', 'incremental methods', 'AdaGrad algorithm', 'convex optimization', 'theoretical properties', 'deep neural network models', 'effective learning rate', 'RMSProp algorithm', 'exponentially weighted moving average', 'non-convex setting', 'neural network training', 'learning trajectory', 'locally convex bowl')","('delta-bar-delta algorithm', 'individual learning rates', 'model parameters')
+('delta-bar-delta algorithm', 'partial derivative', 'model parameters')
+('delta-bar-delta algorithm', 'full batch optimization', 'model parameters')
+('delta-bar-delta algorithm', 'incremental methods', 'model parameters')
+('delta-bar-delta algorithm', 'AdaGrad algorithm', 'model parameters')
+('delta-bar-delta algorithm', 'convex optimization', 'model parameters')
+('delta-bar-delta algorithm', 'theoretical properties', 'model parameters')
+('delta-bar-delta algorithm', 'deep neural network models', 'model parameters')
+('delta-bar-delta algorithm', 'effective learning rate', 'model parameters')
+('delta-bar-delta algorithm', 'RMSProp algorithm', 'model parameters')
+('delta-bar-delta algorithm', 'exponentially weighted moving average', 'model parameters')
+('delta-bar-delta algorithm', 'non-convex setting', 'model parameters')
+('delta-bar-delta algorithm', 'neural network training', 'model parameters')
+('delta-bar-delta algorithm', 'learning trajectory', 'model parameters')
+('delta-bar-delta algorithm', 'locally convex bowl', 'model parameters')"
+8.7,5,"('AdaGrad', 'RMSProp', 'AdaGrad', 'RMSProp', 'Nesterov momentum', 'AdaGrad', 'RMSProp', 'Adam', 'RMSProp', 'Adam')","('AdaGrad', 'subclass of', 'RMSProp')
+('Nesterov momentum', 'subclass of', 'AdaGrad')
+('Adam', 'subclass of', 'RMSProp')"
+8.7,6,"('RMSProp', 'Adam', 'AdaGrad', 'RMSProp', 'Adam', 'RMSProp', 'Adam', 'RMSProp', 'SGD', 'SGD with momentum', 'RMSProp', 'RMSProp with momentum', 'AdaDelta', 'Adam')","('RMSProp', 'subclass of', 'Adam')
+('AdaGrad', 'subclass of', 'RMSProp')
+('Adam', 'subclass of', 'RMSProp')
+('RMSProp', 'subclass of', 'Adam')
+('RMSProp', 'subclass of', 'Adam')
+('SGD with momentum', 'subclass of', 'SGD')
+('RMSProp', 'subclass of', 'RMSProp with momentum')
+('AdaDelta', 'subclass of', 'RMSProp')
+('Adam', 'subclass of', 'RMSProp')"
+8.7,7,"('RMSProp', 'Nesterov momentum', 'Newton’s Method')","('RMSProp', 'instance of', 'Nesterov momentum')
+('Nesterov momentum', 'use', 'Newton’s Method')"
+8.7,8,"('Adam', 'Newton’s Method')","('Adam', 'use', 'Newton’s Method')"
+8.7,9,"('Newton’s Method', 'Levenberg–Marquardt algorithm')","('Newton’s Method', 'use', 'Levenberg–Marquardt algorithm')"
+8.7,10,"('Optimization', 'Training', 'Deep Models', 'Newton\'s method', 'Hessian', 'k parameters', 'inversion', 'matrix', 'computational complexity', 'Conjugate Gradients', 'line search', 'zig-zag pattern', 'search direction')","('Optimization', 'based on', 'Newton\'s method')
+('Optimization', 'based on', 'Conjugate Gradients')
+('Training', 'based on', 'Optimization')
+('Deep Models', 'based on', 'Training')
+('Newton\'s method', 'facet of', 'Optimization')
+('Hessian', 'part of', 'Optimization')
+('k parameters', 'part of', 'Optimization')
+('inversion', 'part of', 'Optimization')
+('matrix', 'part of', 'Optimization')
+('computational complexity', 'part of', 'Optimization')
+('Conjugate Gradients', 'part of', 'Optimization')
+('line search', 'part of', 'Optimization')
+('zig-zag pattern', 'part of', 'Optimization')
+('search direction', 'part of', 'Optimization')"
+8.7,11,"('Optimization', 'Training', 'Deep Models', 'Newton\'s method', 'Hessian', 'k parameters', 'inversion', 'matrix', 'computational complexity', 'Conjugate Gradients', 'line search', 'zig-zag pattern', 'search direction', 'Fletcher-Reeves')","('Optimization', 'based on', 'Newton\'s method')
+('Optimization', 'based on', 'Conjugate Gradients')
+('Training', 'based on', 'Optimization')
+('Deep Models', 'based on', 'Training')
+('Newton\'s method', 'facet of', 'Optimization')
+('Hessian', 'part of', 'Optimization')
+('k parameters', 'part of', 'Optimization')
+('inversion', 'part of', 'Optimization')
+('matrix', 'part of', 'Optimization')
+('computational complexity', 'part of', 'Optimization')
+('Conjugate Gradients', 'part of', 'Optimization')
+('line search', 'part of', 'Optimization')
+('zig-zag pattern', 'part of', 'Optimization')
+('search direction', 'part of', 'Optimization')
+('Fletcher-Reeves', 'part of', 'Optimization')"
+8.7,12,"('Optimization', 'Training', 'Deep Models', 'Conjugate Gradients', 'Fletcher-Reeves', 'Polak-Ribière', 'parameters', 'Training set', 'examples', 'gradient', 'search direction', 'line search', 'update', 'Nonlinear Conjugate Gradients')","('Optimization', 'based on', 'Conjugate Gradients')
+('Optimization', 'based on', 'Fletcher-Reeves')
+('Optimization', 'based on', 'Polak-Ribière')
+('Training', 'based on', 'Optimization')
+('Deep Models', 'based on', 'Training')
+('Conjugate Gradients', 'facet of', 'Optimization')
+('Fletcher-Reeves', 'facet of', 'Optimization')
+('Polak-Ribière', 'facet of', 'Optimization')
+('parameters', 'part of', 'Optimization')
+('Training set', 'part of', 'Training')
+('examples', 'part of', 'Training set')
+('gradient', 'part of', 'Optimization')
+('search direction', 'part of', 'Optimization')
+('line search', 'part of', 'Optimization')
+('update', 'part of', 'Optimization')
+('Nonlinear Conjugate Gradients', 'part of', 'Optimization')"
+8.7,13,"('Optimization', 'Training', 'Deep Models', 'BFGS', 'Newton\'s method', 'computational burden', 'approximation', 'Hessian', 'parameters', 'quasi-Newton methods', 'inverse Hessian', 'matrix M', 'direction of descent', 'line search', 'step', 'update', 'parameters')","('Optimization', 'based on', 'BFGS')
+('Optimization', 'based on', 'Newton\'s method')
+('Training', 'based on', 'Optimization')
+('Deep Models', 'based on', 'Training')
+('BFGS', 'facet of', 'Optimization')
+('Newton\'s method', 'facet of', 'Optimization')
+('computational burden', 'part of', 'Optimization')
+('approximation', 'part of', 'Optimization')
+('Hessian', 'part of', 'Optimization')
+('parameters', 'part of', 'Optimization')
+('quasi-Newton methods', 'part of', 'Optimization')
+('inverse Hessian', 'part of', 'Optimization')
+('matrix M', 'part of', 'Optimization')
+('direction of descent', 'part of', 'Optimization')
+('line search', 'part of', 'Optimization')
+('step', 'part of', 'Optimization')
+('update', 'part of', 'Optimization')
+('parameters', 'part of', 'Optimization')"
+9.1,0,"('conjugate gradients', 'BFGS', 'L-BFGS', 'Hessian', 'conjugate gradients', 'Batch Normalization', 'Ioffe and Szegedy')","('conjugate gradients', 'instance of', 'BFGS'),
+('L-BFGS', 'instance of', 'BFGS'),
+('Hessian', 'instance of', 'BFGS'),
+('Batch Normalization', 'instance of', 'Ioffe and Szegedy')"
+9.1,1,"('back-propagation algorithm', 'Taylor series approximation', 'learning rate', 'parameters', 'second-order optimization algorithms', 'batch normalization', 'network', 'mean', 'standard deviation', 'vector')","('back-propagation algorithm', 'instance of', 'Taylor series approximation'),
+('learning rate', 'relation', 'parameters'),
+('second-order optimization algorithms', 'instance of', 'Taylor series approximation'),
+('batch normalization', 'instance of', 'mean'),
+('batch normalization', 'instance of', 'standard deviation'),
+('network', 'relation', 'parameters'),
+('mean', 'relation', 'batch normalization'),
+('standard deviation', 'relation', 'batch normalization'),
+('vector', 'instance of', 'parameters')"
+9.1,2,"('mean', 'standard deviation', 'back-propagate', 'gradient descent', 'batch normalization', 'test time', 'running averages', 'minibatch', 'model')","('mean', 'instance of', 'standard deviation'),
+('back-propagate', 'relation', 'gradient descent'),
+('batch normalization', 'relation', 'gradient descent'),
+('test time', 'relation', 'running averages'),
+('minibatch', 'relation', 'gradient descent'),
+('minibatch', 'relation', 'model')"
+9.1,3,"('linear example', 'lower layers', 'nonlinear activation functions', 'expressive power', 'learned parameters', 'learning dynamics', 'gradient descent', 'neural network layers', 'rectified linear transformation')","('linear example', 'instance of', 'lower layers'),
+('nonlinear activation functions', 'relation', 'expressive power'),
+('learned parameters', 'relation', 'gradient descent'),
+('learning dynamics', 'relation', 'gradient descent'),
+('gradient descent', 'relation', 'neural network layers'),
+('rectified linear transformation', 'instance of', 'nonlinear activation functions'),
+('rectified linear transformation', 'relation', 'neural network layers')"
+9.2,0,"('deep models', 'XW', 'normalized version', 'bias term', 'β parameter', 'batch normalization', 'nonlinear activation function', 'rectified linear function', 'statistics of the input', 'standardization', 'linear operations', 'convolutional networks', 'spatial location', 'coordinate descent', 'optimization problem', 'local minimum', 'block coordinate descent', 'cost function', 'sparse coding', 'weight matrix', 'activation values', 'training set', 'weight decay', 'constraint', 'norms', 'columns', 'convex problem', 'objective function', 'variables')","('deep models', 'instance of', 'XW'),
+('XW', 'is a', 'normalized version'),
+('normalized version', 'is a', 'bias term'),
+('bias term', 'is a', 'β parameter'),
+('deep models', 'use', 'batch normalization'),
+('deep models', 'use', 'nonlinear activation function'),
+('nonlinear activation function', 'based on', 'rectified linear function'),
+('deep models', 'use', 'statistics of the input'),
+('statistics of the input', 'based on', 'standardization'),
+('deep models', 'use', 'linear operations'),
+('deep models', 'use', 'convolutional networks'),
+('convolutional networks', 'use', 'spatial location'),
+('linear operations', 'based on', 'coordinate descent'),
+('coordinate descent', 'is a', 'optimization problem'),
+('optimization problem', 'can have a', 'local minimum'),
+('optimization problem', 'solved by', 'block coordinate descent'),
+('block coordinate descent', 'is a', 'optimization problem'),
+('optimization problem', 'has', 'cost function'),
+('cost function', 'used in', 'sparse coding'),
+('sparse coding', 'uses', 'weight matrix'),
+('sparse coding', 'uses', 'activation values'),
+('deep models', 'apply to', 'training set'),
+('deep models', 'use', 'weight decay'),
+('weight decay', 'can be a', 'constraint'),
+('constraint', 'applied to', 'norms'),
+('norms', 'define', 'columns'),
+('optimization problem', 'is a', 'convex problem'),
+('optimization problem', 'has', 'objective function'),
+('objective function', 'has', 'variables')"
+9.2,1,"('optimization strategy', 'convex optimization', 'alternating', 'optimizing W', 'optimizing H', 'coordinate descent', 'function f(x)', 'Newton’s method', 'Polyak averaging', 'trajectory', 'optimization algorithm', 'convex problems', 'neural networks', 'valley', 'non-convex problems', 'exponentially decaying running average', 'running average approach', 'applications', 'Szegedy et al. (2015)')","('optimization strategy', 'is a', 'convex optimization'),
+('convex optimization', 'uses', 'alternating'),
+('alternating', 'applies to', 'optimizing W'),
+('alternating', 'applies to', 'optimizing H'),
+('optimizing W', 'can be done with', 'coordinate descent'),
+('optimizing H', 'can be done with', 'coordinate descent'),
+('coordinate descent', 'is a', 'function f(x)'),
+('function f(x)', 'can be optimized using', 'Newton’s method'),
+('Newton’s method', 'can be improved by', 'Polyak averaging'),
+('Polyak averaging', 'calculates', 'trajectory'),
+('trajectory', 'is used in', 'optimization algorithm'),
+('convex optimization', 'can be applied to', 'convex problems'),
+('convex problems', 'commonly arise in', 'neural networks'),
+('neural networks', 'can have a', 'valley'),
+('optimization algorithm', 'can be used for', 'non-convex problems'),
+('exponentially decaying running average', 'is a', 'running average approach'),
+('running average approach', 'has', 'applications'),
+('Szegedy et al. (2015)', 'cited in the context of', 'applications')"
+9.2,2,"('Supervised Pretraining', 'training a model', 'complex and hard to optimize', 'difficult task', 'simpler model', 'simpler task', 'pretraining', 'Greedy algorithms', 'optimal solution', 'joint solution', 'fine-tuning stage', 'initializing the joint optimization algorithm', 'greedy pretraining', 'supervised learning problems', 'Bengio et al. (2007)', 'Simonyan and Zisserman (2015)', 'deep convolutional network', 'Yu et al. (2010)', 'raw input')","('Supervised Pretraining', 'is a', 'training a model'),
+('training a model', 'can be', 'complex and hard to optimize'),
+('complex and hard to optimize', 'is a', 'difficult task'),
+('Supervised Pretraining', 'uses', 'simpler model'),
+('simpler model', 'is trained on a', 'simpler task'),
+('simpler task', 'is used for', 'pretraining'),
+('pretraining', 'can be done with', 'Greedy algorithms'),
+('Greedy algorithms', 'may not find the', 'optimal solution'),
+('Greedy algorithms', 'may find a', 'joint solution'),
+('joint solution', 'is used in the', 'fine-tuning stage'),
+('fine-tuning stage', 'involves', 'initializing the joint optimization algorithm'),
+('initializing the joint optimization algorithm', 'can be done with', 'greedy pretraining'),
+('greedy pretraining', 'is used for', 'supervised learning problems'),
+('Bengio et al. (2007)', 'discussed', 'Supervised Pretraining'),
+('Simonyan and Zisserman (2015)', 'cited for', 'deep convolutional network'),
+('Yu et al. (2010)', 'cited for', 'raw input')"
+9.2,3,"('greedy supervised pretraining', 'Bengio et al. (2007)', 'training a sufficiently shallow architecture', 'supervised single hidden layer MLP', 'hidden-to-output layer', 'feedforward network', 'jointly fine-tune', 'layers')","('greedy supervised pretraining', 'can be found in', 'Bengio et al. (2007)'),
+('greedy supervised pretraining', 'involves', 'training a sufficiently shallow architecture'),
+('training a sufficiently shallow architecture', 'can be a', 'supervised single hidden layer MLP'),
+('hidden-to-output layer', 'is a part of', 'feedforward network'),
+('greedy supervised pretraining', 'can be used to', 'jointly fine-tune'),
+('jointly fine-tune', 'multiple', 'layers')"
+9.3,0,"('optimization', 'training', 'deep models', 'pretraining', 'supervised pretraining', 'transfer learning', 'neural networks', 'FitNets', 'Romero et al.', 'teacher network', 'student network', 'SGD', 'middle layer', 'hidden layers', 'classification target', 'wide and shallow network', 'computational cost', 'parameters', 'experiments', 'test set', 'optimization techniques', 'architecture')","('deep models', 'instance of', 'neural networks')
+('Romero et al.', 'instance of', 'neural networks')
+('FitNets', 'instance of', 'neural networks')
+('teacher network', 'instance of', 'neural networks')
+('student network', 'instance of', 'neural networks')
+('SGD', 'instance of', 'optimization techniques')"
+9.3,1,"('optimization', 'training', 'deep models', 'activation functions', 'model family', 'optimization algorithm', 'neural network learning', 'stochastic gradient descent', 'momentum', 'linear transformations', 'rectified linear units', 'maxout units', 'LSTM', 'sigmoidal units', 'gradient flows', 'Jacobian', 'loss function', 'skip connections', 'vanishing gradient problem', 'GoogLeNet', 'deeply-supervised nets', 'pretraining strategies', 'architecture', 'layers')","('deep models', 'instance of', 'neural networks')
+('activation functions', 'use', 'neural network learning')
+('model family', 'instance of', 'deep models')
+('optimization algorithm', 'use', 'neural network learning')
+('neural network learning', 'instance of', 'deep models')
+('stochastic gradient descent', 'use', 'optimization algorithm')
+('momentum', 'use', 'optimization algorithm')
+('linear transformations', 'use', 'activation functions')
+('rectified linear units', 'subclass of', 'activation functions')
+('maxout units', 'subclass of', 'activation functions')
+('LSTM', 'instance of', 'neural networks')
+('sigmoidal units', 'subclass of', 'activation functions')
+('Jacobian', 'relation', 'gradient flows')
+('loss function', 'instance of', 'optimization algorithm')
+('skip connections', 'use', 'architecture')
+('vanishing gradient problem', 'relation', 'neural network learning')
+('GoogLeNet', 'instance of', 'deep models')
+('deeply-supervised nets', 'subclass of', 'deep models')"
+9.3,2,"('optimization', 'training', 'deep models', 'global structure', 'cost function', 'local update directions', 'parameters', 'continuation methods', 'curriculum learning', 'initialization', 'parameter space', 'objective functions', 'random initialization', 'local descent', 'neural network training', 'smoothing', 'simulated annealing', 'local minima', 'global minimum', 'blurring', 'approximating', 'sampling', 'non-convex functions')","('deep models', 'instance of', 'neural networks')
+('global structure', 'relation', 'deep models')
+('cost function', 'instance of', 'objective functions')
+('local update directions', 'relation', 'deep models')
+('parameters', 'instance of', 'deep models')
+('continuation methods', 'relation', 'optimization')
+('curriculum learning', 'relation', 'neural network training')
+('initialization', 'relation', 'optimization')
+('parameter space', 'relation', 'optimization')
+('objective functions', 'instance of', 'optimization')
+('random initialization', 'relation', 'initialization')
+('local descent', 'relation', 'optimization')
+('neural network training', 'relation', 'deep models')
+('smoothing', 'relation', 'optimization')
+('simulated annealing', 'use', 'optimization')
+('local minima', 'relation', 'optimization')
+('global minimum', 'relation', 'optimization')
+('blurring', 'use', 'smoothing')
+('approximating', 'use', 'optimization')
+('sampling', 'use', 'optimization')
+('non-convex functions', 'relation', 'optimization')"
+9.3,3,"('optimization', 'training', 'deep models', 'convex', 'cost functions', 'global minimum', 'NP-hard optimization problems', 'blurring', 'local minimum', 'continuation methods', 'curriculum learning', 'learning process', 'simple concepts', 'complex concepts', 'animal training', 'machine learning', 'neural language modeling task', 'natural language', 'computer vision', 'consistent', 'humans teach')","('deep models', 'instance of', 'neural networks')
+('convex', 'relation', 'optimization')
+('cost functions', 'instance of', 'objective functions')
+('global minimum', 'relation', 'optimization')
+('NP-hard optimization problems', 'subclass of', 'optimization')
+('blurring', 'use', 'optimization')
+('local minimum', 'relation', 'optimization')
+('continuation methods', 'relation', 'optimization')
+('curriculum learning', 'relation', 'machine learning')
+('learning process', 'relation', 'machine learning')
+('simple concepts', 'instance of', 'natural language')
+('complex concepts', 'instance of', 'natural language')
+('animal training', 'relation', 'machine learning')
+('machine learning', 'instance of', 'deep models')
+('neural language modeling task', 'relation', 'machine learning')
+('natural language', 'relation', 'machine learning')
+('computer vision', 'relation', 'machine learning')
+('consistent', 'relation', 'humans teach')"
+9.3,4,"('optimization', 'training', 'deep models', 'curriculum learning', 'prototypical examples', 'decision surface', 'teaching strategies', 'recurrent neural networks', 'long-term dependencies', 'stochastic curriculum', 'deterministic curriculum', 'regularize', 'specializations', 'neural networks', 'scale', 'input data', 'special structure', 'specialized architectures')","('deep models', 'instance of', 'neural networks')
+('curriculum learning', 'relation', 'training')
+('prototypical examples', 'use', 'curriculum learning')
+('decision surface', 'relation', 'curriculum learning')
+('teaching strategies', 'relation', 'curriculum learning')
+('recurrent neural networks', 'instance of', 'neural networks')
+('long-term dependencies', 'relation', 'recurrent neural networks')
+('stochastic curriculum', 'instance of', 'curriculum learning')
+('deterministic curriculum', 'instance of', 'curriculum learning')
+('regularize', 'use', 'training')
+('specializations', 'relation', 'training')
+('neural networks', 'instance of', 'deep models')
+('scale', 'relation', 'input data')
+('input data', 'relation', 'neural networks')
+('special structure', 'relation', 'neural networks')
+('specialized architectures', 'relation', 'neural networks')"
+9.3,5,"('Convolutional networks', 'convolutional neural networks', 'CNNs', 'neural network', 'convolution', 'mathematical operation', 'linear operation', 'matrix multiplication', 'pooling', 'neuroscientific principles', 'deep learning')","('Convolutional networks', 'subclass of', 'neural network')
+('Convolutional networks', 'use', 'convolutional neural networks')
+('Convolutional networks', 'use', 'CNNs')
+('convolutional neural networks', 'use', 'neural network')
+('convolutional neural networks', 'subclass of', 'deep learning')
+('CNNs', 'use', 'neural network')
+('CNNs', 'subclass of', 'deep learning')
+('neural network', 'use', 'mathematical operation')
+('neural network', 'subclass of', 'deep learning')
+('convolution', 'use', 'mathematical operation')
+('mathematical operation', 'use', 'linear operation')
+('linear operation', 'use', 'matrix multiplication')
+('pooling', 'use', 'mathematical operation')"
+9.4,0,"argument (in this example, the function w) is often referred to as the kernel or filter. The output of the convolution is a new function that represents the combined information from the input and the kernel.
+
+9.2 Pooling Pooling is an operation that reduces the spatial dimensions of the input. It is commonly used in convolutional networks to decrease the size of the feature maps and to introduce some degree of translation invariance into the model. The pooling operation divides the input into equally sized regions (called pooling regions) and replaces each region with a single value, typically the maximum or the average value within that region. This reduces the size of the feature maps while preserving the most salient information.
+
+9.3 Activation Functions Activation functions introduce non-linearity to the network and are applied element-wise to the output of a layer. They determine the output of a neuron given its input. Common activation functions include sigmoid, tanh, and ReLU (Rectified Linear Unit). These functions introduce non-linearities to the network, allowing it to model complex relationships between inputs and outputs.
+
+9.4 Loss Functions Loss functions are used to quantify the difference between the predicted outputs and the true outputs. They measure the error or the cost of the model's predictions. Common loss functions include mean squared error (MSE), categorical cross-entropy, and binary cross-entropy. The choice of loss function depends on the task at hand, such as regression or classification.
+
+9.5 Optimization Algorithms Optimization algorithms are used to update the parameters of the model during training. They determine how the model learns from the data and adjusts its weights and biases to minimize the loss function. Common optimization algorithms include stochastic gradient descent (SGD), Adam, and RMSprop. These algorithms apply different strategies to find the optimal values for the model's parameters.
+
+9.6 Regularization Techniques Regularization techniques help prevent overfitting, which occurs when the model performs well on the training data but poorly on new, unseen data. They introduce additional constraints to the model to prevent it from becoming too complex and to encourage it to generalize well. Common regularization techniques include L1 and L2 regularization, dropout, and early stopping.
+
+9.7 Model Evaluation Model evaluation is the process of assessing the performance of a trained model on unseen data. It involves measuring various metrics such as accuracy, precision, recall, and F1 score. Model evaluation helps determine how well the model generalizes to new examples and whether it is suitable for the intended task.
+
+('Convolutional Networks', 'Convolution Operation', 'Pooling', 'Activation Functions', 'Loss Functions', 'Optimization Algorithms', 'Regularization Techniques', 'Model Evaluation')","('Convolutional Networks', 'instance of', 'Pooling')
+('Convolutional Networks', 'instance of', 'Activation Functions')
+('Convolutional Networks', 'instance of', 'Loss Functions')
+('Convolutional Networks', 'instance of', 'Optimization Algorithms')
+('Convolutional Networks', 'instance of', 'Regularization Techniques')
+('Convolutional Networks', 'instance of', 'Model Evaluation')
+('Pooling', 'instance of', 'Activation Functions')
+('Pooling', 'instance of', 'Loss Functions')
+('Pooling', 'instance of', 'Optimization Algorithms')
+('Pooling', 'instance of', 'Regularization Techniques')
+('Pooling', 'instance of', 'Model Evaluation')
+('Activation Functions', 'instance of', 'Loss Functions')
+('Activation Functions', 'instance of', 'Optimization Algorithms')
+('Activation Functions', 'instance of', 'Regularization Techniques')
+('Activation Functions', 'instance of', 'Model Evaluation')
+('Loss Functions', 'instance of', 'Optimization Algorithms')
+('Loss Functions', 'instance of', 'Regularization Techniques')
+('Loss Functions', 'instance of', 'Model Evaluation')
+('Optimization Algorithms', 'instance of', 'Regularization Techniques')
+('Optimization Algorithms', 'instance of', 'Model Evaluation')
+('Regularization Techniques', 'instance of', 'Model Evaluation')"
+9.4,1,"('Convolutional Networks', 'Convolution Operation', 'Pooling', 'Activation Functions', 'Loss Functions', 'Optimization Algorithms', 'Regularization Techniques', 'Model Evaluation')","('Convolutional Networks', 'instance of', 'Convolution Operation')
+('Convolution Operation', 'based on', 'Pooling')
+('Convolution Operation', 'based on', 'Activation Functions')
+('Convolution Operation', 'based on', 'Loss Functions')
+('Convolution Operation', 'based on', 'Optimization Algorithms')
+('Convolution Operation', 'based on', 'Regularization Techniques')
+('Convolution Operation', 'based on', 'Model Evaluation')"
+9.5,0,"('convolutional networks', 'neural network', 'cross-correlation', 'machine learning', 'learning algorithm', 'kernel flipping', 'convolution operation', '2-D tensor', 'discrete convolution', 'Toeplitz matrix', 'block circulant matrix', 'sparse matrix', 'convolutional neural networks')","返回结果如下：
+
+('convolutional networks', 'instance of', 'neural network')
+('neural network', 'use', 'cross-correlation')
+('cross-correlation', 'instance of', 'machine learning')
+('machine learning', 'use', 'learning algorithm')
+('learning algorithm', 'use', 'kernel flipping')
+('kernel flipping', 'instance of', 'convolution operation')
+('convolution operation', 'use', '2-D tensor')
+('2-D tensor', 'instance of', 'discrete convolution')
+('discrete convolution', 'use', 'Toeplitz matrix')
+('Toeplitz matrix', 'instance of', 'block circulant matrix')
+('block circulant matrix', 'instance of', 'sparse matrix')
+('sparse matrix', 'use', 'convolutional neural networks')"
+9.5,1,"('2-D convolution', 'kernel-flipping', 'valid convolution')","返回结果如下：
+
+('2-D convolution', 'instance of', 'kernel-flipping')
+('kernel-flipping', 'instance of', 'valid convolution')"
+9.5,2,"('sparse interactions', 'parameter sharing', 'equivariant representations', 'variable size', 'convolution', 'machine learning system', 'sparse connectivity', 'sparse weights', 'memory requirements', 'statistical efficiency', 'computation efficiency', 'matrix multiplication', 'runtime', 'sparsely connected approach', 'graphical demonstrations', 'deep convolutional network', 'complicated interactions', 'simple building blocks', 'parameter sharing', 'weight matrix', 'tied weights')","返回结果如下：
+
+('sparse interactions', 'instance of', 'parameter sharing')
+('parameter sharing', 'use', 'equivariant representations')
+('equivariant representations', 'instance of', 'variable size')
+('variable size', 'use', 'convolution')
+('convolution', 'use', 'machine learning system')
+('machine learning system', 'instance of', 'sparse connectivity')
+('sparse connectivity', 'use', 'sparse weights')
+('sparse weights', 'use', 'memory requirements')
+('memory requirements', 'use', 'statistical efficiency')
+('statistical efficiency', 'use', 'computation efficiency')
+('computation efficiency', 'use', 'matrix multiplication')
+('matrix multiplication', 'instance of', 'runtime')
+('runtime', 'use', 'sparsely connected approach')
+('sparsely connected approach', 'instance of', 'graphical demonstrations')
+('graphical demonstrations', 'use', 'deep convolutional network')
+('deep convolutional network', 'use', 'complicated interactions')
+('complicated interactions', 'use', 'simple building blocks')
+('simple building blocks', 'use', 'parameter sharing')
+('parameter sharing', 'use', 'weight matrix')
+('weight matrix', 'instance of', 'tied weights')"
+9.5,3,"('sparse connectivity', 'convolution', 'kernel', 'matrix multiplication')","返回结果如下：
+
+('sparse connectivity', 'use', 'convolution')
+('convolution', 'use', 'kernel')
+('kernel', 'instance of', 'matrix multiplication')"
+9.5,4,"('sparse connectivity', 'convolution', 'kernel', 'matrix multiplication', 'receptive field', 'deeper layers', 'shallow layers', 'strided convolution', 'pooling', 'indirect connections', 'input image')","返回结果如下：
+
+('sparse connectivity', 'use', 'convolution')
+('convolution', 'use', 'kernel')
+('kernel', 'instance of', 'matrix multiplication')
+('receptive field', 'instance of', 'deeper layers')
+('deeper layers', 'instance of', 'shallow layers')
+('shallow layers', 'use', 'strided convolution')
+('strided convolution', 'use', 'pooling')
+('pooling', 'use', 'indirect connections')
+('indirect connections', 'use', 'input image')"
+9.5,5,"('Convolutional Networks', 'Parameter sharing', '3-element kernel', 'convolutional model', 'weight matrix', 'fully connected model', 'forward propagation', 'memory requirements', 'statistical efficiency', 'linear function', 'detecting edges', 'equivariance to translation', 'function f(x)', 'function g', 'input changes', 'output changes', 'function g(x)', 'convolution function')","('Convolutional Networks', 'Parameter sharing', '3-element kernel')
+('convolutional model', 'instance of', 'Convolutional Networks')
+('weight matrix', 'use', 'convolutional model')
+('fully connected model', 'subclass of', 'convolutional model')
+('forward propagation', 'part of', 'fully connected model')
+('memory requirements', 'based on', 'forward propagation')
+('statistical efficiency', 'facet of', 'forward propagation')
+('linear function', 'use', 'statistical efficiency')
+('detecting edges', 'use', 'linear function')
+('equivariance to translation', 'use', 'detecting edges')
+('function f(x)', 'instance of', 'linear function')
+('function g', 'use', 'function f(x)')
+('input changes', 'based on', 'function g')
+('output changes', 'based on', 'function g')
+('function g(x)', 'subclass of', 'linear function')
+('convolution function', 'use', '3-element kernel')"
+9.5,6,"('image function', 'I = g(I)', 'transformation g', 'time series data', 'convolution', 'timeline', 'features', 'images', '2-D map', 'parameters', 'individual’s face', 'scale', 'rotation', 'neural networks', 'matrix multiplication', 'fixed-shape matrix', 'Pooling', 'convolutional network', 'linear activations', 'nonlinear activation function', 'pooling function', 'max pooling')","('image function', 'instance of', 'convolution')
+('I = g(I)', 'use', 'image function')
+('transformation g', 'instance of', 'image function')
+('time series data', 'instance of', 'matrix multiplication')
+('convolution', 'based on', 'time series data')
+('timeline', 'instance of', 'time series data')
+('features', 'based on', 'timeline')
+('images', 'facet of', 'features')
+('2-D map', 'part of', 'images')
+('parameters', 'use', '2-D map')
+('individual’s face', 'instance of', 'images')
+('scale', 'use', 'individual’s face')
+('rotation', 'use', 'individual’s face')
+('neural networks', 'instance of', 'matrix multiplication')
+('matrix multiplication', 'facet of', 'neural networks')
+('fixed-shape matrix', 'instance of', 'matrix multiplication')
+('Pooling', 'use', 'matrix multiplication')
+('convolutional network', 'instance of', 'Pooling')
+('linear activations', 'part of', 'convolutional network')
+('nonlinear activation function', 'part of', 'convolutional network')
+('pooling function', 'use', 'Pooling')
+('max pooling', 'subclass of', 'pooling function')"
+9.5,7,"('Efficiency of edge detection', 'original image', 'neighboring pixel', 'vertically oriented edges', 'object detection', 'input image', 'output image', 'convolution kernel', 'floating point operations', 'multiplications', 'addition per output pixel', 'matrix multiplication', 'entries in the matrix', 'representing this transformation', 'matrix multiplication algorithm', 'nonzero entries', 'number of floating point operations', 'linear transformation', 'local region', 'entire input', 'Photo credit: Paula Goodfellow')","('Efficiency of edge detection', 'instance of', 'object detection')
+('original image', 'instance of', 'input image')
+('neighboring pixel', 'use', 'original image')
+('vertically oriented edges', 'instance of', 'neighboring pixel')
+('object detection', 'use', 'original image')
+('input image', 'facet of', 'object detection')
+('output image', 'instance of', 'object detection')
+('convolution kernel', 'use', 'object detection')
+('floating point operations', 'based on', 'convolution kernel')
+('multiplications', 'use', 'floating point operations')
+('addition per output pixel', 'use', 'floating point operations')
+('matrix multiplication', 'instance of', 'multiplications')
+('entries in the matrix', 'use', 'matrix multiplication')
+('representing this transformation', 'part of', 'entries in the matrix')
+('matrix multiplication algorithm', 'based on', 'matrix multiplication')
+('nonzero entries', 'use', 'entries in the matrix')
+('number of floating point operations', 'based on', 'nonzero entries')
+('linear transformation', 'instance of', 'matrix multiplication algorithm')
+('local region', 'part of', 'linear transformation')
+('entire input', 'based on', 'local region')"
+9.5,8,"('Complex layer terminology', 'Simple layer terminology', 'Next layer', 'Convolutional Layer', 'Pooling stage', 'Pooling layer', 'Detector stage', 'Detector layer', 'Nonlinearity', 'rectified linear', 'Convolution stage', 'Convolution layer', 'Affine transform', 'Input to layer', 'The components of a typical convolutional neural network layer', 'kernel tensors', 'network layers', 'every step of processing', 'not every layer has parameters')","('Complex layer terminology', 'instance of', 'Convolutional Layer')
+('Simple layer terminology', 'use', 'Complex layer terminology')
+('Next layer', 'based on', 'Complex layer terminology')
+('Convolutional Layer', 'use', 'Pooling layer')
+('Pooling stage', 'part of', 'Pooling layer')
+('Pooling layer', 'instance of', 'Detector layer')
+('Detector stage', 'part of', 'Detector layer')
+('Detector layer', 'instance of', 'Nonlinearity')
+('Nonlinearity', 'use', 'rectified linear')
+('rectified linear', 'use', 'Convolution layer')
+('Convolution stage', 'part of', 'Convolution layer')
+('Convolution layer', 'instance of', 'Affine transform')
+('Affine transform', 'use', 'Input to layer')
+('Input to layer', 'part of', 'The components of a typical convolutional neural network layer')
+('The components of a typical convolutional neural network layer', 'facet of', 'Convolution layer')
+('kernel tensors', 'facet of', 'The components of a typical convolutional neural network layer')
+('network layers', 'use', 'The components of a typical convolutional neural network layer')
+('every step of processing', 'based on', 'network layers')
+('not every layer has parameters', 'based on', 'network layers')"
+9.5,9,"('Chellappa', 'operation', 'maximum output', 'rectangular neighborhood', 'pooling functions', 'average of a rectangular neighborhood', 'L2 norm of a rectangular neighborhood', 'weighted average', 'invariance to small translations', 'invariant to local translation', 'whether some feature is present', 'location of the eyes', 'location of a feature', 'corner defined by two edges', 'statistical efficiency', 'pooling over spatial regions', 'fewer pooling units', 'detector units', 'summary statistics', 'pooling regions spaced k pixels apart', 'computational efficiency', 'number of parameters', 'fully connected layer', 'matrix multiplication', 'reduction in the input size', 'memory requirements', 'classifying images', 'input size', 'offset between pooling regions', 'classification layer', 'summary statistics', 'final pooling layer', 'quadrant of an image')","('Chellappa', 'instance of', 'operation')
+('maximum output', 'use', 'operation')
+('rectangular neighborhood', 'facet of', 'pooling functions')
+('pooling functions', 'based on', 'operation')
+('average of a rectangular neighborhood', 'use', 'pooling functions')
+('L2 norm of a rectangular neighborhood', 'use', 'pooling functions')
+('weighted average', 'use', 'pooling functions')
+('invariance to small translations', 'part of', 'invariant to local translation')
+('invariant to local translation', 'use', 'pooling functions')
+('whether some feature is present', 'based on', 'pooling functions')
+('location of the eyes', 'instance of', 'whether some feature is present')
+('location of a feature', 'instance of', 'whether some feature is present')
+('corner defined by two edges', 'instance of', 'whether some feature is present')
+('statistical efficiency', 'instance of', 'summary statistics')
+('pooling over spatial regions', 'use', 'summary statistics')
+('fewer pooling units', 'based on', 'pooling over spatial regions')
+('detector units', 'use', 'fewer pooling units')
+('summary statistics', 'instance of', 'pooling over spatial regions')
+('pooling regions spaced k pixels apart', 'use', 'pooling over spatial regions')
+('computational efficiency', 'based on', 'pooling regions spaced k pixels apart')
+('number of parameters', 'based on', 'computational efficiency')
+('fully connected layer', 'based on', 'number of parameters')
+('matrix multiplication', 'part of', 'fully connected layer')
+('reduction in the input size', 'based on', 'matrix multiplication')
+('memory requirements', 'based on', 'matrix multiplication')
+('classifying images', 'instance of', 'reduction in the input size')
+('input size', 'facet of', 'classifying images')
+('offset between pooling regions', 'facet of', 'pooling regions spaced k pixels apart')
+('classification layer', 'instance of', 'classifying images')
+('summary statistics', 'part of', 'final pooling layer')
+('final pooling layer', 'instance of', 'pooling over spatial regions')
+('quadrant of an image', 'facet of', 'final pooling layer')"
+9.5,10,"('CONVOLUTIONAL NETWORKS', 'POOLING STAGE', 'DETECTOR STAGE', 'MAX POOLING')","('CONVOLUTIONAL NETWORKS', 'part of', 'POOLING STAGE')
+('CONVOLUTIONAL NETWORKS', 'part of', 'DETECTOR STAGE')
+('POOLING STAGE', 'instance of', 'MAX POOLING')"
+9.6,0,"('convolutional networks', 'pooling unit', 'detector unit', 'max pooling unit', 'rotation', 'filters', 'hand-written 5', 'activation', 'maxout networks', 'Goodfellow et al., 2013a', 'spatial positions', 'translation', 'downsampling', 'representation size', 'computational burden', 'statistical burden', 'next layer')","('convolutional networks', 'instance of', 'pooling unit')
+('pooling unit', 'instance of', 'detector unit')
+('detector unit', 'instance of', 'max pooling unit')
+('rotation', 'instance of', 'filters')
+('hand-written 5', 'instance of', 'activation')
+('maxout networks', 'instance of', 'Goodfellow et al., 2013a')
+('spatial positions', 'instance of', 'translation')
+('downsampling', 'instance of', 'representation size')
+('computational burden', 'instance of', 'statistical burden')"
+9.6,1,"('theoretical work', 'pooling', 'clustering algorithm', 'pooling structure', 'top-down information', 'Boltzmann machines', 'autoencoders', 'convolutional Boltzmann machines', 'differentiable networks', 'convolution and pooling', 'prior probability distribution', 'weak prior', 'strong prior', 'infinitely strong prior', 'convolutional net', 'fully connected net', 'hidden unit', 'weights', 'receptive field')","('pooling', 'instance of', 'clustering algorithm')
+('pooling structure', 'instance of', 'top-down information')
+('Boltzmann machines', 'instance of', 'autoencoders')
+('convolutional Boltzmann machines', 'instance of', 'differentiable networks')
+('convolution and pooling', 'instance of', 'prior probability distribution')
+('weak prior', 'instance of', 'strong prior')
+('strong prior', 'instance of', 'infinitely strong prior')
+('convolutional net', 'instance of', 'fully connected net')
+('hidden unit', 'instance of', 'weights')
+('receptive field', 'instance of', 'convolution and pooling')"
+9.7,0,"('softmax', 'matrix', 'average', 'multiply', 'pooling', 'reshape', 'vector', 'convolution', 'ReLU', 'pooling', 'input image', 'architectures', 'classification', 'convolutional network', 'fixed image size', 'convolutional feature map', 'spatial dimensions', 'feedforward network classifier', 'variable-sized image', 'fully connected section', 'fixed-size vector', 'fully connected weight layer', 'last convolutional layer', 'feature map', 'softmax classifier')","('softmax', 'part of', 'matrix')
+('pooling', 'based on', 'matrix')
+('reshape', 'based on', 'vector')
+('convolution', 'based on', 'matrix')
+('ReLU', 'based on', 'matrix')
+('pooling', 'based on', 'matrix')
+('input image', 'part of', 'architectures')
+('classification', 'based on', 'architectures')
+('classification', 'part of', 'feedforward network classifier')
+('convolutional network', 'based on', 'architectures')
+('fixed image size', 'based on', 'variable-sized image')
+('convolutional feature map', 'based on', 'spatial dimensions')
+('fully connected section', 'based on', 'convolutional feature map')
+('fixed-size vector', 'based on', 'fully connected weight layer')
+('last convolutional layer', 'based on', 'feature map')
+('softmax classifier', 'based on', 'last convolutional layer')"
+9.7,1,"('convolutional networks', 'local interactions', 'translation equivariant', 'pooling', 'invariant to translations', 'underfitting', 'convolutional net', 'fully connected net', 'computational wasteful', 'insights', 'task relies on preserving precise spatial information', 'Szegedy et al., 2014a', 'translation invariance prior', 'statistical learning performance', 'convolutional models', 'benchmarks', 'permutation invariant', 'discrete convolution operation', 'neural networks', 'many applications of convolution', 'single kernel', 'many kinds of features', 'many locations')","('convolutional networks', 'based on', 'local interactions')
+('convolutional networks', 'based on', 'translation equivariant')
+('pooling', 'based on', 'convolutional networks')
+('pooling', 'based on', 'invariant to translations')
+('underfitting', 'based on', 'convolutional networks')
+('convolutional net', 'subclass of', 'neural networks')
+('fully connected net', 'subclass of', 'neural networks')
+('computational wasteful', 'based on', 'fully connected net')
+('insights', 'part of', 'convolutional networks')
+('task relies on preserving precise spatial information', 'based on', 'convolutional networks')
+('Szegedy et al., 2014a', 'part of', 'convolutional networks')
+('translation invariance prior', 'part of', 'convolutional networks')
+('statistical learning performance', 'based on', 'convolutional models')
+('benchmarks', 'based on', 'statistical learning performance')
+('permutation invariant', 'based on', 'discrete convolution operation')
+('discrete convolution operation', 'based on', 'neural networks')
+('many applications of convolution', 'based on', 'neural networks')
+('single kernel', 'subclass of', 'neural networks')
+('many kinds of features', 'part of', 'neural networks')
+('many locations', 'part of', 'neural networks')"
