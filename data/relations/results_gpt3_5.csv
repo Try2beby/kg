@@ -1348,3 +1348,27 @@ section,page,entity,relation
 ('MACHINE LEARNING BASICS', 'machine learning algorithms', 'local constancy prior')"
 6.1,1,"('local kernels', 'deep learning', 'decision trees')","('local kernels', 'deep learning', 'decision trees')"
 6.1,2,"('nearest neighbor algorithm', 'Voronoi diagram')","('nearest neighbor algorithm', 'based on', 'Voronoi diagram')"
+6.1,3,"('deep learning algorithms', 'data generating distribution')","('deep learning algorithms', 'based on', 'data generating distribution')"
+6.1,4,('manifold'),"('manifold', 'instance of', 'mathematical concept')"
+6.1,5,"('MACHINE LEARNING', 'Rn', 'Manifold learning', 'continuous-valued data', 'unsupervised learning', 'probability concentration', 'discrete data', 'supervised learning', 'AI tasks', 'images', 'sounds', 'text', 'manifold assumption', 'probability distribution', 'real life', 'Uniform noise', 'analog television sets', 'document', 'English-language text', 'natural language sequence', 'total space', 'sequences of letters')","('MACHINE LEARNING', 'instance of', 'Rn')
+('MACHINE LEARNING', 'instance of', 'Manifold learning')
+('Rn', 'part of', 'Manifold learning')
+('continuous-valued data', 'instance of', 'Rn')
+('unsupervised learning', 'instance of', 'MACHINE LEARNING')
+('probability concentration', 'subclass of', 'probability distribution')
+('discrete data', 'instance of', 'Rn')
+('supervised learning', 'instance of', 'MACHINE LEARNING')
+('AI tasks', 'instance of', 'MACHINE LEARNING')
+('images', 'instance of', 'AI tasks')
+('sounds', 'instance of', 'AI tasks')
+('text', 'instance of', 'AI tasks')
+('manifold assumption', 'part of', 'MACHINE LEARNING')
+('probability distribution', 'part of', 'MACHINE LEARNING')
+('real life', 'part of', 'MACHINE LEARNING')
+('Uniform noise', 'instance of', 'AI tasks')
+('analog television sets', 'instance of', 'AI tasks')
+('document', 'instance of', 'text')
+('English-language text', 'part of', 'text')
+('natural language sequence', 'instance of', 'sequences of letters')
+('total space', 'part of', 'Rn')
+('sequences of letters', 'subclass of', 'Rn')"
