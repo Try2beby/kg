@@ -1,6 +1,7 @@
 import json
 import os
 import re
+
 import pdfplumber
 
 dataDir = "../data/"
@@ -39,7 +40,7 @@ class Book:
             return self.pdf.pages[page - 1]
 
     def readPageInInterval(self, start_page, end_page, offset=page_offset):
-        return self.pdf.pages[start_page - 1 + offset : end_page + offset]
+        return self.pdf.pages[start_page - 1 + offset : end_page - 1 + offset]
 
     def searchStrInPage(self, page, str):
         page_text = self.readPage(page)
@@ -110,8 +111,17 @@ class Book:
             toc = json.load(f)
         return toc
 
-    def getChapter(self, chapter):
+    def getChapter(self, chapter: str):
         toc = self.loadToc()
         page = toc[chapter]["page"]
         end_page = toc[chapter]["end_page"]
+        return self.readPageInInterval(int(page), int(end_page))
+
+    # read by sections, since we need to extract the relations between section and entity.
+    def getSection(self, chapter: str, section: str):
+        # transform section number to index
+        section_idx = int(section) - 1
+        toc = self.loadToc()
+        page = toc[chapter]["sections"][section_idx]["page"]
+        end_page = toc[chapter]["sections"][section_idx]["end_page"]
         return self.readPageInInterval(int(page), int(end_page))
