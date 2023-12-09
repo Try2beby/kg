@@ -1,18 +1,13 @@
 [
     [
-        "Convex optimization",
-        "facet of",
-        "Deep learning"
-    ],
-    [
-        "Arithmetic underflow",
+        "Breast",
         "subclass of",
-        "Round-off error"
+        "Eigenvalues and eigenvectors"
     ],
     [
-        "Convex optimization",
-        "part of",
-        "Deep learning"
+        "Derivative",
+        "subclass of",
+        "Derivative"
     ],
     [
         "Curvature",
@@ -20,29 +15,24 @@
         "Second derivative"
     ],
     [
-        "Breast",
+        "Optimization problem",
+        "subclass of",
+        "Constrained optimization"
+    ],
+    [
+        "Saddle point",
         "subclass of",
         "Eigenvalues and eigenvectors"
     ],
     [
-        "Gradient",
-        "different from",
-        "Curvature"
+        "Convex optimization",
+        "part of",
+        "Deep learning"
     ],
     [
-        "Derivative",
-        "followed by",
-        "Third derivative"
-    ],
-    [
-        "Optimization problem",
-        "subclass of",
-        "Mathematical optimization"
-    ],
-    [
-        "Optimization problem",
-        "subclass of",
-        "Constrained optimization"
+        "Theano",
+        "instance of",
+        "Algorithm"
     ],
     [
         "0",
@@ -52,27 +42,7 @@
     [
         "Algorithm",
         "part of",
-        "Library"
-    ],
-    [
-        "Convex optimization",
-        "subclass of",
-        "Mathematical optimization"
-    ],
-    [
-        "Graphics processing unit",
-        "has part",
-        "Graphics processing unit"
-    ],
-    [
-        "Hill climbing",
-        "subclass of",
-        "Gradient descent"
-    ],
-    [
-        "Graphics processing unit",
-        "subclass of",
-        "Graphics processing unit"
+        "Mathematics"
     ],
     [
         "Curvature",
@@ -85,8 +55,58 @@
         "2"
     ],
     [
-        "Theano",
-        "instance of",
-        "Algorithm"
+        "Convex optimization",
+        "subclass of",
+        "Mathematical optimization"
+    ],
+    [
+        "Derivative",
+        "followed by",
+        "Third derivative"
+    ],
+    [
+        "Graphics processing unit",
+        "subclass of",
+        "Graphics processing unit"
+    ],
+    [
+        "Optimization problem",
+        "subclass of",
+        "Mathematical optimization"
+    ],
+    [
+        "Hill climbing",
+        "subclass of",
+        "Mathematical optimization"
+    ],
+    [
+        "Arithmetic underflow",
+        "subclass of",
+        "Round-off error"
+    ],
+    [
+        "Algorithm",
+        "part of",
+        "Library"
+    ],
+    [
+        "Convex optimization",
+        "facet of",
+        "Deep learning"
+    ],
+    [
+        "Gradient",
+        "different from",
+        "Curvature"
+    ],
+    [
+        "Graphics processing unit",
+        "has part",
+        "Graphics processing unit"
+    ],
+    [
+        "Hill climbing",
+        "subclass of",
+        "Gradient descent"
     ]
 ]

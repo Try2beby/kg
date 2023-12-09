@@ -1,58 +1,28 @@
 [
     [
-        "retinal",
-        "connects with",
-        "retina"
-    ],
-    [
-        "Deepbelief network",
-        "instance of",
-        "artificial neural network"
-    ],
-    [
-        "adequately",
-        "subclass of",
-        "adequately"
-    ],
-    [
-        "neuron",
-        "part of",
-        "neural network"
-    ],
-    [
-        "greedy layer-wise pre-Buyabletraining",
-        "use",
-        "deep learning"
-    ],
-    [
-        "Introduction",
-        "part of",
-        "INTRODUCTION"
-    ],
-    [
-        "INTRODUCTION",
-        "subclass of",
-        "Illustration"
-    ],
-    [
-        "complexity theory",
-        "part of",
-        "computer science"
-    ],
-    [
-        "Applied Math",
-        "has part",
-        "Machine\u80fd"
-    ],
-    [
         "Machine\u80fdLearning",
         "part of",
         "Applied Math"
     ],
     [
-        "Hidden layer",
+        "Deep Blue",
+        "instance of",
+        "AI"
+    ],
+    [
+        "complexity theory",
         "subclass of",
-        "layer"
+        "mathematical"
+    ],
+    [
+        "cognitive scientists",
+        "field of this occupation",
+        "cognitive science"
+    ],
+    [
+        "Geoffrey Hinton",
+        "employer",
+        "University of Toronto"
     ],
     [
         "DeepBoltzmann machine",
@@ -60,9 +30,94 @@
         "artificial neural network"
     ],
     [
-        "computational graph",
+        "training algorithm",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "INTRODUCTION",
         "subclass of",
-        "flow chart"
+        "Introduction"
+    ],
+    [
+        "DeepMind",
+        "product or material produced",
+        "Deep learning"
+    ],
+    [
+        "neural network",
+        "use",
+        "machine learning"
+    ],
+    [
+        "Galatea",
+        "instance of",
+        "mythical figures"
+    ],
+    [
+        "obscured",
+        "subclass of",
+        "hidden layer"
+    ],
+    [
+        "complexity theory",
+        "part of",
+        "computer science"
+    ],
+    [
+        "perceptron",
+        "instance of",
+        "neural network"
+    ],
+    [
+        "Geoffrey Hinton",
+        "field of work",
+        "machine learning"
+    ],
+    [
+        "machine learning",
+        "part of",
+        "AI"
+    ],
+    [
+        "DeepBoltzmann machine",
+        "instance of",
+        "neural networks"
+    ],
+    [
+        "Yoshua Bengio",
+        "educated at",
+        "University of Montreal"
+    ],
+    [
+        "Applied Math",
+        "has part",
+        "Machine\u80fdLearning"
+    ],
+    [
+        "rodent",
+        "studied by",
+        "neuroscience"
+    ],
+    [
+        "Deepbelief network",
+        "subclass of",
+        "artificial neural networks"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "artificial intelligence"
+    ],
+    [
+        "Machine\u80fd",
+        "part of",
+        "Applied Math"
+    ],
+    [
+        "representation learning",
+        "subclass of",
+        "machine learning"
     ],
     [
         "Pandora",
@@ -70,17 +125,162 @@
         "mythical figures"
     ],
     [
-        "AI system",
-        "studied by",
-        "AI disciplines"
+        "algorithm",
+        "part of",
+        "computer science"
     ],
     [
-        "INTRODUCTION",
-        "has part",
-        "Introduction"
+        "computational graph",
+        "subclass of",
+        "flow chart"
+    ],
+    [
+        "Yoshua Bengio",
+        "employer",
+        "University of Montreal"
+    ],
+    [
+        "Deep learning",
+        "use",
+        "reinforcement learning"
+    ],
+    [
+        "CIFAR-10",
+        "instance of",
+        "dataset"
     ],
     [
         "stochastic gradient descent",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "neurons",
+        "part of",
+        "nervous system"
+    ],
+    [
+        "programming",
+        "part of",
+        "computer science"
+    ],
+    [
+        "unsupervised",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "au-\u88fdtoencoder",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "retina",
+        "connects with",
+        "retinal"
+    ],
+    [
+        "machine learning",
+        "part of",
+        "artificial intelligence"
+    ],
+    [
+        "cybernetics",
+        "subclass of",
+        "deep learning"
+    ],
+    [
+        "neuron",
+        "part of",
+        "neural network"
+    ],
+    [
+        "training algorithm",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "adequately",
+        "facet of",
+        "adequately"
+    ],
+    [
+        "INTRODUCTION",
+        "subclass of",
+        "Illustration"
+    ],
+    [
+        "Convolutional network",
+        "use",
+        "deep learning"
+    ],
+    [
+        "McCulloch-Pitts Neuron",
+        "uses",
+        "stochastic gradient descent"
+    ],
+    [
+        "algorithm",
+        "use",
+        "artificial intelligence"
+    ],
+    [
+        "ImageNet",
+        "instance of",
+        "deep networks"
+    ],
+    [
+        "unsupervised",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "greedy layer-wise pre-Buyabletraining",
+        "discoverer or inventor",
+        "Geoffrey Hinton"
+    ],
+    [
+        "ImageNet",
+        "use",
+        "deep networks"
+    ],
+    [
+        "cybernetics",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "ImageNet",
+        "instance of",
+        "deep network"
+    ],
+    [
+        "Applied Math",
+        "has part",
+        "Machine\u80fd"
+    ],
+    [
+        "Autoencoders",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "adequately",
+        "subclass of",
+        "adequately"
+    ],
+    [
+        "Deepbelief network",
+        "instance of",
+        "neural network"
+    ],
+    [
+        "neuron",
+        "part of",
+        "neuron"
+    ],
+    [
+        "Autoencoders",
         "instance of",
         "algorithm"
     ],
@@ -90,9 +290,39 @@
         "AI"
     ],
     [
-        "perceptron",
+        "retinal",
+        "connects with",
+        "retina"
+    ],
+    [
+        "Deep learning",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "GPUs",
+        "use",
+        "deep learning"
+    ],
+    [
+        "Deep learning",
+        "instance of",
+        "machine learning"
+    ],
+    [
+        "Deep Networks",
+        "subclass of",
+        "Machine Learning"
+    ],
+    [
+        "deep belief",
         "subclass of",
         "neural network"
+    ],
+    [
+        "neural network",
+        "part of",
+        "machine learning"
     ],
     [
         "DeepBoltzmann machine",
@@ -105,54 +335,19 @@
         "rodent"
     ],
     [
-        "cybernetics",
-        "subclass of",
-        "deep learning"
-    ],
-    [
-        "computational step",
-        "part of",
-        "computational graph"
-    ],
-    [
-        "cybernetics",
-        "part of",
-        "deep learning"
-    ],
-    [
-        "AI deep learning",
-        "subclass of",
-        "artificial intelligence"
-    ],
-    [
-        "Machine\u80fd",
-        "part of",
-        "Applied Math"
-    ],
-    [
-        "ImageNet",
-        "instance of",
-        "deep network"
-    ],
-    [
-        "au-\u88fdtoencoder",
+        "McCulloch-Pitts Neuron",
         "instance of",
         "algorithm"
     ],
     [
-        "Yoshua Bengio",
-        "educated at",
-        "University of Montreal"
+        "AI system",
+        "studied by",
+        "AI disciplines"
     ],
     [
-        "Deep learning",
-        "instance of",
+        "deep learning",
+        "subclass of",
         "machine learning"
-    ],
-    [
-        "retina",
-        "connects with",
-        "retinal"
     ],
     [
         "Galatea",
@@ -160,93 +355,28 @@
         "legendary figure"
     ],
     [
-        "Applied Math",
+        "computational step",
+        "part of",
+        "computational graph"
+    ],
+    [
+        "Introduction",
+        "part of",
+        "INTRODUCTION"
+    ],
+    [
+        "cognitive science",
+        "practiced by",
+        "cognitive scientists"
+    ],
+    [
+        "nervous system",
         "has part",
-        "Machine\u80fdLearning"
-    ],
-    [
-        "GPUs",
-        "use",
-        "deep learning"
-    ],
-    [
-        "Deep learning",
-        "use",
-        "reinforcement learning"
-    ],
-    [
-        "algorithm",
-        "part of",
-        "artificial intelligence"
-    ],
-    [
-        "cognitive scientists",
-        "field of this occupation",
-        "cognitive science"
-    ],
-    [
-        "neuron",
-        "part of",
-        "neuron"
-    ],
-    [
-        "obscured",
-        "subclass of",
-        "hidden layer"
-    ],
-    [
-        "greedy layer-wise pre-Buyabletraining",
-        "discoverer or inventor",
-        "Geoffrey Hinton"
-    ],
-    [
-        "machine learning",
-        "part of",
-        "AI"
-    ],
-    [
-        "rodent",
-        "studied by",
-        "neuroscience"
-    ],
-    [
-        "Galatea",
-        "instance of",
-        "mythical figures"
-    ],
-    [
-        "machine learning",
-        "part of",
-        "artificial intelligence"
-    ],
-    [
-        "Deep Blue",
-        "instance of",
-        "AI"
+        "neurons"
     ],
     [
         "DeepMind",
         "product or material produced",
-        "deep learning"
-    ],
-    [
-        "ImageNet",
-        "use",
-        "deep networks"
-    ],
-    [
-        "adequately",
-        "facet of",
-        "adequately"
-    ],
-    [
-        "INTRODUCTION",
-        "subclass of",
-        "Introduction"
-    ],
-    [
-        "Convolutional network",
-        "use",
         "deep learning"
     ],
     [
@@ -255,49 +385,9 @@
         "computational step"
     ],
     [
-        "Autoencoders",
-        "instance of",
-        "algorithm"
-    ],
-    [
-        "Deep Blue",
-        "owned by",
-        "IBM"
-    ],
-    [
-        "ImageNet",
-        "instance of",
-        "deep networks"
-    ],
-    [
         "neural network",
         "has part",
         "artificial neural net"
-    ],
-    [
-        "neurons",
-        "part of",
-        "nervous system"
-    ],
-    [
-        "DeepBoltzmann machine",
-        "instance of",
-        "neural networks"
-    ],
-    [
-        "cognitive science",
-        "practiced by",
-        "cognitive scientists"
-    ],
-    [
-        "unsupervised",
-        "subclass of",
-        "machine learning"
-    ],
-    [
-        "training algorithm",
-        "subclass of",
-        "algorithm"
     ],
     [
         "AI disciplines",
@@ -305,54 +395,24 @@
         "AI system"
     ],
     [
-        "Deep learning",
+        "Deep Blue",
+        "owned by",
+        "IBM"
+    ],
+    [
+        "INTRODUCTION",
+        "has part",
+        "Introduction"
+    ],
+    [
+        "Hidden layer",
         "subclass of",
-        "machine learning"
+        "layer"
     ],
     [
-        "neural network",
-        "part of",
-        "machine learning"
-    ],
-    [
-        "Deepbelief network",
-        "instance of",
-        "neural network"
-    ],
-    [
-        "training algorithm",
-        "facet of",
-        "machine learning"
-    ],
-    [
-        "programming",
-        "part of",
-        "computer science"
-    ],
-    [
-        "deep learning",
+        "AI deep learning",
         "subclass of",
-        "machine learning"
-    ],
-    [
-        "unsupervised",
-        "part of",
-        "machine learning"
-    ],
-    [
-        "deep belief",
-        "subclass of",
-        "neural network"
-    ],
-    [
-        "Geoffrey Hinton",
-        "field of work",
-        "machine learning"
-    ],
-    [
-        "Deepbelief network",
-        "subclass of",
-        "artificial neural networks"
+        "artificial intelligence"
     ],
     [
         "cognitive science",
@@ -360,78 +420,18 @@
         "neuroscience"
     ],
     [
-        "neural network",
-        "use",
-        "machine learning"
-    ],
-    [
-        "McCulloch-Pitts Neuron",
-        "uses",
-        "stochastic gradient descent"
-    ],
-    [
-        "complexity theory",
-        "subclass of",
-        "mathematical"
-    ],
-    [
         "perceptron",
-        "instance of",
+        "subclass of",
         "neural network"
     ],
     [
-        "nervous system",
-        "has part",
-        "neurons"
-    ],
-    [
-        "Geoffrey Hinton",
-        "employer",
-        "University of Toronto"
-    ],
-    [
-        "McCulloch-Pitts Neuron",
+        "Deepbelief network",
         "instance of",
-        "algorithm"
+        "artificial neural network"
     ],
     [
-        "DeepMind",
-        "product or material produced",
-        "Deep learning"
-    ],
-    [
-        "Autoencoders",
-        "subclass of",
-        "algorithm"
-    ],
-    [
-        "Yoshua Bengio",
-        "employer",
-        "University of Montreal"
-    ],
-    [
-        "algorithm",
-        "part of",
-        "computer science"
-    ],
-    [
-        "algorithm",
+        "greedy layer-wise pre-Buyabletraining",
         "use",
-        "artificial intelligence"
-    ],
-    [
-        "CIFAR-10",
-        "instance of",
-        "dataset"
-    ],
-    [
-        "representation learning",
-        "subclass of",
-        "machine learning"
-    ],
-    [
-        "Deep Networks",
-        "subclass of",
-        "Machine Learning"
+        "deep learning"
     ]
 ]

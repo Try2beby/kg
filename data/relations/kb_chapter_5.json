@@ -1,63 +1,38 @@
 [
     [
-        "Unsupervised learning",
-        "different from",
-        "Supervised learning"
+        "Machine learning",
+        "part of",
+        "Artificial intelligence"
+    ],
+    [
+        "Prediction",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Sigma",
+        "facet of",
+        "Normal distribution"
     ],
     [
         "Algorithm",
+        "part of",
+        "Machine learning"
+    ],
+    [
+        "Neuron",
+        "has part",
+        "Neuron"
+    ],
+    [
+        "Data",
         "use",
-        "Training"
-    ],
-    [
-        "Algorithm",
-        "studies",
         "Learning"
     ],
     [
-        "Google Street View",
-        "instance of",
-        "Speech recognition"
-    ],
-    [
-        "Deep learning",
+        "Decision tree",
         "subclass of",
         "Machine learning"
-    ],
-    [
-        "Learning",
-        "studied by",
-        "Algorithm"
-    ],
-    [
-        "Mean squared error",
-        "facet of",
-        "Algorithm"
-    ],
-    [
-        "Algorithm",
-        "use",
-        "Machine learning"
-    ],
-    [
-        "Google Street View",
-        "uses",
-        "Speech recognition"
-    ],
-    [
-        "Machine learning",
-        "subclass of",
-        "Statistics"
-    ],
-    [
-        "Machine learning",
-        "subclass of",
-        "Algorithm"
-    ],
-    [
-        "Google Street View",
-        "use",
-        "Speech recognition"
     ],
     [
         "Supervised learning",
@@ -65,13 +40,458 @@
         "Machine learning"
     ],
     [
-        "Data set",
-        "studied by",
+        "Support vector machine",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Stochastic gradient descent",
+        "instance of",
+        "Stochastic"
+    ],
+    [
+        "Robustness",
+        "facet of",
+        "Robustness"
+    ],
+    [
+        "Parametric model",
+        "different from",
+        "Nonparametric statistics"
+    ],
+    [
+        "Bias",
+        "subclass of",
+        "Variance"
+    ],
+    [
+        "Overfitting",
+        "subclass of",
+        "Estimator"
+    ],
+    [
+        "Stochastic gradient descent",
+        "instance of",
+        "Cluster analysis"
+    ],
+    [
+        "Unit of observation",
+        "facet of",
+        "Statistics"
+    ],
+    [
+        "Maximum likelihood estimation",
+        "subclass of",
+        "Overfitting"
+    ],
+    [
+        "Linear regression",
+        "facet of",
+        "Machine learning"
+    ],
+    [
+        "Sparse approximation",
+        "subclass of",
+        "Sparse approximation"
+    ],
+    [
+        "Robustness",
+        "subclass of",
+        "Robustness"
+    ],
+    [
+        "Overfitting",
+        "facet of",
+        "Algorithm"
+    ],
+    [
+        "Singular value decomposition",
+        "uses",
+        "Eigenvalues and eigenvectors"
+    ],
+    [
+        "Unsupervised learning",
+        "opposite of",
+        "Supervised learning"
+    ],
+    [
+        "Graphics processing unit",
+        "has part",
+        "Graphics processing unit"
+    ],
+    [
+        "Nonlinear dimensionality reduction",
+        "facet of",
+        "Machine learning"
+    ],
+    [
+        "Algorithm",
+        "has part",
         "Machine learning"
     ],
     [
         "Metadata",
         "subclass of",
         "Information"
+    ],
+    [
+        "Recall (memory)",
+        "subclass of",
+        "Artificial intelligence"
+    ],
+    [
+        "Machine learning",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Algorithm",
+        "has part",
+        "Mathematical optimization"
+    ],
+    [
+        "Stochastic gradient descent",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Singular value decomposition",
+        "subclass of",
+        "Eigenvalues and eigenvectors"
+    ],
+    [
+        "Algorithm",
+        "studies",
+        "Learning"
+    ],
+    [
+        "Unsupervised",
+        "facet of",
+        "Machine learning"
+    ],
+    [
+        "Algorithm",
+        "part of",
+        "Training"
+    ],
+    [
+        "Data set",
+        "studied by",
+        "Machine learning"
+    ],
+    [
+        "Overfitting",
+        "different from",
+        "Overfitting"
+    ],
+    [
+        "Deep learning",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Algorithm",
+        "use",
+        "Training"
+    ],
+    [
+        "Unit of observation",
+        "part of",
+        "Statistics"
+    ],
+    [
+        "Bayesian linear regression",
+        "facet of",
+        "Linear regression"
+    ],
+    [
+        "K-means clustering",
+        "instance of",
+        "Sparse approximation"
+    ],
+    [
+        "Learning",
+        "studied by",
+        "Algorithm"
+    ],
+    [
+        "Maximum likelihood estimation",
+        "opposite of",
+        "Overfitting"
+    ],
+    [
+        "Loss function",
+        "subclass of",
+        "Computational resource"
+    ],
+    [
+        "Unsupervised learning",
+        "different from",
+        "Supervised learning"
+    ],
+    [
+        "Normal distribution",
+        "subclass of",
+        "Probability distribution"
+    ],
+    [
+        "Nearest neighbour algorithm",
+        "instance of",
+        "Machine learning"
+    ],
+    [
+        "Algorithm",
+        "part of",
+        "Statistics"
+    ],
+    [
+        "Logistic regression",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Data set",
+        "facet of",
+        "Machine learning"
+    ],
+    [
+        "Decision tree",
+        "instance of",
+        "Machine learning"
+    ],
+    [
+        "Parametric model",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Minimally invasive procedure",
+        "subclass of",
+        "Minimally invasive procedure"
+    ],
+    [
+        "One-dimensional space",
+        "part of",
+        "Plane (mathematics)"
+    ],
+    [
+        "Mean squared error",
+        "subclass of",
+        "Least squares"
+    ],
+    [
+        "Nonparametric statistics",
+        "different from",
+        "Parametric model"
+    ],
+    [
+        "Normal distribution",
+        "facet of",
+        "Statistics"
+    ],
+    [
+        "Misfit stream",
+        "different from",
+        "Overfitting"
+    ],
+    [
+        "Bias",
+        "subclass of",
+        "Estimator"
+    ],
+    [
+        "Training, validation, and test data sets",
+        "subclass of",
+        "Data"
+    ],
+    [
+        "Computational biology",
+        "part of",
+        "Computer science"
+    ],
+    [
+        "Stochastic gradient descent",
+        "part of",
+        "Deep learning"
+    ],
+    [
+        "Algorithm",
+        "use",
+        "Machine learning"
+    ],
+    [
+        "Parametric model",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Google Street View",
+        "use",
+        "Speech recognition"
+    ],
+    [
+        "K-nearest neighbors algorithm",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Support vector machine",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Simulation",
+        "subclass of",
+        "Simulation"
+    ],
+    [
+        "Model",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Stochastic gradient descent",
+        "use",
+        "Deep learning"
+    ],
+    [
+        "Sigma",
+        "part of",
+        "Normal distribution"
+    ],
+    [
+        "Overfitting",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Recall (memory)",
+        "facet of",
+        "Artificial intelligence"
+    ],
+    [
+        "Nonlinear dimensionality reduction",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Overfitting",
+        "facet of",
+        "Statistics"
+    ],
+    [
+        "Overfitting",
+        "different from",
+        "Misfit stream"
+    ],
+    [
+        "Overfitting",
+        "subclass of",
+        "Optimization problem"
+    ],
+    [
+        "Bias",
+        "opposite of",
+        "Estimator"
+    ],
+    [
+        "Nearest neighbour algorithm",
+        "use",
+        "Machine learning"
+    ],
+    [
+        "Unsupervised learning",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Unsupervised",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Bayesian linear regression",
+        "instance of",
+        "Linear regression"
+    ],
+    [
+        "Machine learning",
+        "subclass of",
+        "Statistics"
+    ],
+    [
+        "Alpha",
+        "has part",
+        "Lambda"
+    ],
+    [
+        "One-hot",
+        "subclass of",
+        "Feature learning"
+    ],
+    [
+        "Google Street View",
+        "instance of",
+        "Speech recognition"
+    ],
+    [
+        "Vapnik\u2013Chervonenkis dimension",
+        "facet of",
+        "Statistical learning theory"
+    ],
+    [
+        "Minimally invasive procedure",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Computational resource",
+        "facet of",
+        "Algorithm"
+    ],
+    [
+        "Graphics processing unit",
+        "subclass of",
+        "Graphics processing unit"
+    ],
+    [
+        "Google Street View",
+        "uses",
+        "Speech recognition"
+    ],
+    [
+        "Hyperparameter",
+        "facet of",
+        "Machine learning"
+    ],
+    [
+        "Maximum likelihood estimation",
+        "facet of",
+        "Probability distribution"
+    ],
+    [
+        "One-dimensional space",
+        "followed by",
+        "Plane (mathematics)"
+    ],
+    [
+        "Algorithm",
+        "facet of",
+        "Statistics"
+    ],
+    [
+        "Nearest neighbour algorithm",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Bayesian linear regression",
+        "subclass of",
+        "Linear regression"
+    ],
+    [
+        "A priori and a posteriori",
+        "facet of",
+        "Probability"
     ]
 ]

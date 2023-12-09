@@ -1,12 +1,152 @@
 [
     [
         "Unsupervised learning",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Unsupervised learning",
         "different from",
         "Supervised learning"
+    ],
+    [
+        "Zero-shot learning",
+        "subclass of",
+        "Transfer learning"
+    ],
+    [
+        "Woman",
+        "opposite of",
+        "Man"
+    ],
+    [
+        "Supervised learning",
+        "subclass of",
+        "Algorithm"
+    ],
+    [
+        "Supervised learning",
+        "different from",
+        "Unsupervised learning"
+    ],
+    [
+        "Terry Sejnowski",
+        "field of work",
+        "Deep learning"
+    ],
+    [
+        "Algorithm",
+        "part of",
+        "Machine learning"
+    ],
+    [
+        "Weak supervision",
+        "subclass of",
+        "Supervised learning"
+    ],
+    [
+        "Generative model",
+        "subclass of",
+        "Model"
+    ],
+    [
+        "Female",
+        "opposite of",
+        "Male"
+    ],
+    [
+        "Unsupervised learning",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Unsupervised learning",
+        "subclass of",
+        "Learning"
+    ],
+    [
+        "Generative model",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Graphics processing unit",
+        "different from",
+        "Graphics processing unit"
+    ],
+    [
+        "Mean squared error",
+        "facet of",
+        "Unsupervised learning"
     ],
     [
         "Supervised learning",
         "subclass of",
         "Machine learning"
+    ],
+    [
+        "Autoencoder",
+        "use",
+        "Deep learning"
+    ],
+    [
+        "Autoencoder",
+        "part of",
+        "Deep learning"
+    ],
+    [
+        "Weak supervision",
+        "different from",
+        "Supervised learning"
+    ],
+    [
+        "Population density",
+        "subclass of",
+        "Population density"
+    ],
+    [
+        "Neural network",
+        "use",
+        "Training"
+    ],
+    [
+        "Neural network",
+        "subclass of",
+        "Machine learning"
+    ],
+    [
+        "Male",
+        "opposite of",
+        "Female"
+    ],
+    [
+        "Zero-shot learning",
+        "instance of",
+        "Transfer learning"
+    ],
+    [
+        "Unsupervised",
+        "subclass of",
+        "Supervised learning"
+    ],
+    [
+        "Nearest neighbour algorithm",
+        "instance of",
+        "Algorithm"
+    ],
+    [
+        "Man",
+        "opposite of",
+        "Woman"
+    ],
+    [
+        "Feedforward",
+        "part of",
+        "Deep learning"
+    ],
+    [
+        "Television set",
+        "subclass of",
+        "Consumer electronics"
     ]
 ]
