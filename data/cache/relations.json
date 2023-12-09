@@ -1,0 +1,9572 @@
+[
+    [
+        "CPUs",
+        "has part",
+        "CPUs"
+    ],
+    [
+        "\u03b1x",
+        "followed by",
+        "y"
+    ],
+    [
+        "paramountously",
+        "part of",
+        "paramountously"
+    ],
+    [
+        "gradient-based optimization",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "\u03b1 coefficient",
+        "subclass of",
+        "hyperparameter"
+    ],
+    [
+        "Noise injection",
+        "subclass of",
+        "unsupervised learning"
+    ],
+    [
+        "Neural auto-regressive network",
+        "opposite of",
+        "linear classifiers"
+    ],
+    [
+        "sparse coding",
+        "subclass of",
+        "Boltzmann machine"
+    ],
+    [
+        "computational graph",
+        "subclass of",
+        "data structure"
+    ],
+    [
+        "turbulent drag",
+        "subclass of",
+        "drag"
+    ],
+    [
+        "Fully-visible Bayes network",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "Spearmint",
+        "use",
+        "machine learning"
+    ],
+    [
+        "sigmoid",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "autoencoder",
+        "part of",
+        "encoder-decoder architecture"
+    ],
+    [
+        "Gradient",
+        "subclass of",
+        "function"
+    ],
+    [
+        "COVID-19 pandemic",
+        "instance of",
+        "pandemic"
+    ],
+    [
+        "SFA algorithm",
+        "uses",
+        "gradient descent"
+    ],
+    [
+        "2nd-order optimization",
+        "instance of",
+        "numerical optimization"
+    ],
+    [
+        "parametrize",
+        "subclass of",
+        "computation"
+    ],
+    [
+        "2 2",
+        "part of",
+        "2-D plane"
+    ],
+    [
+        "transpose",
+        "subclass of",
+        "operation"
+    ],
+    [
+        "REINFORCE TAMADRAalgorithm",
+        "instance of",
+        "deterministic operation"
+    ],
+    [
+        "LAPGAN",
+        "subclass of",
+        "Laplacian pyramid"
+    ],
+    [
+        "semi-supervised learning",
+        "subclass of",
+        "supervised learning"
+    ],
+    [
+        "first hidden layer",
+        "part of",
+        "deep neural network"
+    ],
+    [
+        "stochastic gradient descent",
+        "instance of",
+        "optimization algorithm"
+    ],
+    [
+        "ImageNet",
+        "instance of",
+        "deep convolutional network"
+    ],
+    [
+        "multi-channel convolution",
+        "subclass of",
+        "convolution"
+    ],
+    [
+        "convolutional neural network",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "McGill University",
+        "located in the administrative territorial entity",
+        "Montreal"
+    ],
+    [
+        "horrendously",
+        "part of",
+        "horrendously"
+    ],
+    [
+        "8.5",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "encoder-decoder architecture",
+        "use",
+        "machine translation"
+    ],
+    [
+        "separating",
+        "subclass of",
+        "convolution"
+    ],
+    [
+        "Caffe",
+        "instance of",
+        "libraries"
+    ],
+    [
+        "\u03c3",
+        "facet of",
+        "normal distribution"
+    ],
+    [
+        "Restricted Boltzmann Machine",
+        "use",
+        "deep learning"
+    ],
+    [
+        "saddle-like",
+        "subclass of",
+        "saddle point"
+    ],
+    [
+        "cross-entropy loss",
+        "subclass of",
+        "computational graph"
+    ],
+    [
+        "norm",
+        "subclass of",
+        "functions"
+    ],
+    [
+        "DeepMind",
+        "product or material produced",
+        "deep learning"
+    ],
+    [
+        "parametric",
+        "subclass of",
+        "Statistical efficiency"
+    ],
+    [
+        "GSN",
+        "subclass of",
+        "autoencoder"
+    ],
+    [
+        "eigenvalue spectrum",
+        "facet of",
+        "Jacobian"
+    ],
+    [
+        "minimization problem",
+        "subclass of",
+        "constrained optimization"
+    ],
+    [
+        "congeniality",
+        "subclass of",
+        "congeniality"
+    ],
+    [
+        "FitNets",
+        "use",
+        "transfer learning"
+    ],
+    [
+        "\u03b1",
+        "has part",
+        "z"
+    ],
+    [
+        "GENERATIVE MODELS",
+        "subclass of",
+        "conditional probability distribution"
+    ],
+    [
+        "autoencoder",
+        "instance of",
+        "encoder-decoder architecture"
+    ],
+    [
+        "Metropolis-Hastings",
+        "subclass of",
+        "Monte Carlo method"
+    ],
+    [
+        "coverage",
+        "subclass of",
+        "recall"
+    ],
+    [
+        "autoencoder networks",
+        "part of",
+        "deep feedforward networks"
+    ],
+    [
+        "International Conference on Machine learning",
+        "organizer",
+        "IEEE"
+    ],
+    [
+        "Pandora",
+        "instance of",
+        "mythical figures"
+    ],
+    [
+        "amplifying",
+        "has part",
+        "amplifying"
+    ],
+    [
+        "massively parallel",
+        "subclass of",
+        "massively parallel network"
+    ],
+    [
+        "ImageNet",
+        "instance of",
+        "deep networks"
+    ],
+    [
+        "\u03b1",
+        "part of",
+        "Stochastic gradient descent"
+    ],
+    [
+        "McCulloch-Pitts Neuron",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Convolutional network",
+        "uses",
+        "convolution"
+    ],
+    [
+        "contrastive divergence",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "ReLU",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "REINFORCE",
+        "instance of",
+        "estimator"
+    ],
+    [
+        "International Conference on Artificial Intelligence and Statistics",
+        "publisher",
+        "Springer New York"
+    ],
+    [
+        "normalized",
+        "subclass of",
+        "uniform distribution"
+    ],
+    [
+        "RECURRENT",
+        "subclass of",
+        "NETS"
+    ],
+    [
+        "TensorFlow",
+        "instance of",
+        "software library"
+    ],
+    [
+        "\u03b1",
+        "has part",
+        "y"
+    ],
+    [
+        "8.5.1 AdaGrad",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "\u201csquashing\u201d activation function",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "Expected Value",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "minimally",
+        "subclass of",
+        "norm"
+    ],
+    [
+        "estimator",
+        "part of",
+        "distribution"
+    ],
+    [
+        "INFERENCE",
+        "has part",
+        "inference"
+    ],
+    [
+        "GoogLeNet",
+        "instance of",
+        "supervised neural nets"
+    ],
+    [
+        "AI system",
+        "studied by",
+        "AI disciplines"
+    ],
+    [
+        "autoencoders",
+        "use",
+        "representation learning"
+    ],
+    [
+        "autoencoders",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "Theano",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "minimally intrusive",
+        "subclass of",
+        "minimally invasive"
+    ],
+    [
+        "parametric",
+        "studied by",
+        "graph theory"
+    ],
+    [
+        "z",
+        "instance of",
+        "indices"
+    ],
+    [
+        "generative modeling",
+        "use",
+        "computer vision"
+    ],
+    [
+        "ImageNet",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "Metropolis-Hastings algorithm",
+        "uses",
+        "Markov chain"
+    ],
+    [
+        "sparsely populated",
+        "subclass of",
+        "sparsely populated"
+    ],
+    [
+        "Parametric",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "undirected",
+        "subclass of",
+        "graph"
+    ],
+    [
+        "Parametric model",
+        "different from",
+        "non-parametric model"
+    ],
+    [
+        "algorithm 4.1",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Batch gradient descent",
+        "instance of",
+        "optimization algorithm"
+    ],
+    [
+        "sparse coding",
+        "subclass of",
+        "convolutional networks"
+    ],
+    [
+        "test",
+        "different from",
+        "train"
+    ],
+    [
+        "televisions",
+        "subclass of",
+        "consumer electronics"
+    ],
+    [
+        "nonlinear projection",
+        "different from",
+        "linear projection"
+    ],
+    [
+        "1",
+        "different from",
+        "0"
+    ],
+    [
+        "tr(A)",
+        "instance of",
+        "trace operator"
+    ],
+    [
+        "unsupervised",
+        "opposite of",
+        "supervised"
+    ],
+    [
+        "0",
+        "followed by",
+        "1"
+    ],
+    [
+        "minimally efficient",
+        "subclass of",
+        "minimally efficient"
+    ],
+    [
+        "loss function",
+        "subclass of",
+        "computational cost"
+    ],
+    [
+        "Introduction",
+        "part of",
+        "INTRODUCTION"
+    ],
+    [
+        "minimally",
+        "subclass of",
+        "minimally"
+    ],
+    [
+        "second-order gradient method",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "mean-product of t-distribution",
+        "subclass of",
+        "Gaussian-Bernoulli RBM"
+    ],
+    [
+        "declarative",
+        "subclass of",
+        "knowledge"
+    ],
+    [
+        "\u03c6",
+        "part of",
+        "cosine function"
+    ],
+    [
+        "Bernoulli distribution",
+        "instance of",
+        "probability distribution"
+    ],
+    [
+        "normality",
+        "facet of",
+        "statistics"
+    ],
+    [
+        "machine learning",
+        "part of",
+        "AI"
+    ],
+    [
+        "RECURRENT",
+        "subclass of",
+        "recurrent network"
+    ],
+    [
+        "exponential",
+        "subclass of",
+        "physical energy"
+    ],
+    [
+        "REINFORCE",
+        "instance of",
+        "unbiased Monte Carlo estimator"
+    ],
+    [
+        "dialect",
+        "part of",
+        "language"
+    ],
+    [
+        "gater",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "Support Vector Machines",
+        "subclass of",
+        "machinelearning"
+    ],
+    [
+        "Convolution",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "A directed graphical model",
+        "instance of",
+        "probabilistic model"
+    ],
+    [
+        "DBM",
+        "subclass of",
+        "deep Boltzmann machine training"
+    ],
+    [
+        "saddle point",
+        "subclass of",
+        "Hessian matrix"
+    ],
+    [
+        "minimization",
+        "facet of",
+        "stochastic"
+    ],
+    [
+        "overfitting",
+        "subclass of",
+        "bias"
+    ],
+    [
+        "sparse connectivity",
+        "used by",
+        "CONVOLUTIONAL NETWORKS"
+    ],
+    [
+        "9 Leaky Units and Other Strategies for Multiple=-=-=-=-=-=-=-=-=-=-=-=-",
+        "instance of",
+        "sparse initialization scheme"
+    ],
+    [
+        "Context-specific independences",
+        "facet of",
+        "undirected graph"
+    ],
+    [
+        "minimally-valued",
+        "subclass of",
+        "minimally-polynomial"
+    ],
+    [
+        "genealogy",
+        "subclass of",
+        "phylogenetic"
+    ],
+    [
+        "convolutional network",
+        "subclass of",
+        "deep learning"
+    ],
+    [
+        "cosine function",
+        "subclass of",
+        "Gaussian factor"
+    ],
+    [
+        "logistic regression",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "eye",
+        "part of",
+        "faces"
+    ],
+    [
+        "The Statistician",
+        "publisher",
+        "Springer"
+    ],
+    [
+        "Gradient descent",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "programming",
+        "part of",
+        "computer science"
+    ],
+    [
+        "Regularized autoencoders",
+        "instance of",
+        "generative model"
+    ],
+    [
+        "sum-product network",
+        "subclass of",
+        "convolutional net"
+    ],
+    [
+        "7.2 A meta-algorithm for using early stopping",
+        "point in time",
+        "7.2"
+    ],
+    [
+        "Nesterov momentum",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "stochastic gradient algorithm",
+        "uses",
+        "gradient ascent"
+    ],
+    [
+        "Convolutional network",
+        "use",
+        "deep learning"
+    ],
+    [
+        "optimistically",
+        "subclass of",
+        "optimally"
+    ],
+    [
+        "probability distribution",
+        "studied by",
+        "Probability theory"
+    ],
+    [
+        "normal distribution",
+        "facet of",
+        "statistics"
+    ],
+    [
+        "contrastive divergence algorithm",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "SMAC",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "one-dimensional",
+        "followed by",
+        "two-dimensional"
+    ],
+    [
+        "LASSO",
+        "subclass of",
+        "linear model"
+    ],
+    [
+        "bipartite structure",
+        "subclass of",
+        "graph"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "instance of",
+        "recurrent network"
+    ],
+    [
+        "GENERATING THE PARTITION FUNCTION",
+        "part of",
+        "GENERATING THE PARTITION"
+    ],
+    [
+        "Miocene",
+        "followed by",
+        "Ice Age"
+    ],
+    [
+        "QMULMultiviewFaceDataset",
+        "publication date",
+        "2000"
+    ],
+    [
+        "MAP inference",
+        "instance of",
+        "learning algorithms"
+    ],
+    [
+        "\u03b1",
+        "instance of",
+        "prevalence"
+    ],
+    [
+        "data points",
+        "part of",
+        "statistics"
+    ],
+    [
+        "ReLU",
+        "subclass of",
+        "deep linear network"
+    ],
+    [
+        "L2 parameter norm penalty",
+        "instance of",
+        "norm penalty"
+    ],
+    [
+        "supervised",
+        "different from",
+        "unsupervised"
+    ],
+    [
+        "Bayesian Linear Regression",
+        "instance of",
+        "linear regression"
+    ],
+    [
+        "IEEE Transactions on Automatic Control",
+        "publisher",
+        "Springer"
+    ],
+    [
+        "data model",
+        "subclass of",
+        "learning"
+    ],
+    [
+        "MONTE CARLO METHODS",
+        "instance of",
+        "dialectic"
+    ],
+    [
+        "minimally distributed",
+        "subclass of",
+        "minimally distributed"
+    ],
+    [
+        "build_grad",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Convolution stage",
+        "part of",
+        "Convolutional Layer"
+    ],
+    [
+        "inflows",
+        "subclass of",
+        "editing"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "part of",
+        "neural Turing machine"
+    ],
+    [
+        "Courville et al. (2011)",
+        "field of work",
+        "Probabilistic modeling of natural images"
+    ],
+    [
+        "minimizes",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "overfitting",
+        "subclass of",
+        "optimization problem"
+    ],
+    [
+        "robustness",
+        "has part",
+        "robustness"
+    ],
+    [
+        "DropConnect",
+        "instance of",
+        "implicit ensemble method"
+    ],
+    [
+        "nervous system",
+        "has part",
+        "neurons"
+    ],
+    [
+        "NIPS",
+        "parent organization",
+        "IEEE"
+    ],
+    [
+        "algorithm 8.5",
+        "facet of",
+        "RMSProp"
+    ],
+    [
+        "sparse coding",
+        "subclass of",
+        "deep learning"
+    ],
+    [
+        "a",
+        "has part",
+        "a"
+    ],
+    [
+        "2 Independent Component Analysis",
+        "instance of",
+        "Fully parametric generative model"
+    ],
+    [
+        "one-shot learning",
+        "subclass of",
+        "unsupervised learning"
+    ],
+    [
+        "supervisedlearning",
+        "different from",
+        "unsupervised"
+    ],
+    [
+        "supervised paradigm",
+        "subclass of",
+        "model architecture"
+    ],
+    [
+        "ranking loss",
+        "subclass of",
+        "loss function"
+    ],
+    [
+        "Bidirectional recurrent neural network",
+        "opposite of",
+        "convolutional network"
+    ],
+    [
+        "supervised learning",
+        "different from",
+        "unsupervised learning"
+    ],
+    [
+        "hyperparameter",
+        "use",
+        "training"
+    ],
+    [
+        "Neural Networks",
+        "use",
+        "machine translation"
+    ],
+    [
+        "Part II",
+        "facet of",
+        "Deep Networks"
+    ],
+    [
+        "NIPS",
+        "member of",
+        "IEEE"
+    ],
+    [
+        "runtime",
+        "part of",
+        "computational resources"
+    ],
+    [
+        "Leth+",
+        "subclass of",
+        "regions"
+    ],
+    [
+        "computational resources",
+        "has part",
+        "runtime"
+    ],
+    [
+        "2",
+        "followed by",
+        "3"
+    ],
+    [
+        "previous",
+        "facet of",
+        "statistics"
+    ],
+    [
+        "approximating",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "minimizes",
+        "subclass of",
+        "loss function"
+    ],
+    [
+        "algorithm 18.1",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "bipartite",
+        "subclass of",
+        "graph"
+    ],
+    [
+        "7 Factor Graphs",
+        "instance of",
+        "undirected model"
+    ],
+    [
+        "eigenvalue decomposition",
+        "different from",
+        "singular value decomposition"
+    ],
+    [
+        "Jacobian matrix",
+        "subclass of",
+        "linear operator"
+    ],
+    [
+        "P",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "neurons",
+        "part of",
+        "neural network"
+    ],
+    [
+        "\u03b1",
+        "part of",
+        "\u03bb"
+    ],
+    [
+        "Vapnik-Chervonenkis dimension",
+        "facet of",
+        "Statistical learning theory"
+    ],
+    [
+        "summarily",
+        "subclass of",
+        "summarily"
+    ],
+    [
+        "software",
+        "has part",
+        "algorithm"
+    ],
+    [
+        "supervised learning",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "autoencoder",
+        "part of",
+        "Convolutional network"
+    ],
+    [
+        "7 Boltzmann Machines for Structured or SequentialBuyableOutputs",
+        "instance of",
+        "RBM"
+    ],
+    [
+        "dividing line",
+        "part of",
+        "2D plane"
+    ],
+    [
+        "2-D",
+        "subclass of",
+        "space"
+    ],
+    [
+        "Boltzmann machine",
+        "instance of",
+        "probabilistic model"
+    ],
+    [
+        "unsupervised",
+        "subclass of",
+        "supervisedlearning"
+    ],
+    [
+        "unsupervised representation learning",
+        "subclass of",
+        "semi-supervised learning"
+    ],
+    [
+        "asymptotically consistent",
+        "subclass of",
+        "estimator"
+    ],
+    [
+        "unnormalized probability distribution",
+        "facet of",
+        "undirected graph"
+    ],
+    [
+        "Support vector machine",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "instance of",
+        "conditional recurrent neural network"
+    ],
+    [
+        "DRAW model",
+        "uses",
+        "recurrent encoder"
+    ],
+    [
+        "utilising",
+        "subclass of",
+        "decomposition"
+    ],
+    [
+        "ISTA",
+        "instance of",
+        "autoencoder"
+    ],
+    [
+        "isotropic",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "Principality Analysis",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Galatea",
+        "instance of",
+        "legendary figure"
+    ],
+    [
+        "minimally invasive",
+        "subclass of",
+        "minimally invasive methods"
+    ],
+    [
+        "minimally posterior probability",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "Stochastic gradient ascent",
+        "subclass of",
+        "gradient descent"
+    ],
+    [
+        "parametrized",
+        "subclass of",
+        "functions"
+    ],
+    [
+        "tiling pattern",
+        "part of",
+        "convolutional layer"
+    ],
+    [
+        "metadata",
+        "subclass of",
+        "information"
+    ],
+    [
+        "pathetically",
+        "facet of",
+        "pathetically"
+    ],
+    [
+        "levelling",
+        "subclass of",
+        "levelling"
+    ],
+    [
+        "Bias",
+        "instance of",
+        "sources of error"
+    ],
+    [
+        "Transmission learning",
+        "subclass of",
+        "learning"
+    ],
+    [
+        "deep belief networks",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "distributive",
+        "part of",
+        "statistics"
+    ],
+    [
+        "sparse coding",
+        "subclass of",
+        "generative model"
+    ],
+    [
+        "asymptotically consistent",
+        "subclass of",
+        "learning"
+    ],
+    [
+        "Recursive network",
+        "subclass of",
+        "neural net"
+    ],
+    [
+        "2-D plane",
+        "subclass of",
+        "manifold"
+    ],
+    [
+        "paramountously",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "k-nearest TAMADRAneighbors",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "neurotransmitter",
+        "subclass of",
+        "neurotransmitter"
+    ],
+    [
+        "first-order optimization algorithm",
+        "subclass of",
+        "optimization algorithm"
+    ],
+    [
+        "sparsely connected generalizations",
+        "subclass of",
+        "inference algorithm"
+    ],
+    [
+        "stochastic gradient descent",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "non-diagonal",
+        "subclass of",
+        "conditional distribution"
+    ],
+    [
+        "stochastic cost function",
+        "subclass of",
+        "optimization algorithm"
+    ],
+    [
+        "cognitive science",
+        "subclass of",
+        "neuroscience"
+    ],
+    [
+        "neoclassifier",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "training"
+    ],
+    [
+        "unsupervised pretraining",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "computational cost",
+        "facet of",
+        "algorithm"
+    ],
+    [
+        "algorithm 8.5",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "maxout",
+        "subclass of",
+        "deep rectifier net"
+    ],
+    [
+        "Bengio",
+        "instance of",
+        "auto-regressive neural network"
+    ],
+    [
+        "encoder",
+        "part of",
+        "convolutional structure"
+    ],
+    [
+        "CIFAR-10",
+        "instance of",
+        "dataset"
+    ],
+    [
+        "tensor",
+        "subclass of",
+        "vector"
+    ],
+    [
+        "stochastic gradient descent",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "parametrize",
+        "facet of",
+        "distribution"
+    ],
+    [
+        "Part II",
+        "main subject",
+        "Deep Networks"
+    ],
+    [
+        "APPROXIMATE INFERENCE",
+        "use",
+        "approximate inference"
+    ],
+    [
+        "2 Sigmoid Units for Bernoulli Output Distributions",
+        "subclass of",
+        "Bernoulli distribution"
+    ],
+    [
+        "algorithm 8.9",
+        "instance of",
+        "conjugate gradient algorithm"
+    ],
+    [
+        "overfit",
+        "opposite of",
+        "underfit"
+    ],
+    [
+        "operable",
+        "subclass of",
+        "software"
+    ],
+    [
+        "Most birds fly",
+        "studied by",
+        "Probability theory"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "subclass of",
+        "recurrent convolutional network"
+    ],
+    [
+        "DEEP FEEDFORWARD NETWORKS",
+        "subclass of",
+        "feedforward neural networks"
+    ],
+    [
+        "GET_operation",
+        "part of",
+        "Python"
+    ],
+    [
+        "parametric",
+        "part of",
+        "probability distribution"
+    ],
+    [
+        "\u03b1",
+        "subclass of",
+        "momentum"
+    ],
+    [
+        "Recurrent neural network",
+        "use",
+        "deep learning"
+    ],
+    [
+        "datasets",
+        "facet of",
+        "algorithm"
+    ],
+    [
+        "0",
+        "different from",
+        "1"
+    ],
+    [
+        "maximum likelihood",
+        "subclass of",
+        "overfitting"
+    ],
+    [
+        "DRAW model",
+        "uses",
+        "recurrent decoder"
+    ],
+    [
+        "minimizing this KL divergence",
+        "subclass of",
+        "minimizing"
+    ],
+    [
+        "\u03b1w",
+        "part of",
+        "total objective function"
+    ],
+    [
+        "fully connected layer",
+        "opposite of",
+        "locally connected layer"
+    ],
+    [
+        "curvature",
+        "subclass of",
+        "curvature"
+    ],
+    [
+        "topological",
+        "part of",
+        "neoclassical"
+    ],
+    [
+        "computational cost",
+        "subclass of",
+        "memory consumption"
+    ],
+    [
+        "OMP-1",
+        "instance of",
+        "sparse"
+    ],
+    [
+        "neuron",
+        "has part",
+        "neuron"
+    ],
+    [
+        "minimizes",
+        "subclass of",
+        "minimizes"
+    ],
+    [
+        "denoising autoencoder",
+        "instance of",
+        "autoencoder"
+    ],
+    [
+        "natural object classes",
+        "subclass of",
+        "data"
+    ],
+    [
+        "autoencoder network",
+        "subclass of",
+        "deep feedforward networks"
+    ],
+    [
+        "L1",
+        "followed by",
+        "L2"
+    ],
+    [
+        "normal distribution",
+        "subclass of",
+        "cumulative distribution"
+    ],
+    [
+        "graph theory",
+        "studies",
+        "graph"
+    ],
+    [
+        "one-dimensional",
+        "part of",
+        "two-dimensional"
+    ],
+    [
+        "neural language",
+        "studied by",
+        "Neural language model"
+    ],
+    [
+        "Neural network",
+        "part of",
+        "convolutional network"
+    ],
+    [
+        "Manifold learning",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "use",
+        "deep learning"
+    ],
+    [
+        "Awakens",
+        "has part",
+        "Awakens"
+    ],
+    [
+        "7 Contractive Autoencoders",
+        "instance of",
+        "autoencoder"
+    ],
+    [
+        "InProceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics",
+        "point in time",
+        "2011"
+    ],
+    [
+        "mean squared error",
+        "subclass of",
+        "least-squares"
+    ],
+    [
+        "precision",
+        "different from",
+        "recall"
+    ],
+    [
+        "RECurrent Neural Networks",
+        "subclass of",
+        "recurrent neural network"
+    ],
+    [
+        "contrast",
+        "part of",
+        "image"
+    ],
+    [
+        "2-D",
+        "followed by",
+        "3-D"
+    ],
+    [
+        "cognitive scientists",
+        "field of this occupation",
+        "cognitive science"
+    ],
+    [
+        "\u03b2",
+        "instance of",
+        "cosmoid"
+    ],
+    [
+        "Autoencoders",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "greedy search",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "root mean square",
+        "subclass of",
+        "squared error"
+    ],
+    [
+        "neoclassifier",
+        "subclass of",
+        "Convolutional network"
+    ],
+    [
+        "Convolutional network",
+        "subclass of",
+        "recurrent neural network"
+    ],
+    [
+        "DropConnect",
+        "instance of",
+        "implicit ensemble"
+    ],
+    [
+        "equivariance",
+        "subclass of",
+        "function"
+    ],
+    [
+        "INFERENCE",
+        "subclass of",
+        "inference"
+    ],
+    [
+        "2-D plane",
+        "subclass of",
+        "span"
+    ],
+    [
+        "linear regression",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "GSN",
+        "subclass of",
+        "denoising autoencoders"
+    ],
+    [
+        "inferotemporal cortex",
+        "instance of",
+        "brain area"
+    ],
+    [
+        "Undirected Models",
+        "subclass of",
+        "undirected model"
+    ],
+    [
+        "TensorFlow",
+        "instance of",
+        "libraries"
+    ],
+    [
+        "algorithm",
+        "use",
+        "machine learning"
+    ],
+    [
+        "norm",
+        "subclass of",
+        "function"
+    ],
+    [
+        "family",
+        "has part",
+        "ancestral"
+    ],
+    [
+        "PARzen window algorithm",
+        "use",
+        "deep learning"
+    ],
+    [
+        "P(x,y = y)",
+        "instance of",
+        "probability mass function"
+    ],
+    [
+        "con-",
+        "subclass of",
+        "differentiable transformation"
+    ],
+    [
+        "Convolution stage",
+        "subclass of",
+        "Convolutional Layer"
+    ],
+    [
+        "Stochastic gradient descent",
+        "instance of",
+        "stochastic"
+    ],
+    [
+        "explicit",
+        "opposite of",
+        "implicit"
+    ],
+    [
+        "minimally posterior probability",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "strided convolution",
+        "facet of",
+        "convolutional network"
+    ],
+    [
+        "n-gram model",
+        "instance of",
+        "neural language model"
+    ],
+    [
+        "Bernoulli or multinoulli",
+        "subclass of",
+        "uniform distribution"
+    ],
+    [
+        "Autoencoder",
+        "uses",
+        "convolutional network"
+    ],
+    [
+        "sparse coding",
+        "subclass of",
+        "unsupervised learning"
+    ],
+    [
+        "autoencoder",
+        "part of",
+        "neural network"
+    ],
+    [
+        "allele",
+        "different from",
+        "allele"
+    ],
+    [
+        "endorsed by",
+        "followed by",
+        "endorsed by"
+    ],
+    [
+        "OMP-1",
+        "instance of",
+        "model averaging"
+    ],
+    [
+        "normalize",
+        "different from",
+        "integrate"
+    ],
+    [
+        "tr(A)",
+        "instance of",
+        "transpose operator"
+    ],
+    [
+        "overfitting",
+        "subclass of",
+        "suppressing"
+    ],
+    [
+        "curvature",
+        "part of",
+        "2-D space"
+    ],
+    [
+        "normalization",
+        "different from",
+        "abnormal"
+    ],
+    [
+        "phylogenetic tree",
+        "subclass of",
+        "phylogenetic"
+    ],
+    [
+        "converge criterion",
+        "subclass of",
+        "iteratively"
+    ],
+    [
+        "root mean square",
+        "subclass of",
+        "squared errors"
+    ],
+    [
+        "Support Vector Machines",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Deep feedforward network",
+        "use",
+        "deep learning"
+    ],
+    [
+        "early stopping",
+        "instance of",
+        "meta-algorithm"
+    ],
+    [
+        "dropout",
+        "subclass of",
+        "hyperparameters"
+    ],
+    [
+        "GET_operation function",
+        "programming language",
+        "Python"
+    ],
+    [
+        "variational autoencoder",
+        "subclass of",
+        "generative models"
+    ],
+    [
+        "minimization",
+        "opposite of",
+        "maximum likelihood estimation"
+    ],
+    [
+        "machine learning",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "back-propagation",
+        "facet of",
+        "neural network"
+    ],
+    [
+        "minimizes",
+        "facet of",
+        "regression"
+    ],
+    [
+        "minimally supervised",
+        "subclass of",
+        "supervised"
+    ],
+    [
+        "graph theory",
+        "studies",
+        "probability distribution"
+    ],
+    [
+        "REINFORCE TAMADRAalgorithm",
+        "instance of",
+        "stochastic back-propagation"
+    ],
+    [
+        "tree of depth",
+        "uses",
+        "branching factor"
+    ],
+    [
+        "linear network",
+        "opposite of",
+        "deep network"
+    ],
+    [
+        "Deep SFA",
+        "instance of",
+        "unsupervised feature learning"
+    ],
+    [
+        "Expected Value",
+        "subclass of",
+        "expectation"
+    ],
+    [
+        "Deep learning",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "gated recurrent net",
+        "subclass of",
+        "networks"
+    ],
+    [
+        "Bernoulli distribution",
+        "instance of",
+        "distribution"
+    ],
+    [
+        "Geoffrey Hinton",
+        "employer",
+        "University of Toronto"
+    ],
+    [
+        "maximization in the outer loop",
+        "subclass of",
+        "optimistically"
+    ],
+    [
+        "local kernels",
+        "subclass of",
+        "decision tree"
+    ],
+    [
+        "Street View",
+        "part of",
+        "Google Maps"
+    ],
+    [
+        "parametric",
+        "subclass of",
+        "statistics"
+    ],
+    [
+        "Ensipio",
+        "part of",
+        "Ensipio graph"
+    ],
+    [
+        "L2 penalty",
+        "subclass of",
+        "gradient descent"
+    ],
+    [
+        "Teacher forcing",
+        "facet of",
+        "RNNs"
+    ],
+    [
+        "obscured",
+        "subclass of",
+        "hidden layer"
+    ],
+    [
+        "COVID-19 pandemic",
+        "point in time",
+        "2020"
+    ],
+    [
+        "neural network",
+        "use",
+        "machine translation"
+    ],
+    [
+        "Deep belief network",
+        "subclass of",
+        "generative learning"
+    ],
+    [
+        "schools",
+        "different from",
+        "educators"
+    ],
+    [
+        "computational cost",
+        "subclass of",
+        "memory"
+    ],
+    [
+        "unsupervised",
+        "different from",
+        "supervisedlearning"
+    ],
+    [
+        "Hebbian learning rule",
+        "subclass of",
+        "undirected probabilistic"
+    ],
+    [
+        "factored",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "computational graph language",
+        "subclass of",
+        "graph language"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "use",
+        "convolutional network"
+    ],
+    [
+        "explicit constraints",
+        "opposite of",
+        "penalty"
+    ],
+    [
+        "summation",
+        "subclass of",
+        "integrals"
+    ],
+    [
+        "embodying",
+        "has part",
+        "embodying"
+    ],
+    [
+        "AIS procedure",
+        "facet of",
+        "extended state space"
+    ],
+    [
+        "dropout",
+        "facet of",
+        "Neural network"
+    ],
+    [
+        "intelligence",
+        "has part",
+        "learning"
+    ],
+    [
+        "parametrization",
+        "part of",
+        "computational"
+    ],
+    [
+        "nearly deterministic",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "algorithm 8.8",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "convolutional networks",
+        "use",
+        "deep learning"
+    ],
+    [
+        "first-order optimization algorithm",
+        "subclass of",
+        "optimization algorithms"
+    ],
+    [
+        "minimally Euclidean norm",
+        "subclass of",
+        "linear equation"
+    ],
+    [
+        "deep LSTM",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "algorithm"
+    ],
+    [
+        "expectation",
+        "part of",
+        "probability distribution"
+    ],
+    [
+        "DeepBoltzmann machine",
+        "instance of",
+        "neural network"
+    ],
+    [
+        "minimally significant",
+        "subclass of",
+        "minimally significant"
+    ],
+    [
+        "recurrent neural networks",
+        "subclass of",
+        "neuralnetworks"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "instance of",
+        "recurrent network"
+    ],
+    [
+        "RECurrent neural network",
+        "subclass of",
+        "recurrent neural network"
+    ],
+    [
+        "CUDA",
+        "developer",
+        "NVIDIA"
+    ],
+    [
+        "uncertainty",
+        "studied by",
+        "Probability theory"
+    ],
+    [
+        "algorithm 8",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "\u03c32/m",
+        "instance of",
+        "variance"
+    ],
+    [
+        "unsupervised",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "neurons",
+        "has part",
+        "neurons"
+    ],
+    [
+        "maximum likelihood",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "computational graph",
+        "has part",
+        "computational step"
+    ],
+    [
+        "hill climbing",
+        "subclass of",
+        "gradient descent"
+    ],
+    [
+        "gradient",
+        "different from",
+        "curvature"
+    ],
+    [
+        "robustness",
+        "subclass of",
+        "robustness"
+    ],
+    [
+        "overfitting",
+        "facet of",
+        "statistics"
+    ],
+    [
+        "rectified linear transformation",
+        "part of",
+        "neural network"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "subclass of",
+        "recurrent neural network"
+    ],
+    [
+        "3",
+        "follows",
+        "2"
+    ],
+    [
+        "underfitting",
+        "different from",
+        "overfit"
+    ],
+    [
+        "7082",
+        "point in time",
+        "7083"
+    ],
+    [
+        "sparse initialization scheme",
+        "facet of",
+        "echo state network"
+    ],
+    [
+        "Deep Blue",
+        "owned by",
+        "IBM"
+    ],
+    [
+        "ancestral",
+        "has part",
+        "ancestral sampling"
+    ],
+    [
+        "Gradient-Based Learning",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "recurrent networks",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "\u03c3",
+        "has part",
+        "\u03c3"
+    ],
+    [
+        "locally constant",
+        "instance of",
+        "prior"
+    ],
+    [
+        "GPUs",
+        "has part",
+        "GPU"
+    ],
+    [
+        "exponential",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "tree",
+        "has parts of the class",
+        "branches"
+    ],
+    [
+        "LSTM",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "Hinton et al., 2006",
+        "point in time",
+        "2006"
+    ],
+    [
+        "approximate inference",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "Deep convolutional network",
+        "based on",
+        "Convolutional Boltzmann Machines"
+    ],
+    [
+        "computer scientist",
+        "studies",
+        "software"
+    ],
+    [
+        "Euler\u2019s method",
+        "instance of",
+        "numerical"
+    ],
+    [
+        "ISTA technique",
+        "instance of",
+        "autoencoder"
+    ],
+    [
+        "Stochastic gradient ascent",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "InProceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics (AISTATS 2011).",
+        "point in time",
+        "2011"
+    ],
+    [
+        "intertwining",
+        "has part",
+        "intertwining"
+    ],
+    [
+        "graph",
+        "studied by",
+        "graph theory"
+    ],
+    [
+        "linear regression",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "32nd International Conference on MachineFactoryReloaded",
+        "point in time",
+        "2015"
+    ],
+    [
+        "datasets",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "greedy supervised pretraining",
+        "instance of",
+        "pretraining algorithm"
+    ],
+    [
+        "DeepMind",
+        "product or material produced",
+        "Deep learning"
+    ],
+    [
+        "expectation",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "non-parametric model",
+        "different from",
+        "Parametric model"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "amplifying",
+        "uses",
+        "amplifying"
+    ],
+    [
+        "DRAW model",
+        "uses",
+        "recurrent encoder and recurrent decoder"
+    ],
+    [
+        "training algorithm",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "SFA algorithm",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "curvature information",
+        "facet of",
+        "optimization algorithm"
+    ],
+    [
+        "Teacher forcing",
+        "uses",
+        "recurrent neural network"
+    ],
+    [
+        "InProceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics",
+        "publication date",
+        "2011"
+    ],
+    [
+        "minimally small",
+        "opposite of",
+        "maximally large"
+    ],
+    [
+        "negative definite",
+        "subclass of",
+        "positive definite"
+    ],
+    [
+        "2D plane",
+        "instance of",
+        "dividing line"
+    ],
+    [
+        "convolutional layer",
+        "use",
+        "convolution"
+    ],
+    [
+        "manifold",
+        "studied by",
+        "Non-parametric manifold learning"
+    ],
+    [
+        "encoding scheme",
+        "part of",
+        "information theory"
+    ],
+    [
+        "2.3 Softmax Units for Multinoulli Output Distributions",
+        "instance of",
+        "Softmax function"
+    ],
+    [
+        "usurpation",
+        "subclass of",
+        "usurpation"
+    ],
+    [
+        "\u03b1",
+        "facet of",
+        "Stochastic gradient descent"
+    ],
+    [
+        "negative semidefinite",
+        "subclass of",
+        "positive definite"
+    ],
+    [
+        "GRUs",
+        "subclass of",
+        "Memory networks"
+    ],
+    [
+        "inactive path",
+        "subclass of",
+        "path"
+    ],
+    [
+        "overfitting",
+        "different from",
+        "underfit"
+    ],
+    [
+        "Manifold learning",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "maximization in the outer loop",
+        "subclass of",
+        "optimal point"
+    ],
+    [
+        "Bernoulli",
+        "subclass of",
+        "uniform distribution"
+    ],
+    [
+        "minimization algorithm",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "transpose operator",
+        "facet of",
+        "matrices"
+    ],
+    [
+        "maxout unit",
+        "part of",
+        "convolutional network"
+    ],
+    [
+        "unsupervised learning",
+        "opposite of",
+        "supervised learning"
+    ],
+    [
+        "equivariance to translation",
+        "facet of",
+        "function"
+    ],
+    [
+        "Bengio",
+        "instance of",
+        "neural network"
+    ],
+    [
+        "norm",
+        "subclass of",
+        "probability"
+    ],
+    [
+        "train",
+        "has part",
+        "test"
+    ],
+    [
+        "Ensipio graph",
+        "has part",
+        "Ensipio"
+    ],
+    [
+        "annealed importance sampling",
+        "facet of",
+        "minimally distributed"
+    ],
+    [
+        "coverage",
+        "subclass of",
+        "precision"
+    ],
+    [
+        "fully connected layer",
+        "different from",
+        "locally connected layer"
+    ],
+    [
+        "one-hot code vector",
+        "subclass of",
+        "learning representation"
+    ],
+    [
+        "unsupervised pretraining",
+        "facet of",
+        "Deeplearning"
+    ],
+    [
+        "sparse coding",
+        "subclass of",
+        "graph"
+    ],
+    [
+        "DBN",
+        "subclass of",
+        "probabilistic model"
+    ],
+    [
+        "Google Street View",
+        "uses",
+        "speech recognition"
+    ],
+    [
+        "sparse autoencoder",
+        "subclass of",
+        "Autoencoder"
+    ],
+    [
+        "gradient clipping heuristic",
+        "instance of",
+        "gradient descent algorithm"
+    ],
+    [
+        "sparse initialization",
+        "facet of",
+        "feedforward network"
+    ],
+    [
+        "minimally small",
+        "subclass of",
+        "minimally large"
+    ],
+    [
+        "\u03c6(x)",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "enslaved",
+        "subclass of",
+        "slavery"
+    ],
+    [
+        "neurons",
+        "part of",
+        "V1 cortex"
+    ],
+    [
+        "MNIST",
+        "used by",
+        "LISA"
+    ],
+    [
+        "generative model",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "Convolution with a stride",
+        "subclass of",
+        "Convolution"
+    ],
+    [
+        "Deep SFA",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "autoencoder",
+        "instance of",
+        "supervised model"
+    ],
+    [
+        "horizontally",
+        "opposite of",
+        "vertically"
+    ],
+    [
+        "Teacher forcing",
+        "facet of",
+        "recurrent neural network"
+    ],
+    [
+        "0",
+        "length",
+        "0"
+    ],
+    [
+        "IPv8",
+        "followed by",
+        "IPv9"
+    ],
+    [
+        "McCulloch-Pitts Neuron",
+        "uses",
+        "stochastic gradient descent"
+    ],
+    [
+        "IEEE Transactions on Audio",
+        "publisher",
+        "IEEE"
+    ],
+    [
+        "stochastic",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "6",
+        "area",
+        "9"
+    ],
+    [
+        "Torch",
+        "instance of",
+        "libraries"
+    ],
+    [
+        "machine learning",
+        "uses",
+        "algorithm"
+    ],
+    [
+        "deep feedforward",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "stochastic maximum likelihood",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "QMULMultiviewFaceDataset",
+        "developer",
+        "Gonget al"
+    ],
+    [
+        "L2 parameter norm penalty",
+        "subclass of",
+        "norm penalty"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "\u03b1",
+        "has part",
+        "\u039b"
+    ],
+    [
+        "algorithm",
+        "studies",
+        "algorithm"
+    ],
+    [
+        "INTRODUCTION",
+        "subclass of",
+        "Introduction"
+    ],
+    [
+        "Undirected Models",
+        "uses",
+        "Undirected graphical model"
+    ],
+    [
+        "enhanced gradient",
+        "facet of",
+        "Boltzmann machine learning"
+    ],
+    [
+        "9.4 Convolution and Pooling as an Infinitely StrongBuyablePrior",
+        "instance of",
+        "prior probability distribution"
+    ],
+    [
+        "Bayesian network",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "log-uniform",
+        "subclass of",
+        "uniform distribution"
+    ],
+    [
+        "linear regression",
+        "facet of",
+        "linear algebra"
+    ],
+    [
+        "optimization",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "FPCD",
+        "based on",
+        "Monte Carlo sampling"
+    ],
+    [
+        "9.9.1",
+        "followed by",
+        "2.4 Modeling Sequences Conditioned on Context with RNNs"
+    ],
+    [
+        "explicit memory",
+        "subclass of",
+        "memory cell"
+    ],
+    [
+        "recall",
+        "different from",
+        "precision"
+    ],
+    [
+        "algorithmic",
+        "part of",
+        "computer science"
+    ],
+    [
+        "inflows",
+        "subclass of",
+        "underflow"
+    ],
+    [
+        "Deep feedforward network",
+        "subclass of",
+        "recurrent networks"
+    ],
+    [
+        "computer vision",
+        "part of",
+        "AI"
+    ],
+    [
+        "CPUs",
+        "used by",
+        "software"
+    ],
+    [
+        "ancestral sampling",
+        "subclass of",
+        "Graphical model"
+    ],
+    [
+        "algorithm",
+        "has part",
+        "computational cost"
+    ],
+    [
+        "DBN",
+        "subclass of",
+        "probabilistic models"
+    ],
+    [
+        "undi-rected graphical model",
+        "subclass of",
+        "probabilistic model"
+    ],
+    [
+        "algorithm",
+        "use",
+        "learning"
+    ],
+    [
+        "root mean square reconstruction",
+        "subclass of",
+        "squared error"
+    ],
+    [
+        "generative model",
+        "subclass of",
+        "models"
+    ],
+    [
+        "data",
+        "use",
+        "learning"
+    ],
+    [
+        "sigmoid",
+        "instance of",
+        "loss function"
+    ],
+    [
+        "architectures",
+        "part of",
+        "network"
+    ],
+    [
+        "L2 norm",
+        "instance of",
+        "norm"
+    ],
+    [
+        "6.2 Sigmoid Units for Bernoulli Output Distributions",
+        "instance of",
+        "Bernoulli distribution"
+    ],
+    [
+        "autoencoder",
+        "use",
+        "generative modeling"
+    ],
+    [
+        "DBNs",
+        "subclass of",
+        "probabilistic models"
+    ],
+    [
+        "normalizing",
+        "subclass of",
+        "normalization operations"
+    ],
+    [
+        "Gradient descent",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "minimax",
+        "subclass of",
+        "equilibria"
+    ],
+    [
+        "hidden layer",
+        "used by",
+        "autoencoder"
+    ],
+    [
+        "autoimmune",
+        "subclass of",
+        "rare disease"
+    ],
+    [
+        "egregious",
+        "facet of",
+        "egregiousious"
+    ],
+    [
+        "Anthropometric",
+        "studied by",
+        "Anthropometricist"
+    ],
+    [
+        "cost function",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "7 Factor Graphs",
+        "subclass of",
+        "undirected model"
+    ],
+    [
+        "overfitting",
+        "subclass of",
+        "suppressing variance"
+    ],
+    [
+        "Polyak averaging",
+        "instance of",
+        "optimization strategy"
+    ],
+    [
+        "weak prior",
+        "subclass of",
+        "prior probability distribution"
+    ],
+    [
+        "Stochastic gradient ascent",
+        "subclass of",
+        "maximize"
+    ],
+    [
+        "Part III",
+        "facet of",
+        "Deep Learning Research"
+    ],
+    [
+        "max-pooling",
+        "instance of",
+        "convolutional network"
+    ],
+    [
+        "tree",
+        "subclass of",
+        "graph"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "instance of",
+        "convolutional network"
+    ],
+    [
+        "\u03b1peperous",
+        "part of",
+        "\u03b1peperous"
+    ],
+    [
+        "Tangent propagation",
+        "instance of",
+        "datasets augmentation"
+    ],
+    [
+        "data points",
+        "facet of",
+        "statistics"
+    ],
+    [
+        "Teacher forcing",
+        "facet of",
+        "RNN"
+    ],
+    [
+        "MONTE CARLO METHODS",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "perceptron",
+        "instance of",
+        "neural network"
+    ],
+    [
+        "perfect optimization",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "2\u03c3(2z)",
+        "area",
+        "2"
+    ],
+    [
+        "computational graph",
+        "subclass of",
+        "data structures"
+    ],
+    [
+        "mathematics",
+        "has part",
+        "linear algebra"
+    ],
+    [
+        "minimally significant",
+        "subclass of",
+        "norm"
+    ],
+    [
+        "D\u00e9partement d\u2019Informatique et de Recherche Op\u00e9ra-\ufffdtionnelle",
+        "country",
+        "Japan"
+    ],
+    [
+        "The Statistician",
+        "publisher",
+        "Journal of the ACM"
+    ],
+    [
+        "principal components analysis",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "unbiased",
+        "opposite of",
+        "asymptotically unbiased"
+    ],
+    [
+        "valley",
+        "different from",
+        "canyon"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "subclass of",
+        "explicit memory"
+    ],
+    [
+        "minimization problem",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "Bayesian probability",
+        "studied by",
+        "Probability theory"
+    ],
+    [
+        "build_grad",
+        "instance of",
+        "data structure"
+    ],
+    [
+        "FPCD",
+        "subclass of",
+        "Monte Carlo sampling"
+    ],
+    [
+        "Amazon",
+        "industry",
+        "online shopping"
+    ],
+    [
+        "eigenvector",
+        "has part",
+        "eigenvalue"
+    ],
+    [
+        "indices",
+        "subclass of",
+        "sign"
+    ],
+    [
+        "unsupervised",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "conclusively",
+        "has part",
+        "conclusively"
+    ],
+    [
+        "tangent plane",
+        "has part",
+        "tangent line"
+    ],
+    [
+        "Deep Boltzmann machine",
+        "subclass of",
+        "generative model"
+    ],
+    [
+        "recurrent neural network",
+        "subclass of",
+        "neuralnetworks"
+    ],
+    [
+        "autoencoder",
+        "use",
+        "machine learning"
+    ],
+    [
+        "Convolutional Layer",
+        "has part",
+        "Convolution stage"
+    ],
+    [
+        "retina",
+        "connects with",
+        "retinal"
+    ],
+    [
+        "sparse coding",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "L2",
+        "follows",
+        "L1"
+    ],
+    [
+        "unbiased",
+        "subclass of",
+        "estimator"
+    ],
+    [
+        "sparse activity regularization",
+        "instance of",
+        "regularization"
+    ],
+    [
+        "natural language processing",
+        "studies",
+        "linguistic"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "Linear algebra",
+        "part of",
+        "mathematics"
+    ],
+    [
+        "P(h v)",
+        "instance of",
+        "normalizing"
+    ],
+    [
+        "iterative",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "RECirculation",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "6",
+        "number of participants",
+        "9"
+    ],
+    [
+        "7.1 The early stopping meta-algorithm for determining the best TAMADRAamount of time to train",
+        "publication date",
+        "7.1"
+    ],
+    [
+        "CPUs",
+        "different from",
+        "GPUs"
+    ],
+    [
+        "Yoshua Bengio",
+        "educated at",
+        "University of Montreal"
+    ],
+    [
+        "COVID-19 pandemic",
+        "instance of",
+        "pandemic pandemic"
+    ],
+    [
+        "learning",
+        "part of",
+        "intelligence"
+    ],
+    [
+        "undirected graph",
+        "subclass of",
+        "graph"
+    ],
+    [
+        "D\u00e9partement d\u2019Informatique et de Recherche Op\u00e9ra-\ufffdtionnelle",
+        "located in the administrative territorial entity",
+        "Heidelberg"
+    ],
+    [
+        "phylogenetic tree",
+        "subclass of",
+        "tree"
+    ],
+    [
+        "linguistic",
+        "studied by",
+        "natural language processing"
+    ],
+    [
+        "minimally-distributed",
+        "facet of",
+        "minimally-distributed"
+    ],
+    [
+        "integrate",
+        "different from",
+        "normalize"
+    ],
+    [
+        "maximum likelihood",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "convolutional network",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "complexity theory",
+        "part of",
+        "computer science"
+    ],
+    [
+        "unsupervised learning",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "exponential",
+        "instance of",
+        "sign"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "facet of",
+        "recurrent neural network"
+    ],
+    [
+        "Support vector machine",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "algorithm 8.2",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "AI system",
+        "part of",
+        "AI"
+    ],
+    [
+        "computational biology",
+        "part of",
+        "computer science"
+    ],
+    [
+        "Polyak averaging",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "2 Local Minima",
+        "instance of",
+        "gradient norm"
+    ],
+    [
+        "restricted Boltzmann machine",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "\u03c32",
+        "part of",
+        "Gaussian probability density function"
+    ],
+    [
+        "first layer",
+        "part of",
+        "convolutional network"
+    ],
+    [
+        "Google Maps",
+        "has part",
+        "Street View cars"
+    ],
+    [
+        "\u03c3 1(x)",
+        "instance of",
+        "logit"
+    ],
+    [
+        "underfitting",
+        "subclass of",
+        "optimization problem"
+    ],
+    [
+        "Amazon",
+        "product or material produced",
+        "online advertising"
+    ],
+    [
+        "simulating",
+        "subclass of",
+        "simulation"
+    ],
+    [
+        "GPUs",
+        "subclass of",
+        "hardware"
+    ],
+    [
+        "Most birds fly",
+        "part of",
+        "Probability theory"
+    ],
+    [
+        "Generative component",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "ImageNet",
+        "developer",
+        "Microsoft"
+    ],
+    [
+        "saddle point",
+        "subclass of",
+        "gradient"
+    ],
+    [
+        "2 Challenges in Neural Network Optimization",
+        "facet of",
+        "optimising"
+    ],
+    [
+        "Deep Boltzmann machine",
+        "instance of",
+        "deep, generative model"
+    ],
+    [
+        "gradient descent",
+        "subclass of",
+        "supervised learning"
+    ],
+    [
+        "CONFIGAL NETWORKS",
+        "subclass of",
+        "2-D convolution"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "autoencoders",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "Natural language processing",
+        "has part",
+        "parsing"
+    ],
+    [
+        "atrociously",
+        "opposite of",
+        "atrociously"
+    ],
+    [
+        "V1 cortex",
+        "has part",
+        "neurons"
+    ],
+    [
+        "minimizing",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "minimibus",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "eigenvalue spectrum",
+        "part of",
+        "Jacobian"
+    ],
+    [
+        "machine learning",
+        "part of",
+        "artificial intelligence"
+    ],
+    [
+        "variational autoencoder",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "equivariance to translation",
+        "subclass of",
+        "function"
+    ],
+    [
+        "algorithm",
+        "use",
+        "training"
+    ],
+    [
+        "WordNet",
+        "instance of",
+        "knowledge base"
+    ],
+    [
+        "sparse coding model",
+        "use",
+        "deep learning"
+    ],
+    [
+        "Zero-shot learning",
+        "instance of",
+        "transfer learning"
+    ],
+    [
+        "convolution",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "subclass of",
+        "massively parallel network"
+    ],
+    [
+        "GPUs",
+        "instance of",
+        "architectures"
+    ],
+    [
+        "2\u03c3(2z)",
+        "number of participants",
+        "2"
+    ],
+    [
+        "utilised",
+        "subclass of",
+        "decomposition"
+    ],
+    [
+        "neural autoregressive density estimator",
+        "instance of",
+        "neural network"
+    ],
+    [
+        "unsupervised learning",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "learning"
+    ],
+    [
+        "Deepbelief network",
+        "instance of",
+        "neural network"
+    ],
+    [
+        "locally connected layers",
+        "subclass of",
+        "convolution"
+    ],
+    [
+        "Miocene",
+        "part of",
+        "Ice Age"
+    ],
+    [
+        "Neural language model",
+        "instance of",
+        "language model"
+    ],
+    [
+        "back-propagation algorithm",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "CIFAR-10",
+        "publication date",
+        "2009"
+    ],
+    [
+        "amplifying",
+        "subclass of",
+        "amplifying"
+    ],
+    [
+        "normalizing constant",
+        "subclass of",
+        "functional form"
+    ],
+    [
+        "Deep belief network",
+        "subclass of",
+        "generativelearning"
+    ],
+    [
+        "\u03b2",
+        "part of",
+        "cosine function"
+    ],
+    [
+        "computational cost",
+        "part of",
+        "computational graph"
+    ],
+    [
+        "retesting",
+        "subclass of",
+        "regression"
+    ],
+    [
+        "neuroscience",
+        "subclass of",
+        "neuroscience"
+    ],
+    [
+        "deep learning",
+        "use",
+        "artificial intelligence"
+    ],
+    [
+        "Freebase",
+        "instance of",
+        "knowledge base"
+    ],
+    [
+        "minimally supervised learning",
+        "subclass of",
+        "supervised"
+    ],
+    [
+        "Neural Machine Translation",
+        "use",
+        "machine translation"
+    ],
+    [
+        "deep probabilistic model",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "parametric model",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "0.2",
+        "followed by",
+        "0.3"
+    ],
+    [
+        "autoencoder",
+        "uses",
+        "variational inference"
+    ],
+    [
+        "parametric",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "stochas",
+        "instance of",
+        "gradient-based optimization"
+    ],
+    [
+        "tree",
+        "subclass of",
+        "graph structure"
+    ],
+    [
+        "Convolutional network",
+        "has part",
+        "first layer"
+    ],
+    [
+        "GPUs",
+        "opposite of",
+        "CPUs"
+    ],
+    [
+        "optimization",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "\u03b1",
+        "followed by",
+        "\u03b2"
+    ],
+    [
+        "cRBM",
+        "based on",
+        "Gaussian-Bernoulli RBM"
+    ],
+    [
+        "training algorithm",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "numerical"
+    ],
+    [
+        "Galatea",
+        "instance of",
+        "mythical figures"
+    ],
+    [
+        "Gradient descent rule",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "neoclassical",
+        "subclass of",
+        "topological"
+    ],
+    [
+        "Convex optimization",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "convolution",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "summarily",
+        "different from",
+        "summarily"
+    ],
+    [
+        "early stopping",
+        "instance of",
+        "training algorithm"
+    ],
+    [
+        "sparse coding",
+        "instance of",
+        "learning mechanism"
+    ],
+    [
+        "data generating distribution",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "single layer model",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "INFERENCE",
+        "subclass of",
+        "exact inference"
+    ],
+    [
+        "asymmetric",
+        "subclass of",
+        "probability"
+    ],
+    [
+        "asymmetric",
+        "facet of",
+        "distribution"
+    ],
+    [
+        "computational graph",
+        "subclass of",
+        "computation graph"
+    ],
+    [
+        "suppressively",
+        "different from",
+        "suppressively"
+    ],
+    [
+        "algorithm 8.5 The RMSProp algorithm",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "GoogLeNet",
+        "instance of",
+        "supervised neural net"
+    ],
+    [
+        "CONFIGURAL NETWORKS",
+        "subclass of",
+        "convolutional layer"
+    ],
+    [
+        "autoencoder",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "9.1 The Convolution Operation",
+        "main subject",
+        "convolution"
+    ],
+    [
+        "sexual reproduction",
+        "studied by",
+        "biology"
+    ],
+    [
+        "software",
+        "studied by",
+        "computer scientist"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "instance of",
+        "graph"
+    ],
+    [
+        "n-gram language model",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "maxima",
+        "opposite of",
+        "minimally"
+    ],
+    [
+        "Pattern Analysis and Machine Intelligence",
+        "publisher",
+        "MIT"
+    ],
+    [
+        "gradient descent",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "normalizing",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "Input noise injection",
+        "subclass of",
+        "unsupervised learning"
+    ],
+    [
+        "algorithmic",
+        "has part",
+        "machine learning"
+    ],
+    [
+        "BEcker and Hinton",
+        "field of work",
+        "deep learning"
+    ],
+    [
+        "iterative",
+        "subclass of",
+        "optimization algorithm"
+    ],
+    [
+        "dialectical",
+        "part of",
+        "linguistics"
+    ],
+    [
+        "2-D",
+        "subclass of",
+        "embeddings"
+    ],
+    [
+        "\u03c0",
+        "part of",
+        "\u1e0f"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "uses",
+        "explicit memory"
+    ],
+    [
+        "7.2",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "deep feedforward",
+        "subclass of",
+        "deep learning"
+    ],
+    [
+        "Spearmint",
+        "instance of",
+        "hyperparameter optimization"
+    ],
+    [
+        "Zero-data learning",
+        "subclass of",
+        "Transfer learning"
+    ],
+    [
+        "minimally-distributed",
+        "subclass of",
+        "minimally-distributed"
+    ],
+    [
+        "GMM-HMM",
+        "instance of",
+        "hidden Markov model"
+    ],
+    [
+        "Non-parametric manifold learning",
+        "subclass of",
+        "manifold learning"
+    ],
+    [
+        "indices",
+        "uses",
+        "sign"
+    ],
+    [
+        "Gradient",
+        "part of",
+        "learning"
+    ],
+    [
+        "2 Local Minima",
+        "instance of",
+        "norm"
+    ],
+    [
+        "AIS estimator",
+        "discoverer or inventor",
+        "Jarzynski"
+    ],
+    [
+        "supine",
+        "opposite of",
+        "supine"
+    ],
+    [
+        "deep learning",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "neurons",
+        "part of",
+        "V1"
+    ],
+    [
+        "algorithm 8.5.1",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "retesting",
+        "has effect",
+        "retesting"
+    ],
+    [
+        "annealed importance sampling",
+        "subclass of",
+        "estimator"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "different from",
+        "RECurrent neural network"
+    ],
+    [
+        "minimally stable variant",
+        "subclass of",
+        "minimally stable variant"
+    ],
+    [
+        "n-gram model",
+        "subclass of",
+        "neural language model"
+    ],
+    [
+        "inflows",
+        "subclass of",
+        "eddy currents"
+    ],
+    [
+        "normally distributed noise",
+        "subclass of",
+        "noise contrastive estimation"
+    ],
+    [
+        "computational graph",
+        "has part",
+        "computational cost"
+    ],
+    [
+        "algorithm 8.9 The conjugate gradient method",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Convolutional network",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "L2 norm",
+        "subclass of",
+        "distributive property"
+    ],
+    [
+        "men",
+        "opposite of",
+        "women"
+    ],
+    [
+        "parametric",
+        "part of",
+        "graph theory"
+    ],
+    [
+        "CPUs",
+        "different from",
+        "CPUs"
+    ],
+    [
+        "autoencoder",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "information theory",
+        "studies",
+        "probability distribution"
+    ],
+    [
+        "self-loop",
+        "part of",
+        "recurrent network"
+    ],
+    [
+        "DEEP FEEDFORWARD NETWORKS",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "computer scientist",
+        "has part",
+        "software engineering"
+    ],
+    [
+        "cross-entropy loss",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "2 Bridge Sampling",
+        "number of participants",
+        "8.7"
+    ],
+    [
+        "International Conference on Learning Representations",
+        "organizer",
+        "ICLR"
+    ],
+    [
+        "2 Continuous Variables and Probability Density Functions",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "\u201csquashing\u201d activation function",
+        "subclass of",
+        "minimally efficient"
+    ],
+    [
+        "thetangent prop algorithm",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "minimization",
+        "facet of",
+        "minimization"
+    ],
+    [
+        "2 Other Gated RNNs",
+        "part of",
+        "LSTM"
+    ],
+    [
+        "MAP inference",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "SETTLEMENTS",
+        "has part",
+        "SETTLEMENTS"
+    ],
+    [
+        "Spearmint",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "optimization algorithm"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "learning"
+    ],
+    [
+        "k-nearest neighbors",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "TensorFlow",
+        "instance of",
+        "software framework"
+    ],
+    [
+        "con-",
+        "subclass of",
+        "transform"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "training"
+    ],
+    [
+        "minimally modified",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "greedy layer-wise pre-Buyabletraining",
+        "use",
+        "deep learning"
+    ],
+    [
+        "GENERATIVE MODELS",
+        "has part",
+        "GENERATIVE STochastic Networks"
+    ],
+    [
+        "BFGS algorithm",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "con-",
+        "subclass of",
+        "differentiable"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "software"
+    ],
+    [
+        "\u03b2",
+        "followed by",
+        "\u03c3"
+    ],
+    [
+        "unsupervised",
+        "subclass of",
+        "machine learning algorithm"
+    ],
+    [
+        "GPUs",
+        "opposite of",
+        "CPU"
+    ],
+    [
+        "algorithm",
+        "use",
+        "artificial intelligence"
+    ],
+    [
+        "Batch Normalization",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "subclass of",
+        "Recursive network"
+    ],
+    [
+        "Bagging",
+        "subclass of",
+        "machine translation"
+    ],
+    [
+        "GeneOntology",
+        "instance of",
+        "knowledge base"
+    ],
+    [
+        "Uniform distribution",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "Generative stochastic network",
+        "subclass of",
+        "autoencoders"
+    ],
+    [
+        "Generative component",
+        "subclass of",
+        "deep learning"
+    ],
+    [
+        "parametrization",
+        "part of",
+        "graphical model"
+    ],
+    [
+        "\u03b12",
+        "follows",
+        "\u03b11"
+    ],
+    [
+        "subgraph",
+        "subclass of",
+        "computational graph"
+    ],
+    [
+        "max-pooling",
+        "facet of",
+        "convolutional network"
+    ],
+    [
+        "variational",
+        "subclass of",
+        "generative model"
+    ],
+    [
+        "inferotemporal cortex",
+        "part of",
+        "human brain"
+    ],
+    [
+        "Deep learning",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "eigenvectors",
+        "part of",
+        "Hessian matrix"
+    ],
+    [
+        "neurons",
+        "part of",
+        "recurrent network"
+    ],
+    [
+        "perceptron",
+        "subclass of",
+        "linear models"
+    ],
+    [
+        "unnormalized probability",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "subclass of",
+        "2-D convolution"
+    ],
+    [
+        "Mean squared error",
+        "subclass of",
+        "loss"
+    ],
+    [
+        "multi-channel",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "k-nearest TAMADRAneighbors algorithm",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "AISTATS 2003",
+        "point in time",
+        "2003"
+    ],
+    [
+        "independence",
+        "different from",
+        "dependence"
+    ],
+    [
+        "GPUs",
+        "has part",
+        "GPUs"
+    ],
+    [
+        "long short-term memory",
+        "subclass of",
+        "gated"
+    ],
+    [
+        "neurons",
+        "studied by",
+        "neuroscience"
+    ],
+    [
+        "norm",
+        "part of",
+        "probability distribution"
+    ],
+    [
+        "8.1 Stochastic Gradient Descent",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "loss function",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "mathematical"
+    ],
+    [
+        "algorithm",
+        "uses",
+        "data structure"
+    ],
+    [
+        "underfitting",
+        "different from",
+        "overfitting"
+    ],
+    [
+        "gradient descent",
+        "subclass of",
+        "supervised learning algorithm"
+    ],
+    [
+        "autoencoders",
+        "uses",
+        "Gradient"
+    ],
+    [
+        "COVID-19 pandemic",
+        "has effect",
+        "COVID-19 pandemic 2020"
+    ],
+    [
+        "Recurrent neural network",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "autoencoder",
+        "use",
+        "deep learning"
+    ],
+    [
+        "rectified linear unit",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "indices",
+        "part of",
+        "3-D"
+    ],
+    [
+        "Batch normalization",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "P",
+        "instance of",
+        "probability distribution"
+    ],
+    [
+        "P(h v)",
+        "facet of",
+        "normalizing"
+    ],
+    [
+        "back-propagation",
+        "subclass of",
+        "propagate"
+    ],
+    [
+        "GPU",
+        "part of",
+        "GPUs"
+    ],
+    [
+        "2.4 Modeling Sequences Conditioned on Context with RNNs",
+        "follows",
+        "6.1"
+    ],
+    [
+        "Miocene",
+        "instance of",
+        "time period"
+    ],
+    [
+        "gradient-based optimization",
+        "instance of",
+        "optimization"
+    ],
+    [
+        "2-D convolution",
+        "uses",
+        "kernels"
+    ],
+    [
+        "Torsten Wiesel",
+        "field of work",
+        "neuroscience"
+    ],
+    [
+        "first layer",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "Gradient-Based Learning",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "dialectic",
+        "studied by",
+        "linguistics"
+    ],
+    [
+        "back-off",
+        "instance of",
+        "Statistical efficiency"
+    ],
+    [
+        "Exact inference",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "LSTM cell",
+        "part of",
+        "LSTM"
+    ],
+    [
+        "overfit",
+        "different from",
+        "underfitting"
+    ],
+    [
+        "neural network",
+        "has part",
+        "artificial neural net"
+    ],
+    [
+        "Part II",
+        "studies",
+        "Deep Networks"
+    ],
+    [
+        "allele",
+        "subclass of",
+        "allele"
+    ],
+    [
+        "sparse coding",
+        "use",
+        "deep learning"
+    ],
+    [
+        "endorsed by",
+        "instance of",
+        "endorsed by"
+    ],
+    [
+        "Restricted Boltzmann Machine",
+        "instance of",
+        "deep learning"
+    ],
+    [
+        "Euler\u2019s method",
+        "subclass of",
+        "numerical"
+    ],
+    [
+        "encoder",
+        "subclass of",
+        "RNN"
+    ],
+    [
+        "optimistically",
+        "subclass of",
+        "optimize"
+    ],
+    [
+        "Feedforward",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "2.3 Identity and Inverse Matrices",
+        "use",
+        "matrix inversion"
+    ],
+    [
+        "train",
+        "opposite of",
+        "test"
+    ],
+    [
+        "\u03b2",
+        "has part",
+        "\u03c3"
+    ],
+    [
+        "decision tree",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "saddle point",
+        "part of",
+        "neurons"
+    ],
+    [
+        "back-propagation",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "parametric",
+        "part of",
+        "statistics"
+    ],
+    [
+        "transpose",
+        "instance of",
+        "operation"
+    ],
+    [
+        "DBM",
+        "subclass of",
+        "hyperparameter"
+    ],
+    [
+        "storylines",
+        "subclass of",
+        "learning"
+    ],
+    [
+        "encoder function",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "FIRST resampled dataset",
+        "followed by",
+        "Second resampled dataset"
+    ],
+    [
+        "minimally distributed",
+        "subclass of",
+        "minimally distributed distribution"
+    ],
+    [
+        "unsupervised learning",
+        "different from",
+        "supervised learning"
+    ],
+    [
+        "\u03b2",
+        "part of",
+        "Wh"
+    ],
+    [
+        "variational autoencoder",
+        "subclass of",
+        "autoencoders"
+    ],
+    [
+        "representation learning",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "eigenvalue spectrum",
+        "subclass of",
+        "Jacobian"
+    ],
+    [
+        "cybernetics",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "\u03b1",
+        "has part",
+        "Wh"
+    ],
+    [
+        "generative",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "maxout network",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "convolution",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "has parts of the class",
+        "convolutional network"
+    ],
+    [
+        "Bagging predictors",
+        "subclass of",
+        "machine translation"
+    ],
+    [
+        "dependence",
+        "different from",
+        "independence"
+    ],
+    [
+        "asymmetric",
+        "subclass of",
+        "distribution"
+    ],
+    [
+        "horrendously",
+        "has part",
+        "horrendously"
+    ],
+    [
+        "Restricted Boltzmann Machines",
+        "subclass of",
+        "undirected probabilistic"
+    ],
+    [
+        "deep learning",
+        "has part",
+        "inference"
+    ],
+    [
+        "Neural Networks",
+        "part of",
+        "Deep Learning"
+    ],
+    [
+        "MIT Press",
+        "headquarters location",
+        "Cambridge, MA"
+    ],
+    [
+        "\u03b1 coefficient",
+        "instance of",
+        "hyperparameter"
+    ],
+    [
+        "factorial distribution",
+        "subclass of",
+        "gradient-based approximate minimization"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "minimization"
+    ],
+    [
+        "TOPS100",
+        "part of",
+        "TOPS"
+    ],
+    [
+        "minimizing",
+        "subclass of",
+        "minimization"
+    ],
+    [
+        "ReLU",
+        "instance of",
+        "neural network"
+    ],
+    [
+        "parametric",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "Torch",
+        "instance of",
+        "software library"
+    ],
+    [
+        "arithmetic mean",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "INTRODUCTION",
+        "subclass of",
+        "Illustration"
+    ],
+    [
+        "networks",
+        "has part",
+        "neurons"
+    ],
+    [
+        "sum-product network",
+        "subclass of",
+        "deep circuit"
+    ],
+    [
+        "AIS procedure",
+        "subclass of",
+        "sampled"
+    ],
+    [
+        "algorithmic",
+        "studies",
+        "algorithm"
+    ],
+    [
+        "minimally",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "2D plane",
+        "has part",
+        "dividing line"
+    ],
+    [
+        "nonlinear projection",
+        "opposite of",
+        "linear projection"
+    ],
+    [
+        "1",
+        "opposite of",
+        "0"
+    ],
+    [
+        "Deep Networks",
+        "subclass of",
+        "Machine Learning"
+    ],
+    [
+        "Recurrent neural networks",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "clusters",
+        "subclass of",
+        "word categories"
+    ],
+    [
+        "Macron",
+        "country of citizenship",
+        "France"
+    ],
+    [
+        "sparse coding",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "deep learning",
+        "studies",
+        "neural network"
+    ],
+    [
+        "encoder-decoder architecture",
+        "has part",
+        "autoencoder"
+    ],
+    [
+        "Stochastic gradient descent",
+        "use",
+        "deep learning"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "artificial intelligence"
+    ],
+    [
+        "GENERATIVE MODELS",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "ImageNet",
+        "instance of",
+        "convolutional network"
+    ],
+    [
+        "sparse coding",
+        "subclass of",
+        "Convolutional Boltzmann Machines"
+    ],
+    [
+        "back-propagation algorithm",
+        "subclass of",
+        "stochastic gradient descent"
+    ],
+    [
+        "Levenberg\u2013Marquardt algorithm",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "TOPS",
+        "part of",
+        "TOPS100"
+    ],
+    [
+        "encoding",
+        "use",
+        "information retrieval"
+    ],
+    [
+        "variational autoencoder",
+        "subclass of",
+        "generative model"
+    ],
+    [
+        "AIS estimator",
+        "discoverer or inventor",
+        "Neal (2001)"
+    ],
+    [
+        "Convolutional network",
+        "subclass of",
+        "deep networks"
+    ],
+    [
+        "minimally distributed",
+        "subclass of",
+        "minimally distributed networks"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "subclass of",
+        "artificial neural network"
+    ],
+    [
+        "\u03b2",
+        "part of",
+        "\u03b1"
+    ],
+    [
+        "Convex optimization",
+        "facet of",
+        "deep learning"
+    ],
+    [
+        "Generative stochastic network",
+        "subclass of",
+        "denoising autoencoders"
+    ],
+    [
+        "0",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "convolutions",
+        "part of",
+        "neural network"
+    ],
+    [
+        "dataset",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "back-propagation",
+        "part of",
+        "recurrent network"
+    ],
+    [
+        "MONTE CARLO METHODS",
+        "instance of",
+        "phylogenetic"
+    ],
+    [
+        "convolution",
+        "different from",
+        "matrix multiplication"
+    ],
+    [
+        "convolutional network layer",
+        "part of",
+        "Convolutional network"
+    ],
+    [
+        "Metropolis-Hastings",
+        "instance of",
+        "Monte Carlo method"
+    ],
+    [
+        "recurrent neural network",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "Neural language model",
+        "studies",
+        "neural language"
+    ],
+    [
+        "congeniality",
+        "facet of",
+        "congeniality"
+    ],
+    [
+        "mPoT",
+        "based on",
+        "Boltzmann machine"
+    ],
+    [
+        "variational autoencoder",
+        "subclass of",
+        "Gradient-based learning"
+    ],
+    [
+        "Levenberg\u2013Marquardt algorithm",
+        "subclass of",
+        "iteratively"
+    ],
+    [
+        "International Conference on Computer Vision",
+        "organizer",
+        "IEEE"
+    ],
+    [
+        "contrastive divergence",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "GENERATING THE PARTITION FUNCTION",
+        "has part",
+        "GENERATING THE PARTITION"
+    ],
+    [
+        "intertwine",
+        "subclass of",
+        "intertwine"
+    ],
+    [
+        "ReLU",
+        "subclass of",
+        "Recurrent network"
+    ],
+    [
+        "Traditional convolution",
+        "opposite of",
+        "tiled convolution"
+    ],
+    [
+        "sympathetic",
+        "subclass of",
+        "sympathetic"
+    ],
+    [
+        "long short-term memory",
+        "subclass of",
+        "Gated RNN"
+    ],
+    [
+        "gater",
+        "instance of",
+        "neural network"
+    ],
+    [
+        "2",
+        "length",
+        "2"
+    ],
+    [
+        "algorithmic",
+        "studies",
+        "machine learning"
+    ],
+    [
+        "NADE architecture",
+        "instance of",
+        "Gaussian mixture"
+    ],
+    [
+        "Gaussian",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "DBM",
+        "instance of",
+        "deep Boltzmann machine training"
+    ],
+    [
+        "L2 norm",
+        "subclass of",
+        "norm"
+    ],
+    [
+        "Pattern Analysis and Machine Intelligence",
+        "part of",
+        "MIT"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "part of",
+        "Neural Turing machine"
+    ],
+    [
+        "autoencoders",
+        "use",
+        "deep learning"
+    ],
+    [
+        "BPTT",
+        "facet of",
+        "recurrent neural network"
+    ],
+    [
+        "autoencoder",
+        "uses",
+        "sparse coding"
+    ],
+    [
+        "Gaussian distribution",
+        "instance of",
+        "probability distribution"
+    ],
+    [
+        "cosine function",
+        "instance of",
+        "Gaussian factor"
+    ],
+    [
+        "bosom",
+        "subclass of",
+        "eigenvector"
+    ],
+    [
+        "Gaussian case",
+        "subclass of",
+        "linear classifiers"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "2.3 Identity and Inverse Matrices",
+        "instance of",
+        "matrix inversion"
+    ],
+    [
+        "Recursive network",
+        "subclass of",
+        "tree structure"
+    ],
+    [
+        "parametrization",
+        "studied by",
+        "computational"
+    ],
+    [
+        "6.5 Symbol-to-Symbol Derivatives",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "curse of dimensionality",
+        "subclass of",
+        "statistical challenge"
+    ],
+    [
+        "fully-visible Bayes network",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "max-pooling",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "algorithm",
+        "studied by",
+        "algorithm"
+    ],
+    [
+        "back-propagation",
+        "facet of",
+        "recurrent network"
+    ],
+    [
+        "Deep networks for speech recognition",
+        "inception",
+        "2009"
+    ],
+    [
+        "parametrized",
+        "subclass of",
+        "conditional distribution"
+    ],
+    [
+        "supervised network",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "Neural language model",
+        "subclass of",
+        "learning"
+    ],
+    [
+        "stochastic gradient descent",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "3rd layer",
+        "follows",
+        "2nd layer"
+    ],
+    [
+        "self-loop",
+        "subclass of",
+        "recurrent network"
+    ],
+    [
+        "Advances in Neural Information Processing Systems 16 (NIPS\u201903)",
+        "publisher",
+        "MIT Press"
+    ],
+    [
+        "software engineering",
+        "part of",
+        "computer scientist"
+    ],
+    [
+        "parametrize",
+        "subclass of",
+        "approximation"
+    ],
+    [
+        "minimax",
+        "opposite of",
+        "equilibrium"
+    ],
+    [
+        "underfitting",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "optimistically",
+        "different from",
+        "optimistically"
+    ],
+    [
+        "algorithmic",
+        "part of",
+        "artificial intelligence"
+    ],
+    [
+        "2 Other Gated RNNs",
+        "subclass of",
+        "LSTM"
+    ],
+    [
+        "encoder-decoder",
+        "subclass of",
+        "recurrent network"
+    ],
+    [
+        "data point",
+        "facet of",
+        "statistics"
+    ],
+    [
+        "Markov chain Monte Carlo methods",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "RECurrent neural network",
+        "subclass of",
+        "computational graph"
+    ],
+    [
+        "IPv6",
+        "followed by",
+        "IPv7"
+    ],
+    [
+        "recognizing speech",
+        "subclass of",
+        "AI"
+    ],
+    [
+        "2nd layer",
+        "followed by",
+        "3rd layer"
+    ],
+    [
+        "autoencoder",
+        "part of",
+        "Convolutional networks"
+    ],
+    [
+        "logistic regression",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "fully connected layer",
+        "subclass of",
+        "convolutional layer"
+    ],
+    [
+        "autoencoder",
+        "has part",
+        "decoder"
+    ],
+    [
+        "autoencoder",
+        "use",
+        "classify"
+    ],
+    [
+        "singular value decomposition",
+        "uses",
+        "eigenvectors"
+    ],
+    [
+        "Second resampled dataset",
+        "follows",
+        "FIRST resampled dataset"
+    ],
+    [
+        "long short-term memory",
+        "subclass of",
+        "gated RNN"
+    ],
+    [
+        "Parzen window algorithm",
+        "use",
+        "deep learning"
+    ],
+    [
+        "hill climbing",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "Part III",
+        "main subject",
+        "Deep Learning Research"
+    ],
+    [
+        "Google Street View",
+        "use",
+        "speech recognition"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "subclass of",
+        "computational graph"
+    ],
+    [
+        "8.7 Optimization Strategies and Meta-Algorithms",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Gradient-based optimization",
+        "facet of",
+        "neural network"
+    ],
+    [
+        "initial point",
+        "facet of",
+        "optimization"
+    ],
+    [
+        "encoder",
+        "part of",
+        "neural network"
+    ],
+    [
+        "stochastic gradient descent",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "maxout",
+        "subclass of",
+        "linear network"
+    ],
+    [
+        "minimally",
+        "opposite of",
+        "maximum"
+    ],
+    [
+        "minimizes",
+        "different from",
+        "optimization"
+    ],
+    [
+        "eigenvectors of H",
+        "subclass of",
+        "orthonormal basis"
+    ],
+    [
+        "DBM",
+        "uses",
+        "hyperparameter"
+    ],
+    [
+        "parametric",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "sparse initialization",
+        "facet of",
+        "feedforward networks"
+    ],
+    [
+        "'[h v",
+        "has part",
+        "'[logp(h,v)"
+    ],
+    [
+        "GENERATIVE MODELS",
+        "uses",
+        "Markov chain"
+    ],
+    [
+        "Leth+",
+        "instance of",
+        "regions"
+    ],
+    [
+        "neuron",
+        "part of",
+        "neural network"
+    ],
+    [
+        "computational",
+        "subclass of",
+        "computation"
+    ],
+    [
+        "greedy supervised pretraining",
+        "subclass of",
+        "architectures"
+    ],
+    [
+        "adequately",
+        "subclass of",
+        "adequately"
+    ],
+    [
+        "minimizes",
+        "facet of",
+        "estimation error"
+    ],
+    [
+        "single layer models",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "Jacobian matrix",
+        "instance of",
+        "linear operator"
+    ],
+    [
+        "sparse initialization scheme",
+        "part of",
+        "echo state network"
+    ],
+    [
+        "computational burden",
+        "subclass of",
+        "complexity"
+    ],
+    [
+        "learning algorithm",
+        "use",
+        "machine learning"
+    ],
+    [
+        "\u03c32",
+        "facet of",
+        "Gaussian probability density function"
+    ],
+    [
+        "norm",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "REINFORCE TAMADRAalgorithm",
+        "subclass of",
+        "deterministic operation"
+    ],
+    [
+        "Deep Blue",
+        "instance of",
+        "AI"
+    ],
+    [
+        "normalized score matching",
+        "subclass of",
+        "supervised learning"
+    ],
+    [
+        "summation",
+        "subclass of",
+        "integral"
+    ],
+    [
+        "\u03b1",
+        "has part",
+        "\u03bb"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "subclass of",
+        "bidirectional recurrent neural network"
+    ],
+    [
+        "GRU",
+        "use",
+        "Deep learning"
+    ],
+    [
+        "educators",
+        "field of this occupation",
+        "education"
+    ],
+    [
+        "parametrized",
+        "part of",
+        "probability distribution"
+    ],
+    [
+        "Stochastic gradient descent",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "Bayesian Linear Regression",
+        "facet of",
+        "linear regression"
+    ],
+    [
+        "education",
+        "practiced by",
+        "educators"
+    ],
+    [
+        "INFERENCE",
+        "use",
+        "inference"
+    ],
+    [
+        "QMULMultiviewFaceDataset",
+        "inception",
+        "2000"
+    ],
+    [
+        "hierarchy",
+        "has part",
+        "bipartite"
+    ],
+    [
+        "CPUs",
+        "part of",
+        "CPUs"
+    ],
+    [
+        "REM sleep",
+        "subclass of",
+        "dream"
+    ],
+    [
+        "FitNets",
+        "facet of",
+        "transfer learning"
+    ],
+    [
+        "algorithm",
+        "has part",
+        "supervised training"
+    ],
+    [
+        "contrast",
+        "subclass of",
+        "quantifying"
+    ],
+    [
+        "German",
+        "indigenous to",
+        "Germany"
+    ],
+    [
+        "logistic regression",
+        "subclass of",
+        "supervised learning algorithm"
+    ],
+    [
+        "two-dimensional",
+        "part of",
+        "three-dimensional"
+    ],
+    [
+        "paramountously",
+        "facet of",
+        "paramountously"
+    ],
+    [
+        "paramount components analysis",
+        "subclass of",
+        "factor analysis"
+    ],
+    [
+        "machine learning algorithm",
+        "part of",
+        "AI"
+    ],
+    [
+        "parametric",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "GPUs",
+        "subclass of",
+        "GPUs"
+    ],
+    [
+        "t-SNE",
+        "use",
+        "natural language processing"
+    ],
+    [
+        "supervised learning",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "intertwining",
+        "subclass of",
+        "intertwining"
+    ],
+    [
+        "fully-visible Bayes network",
+        "subclass of",
+        "neural networks"
+    ],
+    [
+        "MNIST",
+        "use",
+        "deep probabilistic models"
+    ],
+    [
+        "Stochastic gradient descent",
+        "instance of",
+        "clustering algorithm"
+    ],
+    [
+        "BREATHING",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "training"
+    ],
+    [
+        "decision tree",
+        "subclass of",
+        "kernels"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "loss"
+    ],
+    [
+        "Bidirectional recurrent neural network",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "minimizes generalization error",
+        "subclass of",
+        "estimator"
+    ],
+    [
+        "DRAW model",
+        "instance of",
+        "generative model"
+    ],
+    [
+        "curvature",
+        "subclass of",
+        "second derivative"
+    ],
+    [
+        "Expectation maximization",
+        "discoverer or inventor",
+        "Neal and Hinton"
+    ],
+    [
+        "2nd-order optimization",
+        "subclass of",
+        "numerical optimization"
+    ],
+    [
+        "BFGS",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Inference as Optimization",
+        "instance of",
+        "optimization problem"
+    ],
+    [
+        "back-off",
+        "facet of",
+        "Statistical efficiency"
+    ],
+    [
+        "2 Conjugate Gradients",
+        "subclass of",
+        "iteratively descending conjugate directions"
+    ],
+    [
+        "ReLU",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "algorithm",
+        "use",
+        "inference"
+    ],
+    [
+        "DBM",
+        "instance of",
+        "bipartite graph"
+    ],
+    [
+        "locally connected layer",
+        "different from",
+        "fully connected layer"
+    ],
+    [
+        "encoder-decoder architecture",
+        "facet of",
+        "machine translation"
+    ],
+    [
+        "cybernetics",
+        "subclass of",
+        "deep learning"
+    ],
+    [
+        "ImageNet",
+        "subclass of",
+        "deep convolutional network"
+    ],
+    [
+        "curvature information",
+        "used by",
+        "gradientdescent"
+    ],
+    [
+        "p",
+        "has part",
+        "h"
+    ],
+    [
+        "autoencoders",
+        "subclass of",
+        "classifiers"
+    ],
+    [
+        "REINFORCE",
+        "instance of",
+        "Gradient estimator"
+    ],
+    [
+        "classifier",
+        "studies",
+        "probability distribution"
+    ],
+    [
+        "Convolution",
+        "has part",
+        "Convolution with a stride"
+    ],
+    [
+        "convolutions",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "eye",
+        "part of",
+        "face"
+    ],
+    [
+        "amplifying",
+        "subclass of",
+        "amplifying amplifiers"
+    ],
+    [
+        "2nd derivative",
+        "followed by",
+        "3rd derivative"
+    ],
+    [
+        "deep belief networks",
+        "subclass of",
+        "deep neural networks"
+    ],
+    [
+        "Las Vegas algorithm",
+        "subclass of",
+        "Randomized algorithm"
+    ],
+    [
+        "deep learning",
+        "subclass of",
+        "learning algorithms"
+    ],
+    [
+        "OpenCyc",
+        "instance of",
+        "knowledge base"
+    ],
+    [
+        "DEEP FEEDFORWARD NETWORKS",
+        "instance of",
+        "feedforward neural networks"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "computer program"
+    ],
+    [
+        "Bias",
+        "subclass of",
+        "variance"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "computer science"
+    ],
+    [
+        "back-propagation",
+        "subclass of",
+        "stochastic gradient descent"
+    ],
+    [
+        "neoclassical",
+        "subclass of",
+        "functional"
+    ],
+    [
+        "'[logp(h,v)",
+        "part of",
+        "'[h v"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "encoder-decoder architecture"
+    ],
+    [
+        "Deepbelief network",
+        "subclass of",
+        "artificial neural networks"
+    ],
+    [
+        "Theano",
+        "instance of",
+        "software library"
+    ],
+    [
+        "supervised learning",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "REINFORCE",
+        "instance of",
+        "estimator of the gradient"
+    ],
+    [
+        "\u03b1",
+        "facet of",
+        "momentum"
+    ],
+    [
+        "mean absolute error",
+        "instance of",
+        "cost function"
+    ],
+    [
+        "eigenvectors",
+        "subclass of",
+        "matrices"
+    ],
+    [
+        "log-likelihood",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "data processing",
+        "subclass of",
+        "computation"
+    ],
+    [
+        "k-nearest PsyNetneighbors algorithm",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "enhanced gradient",
+        "part of",
+        "Boltzmann machine learning"
+    ],
+    [
+        "Convolutional network",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "0",
+        "point in time",
+        "0"
+    ],
+    [
+        "6",
+        "length",
+        "9"
+    ],
+    [
+        "normal distribution",
+        "instance of",
+        "cumulative distribution"
+    ],
+    [
+        "underfit",
+        "different from",
+        "overfit"
+    ],
+    [
+        "normalize",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "autoencoder",
+        "has part",
+        "encoder"
+    ],
+    [
+        "SLOW feature analysis",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Machine learning",
+        "subclass of",
+        "statistics"
+    ],
+    [
+        "cross-entropy",
+        "instance of",
+        "loss function"
+    ],
+    [
+        "minimally invasive",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "David Hubel",
+        "field of work",
+        "neuroscience"
+    ],
+    [
+        "Deep convolutional network",
+        "subclass of",
+        "Convolutional Boltzmann Machines"
+    ],
+    [
+        "LISA",
+        "has part",
+        "MNIST"
+    ],
+    [
+        "7.2 A meta-algorithm for using early stopping",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "DEEP FEEDFORWARD NETWORKS",
+        "instance of",
+        "computation graph"
+    ],
+    [
+        "sparse initialization",
+        "subclass of",
+        "feedforward networks"
+    ],
+    [
+        "tiled convolutional",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "greedy search",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "\u03c3",
+        "facet of",
+        "statistics"
+    ],
+    [
+        "asymptotically consistent",
+        "subclass of",
+        "model"
+    ],
+    [
+        "computational graph language",
+        "subclass of",
+        "graph"
+    ],
+    [
+        "GRUs",
+        "subclass of",
+        "Memory network"
+    ],
+    [
+        "A directed graphical model depicting the relay race",
+        "instance of",
+        "structured probabilistic model"
+    ],
+    [
+        "gradient clipping",
+        "instance of",
+        "gradient descent algorithm"
+    ],
+    [
+        "L1 norm",
+        "instance of",
+        "norm"
+    ],
+    [
+        "GMM-HMM",
+        "subclass of",
+        "hidden Markov model"
+    ],
+    [
+        "INTRODUCTION",
+        "has part",
+        "Introduction"
+    ],
+    [
+        "back-propagation",
+        "subclass of",
+        "recurrent network"
+    ],
+    [
+        "Yoshua Bengio",
+        "employer",
+        "University of Montreal"
+    ],
+    [
+        "Gradient",
+        "facet of",
+        "learning"
+    ],
+    [
+        "eigenvector",
+        "subclass of",
+        "complex-valued"
+    ],
+    [
+        "data generating distribution",
+        "subclass of",
+        "distribution"
+    ],
+    [
+        "minimizes",
+        "subclass of",
+        "estimation error"
+    ],
+    [
+        "Autoencoders",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Batch gradient descent",
+        "subclass of",
+        "optimization algorithm"
+    ],
+    [
+        "m m matrix",
+        "subclass of",
+        "matrices"
+    ],
+    [
+        "Student-t prior",
+        "subclass of",
+        "prior"
+    ],
+    [
+        "deep LSTM",
+        "subclass of",
+        "convolutional networks"
+    ],
+    [
+        "Generative moment matching network",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "dialectic",
+        "part of",
+        "linguistics"
+    ],
+    [
+        "minimally distributed",
+        "subclass of",
+        "minimally sampled"
+    ],
+    [
+        "\u03b1",
+        "instance of",
+        "sign"
+    ],
+    [
+        "SETTMENTS",
+        "part of",
+        "SETTLEMENTS"
+    ],
+    [
+        "Gaussian case",
+        "subclass of",
+        "linear classifier"
+    ],
+    [
+        "Non-parametric manifold learning",
+        "uses",
+        "locally linear Gaussian"
+    ],
+    [
+        "saddle point",
+        "part of",
+        "multiple dimension"
+    ],
+    [
+        "2.3 Identity and Inverse Matrices",
+        "uses",
+        "matrix inversion"
+    ],
+    [
+        "Theano",
+        "instance of",
+        "algorithmically"
+    ],
+    [
+        "strong prior",
+        "subclass of",
+        "prior probability distribution"
+    ],
+    [
+        "P(i C)",
+        "has part",
+        "P(y C)"
+    ],
+    [
+        "rodent",
+        "studied by",
+        "neuroscience"
+    ],
+    [
+        "precision",
+        "opposite of",
+        "recall"
+    ],
+    [
+        "\u03b1",
+        "instance of",
+        "norm"
+    ],
+    [
+        "Google Street View",
+        "instance of",
+        "speech recognition"
+    ],
+    [
+        "t-SNE dimensionality",
+        "instance of",
+        "neural network"
+    ],
+    [
+        "decoder",
+        "opposite of",
+        "autoencoder"
+    ],
+    [
+        "maxout networks",
+        "subclass of",
+        "convolutional networks"
+    ],
+    [
+        "data structure",
+        "studied by",
+        "algorithm"
+    ],
+    [
+        "mathematics",
+        "has part",
+        "Linear algebra"
+    ],
+    [
+        "Machine\u80fdLearning",
+        "part of",
+        "Applied Math"
+    ],
+    [
+        "natural language",
+        "studied by",
+        "linguistic"
+    ],
+    [
+        "Sejnowski",
+        "field of work",
+        "deep learning"
+    ],
+    [
+        "Hidden layer",
+        "subclass of",
+        "layer"
+    ],
+    [
+        "NADE",
+        "instance of",
+        "Gaussian mixture"
+    ],
+    [
+        "subjugated",
+        "subclass of",
+        "subjugated"
+    ],
+    [
+        "one-hot code",
+        "subclass of",
+        "learning representation"
+    ],
+    [
+        "unsupervised",
+        "different from",
+        "supervised"
+    ],
+    [
+        "minimally estimate the gradient",
+        "subclass of",
+        "minimally estimated"
+    ],
+    [
+        "sparse autoencoder",
+        "subclass of",
+        "autoencoder"
+    ],
+    [
+        "supervised tasks",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "3771",
+        "followed by",
+        "3772"
+    ],
+    [
+        "Advances in Neural Information Processing Systems",
+        "publication date",
+        "2015"
+    ],
+    [
+        "hyperparameter",
+        "facet of",
+        "learning algorithm"
+    ],
+    [
+        "2\u03c3(2z)",
+        "length",
+        "2"
+    ],
+    [
+        "2 Independent Component Analysis",
+        "subclass of",
+        "Fully parametric generative model"
+    ],
+    [
+        "X",
+        "part of",
+        "\u03b1"
+    ],
+    [
+        "neural network",
+        "has part",
+        "neurons"
+    ],
+    [
+        "parametric method",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "iterative optimization"
+    ],
+    [
+        "algorithm",
+        "studies",
+        "Gradient"
+    ],
+    [
+        "RECurrent Neural Networks",
+        "subclass of",
+        "recurrent neural networks"
+    ],
+    [
+        "greedy",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "eigenvalue",
+        "part of",
+        "eigenvectors"
+    ],
+    [
+        "maximum likelihood",
+        "facet of",
+        "statistics"
+    ],
+    [
+        "Metropolis-Hastings algorithm",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "normalizing constant",
+        "facet of",
+        "Gaussian"
+    ],
+    [
+        "algorithm",
+        "has part",
+        "optimization"
+    ],
+    [
+        "Regularized autoencoders",
+        "subclass of",
+        "generative model"
+    ],
+    [
+        "neurons",
+        "subclass of",
+        "cells"
+    ],
+    [
+        "0-1 loss",
+        "instance of",
+        "loss function"
+    ],
+    [
+        "Autoencoder",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "Lipschitz continuous",
+        "subclass of",
+        "function"
+    ],
+    [
+        "back-off",
+        "subclass of",
+        "Statistical efficiency"
+    ],
+    [
+        "7 Boltzmann Machines for Structured or SequentialBuyableOutputs",
+        "subclass of",
+        "RBM"
+    ],
+    [
+        "neural network",
+        "use",
+        "machine learning"
+    ],
+    [
+        "2-D plane",
+        "instance of",
+        "span"
+    ],
+    [
+        "parametrized",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "autoencoder",
+        "use",
+        "variational inference"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "subclass of",
+        "recurrent network"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "gradient"
+    ],
+    [
+        "indices",
+        "has part",
+        "sign"
+    ],
+    [
+        "GPUs",
+        "part of",
+        "GPUs"
+    ],
+    [
+        "minimizes",
+        "facet of",
+        "probability distribution function"
+    ],
+    [
+        "convolutional neural network",
+        "instance of",
+        "supervised paradigm"
+    ],
+    [
+        "GPUs",
+        "uses",
+        "CUDA"
+    ],
+    [
+        "amplifying noise",
+        "subclass of",
+        "amplifying noise"
+    ],
+    [
+        "underfitting",
+        "subclass of",
+        "estimator"
+    ],
+    [
+        "Convolutional Networks",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "Bayesian Linear Regression",
+        "subclass of",
+        "linear regression"
+    ],
+    [
+        "parametrize",
+        "subclass of",
+        "computational graph"
+    ],
+    [
+        "IEEE Transactions on Circuits and Systems",
+        "publisher",
+        "ACM"
+    ],
+    [
+        "algorithm 20",
+        "uses",
+        "stochastic maximum likelihood"
+    ],
+    [
+        "adequately",
+        "facet of",
+        "adequately"
+    ],
+    [
+        "log-uniform",
+        "instance of",
+        "probability distribution"
+    ],
+    [
+        "INFERNO",
+        "subclass of",
+        "inference problem"
+    ],
+    [
+        "bipartite",
+        "facet of",
+        "hierarchy"
+    ],
+    [
+        "paramountously",
+        "opposite of",
+        "paramountously"
+    ],
+    [
+        "ReLU",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "encoder function",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "FitNets",
+        "subclass of",
+        "transfer learning"
+    ],
+    [
+        "'[h v",
+        "instance of",
+        "'[logp(h,v)"
+    ],
+    [
+        "gradient-based learning",
+        "subclass of",
+        "supervised learning"
+    ],
+    [
+        "canyon",
+        "different from",
+        "valley"
+    ],
+    [
+        "commutative",
+        "opposite of",
+        "scalar"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "facet of",
+        "neural Turing machine"
+    ],
+    [
+        "Hebbian learning rule",
+        "instance of",
+        "undirected probabilistic"
+    ],
+    [
+        "minimally invasive",
+        "subclass of",
+        "minimally invasive"
+    ],
+    [
+        "supervised tasks",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "Las Vegas algorithm",
+        "different from",
+        "Monte Carlo algorithm"
+    ],
+    [
+        "9",
+        "followed by",
+        "10"
+    ],
+    [
+        "Anthropometric",
+        "studied by",
+        "Anthropometric"
+    ],
+    [
+        "semi-supervised learning",
+        "different from",
+        "supervised learning"
+    ],
+    [
+        "2.4 Stochastic Encoders and Decoders",
+        "facet of",
+        "autoencoder"
+    ],
+    [
+        "Bias",
+        "subclass of",
+        "sources of error"
+    ],
+    [
+        "2.4 Modeling Sequences Conditioned on Context with RNNs",
+        "follows",
+        "9.9.1"
+    ],
+    [
+        "encoder function",
+        "use",
+        "encoding"
+    ],
+    [
+        "neuron",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "\u03b13",
+        "follows",
+        "\u03b12"
+    ],
+    [
+        "train",
+        "different from",
+        "test"
+    ],
+    [
+        "AI deep learning",
+        "subclass of",
+        "artificial intelligence"
+    ],
+    [
+        "deep LSTM",
+        "subclass of",
+        "deep learning"
+    ],
+    [
+        "Generative neural network",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "use",
+        "GPUs"
+    ],
+    [
+        "back-propagation through time",
+        "subclass of",
+        "recurrent network"
+    ],
+    [
+        "test set",
+        "subclass of",
+        "data"
+    ],
+    [
+        "Amazon",
+        "industry",
+        "online advertising"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "maximum likelihood estimation"
+    ],
+    [
+        "temperature",
+        "different from",
+        "temperatures"
+    ],
+    [
+        "subjugated",
+        "facet of",
+        "subjugation"
+    ],
+    [
+        "minimising",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "model",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "instance of",
+        "recurrent neural network"
+    ],
+    [
+        "minimally",
+        "different from",
+        "minimally"
+    ],
+    [
+        "algorithm 20",
+        "facet of",
+        "stochastic maximum likelihood"
+    ],
+    [
+        "normal distribution",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "Encoder-Decoder Sequence-to-Sequence",
+        "has part",
+        "decoder RNN"
+    ],
+    [
+        "PR2",
+        "manufacturer",
+        "Willow Garage"
+    ],
+    [
+        "robustness",
+        "facet of",
+        "robustness"
+    ],
+    [
+        "autoencoder",
+        "has part",
+        "hidden layer"
+    ],
+    [
+        "encoding",
+        "subclass of",
+        "information retrieval"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "encodings"
+    ],
+    [
+        "Geoffrey Hinton",
+        "field of work",
+        "machine learning"
+    ],
+    [
+        "hill climbing",
+        "subclass of",
+        "noisy"
+    ],
+    [
+        "supervised",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "XOR function",
+        "instance of",
+        "Gradient-based"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "computational"
+    ],
+    [
+        "conversely",
+        "opposite of",
+        "conversely"
+    ],
+    [
+        "stochastic gradient-based optimization",
+        "facet of",
+        "stochastic operations"
+    ],
+    [
+        "streamlining",
+        "subclass of",
+        "streamlining"
+    ],
+    [
+        "\u03b1",
+        "instance of",
+        "log\u03b1"
+    ],
+    [
+        "apathetic",
+        "opposite of",
+        "apathetic"
+    ],
+    [
+        "APPROXIMATE INFERENCE",
+        "uses",
+        "approximate inference"
+    ],
+    [
+        "pathetically",
+        "studied by",
+        "measure theory"
+    ],
+    [
+        "AI disciplines",
+        "studies",
+        "AI system"
+    ],
+    [
+        "underfitting",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "Ensipio",
+        "part of",
+        "Ensipio diagram"
+    ],
+    [
+        "subgraph",
+        "part of",
+        "computational graph"
+    ],
+    [
+        "DEEP FEEDFORWARD NETWORKS",
+        "subclass of",
+        "fully connected"
+    ],
+    [
+        "a",
+        "part of",
+        "a"
+    ],
+    [
+        "graph",
+        "has part",
+        "subgraph"
+    ],
+    [
+        "computational graph language",
+        "instance of",
+        "graph language"
+    ],
+    [
+        "McGill University",
+        "country",
+        "Canada"
+    ],
+    [
+        "LAPGAN",
+        "instance of",
+        "distributions"
+    ],
+    [
+        "data",
+        "part of",
+        "algorithm"
+    ],
+    [
+        "unsupervised",
+        "subclass of",
+        "supervised learning"
+    ],
+    [
+        "temperatures",
+        "different from",
+        "temperature"
+    ],
+    [
+        "RECurrent neural network",
+        "different from",
+        "RECURRENT AND RECURSIVE NETS"
+    ],
+    [
+        "stochastic gradient algorithm",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "8.6.3 Adam",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "cost function",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "learning",
+        "studied by",
+        "algorithm"
+    ],
+    [
+        "m n matrix",
+        "subclass of",
+        "matrices"
+    ],
+    [
+        "autoencoders",
+        "subclass of",
+        "representation learning"
+    ],
+    [
+        "curvature",
+        "different from",
+        "gradient"
+    ],
+    [
+        "algorithm",
+        "has part",
+        "machine learning"
+    ],
+    [
+        "\u03c32",
+        "facet of",
+        "probability density function"
+    ],
+    [
+        "normalize",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "sparse representation",
+        "subclass of",
+        "sparse representation"
+    ],
+    [
+        "proba-=-=-=-=-=-=-=-=-=-=-=-=-",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "Explicit Memory",
+        "subclass of",
+        "Neural network"
+    ],
+    [
+        "2nd International Conference on MachineFactoryReloaded",
+        "point in time",
+        "2015"
+    ],
+    [
+        "computational step",
+        "part of",
+        "computational graph"
+    ],
+    [
+        "Bernoulli",
+        "instance of",
+        "uniform distribution"
+    ],
+    [
+        "minimally distributed representation",
+        "subclass of",
+        "sparsely connected generalizations"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "stochastic"
+    ],
+    [
+        "Deep learning",
+        "subclass of",
+        "generative model"
+    ],
+    [
+        "valley",
+        "subclass of",
+        "canyon"
+    ],
+    [
+        "International Conference on Artificial Intelligence and Statistics",
+        "publisher",
+        "Springer"
+    ],
+    [
+        "Markov chain Monte Carlo",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "unnormalized",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "instance of",
+        "RNN"
+    ],
+    [
+        "Pylearn2",
+        "instance of",
+        "software library"
+    ],
+    [
+        "saddle point",
+        "part of",
+        "multiple dimensions"
+    ],
+    [
+        "Teacher forcing",
+        "subclass of",
+        "recurrent neural network"
+    ],
+    [
+        "mean squared error",
+        "facet of",
+        "algorithm"
+    ],
+    [
+        "writer",
+        "subclass of",
+        "RNN"
+    ],
+    [
+        "back-propagation",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "greedy supervised pretraining",
+        "subclass of",
+        "trained"
+    ],
+    [
+        "6.1",
+        "followed by",
+        "2.4 Modeling Sequences Conditioned on Context with RNNs"
+    ],
+    [
+        "neoclassical",
+        "has part",
+        "topological"
+    ],
+    [
+        "Metropolis-Hastings algorithm",
+        "use",
+        "deep learning"
+    ],
+    [
+        "minimization",
+        "facet of",
+        "supervised learning"
+    ],
+    [
+        "Probability theory",
+        "studies",
+        "uncertainty"
+    ],
+    [
+        "ketamine",
+        "has part",
+        "ketamine"
+    ],
+    [
+        "neural network",
+        "part of",
+        "machine learning"
+    ],
+    [
+        "2nd derivative",
+        "subclass of",
+        "derivative"
+    ],
+    [
+        "minimizes",
+        "subclass of",
+        "probability distribution function"
+    ],
+    [
+        "neuron",
+        "part of",
+        "neuron"
+    ],
+    [
+        "RECursive neural network",
+        "subclass of",
+        "computational graph"
+    ],
+    [
+        "2-D",
+        "subclass of",
+        "visualization"
+    ],
+    [
+        "Non-parametric manifold learning",
+        "studies",
+        "manifold"
+    ],
+    [
+        "sparse coding model",
+        "subclass of",
+        "hidden layer"
+    ],
+    [
+        "stochastic gradient descent",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "convolutions",
+        "facet of",
+        "neural network"
+    ],
+    [
+        "Ensemble of subnetworks",
+        "subclass of",
+        "Ensemble"
+    ],
+    [
+        "Neural network",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "saddle point",
+        "subclass of",
+        "loss function"
+    ],
+    [
+        "local kernels",
+        "subclass of",
+        "decision trees"
+    ],
+    [
+        "enhanced gradient",
+        "subclass of",
+        "Boltzmann machine learning"
+    ],
+    [
+        "Harris chain",
+        "instance of",
+        "Markov chain"
+    ],
+    [
+        "first layer",
+        "part of",
+        "Convolutional network"
+    ],
+    [
+        "matrix multiplication",
+        "different from",
+        "convolution"
+    ],
+    [
+        "denoising autoencoder",
+        "subclass of",
+        "autoencoder"
+    ],
+    [
+        "GENERATING THE PARTITION FUNCTION",
+        "uses",
+        "GENERATING THE PARTITION"
+    ],
+    [
+        "overfit",
+        "different from",
+        "underfit"
+    ],
+    [
+        "minimally Euclidean norm",
+        "subclass of",
+        "norm"
+    ],
+    [
+        "autoencoder",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Awakens",
+        "part of",
+        "Awakens"
+    ],
+    [
+        "convolutional network",
+        "has part",
+        "first layer"
+    ],
+    [
+        "optimistically",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "supervised tasks",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "CPUs",
+        "has part",
+        "GPU"
+    ],
+    [
+        "abnormal",
+        "different from",
+        "normalization"
+    ],
+    [
+        "Undirected Models",
+        "uses",
+        "undirected model"
+    ],
+    [
+        "\u03b1peperous",
+        "has part",
+        "\u03b1peperous"
+    ],
+    [
+        "hyperparameter",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "underfitting",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "Atkins Medal",
+        "conferred by",
+        "Royal Society of New South Wales"
+    ],
+    [
+        "data used for the entire training process",
+        "subclass of",
+        "data"
+    ],
+    [
+        "MLP",
+        "subclass of",
+        "recurrent neural network"
+    ],
+    [
+        "8.7 Optimization Strategies and Meta-Algorithms",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "paramount",
+        "facet of",
+        "paramount"
+    ],
+    [
+        "saddle point",
+        "facet of",
+        "multiple dimensions"
+    ],
+    [
+        "sparse coding",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "g(c)",
+        "subclass of",
+        "scalar"
+    ],
+    [
+        "6.3",
+        "followed by",
+        "6.5"
+    ],
+    [
+        "nonlinear generative model",
+        "instance of",
+        "linear factor model"
+    ],
+    [
+        "Gaussian distribution",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "Deep SFA",
+        "subclass of",
+        "unsupervised feature learning"
+    ],
+    [
+        "autoencoder",
+        "opposite of",
+        "decoder"
+    ],
+    [
+        "Theano",
+        "instance of",
+        "libraries"
+    ],
+    [
+        "perceptron",
+        "subclass of",
+        "linear model"
+    ],
+    [
+        "neurons",
+        "part of",
+        "nervous system"
+    ],
+    [
+        "FPCD",
+        "uses",
+        "Monte Carlo sampling"
+    ],
+    [
+        "contrastive divergence",
+        "instance of",
+        "back-propagation"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "encoder"
+    ],
+    [
+        "Ensemble of subnetworks",
+        "subclass of",
+        "ensemble"
+    ],
+    [
+        "DeepBoltzmann machine",
+        "instance of",
+        "artificial neural network"
+    ],
+    [
+        "male",
+        "opposite of",
+        "female"
+    ],
+    [
+        "back-propagation",
+        "facet of",
+        "convolutional network"
+    ],
+    [
+        "zero-shot learning",
+        "subclass of",
+        "transfer learning"
+    ],
+    [
+        "Distributed asynchronous gradient descent",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "strided convolution",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "recall",
+        "opposite of",
+        "precision"
+    ],
+    [
+        "bipartite",
+        "subclass of",
+        "hierarchy"
+    ],
+    [
+        "Germany",
+        "language used",
+        "German"
+    ],
+    [
+        "minimally-supervised net",
+        "uses",
+        "minimally-controlled"
+    ],
+    [
+        "8.5.2 RMSProp",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Teacher forcing",
+        "instance of",
+        "training technique"
+    ],
+    [
+        "clique",
+        "part of",
+        "undirected graph"
+    ],
+    [
+        "antipathy",
+        "opposite of",
+        "antipathy"
+    ],
+    [
+        "algorithmic",
+        "facet of",
+        "artificial intelligence"
+    ],
+    [
+        "Gradient",
+        "part of",
+        "neural network"
+    ],
+    [
+        "subgraph",
+        "part of",
+        "graph"
+    ],
+    [
+        "natural language",
+        "studied by",
+        "Natural language processing"
+    ],
+    [
+        "autoencoders",
+        "subclass of",
+        "representations"
+    ],
+    [
+        "CPUs",
+        "has part",
+        "memory"
+    ],
+    [
+        "convolutional network",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "Gradient descent",
+        "instance of",
+        "learning algorithms"
+    ],
+    [
+        "supervised paradigm",
+        "subclass of",
+        "models"
+    ],
+    [
+        "supervised training",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "Gradient",
+        "studied by",
+        "algorithm"
+    ],
+    [
+        "CONFIGURATION",
+        "part of",
+        "MATLAB"
+    ],
+    [
+        "eigenvalue",
+        "subclass of",
+        "eigenvectors"
+    ],
+    [
+        "ReLU",
+        "uses",
+        "suppressively"
+    ],
+    [
+        "GPUs",
+        "used by",
+        "CUDA"
+    ],
+    [
+        "deep models",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "\u03c32/m",
+        "subclass of",
+        "variance"
+    ],
+    [
+        "algorithm",
+        "studies",
+        "learning"
+    ],
+    [
+        "parametric",
+        "studied by",
+        "statistics"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "has part",
+        "encoder"
+    ],
+    [
+        "Applied Math",
+        "has part",
+        "Machine\u80fdLearning"
+    ],
+    [
+        "subjugated",
+        "subclass of",
+        "subjugation"
+    ],
+    [
+        "linear algebra",
+        "part of",
+        "mathematics"
+    ],
+    [
+        "commutative",
+        "different from",
+        "scalar"
+    ],
+    [
+        "algorithm",
+        "used by",
+        "algorithmists"
+    ],
+    [
+        "sparse coding",
+        "facet of",
+        "convolutional network"
+    ],
+    [
+        "autoencoders",
+        "uses",
+        "Bayesian"
+    ],
+    [
+        "Stochastic gradient descent",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "rectified linear transformation",
+        "subclass of",
+        "linear transformation"
+    ],
+    [
+        "probability distribution",
+        "studied by",
+        "information theory"
+    ],
+    [
+        "minimization",
+        "facet of",
+        "regression"
+    ],
+    [
+        "locally constant",
+        "subclass of",
+        "prior"
+    ],
+    [
+        "unrecognised",
+        "different from",
+        "unrecognised"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "computational graph",
+        "subclass of",
+        "graph"
+    ],
+    [
+        "optimistically",
+        "subclass of",
+        "optimistically"
+    ],
+    [
+        "Generator network",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "approximate inference",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "MAP inference",
+        "instance of",
+        "exact optimization algorithm"
+    ],
+    [
+        "stochastic gradient-based optimization",
+        "subclass of",
+        "stochastic operations"
+    ],
+    [
+        "recognizing",
+        "facet of",
+        "AI"
+    ],
+    [
+        "parametric",
+        "part of",
+        "graph"
+    ],
+    [
+        "parametrized",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "linear projection",
+        "different from",
+        "nonlinear projection"
+    ],
+    [
+        "dataset",
+        "studied by",
+        "machine learning"
+    ],
+    [
+        "Uniform distribution",
+        "opposite of",
+        "concentrated probability distribution"
+    ],
+    [
+        "L1 regularized objective function",
+        "different from",
+        "L2 weight decay"
+    ],
+    [
+        "L2 penalty",
+        "facet of",
+        "gradient descent"
+    ],
+    [
+        "eigenvalue",
+        "part of",
+        "eigenvector"
+    ],
+    [
+        "DEEP FEEDFORWARD",
+        "subclass of",
+        "convolutional networks"
+    ],
+    [
+        "minimally",
+        "opposite of",
+        "maximally"
+    ],
+    [
+        "neural network",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "\u03b12",
+        "followed by",
+        "\u03b13"
+    ],
+    [
+        "converge",
+        "facet of",
+        "optimization"
+    ],
+    [
+        "minimizes",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "autoencoder networks",
+        "subclass of",
+        "deep feedforward networks"
+    ],
+    [
+        "polyak averaging",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "subclass of",
+        "recurrent network"
+    ],
+    [
+        "cross-entropy",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "brain",
+        "has part",
+        "neurons"
+    ],
+    [
+        "Gibbs",
+        "instance of",
+        "Monte Carlo method"
+    ],
+    [
+        "generative model",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "negative semidefinite",
+        "opposite of",
+        "positive definite"
+    ],
+    [
+        "7 Boltzmann Machines for Structured or SequentialBuyableOutputs",
+        "instance of",
+        "Boltzmann machine"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "subclass of",
+        "deep learning"
+    ],
+    [
+        "\u03b11",
+        "followed by",
+        "\u03b12"
+    ],
+    [
+        "GPUs",
+        "subclass of",
+        "ASICs"
+    ],
+    [
+        "autoencoder",
+        "use",
+        "manifold learning"
+    ],
+    [
+        "neuroscience",
+        "studies",
+        "neuron"
+    ],
+    [
+        "graphs",
+        "studied by",
+        "graph theory"
+    ],
+    [
+        "optimistically",
+        "subclass of",
+        "optimization algorithm"
+    ],
+    [
+        "BPTT",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "DBN",
+        "subclass of",
+        "sparsely connected"
+    ],
+    [
+        "APPROXIMATE INFERENCE",
+        "subclass of",
+        "approximate inference"
+    ],
+    [
+        "minimally sampled",
+        "subclass of",
+        "minimally sampled"
+    ],
+    [
+        "minimally estimated",
+        "subclass of",
+        "minimally estimated"
+    ],
+    [
+        "L2 weight decay",
+        "different from",
+        "L1 regularized objective function"
+    ],
+    [
+        "DEEP FEEDFORWARD NETWORKS",
+        "subclass of",
+        "fully connected layers"
+    ],
+    [
+        "unrecognised",
+        "different from",
+        "unrecognized"
+    ],
+    [
+        "norm",
+        "different from",
+        "normalized"
+    ],
+    [
+        "maxout network",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "Inference as Optimization",
+        "subclass of",
+        "optimization problem"
+    ],
+    [
+        "paramountously",
+        "has part",
+        "paramountously"
+    ],
+    [
+        "GRU recurrent net",
+        "subclass of",
+        "Memory network"
+    ],
+    [
+        "loss function",
+        "subclass of",
+        "Gradient"
+    ],
+    [
+        "encoder",
+        "use",
+        "machine translation"
+    ],
+    [
+        "deterministic",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "convolutional network",
+        "use",
+        "deep learning"
+    ],
+    [
+        "k-nearest neighbors algorithm",
+        "instance of",
+        "non-parametric learning algorithm"
+    ],
+    [
+        "back-propagation algorithm",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Theano",
+        "use",
+        "deep learning"
+    ],
+    [
+        "ISTA technique",
+        "subclass of",
+        "autoencoder"
+    ],
+    [
+        "autoencoder",
+        "facet of",
+        "stochastic"
+    ],
+    [
+        "linear network",
+        "opposite of",
+        "deep neural network"
+    ],
+    [
+        "2.3 The Partition Function",
+        "instance of",
+        "normalizing constant"
+    ],
+    [
+        "cRBM",
+        "subclass of",
+        "Gaussian-Bernoulli RBM energy function"
+    ],
+    [
+        "greedy supervised pretraining",
+        "subclass of",
+        "pretraining algorithm"
+    ],
+    [
+        "transformed space",
+        "subclass of",
+        "feature space"
+    ],
+    [
+        "curvaceous",
+        "part of",
+        "2-D space"
+    ],
+    [
+        "minimizes generalization error",
+        "subclass of",
+        "minimizes"
+    ],
+    [
+        "stochastic",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "streamlining",
+        "facet of",
+        "streamlining"
+    ],
+    [
+        "DBM",
+        "subclass of",
+        "Boltzmann machine training"
+    ],
+    [
+        "minimizes",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "cross-entropy",
+        "subclass of",
+        "loss functions"
+    ],
+    [
+        "sum-product network",
+        "subclass of",
+        "deep circuits"
+    ],
+    [
+        "supervised",
+        "different from",
+        "minimally supervised"
+    ],
+    [
+        "sentiment analysis",
+        "studies",
+        "sentiment"
+    ],
+    [
+        "suppressively",
+        "opposite of",
+        "suppressively"
+    ],
+    [
+        "neuroscience",
+        "studies",
+        "rodent"
+    ],
+    [
+        "unsupervised learning",
+        "subclass of",
+        "learning"
+    ],
+    [
+        "2D plane",
+        "subclass of",
+        "dividing line"
+    ],
+    [
+        "GSNs",
+        "subclass of",
+        "denoising autoencoders"
+    ],
+    [
+        "Deep feedforward network",
+        "subclass of",
+        "recurrent network"
+    ],
+    [
+        "data generating distribution",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "Convex optimization",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "algorithm 8.9",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "horrendously expensive",
+        "different from",
+        "horrendously expensive"
+    ],
+    [
+        "\u03b2",
+        "has part",
+        "\u03c6"
+    ],
+    [
+        "covariance",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "bipartite graph",
+        "subclass of",
+        "hierarchy"
+    ],
+    [
+        "underfit",
+        "different from",
+        "overfitting"
+    ],
+    [
+        "generative modeling",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "maxout network",
+        "facet of",
+        "deep learning"
+    ],
+    [
+        "multi-channel convolution",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "LISA",
+        "uses",
+        "MNIST"
+    ],
+    [
+        "educators",
+        "different from",
+        "schools"
+    ],
+    [
+        "cross-entropy",
+        "subclass of",
+        "loss function"
+    ],
+    [
+        "intertwining",
+        "part of",
+        "intertwining"
+    ],
+    [
+        "Boltzmann machine",
+        "use",
+        "probability distribution"
+    ],
+    [
+        "sigmoid",
+        "instance of",
+        "neural network"
+    ],
+    [
+        "Encoder-Decoder Sequence-to-Sequence",
+        "has part",
+        "encoder RNN"
+    ],
+    [
+        "encoder",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "underflow",
+        "subclass of",
+        "overflow"
+    ],
+    [
+        "sigmoid",
+        "subclass of",
+        "loss function"
+    ],
+    [
+        "maximum likelihood estimation",
+        "opposite of",
+        "overfitting"
+    ],
+    [
+        "ReLU",
+        "subclass of",
+        "deep linear networks"
+    ],
+    [
+        "2",
+        "length",
+        "7"
+    ],
+    [
+        "LSTM",
+        "facet of",
+        "neural network"
+    ],
+    [
+        "gradient clipping",
+        "subclass of",
+        "gradient descent algorithm"
+    ],
+    [
+        "minimizes",
+        "subclass of",
+        "estimations"
+    ],
+    [
+        "parametric",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "supervised model"
+    ],
+    [
+        "SETTLEMENT",
+        "part of",
+        "SETTLEMENT II"
+    ],
+    [
+        "unsupervised",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "8.6",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "ImageNet",
+        "instance of",
+        "deep network"
+    ],
+    [
+        "Zero-data learning",
+        "instance of",
+        "Transfer learning"
+    ],
+    [
+        "generative model",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "REINFORCE",
+        "use",
+        "reinforcement learning"
+    ],
+    [
+        "retesting",
+        "facet of",
+        "regression"
+    ],
+    [
+        "unsupervised network",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "curvature information",
+        "facet of",
+        "gradientdescent"
+    ],
+    [
+        "parametric",
+        "part of",
+        "probability theory"
+    ],
+    [
+        "GPUs",
+        "different from",
+        "GPUs"
+    ],
+    [
+        "OMP-1",
+        "use",
+        "model averaging"
+    ],
+    [
+        "ancestral",
+        "part of",
+        "family"
+    ],
+    [
+        "\u03c3",
+        "part of",
+        "normal distribution"
+    ],
+    [
+        "two-dimensional",
+        "subclass of",
+        "multidimensional array"
+    ],
+    [
+        "parametric",
+        "instance of",
+        "Statistical efficiency"
+    ],
+    [
+        "algorithm",
+        "studies",
+        "data structure"
+    ],
+    [
+        "minimally",
+        "instance of",
+        "minimally"
+    ],
+    [
+        "converge",
+        "subclass of",
+        "optimization"
+    ],
+    [
+        "minimally linear",
+        "subclass of",
+        "approximation"
+    ],
+    [
+        "L2 norm",
+        "instance of",
+        "distributive property"
+    ],
+    [
+        "optimization",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "atrophy",
+        "subclass of",
+        "atrophy"
+    ],
+    [
+        "sparsely connected generalizations",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "Softmax",
+        "subclass of",
+        "hidden unit"
+    ],
+    [
+        "greedy supervised pretraining",
+        "subclass of",
+        "supervised single hidden layer MLP"
+    ],
+    [
+        "women",
+        "opposite of",
+        "men"
+    ],
+    [
+        "contrast",
+        "facet of",
+        "image"
+    ],
+    [
+        "Bagging predictors",
+        "use",
+        "machine translation"
+    ],
+    [
+        "\u03c32",
+        "instance of",
+        "variance"
+    ],
+    [
+        "minimally parametrized",
+        "subclass of",
+        "sparsely parametrized"
+    ],
+    [
+        "probability distribution",
+        "studied by",
+        "graph theory"
+    ],
+    [
+        "greedy supervised pretraining",
+        "subclass of",
+        "pretraining"
+    ],
+    [
+        "deep learning",
+        "subclass of",
+        "learning"
+    ],
+    [
+        "2.4 Linear Dependence and Span",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "nearest neighbor algorithm",
+        "instance of",
+        "learning fixmealgorithm"
+    ],
+    [
+        "converge criterion",
+        "facet of",
+        "variational inference"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "learning"
+    ],
+    [
+        "supervised training",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "Deep learning",
+        "has part",
+        "reinforcement learning"
+    ],
+    [
+        "denoising autoencoder",
+        "subclass of",
+        "stochastic autoencoder"
+    ],
+    [
+        "ancestral sampling",
+        "part of",
+        "ancestral"
+    ],
+    [
+        "Dirational graph",
+        "studied by",
+        "graph theory"
+    ],
+    [
+        "2 Continuous Variables and Probability Density Functions",
+        "use",
+        "probability distribution"
+    ],
+    [
+        "generative component",
+        "part of",
+        "deep learning"
+    ],
+    [
+        "norm penalty",
+        "subclass of",
+        "Regularization"
+    ],
+    [
+        "2 Independent Component Analysis (ICA)",
+        "instance of",
+        "Fully parametric generative model"
+    ],
+    [
+        "parametric",
+        "subclass of",
+        "graph"
+    ],
+    [
+        "unnormalized probability distribution",
+        "subclass of",
+        "integral"
+    ],
+    [
+        "\u03b1",
+        "has part",
+        "X"
+    ],
+    [
+        "datasets",
+        "subclass of",
+        "data set"
+    ],
+    [
+        "DBM",
+        "subclass of",
+        "stochastic maximum likelihood algorithm"
+    ],
+    [
+        "encoding schemes",
+        "part of",
+        "information theory"
+    ],
+    [
+        "Part III",
+        "main subject",
+        "Deep Learning"
+    ],
+    [
+        "recognizing",
+        "subclass of",
+        "AI"
+    ],
+    [
+        "female",
+        "opposite of",
+        "male"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "minimally efficient",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "Tangent propagation",
+        "subclass of",
+        "datasets augmentation"
+    ],
+    [
+        "normalizing constant",
+        "part of",
+        "probability distribution"
+    ],
+    [
+        "maxout network",
+        "subclass of",
+        "convolutional networks"
+    ],
+    [
+        "computer science",
+        "has part",
+        "computational biology"
+    ],
+    [
+        "perceptron",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "Uniform distribution",
+        "instance of",
+        "probability distribution"
+    ],
+    [
+        "clusters",
+        "subclass of",
+        "word class"
+    ],
+    [
+        "FIRST derivative",
+        "followed by",
+        "second derivative"
+    ],
+    [
+        "Monte Carlo algorithm",
+        "different from",
+        "Las Vegas algorithm"
+    ],
+    [
+        "log-uniform",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "nearest neighbor algorithm",
+        "use",
+        "machine learning"
+    ],
+    [
+        "information theory",
+        "part of",
+        "probability theory"
+    ],
+    [
+        "autoencoder",
+        "use",
+        "comprehensively recovered"
+    ],
+    [
+        "neuron",
+        "part of",
+        "recurrent network"
+    ],
+    [
+        "unstructured noise",
+        "subclass of",
+        "noise distribution"
+    ],
+    [
+        "underfitting",
+        "opposite of",
+        "overfitting"
+    ],
+    [
+        "minimally",
+        "subclass of",
+        "Gradient"
+    ],
+    [
+        "Machine\u80fd",
+        "part of",
+        "Applied Math"
+    ],
+    [
+        "equation 6.53",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "build_grad",
+        "subclass of",
+        "data structure"
+    ],
+    [
+        "mPoT",
+        "subclass of",
+        "Boltzmann machine"
+    ],
+    [
+        "NADE",
+        "instance of",
+        "neural auto-regressive network"
+    ],
+    [
+        "au-\u88fdtoencoder",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Deepbelief network",
+        "instance of",
+        "artificial neural network"
+    ],
+    [
+        "unsupervised learning",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "normalized",
+        "different from",
+        "norm"
+    ],
+    [
+        "\u03b1",
+        "has part",
+        "\u03b2"
+    ],
+    [
+        "norm",
+        "subclass of",
+        "variance"
+    ],
+    [
+        "neuron",
+        "studied by",
+        "neuroscience"
+    ],
+    [
+        "unsupervised",
+        "opposite of",
+        "supervised learning"
+    ],
+    [
+        "tiled convolution",
+        "subclass of",
+        "convolutional layer"
+    ],
+    [
+        "greedy layer-wise pre-Buyabletraining",
+        "discoverer or inventor",
+        "Geoffrey Hinton"
+    ],
+    [
+        "minimizes",
+        "facet of",
+        "learning"
+    ],
+    [
+        "sparse activity regularization",
+        "subclass of",
+        "regularization"
+    ],
+    [
+        "contrastive divergence",
+        "uses",
+        "gradient"
+    ],
+    [
+        "parsing",
+        "part of",
+        "Natural language processing"
+    ],
+    [
+        "Tangent propagation",
+        "facet of",
+        "supervised learning"
+    ],
+    [
+        "unsupervised",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "DEEP GENERATIVE MODELS",
+        "instance of",
+        "variational stochastic maximum likelihood algorithm"
+    ],
+    [
+        "\u03b2",
+        "has part",
+        "Wh"
+    ],
+    [
+        "convolutional networks",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "BPTT algorithm",
+        "facet of",
+        "recurrent neural network"
+    ],
+    [
+        "minimally",
+        "subclass of",
+        "error bars"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "facet of",
+        "recurrent network"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "statistics"
+    ],
+    [
+        "locally connected layer",
+        "subclass of",
+        "convolution"
+    ],
+    [
+        "graph theory",
+        "studies",
+        "graphs"
+    ],
+    [
+        "autoencoder",
+        "uses",
+        "hidden layer"
+    ],
+    [
+        "normalizing constant",
+        "facet of",
+        "probability distribution"
+    ],
+    [
+        "dataset",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "Scalars, Vectors, Matrices and Tensors",
+        "subclass of",
+        "Linear algebra"
+    ],
+    [
+        "exponential",
+        "subclass of",
+        "sign"
+    ],
+    [
+        "neurotransmitter",
+        "different from",
+        "neurotransmitter"
+    ],
+    [
+        "Neural language model",
+        "subclass of",
+        "language model"
+    ],
+    [
+        "saddle point",
+        "subclass of",
+        "eigenvector"
+    ],
+    [
+        "LASSO",
+        "instance of",
+        "linear model"
+    ],
+    [
+        "graph",
+        "part of",
+        "subgraph"
+    ],
+    [
+        "\u1e0f",
+        "has part",
+        "\u03c0"
+    ],
+    [
+        "global minimum",
+        "subclass of",
+        "minimization"
+    ],
+    [
+        "orthogonal",
+        "subclass of",
+        "singular vector"
+    ],
+    [
+        "Theano",
+        "use",
+        "computational graph"
+    ],
+    [
+        "BREATHING",
+        "subclass of",
+        "deep learning"
+    ],
+    [
+        "parametric",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "hidden layer",
+        "part of",
+        "autoencoder"
+    ],
+    [
+        "deep learning",
+        "part of",
+        "artificial intelligence"
+    ],
+    [
+        "The Statistician",
+        "part of",
+        "Journal of the ACM"
+    ],
+    [
+        "egregiously",
+        "facet of",
+        "egregiously"
+    ],
+    [
+        "normally distributed noise",
+        "facet of",
+        "supervised learning"
+    ],
+    [
+        "The Restricted Boltzmann Machine",
+        "use",
+        "deep learning"
+    ],
+    [
+        "underflow",
+        "subclass of",
+        "rounding error"
+    ],
+    [
+        "thetangent prop",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "unrecognized",
+        "different from",
+        "unrecognised"
+    ],
+    [
+        "nearest neighbor algorithm",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "International Conference on Learning Representations",
+        "main subject",
+        "Machine Learning"
+    ],
+    [
+        "parametrize",
+        "part of",
+        "computational graph"
+    ],
+    [
+        "deep Boltzmann machine",
+        "subclass of",
+        "convolutional neural network"
+    ],
+    [
+        "Deep learning",
+        "use",
+        "reinforcement learning"
+    ],
+    [
+        "A directed graphical model depicting the relay race example",
+        "instance of",
+        "structured probabilistic model"
+    ],
+    [
+        "Pattern Analysis and Machine Intelligence",
+        "publisher",
+        "MIT Press"
+    ],
+    [
+        "Leth+",
+        "subclass of",
+        "input space"
+    ],
+    [
+        "Parametric model",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "Deep Boltzmann machine",
+        "subclass of",
+        "deep, generative model"
+    ],
+    [
+        "back-propagation",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "tiled convolution",
+        "opposite of",
+        "Traditional convolution"
+    ],
+    [
+        "LAPGAN",
+        "uses",
+        "Laplacian pyramid"
+    ],
+    [
+        "algorithm",
+        "part of",
+        "libraries"
+    ],
+    [
+        "algorithm",
+        "facet of",
+        "statistics"
+    ],
+    [
+        "Parzen window algorithm",
+        "instance of",
+        "neural-net"
+    ],
+    [
+        "recurrent neural network",
+        "different from",
+        "RECurrent neural network"
+    ],
+    [
+        "maxout network",
+        "subclass of",
+        "deep learning"
+    ],
+    [
+        "rectified linear transformation",
+        "facet of",
+        "neural network"
+    ],
+    [
+        "TOPS",
+        "has part",
+        "TOPS100"
+    ],
+    [
+        "converge",
+        "subclass of",
+        "optimization algorithm"
+    ],
+    [
+        "Zero-shot learning",
+        "subclass of",
+        "transfer learning"
+    ],
+    [
+        "non-diagonal",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "Batch normalization",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Neural network",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "autoencoder",
+        "part of",
+        "probabilistic model"
+    ],
+    [
+        "\u03b1",
+        "instance of",
+        "squared error"
+    ],
+    [
+        "clique",
+        "part of",
+        "graph"
+    ],
+    [
+        "Natural language processing",
+        "studies",
+        "natural language"
+    ],
+    [
+        "iteration",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "Noise injection",
+        "facet of",
+        "unsupervised learning"
+    ],
+    [
+        "RECirculation",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "amplifying",
+        "has part",
+        "amplifying amplifiers"
+    ],
+    [
+        "minimization",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "Autoencoder network",
+        "subclass of",
+        "convolutional network"
+    ],
+    [
+        "GPUs",
+        "use",
+        "deep learning"
+    ],
+    [
+        "2",
+        "part of",
+        "7"
+    ],
+    [
+        "Principality Analysis",
+        "subclass of",
+        "unsupervised learning"
+    ],
+    [
+        "minimizing",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "optimizes",
+        "different from",
+        "minimizes"
+    ],
+    [
+        "\u03b1",
+        "part of",
+        "cosine function"
+    ],
+    [
+        "GPUs",
+        "different from",
+        "CPUs"
+    ],
+    [
+        "minimally",
+        "opposite of",
+        "maxima"
+    ],
+    [
+        "nonlinear generative model",
+        "subclass of",
+        "linear factor model"
+    ],
+    [
+        "Neural network",
+        "use",
+        "training"
+    ],
+    [
+        "minimally supervised learning",
+        "subclass of",
+        "minimally supervised learning"
+    ],
+    [
+        "algorithm",
+        "studied by",
+        "algorithmic"
+    ],
+    [
+        "inflows",
+        "subclass of",
+        "inflows"
+    ],
+    [
+        "Las Vegas algorithm",
+        "subclass of",
+        "Monte Carlo algorithm"
+    ],
+    [
+        "retinal",
+        "connects with",
+        "retina"
+    ],
+    [
+        "AIS procedure",
+        "instance of",
+        "sampled"
+    ],
+    [
+        "locally connected layers",
+        "different from",
+        "locally connected layer"
+    ],
+    [
+        "locally connected layer",
+        "different from",
+        "locally connected layers"
+    ],
+    [
+        "contrastive divergence",
+        "subclass of",
+        "back-propagation"
+    ],
+    [
+        "convolution",
+        "opposite of",
+        "matrix multiplication"
+    ],
+    [
+        "nearest neighbor algorithm",
+        "instance of",
+        "machine learning"
+    ],
+    [
+        "complexity theory",
+        "subclass of",
+        "mathematical"
+    ],
+    [
+        "DEEP FEEDFORWARD NETWORKS",
+        "instance of",
+        "computational graph"
+    ],
+    [
+        "Gradient-based learning",
+        "subclass of",
+        "supervised learning"
+    ],
+    [
+        "algorithm",
+        "facet of",
+        "machine learning"
+    ],
+    [
+        "minimizes",
+        "subclass of",
+        "estimator"
+    ],
+    [
+        "Bernoulli distribution",
+        "subclass of",
+        "distribution"
+    ],
+    [
+        "DeepBoltzmann machine",
+        "instance of",
+        "neural networks"
+    ],
+    [
+        "MAP inference",
+        "subclass of",
+        "sparse coding"
+    ],
+    [
+        "sparse coding",
+        "instance of",
+        "learning algorithm"
+    ],
+    [
+        "minimally supervised",
+        "different from",
+        "supervised"
+    ],
+    [
+        "BREXIT",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "stochas",
+        "subclass of",
+        "gradient-based optimization"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "0.3",
+        "point in time",
+        "0"
+    ],
+    [
+        "Harris chain",
+        "subclass of",
+        "Markov chain"
+    ],
+    [
+        "coverage",
+        "has part",
+        "precision"
+    ],
+    [
+        "minimizing this KL divergence",
+        "instance of",
+        "minimizing"
+    ],
+    [
+        "bipartite",
+        "subclass of",
+        "undirected graph"
+    ],
+    [
+        "levelling",
+        "subclass of",
+        "levelling out"
+    ],
+    [
+        "algorithm",
+        "subclass of",
+        "learning"
+    ],
+    [
+        "sparse coding",
+        "subclass of",
+        "learning mechanism"
+    ],
+    [
+        "single layer model",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "Bengio",
+        "instance of",
+        "auto-regressive network"
+    ],
+    [
+        "\u03c3",
+        "instance of",
+        "logit"
+    ],
+    [
+        "datasets",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "DEEP GENERATIVE MODELS",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "Applied Math",
+        "has part",
+        "Machine\u80fd"
+    ],
+    [
+        "GRUs",
+        "has part",
+        "Memory network"
+    ],
+    [
+        "unsupervised network",
+        "subclass of",
+        "machine learning algorithm"
+    ],
+    [
+        "\u03b1",
+        "followed by",
+        "\u03c0"
+    ],
+    [
+        "tiled",
+        "subclass of",
+        "convolutional"
+    ],
+    [
+        "a priori",
+        "facet of",
+        "probability"
+    ],
+    [
+        "minimizes",
+        "subclass of",
+        "learning"
+    ],
+    [
+        "Neural Networks",
+        "use",
+        "Deep Learning"
+    ],
+    [
+        "Levenberg\u2013Marquardt algorithm",
+        "instance of",
+        "iteratively"
+    ],
+    [
+        "bipartite graph",
+        "facet of",
+        "fully connected Boltzmann machine"
+    ],
+    [
+        "IPv6",
+        "followed by",
+        "IPv8"
+    ],
+    [
+        "mean-product of t-distribution",
+        "part of",
+        "Gaussian-Bernoulli RBM"
+    ],
+    [
+        "Advances in Neural Information Processing Systems 16",
+        "publisher",
+        "MIT Press"
+    ],
+    [
+        "deep belief",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "mean squared error",
+        "facet of",
+        "unsupervised learning"
+    ],
+    [
+        "sparse coding",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "softmax",
+        "subclass of",
+        "hidden layer"
+    ],
+    [
+        "autoencoder",
+        "different from",
+        "deep autoencoder"
+    ],
+    [
+        "LASSO",
+        "instance of",
+        "MAP Bayesian inference"
+    ],
+    [
+        "minimally parametrized",
+        "subclass of",
+        "linear regression"
+    ],
+    [
+        "strided convolution",
+        "subclass of",
+        "convolution"
+    ],
+    [
+        "0",
+        "instance of",
+        "logarithm"
+    ],
+    [
+        "ancestral sampling",
+        "facet of",
+        "data distribution"
+    ],
+    [
+        "GET_operation",
+        "programming language",
+        "Python"
+    ],
+    [
+        "Stochastic gradient descent (SGD)",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "parametric analysis",
+        "part of",
+        "statistics"
+    ],
+    [
+        "lower layers",
+        "followed by",
+        "upper layers"
+    ],
+    [
+        "neuroscience",
+        "studies",
+        "neurons"
+    ],
+    [
+        "cognitive science",
+        "practiced by",
+        "cognitive scientists"
+    ],
+    [
+        "2 Sigmoid Units for Bernoulli Output Distributions",
+        "instance of",
+        "Bernoulli distribution"
+    ],
+    [
+        "Neural language model",
+        "facet of",
+        "natural language processing"
+    ],
+    [
+        "RECurrent neural network",
+        "different from",
+        "recurrent neural network"
+    ],
+    [
+        "saddle point",
+        "part of",
+        "Hessian matrix"
+    ],
+    [
+        "nonlinear projection",
+        "subclass of",
+        "linear projection"
+    ],
+    [
+        "neurons",
+        "part of",
+        "networks"
+    ],
+    [
+        "enslaved",
+        "subclass of",
+        "enslaved"
+    ],
+    [
+        "German",
+        "country",
+        "Germany"
+    ],
+    [
+        "Interspeech 2010",
+        "point in time",
+        "2010"
+    ],
+    [
+        "minimally modified",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "1",
+        "follows",
+        "0"
+    ],
+    [
+        "ImageNet",
+        "use",
+        "deep convolutional network"
+    ],
+    [
+        "9",
+        "point in time",
+        "9"
+    ],
+    [
+        "autoencoder",
+        "subclass of",
+        "machine learning"
+    ],
+    [
+        "normalized",
+        "subclass of",
+        "probability distribution"
+    ],
+    [
+        "data",
+        "part of",
+        "computation"
+    ],
+    [
+        "generative adversarial",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "scalar",
+        "different from",
+        "commutative"
+    ],
+    [
+        "CONVOLUTIONAL NETWORK",
+        "subclass of",
+        "neural network"
+    ],
+    [
+        "computational graph",
+        "subclass of",
+        "flow chart"
+    ],
+    [
+        "converge criterion",
+        "subclass of",
+        "iteratively apply to the solution"
+    ],
+    [
+        "Generative moment matching network",
+        "subclass of",
+        "generative model"
+    ],
+    [
+        "GPUs",
+        "different from",
+        "CPU"
+    ],
+    [
+        "encoder-decoder",
+        "subclass of",
+        "sequence-to-sequence RNN architecture"
+    ],
+    [
+        "Gradient",
+        "subclass of",
+        "normalization"
+    ],
+    [
+        "parametrized",
+        "opposite of",
+        "deterministic"
+    ],
+    [
+        "Theano",
+        "instance of",
+        "software framework"
+    ],
+    [
+        "REINFORCE algorithm",
+        "use",
+        "reinforcement learning"
+    ],
+    [
+        "mean and TAMADRAcovariance RBM",
+        "instance of",
+        "Boltzmann machine"
+    ],
+    [
+        "MAP inference",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "maximization in the outer loop",
+        "subclass of",
+        "constrained maximization"
+    ],
+    [
+        "Prediction",
+        "subclass of",
+        "algorithm"
+    ],
+    [
+        "vertically",
+        "opposite of",
+        "horizontally"
+    ],
+    [
+        "architectures",
+        "facet of",
+        "network"
+    ],
+    [
+        "IPv7",
+        "follows",
+        "IPv6"
+    ],
+    [
+        "ImageNet",
+        "use",
+        "deep networks"
+    ],
+    [
+        "retaining",
+        "subclass of",
+        "training"
+    ],
+    [
+        "explicit",
+        "subclass of",
+        "knowledge"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "has part",
+        "writer"
+    ],
+    [
+        "Python",
+        "use",
+        "deep learning"
+    ],
+    [
+        "dropout",
+        "instance of",
+        "hyperparameters"
+    ],
+    [
+        "Macron",
+        "country",
+        "France"
+    ],
+    [
+        "RECURRENT AND RECURSIVE NETS",
+        "instance of",
+        "computational graph"
+    ],
+    [
+        "ImageNet",
+        "use",
+        "computer vision"
+    ],
+    [
+        "variational autoencoder",
+        "instance of",
+        "generative models"
+    ],
+    [
+        "sentiment",
+        "studied by",
+        "sentiment analysis"
+    ],
+    [
+        "linear network",
+        "subclass of",
+        "networks"
+    ],
+    [
+        "stochastic gradient descent",
+        "instance of",
+        "algorithm"
+    ],
+    [
+        "nonlinear generative model",
+        "opposite of",
+        "generative model"
+    ],
+    [
+        "k-means clustering",
+        "instance of",
+        "sparse representation"
+    ],
+    [
+        "linear",
+        "subclass of",
+        "linear function"
+    ],
+    [
+        "Deep learning",
+        "instance of",
+        "machine learning"
+    ],
+    [
+        "Convolutional network",
+        "subclass of",
+        "recurrent neural networks"
+    ],
+    [
+        "convolution",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "Neural Machine Translation",
+        "subclass of",
+        "machine translation"
+    ],
+    [
+        "MAP inference",
+        "subclass of",
+        "exact optimization algorithm"
+    ],
+    [
+        "deep autoencoder",
+        "different from",
+        "autoencoder"
+    ],
+    [
+        "curse of dimensionality",
+        "instance of",
+        "statistical challenge"
+    ],
+    [
+        "second derivative",
+        "follows",
+        "FIRST derivative"
+    ],
+    [
+        "minimally small",
+        "opposite of",
+        "minimally large"
+    ],
+    [
+        "\u03b1",
+        "has part",
+        "\u039b m"
+    ],
+    [
+        "algorithm",
+        "has part",
+        "data"
+    ],
+    [
+        "neurons",
+        "part of",
+        "brain"
+    ],
+    [
+        "overfitting",
+        "different from",
+        "underfitting"
+    ],
+    [
+        "CONVOLUTIONAL NETWORKS",
+        "uses",
+        "sparse connectivity"
+    ],
+    [
+        "decision tree",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "singular value decomposition",
+        "subclass of",
+        "eigenvectors"
+    ],
+    [
+        "Ice Age",
+        "follows",
+        "Miocene"
+    ],
+    [
+        "Probability theory",
+        "studies",
+        "probability distribution"
+    ],
+    [
+        "neuron",
+        "has part",
+        "neural network"
+    ],
+    [
+        "minimally significant event",
+        "subclass of",
+        "minimally significant event"
+    ],
+    [
+        "minimally",
+        "subclass of",
+        "minimum"
+    ],
+    [
+        "decoder",
+        "subclass of",
+        "RNN"
+    ],
+    [
+        "Google Maps",
+        "has part",
+        "Street View"
+    ],
+    [
+        "Ensemble of subnetworks",
+        "subclass of",
+        "network"
+    ],
+    [
+        "SETTLEMENTS",
+        "part of",
+        "SETTLEMENTS"
+    ],
+    [
+        "2-D",
+        "part of",
+        "space"
+    ],
+    [
+        "minimax",
+        "subclass of",
+        "equilibrium"
+    ],
+    [
+        "underfitting",
+        "facet of",
+        "algorithm"
+    ],
+    [
+        "norm",
+        "different from",
+        "norm"
+    ],
+    [
+        "MNIST",
+        "instance of",
+        "deep probabilistic models"
+    ],
+    [
+        "sparse coding model",
+        "subclass of",
+        "deep learning"
+    ],
+    [
+        "minimally intrusive",
+        "subclass of",
+        "minimally intrusive"
+    ],
+    [
+        "paths",
+        "studied by",
+        "graph theory"
+    ],
+    [
+        "0.3",
+        "follows",
+        "0.2"
+    ],
+    [
+        "non-distributed algorithm",
+        "subclass of",
+        "learning algorithm"
+    ],
+    [
+        "\u03c3",
+        "facet of",
+        "\u03c3"
+    ],
+    [
+        "GRU",
+        "subclass of",
+        "recurrent net"
+    ],
+    [
+        "P(i C)",
+        "subclass of",
+        "expectation"
+    ],
+    [
+        "Neural language model",
+        "subclass of",
+        "model"
+    ],
+    [
+        "array",
+        "subclass of",
+        "tensor"
+    ]
+]
