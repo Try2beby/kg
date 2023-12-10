@@ -525,6 +525,11 @@
         "negative variational free energy"
     ],
     [
+        "connectionism",
+        "subclass of",
+        "neuroscience"
+    ],
+    [
         "troughs",
         "subclass of",
         "twists"
@@ -538,6 +543,11 @@
         "noisy images",
         "subject of",
         "AI applications"
+    ],
+    [
+        "computational neuroscience",
+        "subclass of",
+        "neuroscience"
     ],
     [
         "inference",
@@ -843,6 +853,11 @@
         "neural network parameters",
         "subject of",
         "representation learning"
+    ],
+    [
+        "greedy layer-wise pre-training",
+        "instance of",
+        "unsupervised learning techniques"
     ],
     [
         "Nesterov momentum",
@@ -2018,6 +2033,11 @@
         "recurrent neural network",
         "instance of",
         "architectural features"
+    ],
+    [
+        "commercial applications",
+        "use",
+        "artificial neural networks"
     ],
     [
         "observed variables",
@@ -3488,6 +3508,11 @@
         "Frobenius norm",
         "instance of",
         "matrix"
+    ],
+    [
+        "Kernel machines",
+        "subclass of",
+        "machine learning"
     ],
     [
         "historical perspective",
@@ -5653,6 +5678,11 @@
         "reconstruction log-likelihood",
         "based on",
         "blurry images"
+    ],
+    [
+        "supervised learning algorithms",
+        "subclass of",
+        "machine learning"
     ],
     [
         "Euclidean norm",
@@ -11065,6 +11095,11 @@
         "generative models"
     ],
     [
+        "unsupervised learning techniques",
+        "subclass of",
+        "machine learning"
+    ],
+    [
         "predicted ratings",
         "instance of",
         "recommender systems"
@@ -13498,6 +13533,11 @@
         "direction",
         "instance of",
         "updating"
+    ],
+    [
+        "neurons",
+        "part of",
+        "neuroscience"
     ],
     [
         "learn features automatically",
