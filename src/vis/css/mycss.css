@@ -8,72 +8,16 @@ body {
     align-items: center;
     height: 100vh;
   }
-  .post {
-    background: #ffffff; /* 白色背景 */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 添加阴影 */
-    border-radius: 10px; /* 边框圆角 */
-    padding: 20px;
-    max-width: 500px;
+
+#pdf-container {
+    position: relative;
+}
+
+#pdf-canvas,
+#text-layer {
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
-    margin: 20px;
-    transition: transform 0.3s ease-in-out; /* 添加过渡效果 */
-  }
-  .post:hover {
-    transform: translateY(-10px); /* 鼠标悬停时上移 */
-  }
-  .post-header {
-    font-size: 0.85em; /* 较小的字体大小 */
-    color: #6c757d; /* 深灰色文本 */
-    border-bottom: 1px solid #dee2e6; /* 添加下边框 */
-    padding-bottom: 10px;
-    margin-bottom: 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  .post-content {
-    font-size: 1em; /* 正常的字体大小 */
-    color: #495057; /* 正常的文本颜色 */
-    margin-bottom: 20px;
-  }
-  .post-footer {
-    font-size: 0.85em; /* 较小的字体大小 */
-    color: #6c757d; /* 深灰色文本 */
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-  }
-  .like-count, .retweet-count .reply-count{
-    cursor: pointer;
-    margin-right: 40px;
-
-    transition: color 0.3s ease-in-out; /* 添加颜色过渡效果 */
-  }
-  .like-count:hover, .retweet-count:hover  .reply-count:hover{
-    color: #007bff; /* 鼠标悬停时改变颜色 */  
-  }
-
- 
-
-.option-div {
-  border: 1px solid #ccc;
-  padding: 10px;
-  margin: 10px 0;
-  background-color: #f9f9f9;
-  color: #333;
-  font-size: 14px;
-  height: 16px;
-  display: inline-block;
-}
-
-.option-div label {
-  font-weight: bold;
-}
-
-.option-div select, .option-div input {
-  margin-left: 10px;
-}
-
-.option-div:hover {
-  background-color: #e9e9e9;
+    height: 100%;
 }

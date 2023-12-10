@@ -2,18 +2,26 @@ const dataDir = "../../data/";
 const relationDir = "../../data/relation/";
 const graphDir = "../../data/graph/";
 const graphFile = "structure_graph.json";
+const tocFile = "toc.json";
+
+const params = {};
+
 
 async function loadGraph() {
-    let graph = await d3.json(graphDir + graphFile);
-    return graph;
+    params.graph = await d3.json(graphDir + graphFile);
+    params.toc = await d3.json(dataDir + tocFile);
+    return;
 }
 
 
-function initialPlot(graph) {
+function initialPlot(root_id = "Deep Learning") {
+    const graph = params.graph;
     // find the node with id "Deep Learning"
-    const root = graph.nodes.find(d => d.id === "Deep Learning");
+    const root = graph.nodes.find(d => d.id === root_id);
     // find the links that connect to this node and with relation "parent_content"
-    const links = graph.links.filter(l => (l.source === root.id || l.target === root.id) && l.relation === "parent_content");
+    // const links = graph.links.filter(l => (l.source === root.id || l.target === root.id) && (l.relation === "parent_content" || l.relation === "prerequisites"));
+    const links = graph.links.filter(l => (l.source === root.id) && (l.relation === "parent_content" || l.relation === "prerequisites"));
+
 
     // create a new graph with these nodes and links
     const newGraph = {};
@@ -34,25 +42,16 @@ function initialPlot(graph) {
         }
     });
 
-    // // get two links from the graph for testing
-    // const newGraph = {};
-    // newGraph.links = graph.links.slice(0, 100);
-    // // get all the unique nodes in the links
-    // const nodes = new Set();
-    // newGraph.links.forEach(link => {
-    //     nodes.add(link.source);
-    //     nodes.add(link.target);
-    // });
-    // newGraph.nodes = [...nodes].map(d => ({ id: d }));
+    // clear the svg
+    document.getElementById("graph").innerHTML = "";
 
-    // plot the graph
     let svg = DisjointForceDirectedGraph(newGraph);
     document.getElementById("graph").appendChild(svg);
 }
 
 async function main() {
-    const graph = await loadGraph();
-    initialPlot(graph);
+    await loadGraph();
+    initialPlot();
 }
 
 main();

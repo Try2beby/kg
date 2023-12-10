@@ -31,10 +31,10 @@ function DisjointForceDirectedGraph(data) {
         .enter().append("marker")    // This section adds in the arrows
         .attr("id", String)
         .attr("viewBox", "0 -5 10 10")
-        .attr("refX", 25)  // Increase this value to move the arrow away from the node
-        .attr("refY", -1.5)
-        .attr("markerWidth", 14)
-        .attr("markerHeight", 14)
+        .attr("refX", 28)  // Increase this value to move the arrow away from the node
+        .attr("refY", 0)
+        .attr("markerWidth", 2)
+        .attr("markerHeight", 2)
         .attr("orient", "auto")
         .append("path")
         .attr("d", "M0,-5L10,0L0,5");
@@ -42,12 +42,13 @@ function DisjointForceDirectedGraph(data) {
     // Add a line for each link, and a circle for each node.
     const link = svg.append("g")
         .attr("stroke", "#999")
-        .attr("stroke-opacity", 10)
+        .attr("stroke-opacity", 0.6)
+        .attr("stroke-width", 5)
         .selectAll("line")
         .data(links)
         .join("line")
-        .attr("stroke-width", d => Math.sqrt(d.value))
         .attr("marker-end", "url(#end)");  // Add this line
+
 
     const node = svg.append("g")
         .attr("stroke", "#fff")
@@ -63,6 +64,10 @@ function DisjointForceDirectedGraph(data) {
                 return "#2b9999";
             }
 
+        })
+        .on("click", function (event, d) {
+            initialPlot(d.id);
+            turnToPage(d.id);
         });
     // add color according to root or not
 
@@ -86,6 +91,9 @@ function DisjointForceDirectedGraph(data) {
 
     node.append("title")
         .text(d => d.id);
+
+    link.append("title")
+        .text(function (d) { return d.relation; });
 
     // Add a drag behavior.
     node.call(d3.drag()
@@ -136,4 +144,25 @@ function DisjointForceDirectedGraph(data) {
     // invalidation.then(() => simulation.stop());
 
     return svg.node();
+}
+
+function turnToPage(title) {
+    const toc = params.toc;
+    // extract chapter number or section number
+    // there are 2 cases: 
+    // 1 Introduction
+    // 2.1 Linear Regression
+
+    const temp = title.split(" ")[0];
+    if (temp.includes(".")) {
+        // section
+        const chapter = temp.split(".")[0];
+        const section = temp.split(".")[1];
+        const page = toc[chapter]["sections"][parseInt(section) - 1]["page"];
+        queueRenderPage(page);
+    } else {
+        // chapter
+        const page = toc[temp]["page"];
+        queueRenderPage(page);
+    }
 }
