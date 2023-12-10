@@ -1,3 +1,6 @@
+import { updateGraph } from "./net.js";
+import { queueRenderPage } from "./pdfView.js";
+
 function DisjointForceDirectedGraph(data) {
     // Specify the dimensions of the chart.
     const width = 800;
@@ -13,7 +16,7 @@ function DisjointForceDirectedGraph(data) {
 
     // Create a simulation with several forces.
     const simulation = d3.forceSimulation(nodes)
-        .force("link", d3.forceLink(links).id(d => d.id).distance(200))
+        .force("link", d3.forceLink(links).id(d => d.id).distance(100))
         .force("charge", d3.forceManyBody().strength(-450))
         .force("x", d3.forceX())
         .force("y", d3.forceY());
@@ -66,8 +69,25 @@ function DisjointForceDirectedGraph(data) {
 
         })
         .on("click", function (event, d) {
-            initialPlot(d.id);
-            turnToPage(d.id);
+            if (!d.is_entity) {
+                // update graph
+                updateGraph(d.id);
+            }
+            else {
+                // initialize click count if it doesn't exist
+                if (!d.clickCount) {
+                    d.clickCount = 0;
+                }
+                // get the location based on the click count
+                let locationIndex = d.clickCount % d.location.length;
+                let location = d.location[locationIndex];
+
+                // update pdf
+                queueRenderPage(location[0]);
+
+                // increment click count
+                d.clickCount++;
+            }
         });
     // add color according to root or not
 
@@ -148,21 +168,31 @@ function DisjointForceDirectedGraph(data) {
 
 function turnToPage(title) {
     const toc = params.toc;
+
+    let is_chapter = false;
+    let info = {};
     // extract chapter number or section number
     // there are 2 cases: 
     // 1 Introduction
     // 2.1 Linear Regression
-
     const temp = title.split(" ")[0];
+    let page = 0;
     if (temp.includes(".")) {
         // section
         const chapter = temp.split(".")[0];
         const section = temp.split(".")[1];
-        const page = toc[chapter]["sections"][parseInt(section) - 1]["page"];
-        queueRenderPage(page);
+        page = parseInt(toc[chapter]["sections"][parseInt(section) - 1]["page"]);
+        const end_page = parseInt(toc[chapter]["sections"][parseInt(section) - 1]["end_page"]);
+        info.page = page;
+        info.end_page = end_page;
     } else {
         // chapter
-        const page = toc[temp]["page"];
-        queueRenderPage(page);
+        page = parseInt(toc[temp]["page"]);
+        is_chapter = true;
     }
+    queueRenderPage(page + params.pageOffset);
+
+    return { is_chapter, info };
 }
+
+export { DisjointForceDirectedGraph, turnToPage };

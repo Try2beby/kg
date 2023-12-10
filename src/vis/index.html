@@ -8,6 +8,7 @@
     <title>test</title>
     <!-- link to my css file -->
     <link rel="stylesheet" href="./css/mycss.css">
+    <link rel="stylesheet" href="https://github.com/mozilla/pdfjs-dist/blob/master/web/pdf_viewer.css" />
     <style>
         .flex-container {
             display: flex;
@@ -64,7 +65,6 @@
             </div>
             <div id="pdf-container">
                 <canvas id="pdf-canvas"></canvas>
-                <div id="text-layer"></div>
             </div>
         </div>
 
@@ -76,10 +76,11 @@
 </body>
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
-<script src="./utils.js" ,type="module"></script>
+<script src="./utils.js" type="module"></script>
 <script src="./lib/pdf.mjs" type="module"></script>
-<script src="./pdfView.js"></script>
-<script src="./net.js"></script>
+<script src="./pdfView.js" type="module"></script>
+<script src="./net.js" type="module"></script>
+<script src="./main.js"></script>
 
 
 </body>
