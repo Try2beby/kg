@@ -58,6 +58,8 @@ function initialPlot(root_id = "Deep Learning", is_chapter = true, section_info 
 function findEntityInSection(section_info) {
     // each element in location is k,v pair, k is entity id, v is a list of locations
     const location = params.location;
+
+    console.log(section_info);
     const { page, end_page } = section_info;
 
     // filter entities that are in this section

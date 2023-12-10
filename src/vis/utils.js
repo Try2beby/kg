@@ -3,7 +3,7 @@ import { queueRenderPage } from "./pdfView.js";
 
 function DisjointForceDirectedGraph(data) {
     // Specify the dimensions of the chart.
-    const width = 800;
+    const width = 900;
     const height = 750;
 
     // Specify the color scale.
@@ -16,8 +16,8 @@ function DisjointForceDirectedGraph(data) {
 
     // Create a simulation with several forces.
     const simulation = d3.forceSimulation(nodes)
-        .force("link", d3.forceLink(links).id(d => d.id).distance(100))
-        .force("charge", d3.forceManyBody().strength(-450))
+        .force("link", d3.forceLink(links).id(d => d.id).distance(250))
+        .force("charge", d3.forceManyBody().strength(-550))
         .force("x", d3.forceX())
         .force("y", d3.forceY());
 
@@ -181,8 +181,8 @@ function turnToPage(title) {
         // section
         const chapter = temp.split(".")[0];
         const section = temp.split(".")[1];
-        page = parseInt(toc[chapter]["sections"][parseInt(section) - 1]["page"]);
-        const end_page = parseInt(toc[chapter]["sections"][parseInt(section) - 1]["end_page"]);
+        page = parseInt(toc[chapter]["sections"][parseInt(section) - 1]["page"]) + params.pageOffset;
+        const end_page = parseInt(toc[chapter]["sections"][parseInt(section) - 1]["end_page"]) + params.pageOffset;
         info.page = page;
         info.end_page = end_page;
     } else {
@@ -190,7 +190,7 @@ function turnToPage(title) {
         page = parseInt(toc[temp]["page"]);
         is_chapter = true;
     }
-    queueRenderPage(page + params.pageOffset);
+    queueRenderPage(page);
 
     return { is_chapter, info };
 }
