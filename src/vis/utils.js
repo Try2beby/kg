@@ -75,23 +75,27 @@ function DisjointForceDirectedGraph(data) {
                 updateGraph(d.id);
             }
             else {
-                updateGraph(d.id, d.is_entity);
-                // initialize click count if it doesn't exist
-                if (!d.clickCount) {
-                    d.clickCount = 0;
+                if (d.root) {
+                    // initialize click count if it doesn't exist
+                    if (!d.clickCount) {
+                        d.clickCount = 0;
+                    }
+                    // get the location based on the click count
+                    let locationIndex = d.clickCount % d.location.length;
+                    let location = d.location[locationIndex];
+
+                    // update pdf
+                    queueRenderPage(location[0]);
+
+                    // increment click count
+                    d.clickCount++;
                 }
-                // get the location based on the click count
-                let locationIndex = d.clickCount % d.location.length;
-                let location = d.location[locationIndex];
-
-                // update pdf
-                queueRenderPage(location[0]);
-
-                // increment click count
-                d.clickCount++;
+                else {
+                    // update graph
+                    updateGraph(d.id, d.is_entity);
+                }
             }
         });
-    // add color according to root or not
 
     // Add a text for each node.
     const text = svg.append("g")
@@ -193,7 +197,7 @@ function turnToPage(title) {
         info.end_page = end_page;
     } else {
         // chapter
-        page = parseInt(toc[temp]["page"]);
+        page = parseInt(toc[temp]["page"]) + params.pageOffset;
         is_chapter = true;
     }
     queueRenderPage(page);

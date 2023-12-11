@@ -6,7 +6,23 @@ async function loadData() {
     params.semanticGraph = await d3.json(graphDir + semanticGraphFile);
     params.toc = await d3.json(dataDir + tocFile);
     params.location = await d3.json(relationDir + locationFile);
+
+    // test_id = Discriminant GSNs
+    const test_id = "sharing parameters";
+    console.log(params.graph.nodes.find(d => d.id === test_id));
     return;
+}
+
+function sortLocation(raw_location) {
+    let location = [];
+    // sort the location by page number
+    if (raw_location) {
+        location = [...new Set(raw_location)];
+        location.sort((a, b) => {
+            return a[0] - b[0];
+        });
+    }
+    return location;
 }
 
 
@@ -26,20 +42,14 @@ function createNewGraph(root, links, is_chapter = true, is_entity = false, resul
         if (node.id === root.id) {
             node.root = true;
             node.is_entity = is_entity;
+            if (is_entity) {
+                node.location = sortLocation(result[node.id]);
+            }
         } else {
             node.root = false;
             // add location info
             if (!is_chapter) {
-                node.location = result[node.id];
-                // sort the location by page number and start position
-                if (node.location) {
-                    node.location.sort((a, b) => {
-                        if (a[0] === b[0]) {
-                            return a[1] - b[1];
-                        }
-                        return a[0] - b[0];
-                    });
-                }
+                node.location = sortLocation(result[node.id]);
                 node.is_entity = true;
             }
         }
@@ -47,7 +57,7 @@ function createNewGraph(root, links, is_chapter = true, is_entity = false, resul
     return newGraph;
 }
 
-function initialPlot(root_id = "Deep Learning", is_chapter = true, section_info = {}) {
+function initialPlot(root_id = "Deep Learning", is_chapter = true, is_entity = false, section_info = {}) {
     const graph = params.graph;
     // find the node with id "Deep Learning"
     const root = graph.nodes.find(d => d.id === root_id);
@@ -61,17 +71,27 @@ function initialPlot(root_id = "Deep Learning", is_chapter = true, section_info 
         var result = findEntityInSection(section_info);
     }
 
-    const newGraph = createNewGraph(root, links, is_chapter, false, result);
+    const newGraph = createNewGraph(root, links, is_chapter, is_entity, result);
     DisjointForceDirectedGraph(newGraph);
 }
 
 function entityPlot(root_id) {
+    console.log(root_id)
     const semanticGraph = params.semanticGraph;
     const graph = params.graph;
     const location = params.location;
 
     // find the node with id root_id
-    const root = semanticGraph.nodes.find(d => d.id === root_id);
+    let root = graph.nodes.find(d => d.id === root_id);
+    try {
+        const ans = semanticGraph.nodes.find(d => d.id === root_id);
+        if (ans) {
+            root = ans;
+        }
+    }
+    catch (e) {
+        console.log(e)
+    }
 
     // filter links
     // filter links in graph
@@ -122,7 +142,7 @@ function updateGraph(root_id, is_entity = false) {
     }
     else {
         const { is_chapter, info } = turnToPage(root_id);
-        initialPlot(root_id, is_chapter, info);
+        initialPlot(root_id, is_chapter, is_entity, info);
     }
 }
 
