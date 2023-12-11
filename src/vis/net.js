@@ -42,6 +42,15 @@ function initialPlot(root_id = "Deep Learning", is_chapter = true, section_info 
             // add location info
             if (!is_chapter) {
                 node.location = result[node.id];
+                // sort the location by page number and start position
+                if (node.location) {
+                    node.location.sort((a, b) => {
+                        if (a[0] === b[0]) {
+                            return a[1] - b[1];
+                        }
+                        return a[0] - b[0];
+                    });
+                }
                 node.is_entity = true;
             }
         }
