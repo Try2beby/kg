@@ -4,7 +4,7 @@ import { queueRenderPage } from "./pdfView.js";
 function DisjointForceDirectedGraph(data) {
     // Specify the dimensions of the chart.
     const width = 900;
-    const height = 750;
+    const height = 880;
 
     // Specify the color scale.
     const color = d3.scaleOrdinal(d3.schemeCategory10);
@@ -69,11 +69,13 @@ function DisjointForceDirectedGraph(data) {
 
         })
         .on("click", function (event, d) {
+
             if (!d.is_entity) {
                 // update graph
                 updateGraph(d.id);
             }
             else {
+                updateGraph(d.id, d.is_entity);
                 // initialize click count if it doesn't exist
                 if (!d.clickCount) {
                     d.clickCount = 0;
@@ -162,6 +164,10 @@ function DisjointForceDirectedGraph(data) {
     // really matter since the target alpha is zero and the simulation will
     // stop naturally, but it’s a good practice.)
     // invalidation.then(() => simulation.stop());
+
+    // clear the svg
+    document.getElementById("graph").innerHTML = "";
+    document.getElementById("graph").appendChild(svg.node());
 
     return svg.node();
 }
