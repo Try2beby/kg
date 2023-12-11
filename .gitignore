@@ -1,3 +1,5 @@
 test*
 *pycache*
 node_modules/
+
+.ipynb_checkpoints/
