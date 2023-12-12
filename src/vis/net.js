@@ -1,4 +1,4 @@
-import { DisjointForceDirectedGraph, turnToPage } from "./utils.js";
+import { DisjointForceDirectedGraph, turnToPage, updateButtons } from "./utils.js";
 
 
 async function loadData() {
@@ -6,10 +6,10 @@ async function loadData() {
     params.semanticGraph = await d3.json(graphDir + semanticGraphFile);
     params.toc = await d3.json(dataDir + tocFile);
     params.location = await d3.json(relationDir + locationFile);
+    let allNodeIds = params.graph.nodes.map(d => d.id);
+    allNodeIds = allNodeIds.concat(params.semanticGraph.nodes.map(d => d.id));
+    params.allNodeIds = [...new Set(allNodeIds)];
 
-    // test_id = Discriminant GSNs
-    const test_id = "sharing parameters";
-    console.log(params.graph.nodes.find(d => d.id === test_id));
     return;
 }
 
@@ -169,7 +169,6 @@ function findEntityInSection(section_info) {
 }
 
 
-
 function updateGraph(root_id, is_entity = false) {
     if (is_entity) {
         entityPlot(root_id);
@@ -178,6 +177,7 @@ function updateGraph(root_id, is_entity = false) {
         const { is_chapter, info } = turnToPage(root_id);
         initialPlot(root_id, is_chapter, is_entity, info);
     }
+    updateButtons();
 }
 
 async function main() {
