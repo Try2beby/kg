@@ -8,3 +8,12 @@ body {
     align-items: center;
     height: 100vh;
   }
+
+  .d3-context-menu {
+    width: auto;
+    padding: 5px 0;
+    background-color: #FFFFFF;
+    border: solid 1px #D5D5D5;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
+    cursor: default;
+}
