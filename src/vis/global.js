@@ -8,3 +8,6 @@ const locationFile = "location.json";
 
 const params = {};
 params.pageOffset = 15;
+
+var svgHistory = [];
+var currentIndex = -1;

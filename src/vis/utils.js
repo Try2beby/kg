@@ -1,10 +1,11 @@
 import { updateGraph } from "./net.js";
 import { queueRenderPage } from "./pdfView.js";
 
+
 function DisjointForceDirectedGraph(data) {
     // Specify the dimensions of the chart.
     const width = 900;
-    const height = 880;
+    const height = 730;
 
     // Specify the color scale.
     const color = d3.scaleOrdinal(d3.schemeCategory10);
@@ -22,7 +23,7 @@ function DisjointForceDirectedGraph(data) {
         .force("y", d3.forceY());
 
     // Create the SVG container.
-    const svg = d3.create("svg")
+    let svg = d3.create("svg")
         .attr("width", width)
         .attr("height", height)
         .attr("viewBox", [-width / 2, -height / 2, width, height])
@@ -47,6 +48,7 @@ function DisjointForceDirectedGraph(data) {
         .attr("orient", "auto")
         .append("path")
         .attr("d", "M0,-5L10,0L0,5");
+
 
     // Add a line for each link, and a circle for each node.
     const link = svg.append("g")
@@ -95,7 +97,6 @@ function DisjointForceDirectedGraph(data) {
                 .attr("r", 20);
         })
         .on("click", function (event, d) {
-
             if (!d.is_entity) {
                 // update graph
                 updateGraph(d.id);
@@ -259,7 +260,119 @@ function DisjointForceDirectedGraph(data) {
     document.getElementById("graph").innerHTML = "";
     document.getElementById("graph").appendChild(svg.node());
 
+    // Keep currentIndex+1 elements in the history
+    svgHistory = svgHistory.slice(0, currentIndex + 1);
+
+    // add the svg to the history
+    svgHistory.push(svg.node());
+    currentIndex++;
+
     return svg.node();
+}
+
+import searchResults from "./SearchResults.js";
+
+function addSearchBox() {
+    var searchBox = d3.select("body").insert("input", "graph")
+        .attr("type", "text")
+        .attr("placeholder", "Search...")
+        .attr("id", "searchBox")
+        .style("position", "absolute")
+        .style("top", "32px")
+        .style("left", "634px");
+
+    searchBox.on("input", function () {
+        var searchTerm = this.value;
+        // fuzzy search
+        var result = fuzzySearch(searchTerm);
+        // update search results
+        var searchResultsComponent = ReactDOM.render(React.createElement(searchResults), document.getElementById('searchResults'));
+        searchResultsComponent.updateResults(result);
+    });
+}
+
+function addSearchResults() {
+    var searchResults = d3.select("body").insert("div", "graph")
+        .attr("id", "searchResults")
+        .style("position", "absolute")
+        .style("top", "64px")
+        .style("left", "634px")
+        .style("overflow", "auto")
+        .style("background-color", "#e0e0e0") // Light background color
+        .style("border", "1px solid #ddd") // Border around the div
+        // .style("padding", "10px") // Space between border and content
+        // .style("margin-bottom", "10px") // Space between each search result
+        .style("line-height", "1.5") // Space between lines of text
+        .style("border-radius", "5px"); // Rounded corners
+}
+
+function fuzzySearch(searchTerm) {
+    // search for the searchTerm in params.allNodeIds, which is an array of all node ids
+    // keep the top 5 results
+    // use fuse.js
+    const allNodeIds = params.allNodeIds;
+    var options = {
+        shouldSort: true,
+        includeScore: true,
+        threshold: 0.6,
+        location: 0,
+        distance: 100,
+        maxPatternLength: 32,
+        minMatchCharLength: 1,
+    };
+    var fuse = new Fuse(allNodeIds, options);
+    var result = fuse.search(searchTerm);
+
+    // Keep the top 5 results
+    result = result.slice(0, 5);
+
+    return result;
+}
+
+addSearchResults();
+addSearchBox();
+
+function addForwardsAndBackwardsButtons() {
+    // Add buttons for forwards and backwards
+    var forwardsButton = document.createElement("button");
+    forwardsButton.innerHTML = `<i id="forwardsButton" class="fas fa-arrow-right"></i>`;
+    forwardsButton.onclick = function () {
+        if (currentIndex < svgHistory.length - 1) {
+            document.getElementById("graph").innerHTML = "";
+            document.getElementById("graph").appendChild(svgHistory[++currentIndex]);
+        }
+        updateButtons();
+    };
+    document.body.appendChild(forwardsButton);
+
+    var backwardsButton = document.createElement("button");
+    backwardsButton.innerHTML = `<i id="backwardsButton" class="fas fa-arrow-left"></i>`;
+    backwardsButton.onclick = function () {
+        if (currentIndex > 0) {
+            document.getElementById("graph").innerHTML = "";
+            document.getElementById("graph").appendChild(svgHistory[--currentIndex]);
+        }
+        updateButtons();
+    };
+    document.body.appendChild(backwardsButton);
+
+    // add style
+    forwardsButton.style.position = "absolute";
+    forwardsButton.style.left = "60%";
+    forwardsButton.style.top = "4.7%";
+    forwardsButton.firstChild.style.color = "lightgray";
+    backwardsButton.style.position = "absolute";
+    backwardsButton.style.left = "58%";
+    backwardsButton.style.top = "4.7%";
+    backwardsButton.firstChild.style.color = "lightgray";
+}
+
+addForwardsAndBackwardsButtons();
+
+function updateButtons() {
+    // Change the color of the arrow icon
+    document.getElementById("forwardsButton").style.color = currentIndex < svgHistory.length - 1 ? "black" : "lightgray";
+    document.getElementById("backwardsButton").style.color = currentIndex > 0 ? "black" : "lightgray";
 }
 
 function reduceOpacity(node, link, text, nodes, links) {
@@ -342,4 +455,5 @@ function turnToPage(title) {
     return { is_chapter, info };
 }
 
-export { DisjointForceDirectedGraph, turnToPage };
+
+export { DisjointForceDirectedGraph, turnToPage, updateButtons };
