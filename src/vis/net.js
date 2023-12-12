@@ -26,7 +26,7 @@ function sortLocation(raw_location) {
 }
 
 
-function createNewGraph(root, links, is_chapter = true, is_entity = false, result = {}) {
+function createNewGraph(root, links, is_chapter = true, is_entity = false, result = {}, relation_count = {}) {
     // create a new graph with these nodes and links
     const newGraph = {};
     newGraph.links = links;
@@ -41,6 +41,8 @@ function createNewGraph(root, links, is_chapter = true, is_entity = false, resul
     newGraph.nodes.forEach(node => {
         if (node.id === root.id) {
             node.root = true;
+            node.relation_count = relation_count;
+            console.log(relation_count);
             node.is_entity = is_entity;
             if (is_entity) {
                 node.location = sortLocation(result[node.id]);
@@ -95,9 +97,41 @@ function entityPlot(root_id) {
 
     // filter links
     // filter links in graph
-    let links = graph.links.filter(l => (l.source === root.id || l.target === root.id) && (l.relation === "co_presence" || l.relation === "prerequisites"));
+    let links = graph.links.filter(l => (l.source === root.id) && (l.relation === "co_presence"));
     // Add links from semantic graph
     links = links.concat(semanticGraph.links.filter(l => (l.source === root.id || l.target === root.id)));
+
+    // count the type of realtions
+    const relation_count = {};
+    links.forEach(link => {
+        if (relation_count[link.relation]) {
+            relation_count[link.relation] += 1;
+        } else {
+            relation_count[link.relation] = 1;
+        }
+    }
+    );
+    // 将 relation_count 对象转换为数组
+    let relation_array = Object.keys(relation_count).map(key => {
+        return { relation: key, count: relation_count[key] };
+    });
+
+    // 对数组进行排序
+    relation_array.sort((a, b) => b.count - a.count);
+
+    // 取前三个元素
+    let top_three = relation_array.slice(0, 3);
+
+    // 计算剩余元素的总数
+    let others_count = relation_array.slice(3).reduce((total, item) => total + item.count, 0);
+
+    // 将剩余元素合并为 "others"
+    if (others_count > 0) {
+        top_three.push({ relation: 'others', count: others_count });
+    }
+    top_three.forEach(item => {
+        item.checked = true;
+    });
 
     const nodes = new Set();
     links.forEach(link => {
@@ -111,7 +145,7 @@ function entityPlot(root_id) {
     });
     // let result = nodes.reduce((acc, node) => ({ ...acc, [node]: location[node] }), {});
 
-    const newGraph = createNewGraph(root, links, false, true, result);
+    const newGraph = createNewGraph(root, links, false, true, result, top_three);
     DisjointForceDirectedGraph(newGraph);
 }
 

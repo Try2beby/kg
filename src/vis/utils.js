@@ -28,11 +28,17 @@ function DisjointForceDirectedGraph(data) {
         .attr("viewBox", [-width / 2, -height / 2, width, height])
         .attr("style", "max-width: 100%; height: auto;");
 
+    var text = null;
+
     // 在 SVG 容器中定义箭头标记
     svg.append("defs").selectAll("marker")
-        .data(["end"])      // Different link/path types can be defined here
+        .data(links)
+        // .data(relations)
+        // .data(["end"])
         .enter().append("marker")    // This section adds in the arrows
-        .attr("id", String)
+        .attr("id", d => convertToValidId(`${d.source.id}-${d.target.id}-${d.relation}`))
+        // .attr("id", d => d)
+        // .attr("id", d => `end`)
         .attr("viewBox", "0 -5 10 10")
         .attr("refX", 28)  // Increase this value to move the arrow away from the node
         .attr("refY", 0)
@@ -50,8 +56,14 @@ function DisjointForceDirectedGraph(data) {
         .selectAll("line")
         .data(links)
         .join("line")
-        .attr("marker-end", "url(#end)");  // Add this line
+        .attr("marker-end", d => "url(#" + convertToValidId(`${d.source.id}-${d.target.id}-${d.relation}`) + ")");
+    // .attr("marker-end", d => `url(#${d.relation})`);
+    // .attr("marker-end", d => `url(#end)`);
 
+    // prevent the default right click menu
+    svg.on('contextmenu', function (event) {
+        event.preventDefault();
+    });
 
     const node = svg.append("g")
         .attr("stroke", "#fff")
@@ -67,6 +79,20 @@ function DisjointForceDirectedGraph(data) {
                 return "#2b9999";
             }
 
+        })
+        .on("mouseover", function (event, d) {
+            // enlarge the node with a smooth transition
+            d3.select(this)
+                .transition()
+                .duration(200)  // duration of the transition in milliseconds
+                .attr("r", 24);
+        })
+        .on("mouseout", function (event, d) {
+            // shrink the node with a smooth transition
+            d3.select(this)
+                .transition()
+                .duration(200)  // duration of the transition in milliseconds
+                .attr("r", 20);
         })
         .on("click", function (event, d) {
 
@@ -95,10 +121,63 @@ function DisjointForceDirectedGraph(data) {
                     updateGraph(d.id, d.is_entity);
                 }
             }
-        });
+        })
+        .on('contextmenu', d3.contextMenu(function (d, i) {
+            // prevent default right click menu
+            // 根据 d.location 和 d.relation 生成菜单配置
+            if (!d.root) {
+                return [
+                    {
+                        title: 'location',
+                        children: d.location.map(function (_location) {
+                            const location = _location[0];
+                            return {
+                                title: location,
+                                action: function () {
+                                    // alert('location: ' + location + ' clicked');
+                                    queueRenderPage(location);
+                                }
+                            };
+                        })
+                    },
+
+                ];
+            }
+            else {
+                return [
+                    {
+                        title: 'location',
+                        children: d.location.map(function (_location) {
+                            const location = _location[0];
+                            return {
+                                title: location,
+                                action: function () {
+                                    // alert('location: ' + location + ' clicked');
+                                    queueRenderPage(location);
+                                }
+                            };
+                        })
+                    },
+                    {
+                        title: 'relation',
+                        children: d.relation_count.map(function (r) {
+                            return {
+                                title: (r.checked ? '☑ ' : '☐ ') + r.relation + ` (${r.count})`,
+                                action: function () {
+                                    // Toggle checked state
+                                    r.checked = !r.checked;
+                                    // Update graph
+                                    reduceOpacity(node, link, text, nodes, links);
+                                }
+                            };
+                        }
+                        )
+                    }];
+            }
+        }));
 
     // Add a text for each node.
-    const text = svg.append("g")
+    text = svg.append("g")
         .attr("stroke", "#333")
         .attr("stroke-width", 0.5)
         .selectAll("text")
@@ -116,7 +195,14 @@ function DisjointForceDirectedGraph(data) {
         });
 
     node.append("title")
-        .text(d => d.id);
+        .text(d => {
+            if (d.is_entity) {
+                return d.id + "\n" + d.location.map(l => l[0]).join(", ");
+            }
+            else {
+                return d.id;
+            }
+        });
 
     link.append("title")
         .text(function (d) { return d.relation; });
@@ -174,6 +260,57 @@ function DisjointForceDirectedGraph(data) {
     document.getElementById("graph").appendChild(svg.node());
 
     return svg.node();
+}
+
+function reduceOpacity(node, link, text, nodes, links) {
+    // find the root node
+    const root = nodes.find(d => d.root);
+    // find the item "others"
+    const others = root.relation_count.find(r => r.relation === "others");
+    const all_relations = root.relation_count.map(r => r.relation);
+    // find the checked relations
+    const checked_relations = root.relation_count.filter(r => r.checked).map(r => r.relation);
+    // filter links with checked relations
+    const filtered_links = links.filter(l => checked_relations.includes(l.relation));
+    // filter links with relation not in root.relation_count
+    const filtered_links2 = links.filter(l => !root.relation_count.map(r => r.relation).includes(l.relation));
+    if (root.relation_count.length > 3 && others.checked) {
+        filtered_links.push(...filtered_links2);
+    }
+    // set opacity
+    link.transition()
+        .duration(200)
+        .attr("stroke-opacity", d => filtered_links.includes(d) ? 0.6 : 0.1);
+
+    // collect nodes with checked relations
+    const filtered_nodes = new Set();
+    filtered_links.forEach(l => {
+        filtered_nodes.add(l.source);
+        filtered_nodes.add(l.target);
+    });
+
+    // set opacity
+    node.transition()
+        .duration(200)
+        .attr("opacity", d => (filtered_nodes.has(d) || d.root) ? 1 : 0.1);
+
+    text.transition()
+        .duration(200)
+        .attr("opacity", d => (filtered_nodes.has(d) || d.root) ? 1 : 0.1);
+
+    // change the opacity of markders
+    d3.selectAll("marker")
+        .transition()
+        .duration(200)
+        .attr("fill-opacity", d => {
+            console.log(`${d.source.id}_${d.target.id}_${d.relation}`);
+            return filtered_links.includes(d) ? 1 : 0.1
+        });
+}
+
+function convertToValidId(str) {
+    // Replace all non-alphanumeric characters, excluding hyphen and colon, with underscore
+    return str.replace(/[^a-zA-Z0-9\-:]/g, '_');
 }
 
 function turnToPage(title) {
