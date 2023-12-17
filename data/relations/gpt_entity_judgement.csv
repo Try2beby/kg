@@ -1,0 +1,1422 @@
+entity,judgement
+viscous drag,True
+viscous drag,True
+random values,False
+NVIDIA,True
+specializations,False
+words with similar meanings,False
+accelerate,False
+high-level conceptual description,True
+net force,True
+templates,False
+coverage,False
+black square,False
+hypercube,True
+actual ratings,False
+variance,True
+generalization error,True
+best possible model,True
+unsupervised learning,True
+Alain,False
+bprop methods,True
+reconstruction cost,True
+distance measure,True
+Gaussian component,True
+Bayesian network,True
+stationary point,True
+gray cars,False
+tangent planes,True
+vertically oriented edges,False
+Lipschitz continuous function,True
+non-uniform distributions,True
+two-step approach,False
+Deep Learning Community,True
+third-order interactions,True
+training probabilistic models,True
+PDF,True
+maximum output,True
+sparse features,True
+network layers,True
+squared gradient norm,True
+common cause,False
+clustering,True
+unimodal,False
+poor conditioning,True
+first moments,True
+sequences of letters,False
+disease,False
+probability concentration,True
+memory footprint,True
+complex numbers,True
+data generating distribution,True
+hidden features H,True
+spatial data,True
+smoothing techniques,True
+bits,False
+neural net,True
+deeply-supervised nets,True
+2-D convolution,True
+movies,False
+estimate of the gradient,True
+stochastic maximum likelihood,True
+supervised loss,True
+finite dimensional discrete space,True
+centered DBMs,True
+training criteria,True
+learned parameters,True
+contractive penalty,True
+acoustic-level information,False
+diversity,False
+i-th row,False
+learning update,True
+intermediate distributions,True
+dream sleep,False
+building,False
+convex problem,True
+0-1 loss,True
+neuroscientific principles,True
+vertical translation,False
+applied statistics,True
+AI systems,True
+interpretation,False
+momentum algorithm,True
+Empirical Distribution,True
+minimization,True
+competition between units,True
+gradient direction,True
+linear part,True
+inverse transform sampling,True
+linear combination,True
+hard mixture of experts,True
+training a model,True
+SGD,True
+optimizing W,True
+i.i.d. assumptions,True
+computationally intensive,True
+hybrid implementations,True
+Jacobian product,True
+preprocessing step,True
+latent variable,True
+naive implementation,True
+fine-tuning,True
+underfitting,True
+observed variables,True
+sounds,False
+parametrized,True
+heuristics,True
+Bayesian methods,True
+complicated interactions,True
+Gaussian kernel,True
+shuffle,False
+scalar z,"It is difficult to determine whether ""scalar z"" falls within the specified domains without more context. Could you please provide more information about ""scalar z""?"
+geometric mean,True
+short-chain AIS,False
+linear self-connections,True
+independent component analysis,True
+ReLU,True
+translation system,False
+variational posterior,True
+posterior distributions,True
+local generalization,True
+Inayoshi,"It is not possible for me to determine whether ""Inayoshi"" belongs to the mentioned fields as it is not sufficiently clear. Please provide more context or details for a more accurate determination."
+improve,"""Improve"" is not a specific entity or concept in the mentioned fields such as deep learning, machine learning, mathematics, and computer science. Therefore, it does not belong to these fields. Hence, the answer is False."
+summary statistics,True
+branching,False
+Gaussian Distribution,True
+uniform distribution,True
+frequentist perspective,True
+research topics,True
+linear algebra,True
+popularity,False
+regularizer,True
+global gate,False
+probabilistic inference,True
+bipartite structure,False
+likelihood term,True
+decomposition of the integrand,True
+decision boundary,True
+complicated functions,True
+piecewise linear networks,True
+pooled outputs,True
+zero-shot learning,True
+model generator network,True
+convolution function,True
+optimal solution,False
+absolute value rectification,True
+conditional distributions,True
+many locations,False
+quadratic function,True
+medical data,False
+indirect connections,False
+conditional sampling,True
+REINFORCE algorithm,True
+multimodal distribution,True
+curvature,True
+higher order interactions,True
+dynamic structure,True
+problem is specified,False
+universal function approximator,True
+unsupervised network,True
+recurrent networks,True
+PMF,True
+parametrization,True
+contextual bandits,True
+linear models,True
+relatively small,False
+English,False
+constrained problem,True
+algebraic substitution,True
+feature space,True
+warps,True
+Euclidean norm,True
+gradient-based optimizers,True
+user profile information,False
+access to the memory,True
+unique,False
+AdaGrad,True
+convolution and pooling,True
+saturation of the sigmoid,True
+constraint,False
+depth of network,True
+common subexpressions,True
+consistency,False
+burning in,False
+numerical values,True
+latent representations,True
+GRUs,True
+Synthesis and sampling,True
+good estimator,True
+Monte Carlo algorithms,True
+regression networks,True
+unknown variables,True
+pixel values,True
+marginal statistics,True
+converges faster,False
+example rejection mechanism,False
+undirected probabilistic model,True
+learning dynamics,True
+real numbers,True
+multi-layer networks,True
+symmetry breaking,True
+output value,False
+linear factors,True
+exact inference,True
+rectified linear function,True
+numerical error,True
+cumulative distribution,True
+independent factors,True
+representation value,True
+inverse Hessian,True
+delay,False
+leaf node,False
+binary mask,True
+practitioner,False
+softmax outputs,True
+random search,False
+directed edge,False
+log density,True
+scatterplot,True
+super-class,False
+matrix M,False
+complete system,False
+dummy variables,True
+forward propagation graph,True
+Python,False
+Microsoft,False
+exponentiation,True
+practice,False
+transition distribution,True
+argmin,True
+VC dimension,True
+reverse engineer,True
+NICE,False
+gradient estimator,True
+spectral radius,True
+Jacobians,True
+orthonormal,True
+size of the convolutional,True
+online advertising,False
+ill-conditioning,True
+KKT multipliers,True
+feedforward IT firing rates,True
+connectionism,True
+steepest descent,True
+probabilities,True
+inference problems,True
+gradient clipping,True
+sub-networks,True
+maximum likelihood learning,True
+catastrophic forgetting,True
+intractable,True
+Monte Carlo Methods,True
+probability density,True
+sequence processing,True
+transpose,True
+laws of the universe,False
+AdaDelta,True
+hidden representation,True
+momentum learning rule,True
+784 pixels,False
+computational complexity,True
+GoogLeNet,True
+bigram,True
+spatial extent,True
+memory cost,False
+computing the gradient,True
+input example,False
+David Hubel,True
+tractable inference,True
+arrows,False
+label smoothing,True
+nearest neighbor predictors,True
+dynamic routing,True
+flat,False
+complexity of distribution,True
+tanh units,True
+working end-to-end pipeline,True
+variable C,True
+V1 cortex,True
+decoding,False
+iterative algorithm,True
+non-recurrent network,True
+mcRBM,True
+feature extractor,True
+3-D computer-rendered,True
+mammalian vision system,True
+alternative strategies,False
+fine-grained way,False
+linear self-loop,False
+samples,False
+relay race example,False
+sparsity,True
+discrete variables,True
+critical temperatures,False
+differentiable generator nets,True
+stochasticity,True
+Hadamard product,True
+hidden variables,True
+initial values,False
+structured output problems,True
+new space,False
+middle layer,True
+human labor,True
+infected,False
+broadcasting,True
+softmax function,True
+Markov chain transition,True
+scope,False
+ranking loss,True
+triplet,False
+deep learning algorithms,True
+single-layer MLP,True
+variable size,False
+total space,False
+weak prior,True
+visual quality,False
+direct sampling,True
+main diagonal,True
+simple cells,True
+power of 2,True
+Torsten Wiesel,True
+Schölkopf,True
+question answering,True
+phonemes,True
+hockey puck,False
+unknown factors of variation,True
+multivariate normal distribution,True
+optimize the tree structure,True
+curriculum learning,True
+fewer pooling units,True
+Roman numeral representation,False
+human heads,True
+parametric encoder,True
+spatial positions,True
+information content,True
+sources of variation,False
+input x,False
+gather more data,False
+graph structures,True
+inputs z,False
+hyperplane,True
+work colleague’s health,False
+possible to move,False
+diagonal matrix,True
+poorly conditioned,True
+Insert G,False
+dynamical system,True
+injected noise,True
+discrete x,True
+patch size,True
+specific concept,False
+learning rate,True
+wide variety,False
+Pooling stage,True
+Moore-Penrose Pseudoinverse,True
+wake-sleep algorithm,True
+condition number,True
+Next layer,False
+closed form,True
+probabilistic modeling,True
+OCR,False
+unigram,True
+Levenberg–Marquardt algorithm,True
+bagging,True
+smoothness prior,True
+squared difference,True
+second RBM,True
+DBNs,True
+relationships between concepts,False
+Hochreiter,True
+detect edges,True
+Markov chain steps,True
+RBF kernel SVM,True
+volume,False
+minimum value,False
+damping,True
+base network,True
+distribution over sequences,True
+angle,False
+Meta-algorithm,True
+Early Stopping,True
+adding noise,True
+fitting model,True
+one-dimensional example,True
+mouth,False
+Teacher Forcing,True
+complex concepts,False
+convolution kernel,True
+multinoulli distribution,True
+audio modeling,False
+repeated subexpressions,True
+frequentist estimators,True
+fovea,True
+maximize,False
+higher-temperature distributions,True
+evaluate noise p,False
+insights,True
+scalar variable,True
+parametric model,True
+function estimation,True
+Euclidean coordinate system,True
+variable elimination algorithms,True
+deep models,True
+Tenenbaum,False
+delta-bar-delta algorithm,True
+continuous variables,True
+machine learning system,True
+task network,True
+visible units,True
+VAEs,True
+persistent negative chains,False
+scientific computing,True
+saddle point,True
+local interactions,True
+negative test,False
+larger representations,True
+test data,True
+research frontier,True
+chain rule of probability,True
+multi-layer perceptron,True
+transition operator,False
+estimating,True
+recommender systems,True
+prototypical examples,True
+enhancements,False
+Behnke,False
+alternating,True
+explanatory factors,True
+approximate inference rule,True
+large models,True
+refinement step,True
+gender,False
+importance sampling,True
+empirical frequency,True
+structured databases,True
+machine learning problem,True
+Score matching,True
+locally connected layers,True
+DCGAN,True
+coordinate ascent algorithm,True
+linear map,True
+point estimator,True
+preprocessed,False
+sequence of values,True
+taxonomy of methods,True
+class identities,True
+Real-Valued Data,True
+reuse principle,True
+enhanced gradient,True
+tempering,False
+model class,True
+humans teach,False
+hyperparameters,True
+hybrid model,True
+recognizable shape,False
+stochastic methods,True
+classifying,True
+resurgence of deep learning,True
+pedestrian detection,True
+factorizing the ratings matrix,True
+field performance,False
+excess error,False
+saturate,True
+basis expansions,True
+binary code,True
+left-to-right connectivity,False
+detecting edges,True
+unlikely event,False
+ambitious goals,False
+parameter learning,True
+family of functions,False
+tradeoff,False
+Bob,False
+posterior probability,True
+Applied Math,True
+Carol,False
+piecewise linear function,True
+spectral acoustic representations,True
+landscape,False
+bias,True
+orthogonal matching pursuit,True
+complex distributions,True
+ambient space,True
+symbol-to-symbol approach,True
+sinusoid parameters,True
+gradient field,True
+optimal q,False
+geometry,False
+fine-tuning stage,True
+resistant medium,False
+memory networks,True
+predicted ratings,True
+user ID,False
+injecting noise,True
+logZ,True
+GPU,False
+deep learning researchers,True
+word embeddings,True
+different time scales,False
+supervised tasks,True
+nonlinear functions,True
+deeper networks,True
+complex cells,True
+one-shot learning,True
+MATLAB,False
+specialized networks,True
+overcomplete,True
+Gallinari,False
+industry,False
+Bayesian Linear Regression,True
+software libraries,False
+computational cost,False
+generative models,True
+training process,True
+random perturbation,True
+fully connected net,True
+PCD training,True
+generalization power,True
+binary values,True
+orientation,False
+U-shaped curve,True
+visual system,True
+supervised model,True
+power method,True
+uncorrelated,True
+clusters,True
+medical test,True
+database entries,False
+machine learning benchmark,True
+textual input,False
+-grams,True
+knowledge,True
+normalized,True
+fruit,False
+statistically,True
+hierarchical softmax,True
+logistic regression model,True
+objects,False
+internal node,False
+red cars,False
+missing entries,False
+solution points,True
+information processing tasks,True
+activation values,True
+factorization,True
+positive examples,False
+orthogonal matrix,True
+positive definite symmetric matrix,True
+RNNs,True
+input neighborhood,True
+lower layers,True
+resource,Cannot determine without more context. Please provide more information about the entity you are referring to.
+location of the eyes,False
+second-order methods,True
+local descent,True
+probability distribution over y,True
+asymptotic efficiency,True
+parameter storage,False
+Theano,True
+random selection,False
+estimated density function,True
+mPoT model,True
+matrix V,True
+Gamma distribution,True
+learning process,True
+graphical model,True
+matrix decomposition,True
+sharply peaked,False
+recall,False
+variable y,True
+computer scientists,True
+input conditions,True
+peaks,False
+function f,True
+machine learning expert,True
+independent pieces,False
+mean value,False
+training technique,True
+linear equations,True
+CNNs,True
+region,False
+shortlist,False
+factorial prior,True
+contrastive divergence,True
+table-based model,True
+pretraining-based estimator,True
+analytically,True
+differentiation technology,True
+GCN,True
+MMD,True
+mean field approach,True
+Markov networks,True
+ensemble predictor,True
+mixture model,True
+conditional probability,True
+corrupted data point,True
+cold,False
+structured variational inference,True
+discriminative RBM,True
+input matrix,False
+SVD,True
+undefined,False
+parametric family,True
+linearly separable,True
+SVMs,True
+tiling pattern,False
+Unicode,False
+SFA algorithm,False
+architecture,True
+ASR,True
+complexity class,True
+regularization,True
+Information Theory,True
+Martens and Medabalimi,False
+random update,False
+measure theory,True
+mean field equations,True
+incorrect beliefs,False
+deep Boltzmann machines,True
+local update directions,True
+law of large numbers,True
+autoencoders,True
+partition,False
+higher-order Boltzmann machines,True
+information retrieval,True
+intelligent behavior,False
+active area of research,True
+efficient approach,True
+observations,True
+conditional mean,True
+arithmetic mean,True
+undirected modeling,False
+sparse coding model,True
+independent estimates,True
+exploitation,False
+BFGS,True
+Isomap,True
+OMP-1,False
+cross-section,True
+retina,True
+Cross-Validation,True
+reconstruction distribution,True
+performance metrics,True
+instructor,False
+local kernels,True
+true gradient,"True gradient is a concept used in mathematical optimization algorithms, specifically in the field of computational mathematics and optimization. It refers to the actual gradient of a function, which represents the direction of steepest ascent or descent at a given point. Therefore, true gradient does belong to the fields of mathematics, computer science, and computational mathematics. Hence, the given entity, ""true gradient,"" belongs to the specified domains. Thus, the answer is True."
+ASCII,"ASCII (American Standard Code for Information Interchange) is a character encoding standard that is widely used in computer systems and communication protocols. It defines a set of 128 alphanumeric characters, including letters, digits, punctuation marks, and control characters, each represented by a 7-bit binary number. ASCII is essential in the field of computer science, as it forms the basis for representing text characters in digital systems. Hence, the given entity, ""ASCII,"" belongs to the specified domains. Thus, the answer is True."
+high dimensional spaces,"High dimensional spaces refer to spaces that have a large number of dimensions. In mathematics and computer science, this concept is commonly encountered in fields such as linear algebra, data analysis, machine learning, and optimization. High dimensional spaces can have practical applications in various domains, like data science, computer vision, and pattern recognition.
+
+Since high dimensional spaces are a fundamental concept in mathematics and are essential in several areas of computer science and data analysis, the given entity, ""high dimensional spaces,"" does belong to the specified domains. Thus, the answer is True."
+resampling,"Resampling is a statistical technique used in the field of data analysis and machine learning. It involves creating new samples from an existing dataset by drawing observations from it with replacement or without replacement. Resampling methods, such as bootstrapping and cross-validation, are commonly used for different purposes like estimating uncertainty, assessing model performance, and optimizing model hyperparameters.
+
+As resampling techniques are widely employed in statistical analysis, machine learning, and related fields, the given entity, ""resampling,"" does belong to the specified domains. Thus, the answer is True."
+prime factors,"Prime factors are a concept in number theory and mathematics. In the field of number theory, prime factors represent the prime numbers that divide a given integer without leaving a remainder. Prime factorization is the process of expressing a number as a product of its prime factors.
+
+Prime factors are commonly encountered in various fields of mathematics, including number theory, algebra, and cryptography. They also have applications in computer science, such as in prime factorization algorithms used for cryptography algorithms like RSA.
+
+Since prime factors are a fundamental concept in number theory and have applications in various mathematical and computational domains, the given entity, ""prime factors,"" does belong to the specified domains. Thus, the answer is True."
+ideal representation,True
+fixed point,True
+mean absolute error,True
+residual reconstruction error,True
+automatic differentiation,True
+small image patches,True
+BPTT algorithm,True
+matrix product,True
+principal components analysis,True
+zebra,False
+rectifier,True
+RBM undirected probabilistic model,True
+Gram-Schmidt orthogonalization,True
+computational burden,False
+recurring theme,False
+visualizations,True
+software environments,True
+feature extraction function,True
+Turing machine,True
+model size,True
+weighted,True
+textures,False
+small perturbations,True
+influences,False
+MSE,True
+approximation,True
+2-D map,False
+outputs x,False
+Gibbs steps,True
+negative phase,True
+raw symbols,False
+adversarial training,True
+log-prior term,False
+linear predictor,True
+comparing models,True
+update rule,True
+inference equations,True
+positive phase,True
+observable variables,True
+multiply a matrix,True
+Density estimation,True
+pre-activation value,False
+positive semidefinite,True
+twists,False
+brain,True
+anomaly detection,True
+spectrum,False
+reinforcement learning,True
+local patch,False
+linear-tanh layer,True
+Geoffrey Hinton,True
+binary sequence,False
+series expansion,True
+expectation,True
+Hessian of J,True
+input space,False
+fundamental unit,True
+random walk,True
+sequence of estimators,True
+initialization strategies,True
+standard method,True
+multivariate data,True
+real life,False
+overfitting,True
+simpler model,True
+forward propagation,True
+speaker-adaptive features,True
+deep learning renaissance,True
+AI tasks,True
+computational power,False
+item embedding,True
+output image,False
+topographic ICA,True
+MNIST,True
+distributed representation,True
+Cartesian product,True
+raw input,False
+Monte Carlo sampling,True
+nonlinear change of variables,True
+sampling distribution,True
+example tangent line,True
+continuous-valued data,True
+rescale,True
+Pooling layer,True
+norm penalty,True
+improving models,True
+Matrices,True
+expected gradient,True
+binary string identifier,True
+time sequence,True
+grades,False
+safe,False
+joint proposal distribution,True
+2-D Audio data,True
+extra inputs,True
+spectrogram,True
+squared error,True
+convergence,True
+Monte Carlo Markov chains,True
+time constants,False
+fixed length,True
+multi-instance learning,True
+microphones,True
+joint assignments,True
+hidden code,False
+mean squared error,True
+vector,True
+DropConnect,True
+powerful representation layer,True
+representation learning algorithm,True
+more layers,True
+joint probability distribution,True
+2D plane,True
+output y,True
+patient,False
+inclusion probability,True
+co-parents,False
+matrix D,False
+number of parameters,True
+stochastic back-propagation,True
+negative definite,True
+computer-rendered imagery,True
+clamping,True
+statistical machine translation,True
+deeper models,True
+approximate inference methods,True
+sigmoid units,True
+input data,False
+Roweis,False
+random step,False
+even layers,False
+transfer learning,True
+practical applications,"It is not clear whether ""practical applications"" refers to an entity or not. If you are referring to a specific application or field of study related to practical applications, please provide more context."
+pooling structure,True
+computationally efficient,True
+research problem,True
+switch variable,True
+understand entire scenes,False
+NLP,True
+test time,False
+code layer,True
+tensor,True
+TPE,False
+physical systems,False
+phrases,False
+minibatch,True
+Laplace distribution,True
+scale the gradients,True
+Gibbs sampling,True
+expected ratio,True
+representation of the data,True
+model design,True
+analytical expression,True
+specific models,True
+intermediate approach,True
+the Canadian Hansard,False
+data variables,True
+principal subspace,True
+treatment,False
+Lagrangian functional,True
+linear encoder,True
+binary decisions,True
+number of connections,True
+AI agent,True
+recurrent hidden units,True
+structured probabilistic models,True
+neural machine translation model,True
+collaborative filtering,True
+block circulant matrix,True
+deep recurrent attention writer,True
+exploration,False
+machine learning models,True
+prior over latent variables,True
+hash tables,True
+choice of q,False
+doubly block circulant matrix,True
+Polyak averaging,True
+organizing computation,False
+update equations,True
+video gaming systems,True
+centering trick,True
+benchmarks,True
+fully connected Boltzmann machines,True
+L1 norm,True
+formulas,False
+learned centroid,False
+representation size,True
+k-means,True
+rounding error,True
+finite differences,True
+maximum mean discrepancy,True
+derivative,True
+nonlinearity,True
+cyclic permutation,True
+arbitrary distribution,True
+training procedure,True
+Student-t prior,True
+vertices,True
+receptive field,True
+bridging distribution,True
+graphical demonstrations,False
+high dimensional discrete spaces,True
+direction of descent,True
+noise robustness,True
+height,False
+table entries,False
+important ingredient,False
+salient,False
+dot product,True
+non-distributed approach,True
+tiled convolution,True
+word-based models,True
+NADE-k,True
+Hessian matrix,True
+input variable,True
+proposal distribution,True
+3-element kernel,False
+affinity,True
+intermediate expressions,False
+interesting examples,False
+rapid initial progress,False
+expected squared difference,True
+acoustic features,True
+SMAC,False
+Torch,True
+timeline,False
+magnitude of parameter gradients,True
+numerically stable,True
+validation error,True
+mean field process,True
+neighboring pixel,True
+exp function,True
+unlabeled examples,False
+time domain,True
+leaky integrator,True
+integers,False
+Bayes error,True
+continuous-valued activations,True
+CAE,True
+prior probability distribution,True
+special structure,False
+joint model,True
+high-entropy distribution,True
+jointly fine-tune,True
+training iterations,True
+one-dimensional convolutions,True
+parameter norm penalty,True
+expected value,True
+deep learning techniques,True
+time scale of integration,True
+binary relation,属于
+AT&T,属于
+gradient step,属于
+Markov random fields,属于
+scientific community,不属于
+sorted list of numbers,True
+impossible event,False
+train and perform inference,True
+sparse connectivity,True
+model parameters,True
+poor mixing,False
+non-parametric,True
+MCMC sampling,True
+true distribution,True
+identity matrix,True
+leaky units,True
+tangent prop algorithm,True
+randomly,False
+Ioffe and Szegedy,True
+troughs,False
+linear dependence,True
+visible variable,True
+rectified linear unit,True
+sequential data,True
+variational inference,True
+local gate,False
+regularity,True
+Bernoulli variable,True
+signal,True
+grid,False
+training data,True
+original image,False
+exploding values,True
+advanced techniques,True
+dimensions,True
+softmax regression,True
+basic principles,True
+duplicate examples,True
+matrix inverse,True
+animal training,False
+exponential gains,True
+attributes,False
+optimal choice,False
+sequence modeling,True
+discriminator network,True
+latent variable models,True
+probability theory,True
+decision tree,True
+convolutional Boltzmann machines,True
+redundancy,False
+element-wise,True
+symbol-to-number approach,False
+full convolution,True
+decoder,True
+greedy,False
+last convolutional layer,True
+direct connections,True
+sigmoidal input gate,True
+coordinate system,True
+algorithmic mechanisms,True
+parametric form,True
+reshape,True
+maxout networks,True
+training sentence,False
+"x,y ∼p train joint",False
+inactive,False
+regression task,True
+good representation,True
+theoretical work,True
+tree structure,True
+descendants,False
+pre-softmax activations,True
+Dirichlet prior,True
+top-level h-space,False
+transformed input,True
+backward propagation,True
+sequence lengths,True
+n-gram models,True
+is_a_type_of,True
+"θ,c",False
+Gabor functions,True
+data generating process,True
+symbolic description,True
+average,True
+standardization,True
+half-spaces,True
+zero padding,True
+runtime,True
+functional form,True
+pooling function,True
+consistent estimator,True
+data types,True
+symmetric matrix,True
+machine learning tasks,True
+mathematics,True
+complicated structure,False
+strided convolution,True
+one-hot class variable,True
+input channels,False
+contexts,False
+medial temporal lobe,True
+new point,False
+Bennett,False
+computational models,True
+differentiation software,True
+GANs,True
+search direction,False
+linear output layer,True
+input layer,True
+weights,True
+factored approach,True
+variable to be differentiated,True
+sigmoid function,True
+approximate distribution,True
+latent or hidden layer,True
+mutually exclusive subsets,True
+iterative EM algorithm,True
+valid probability,True
+mixture components,True
+difficulties,False
+pruned,True
+sparse matrix,True
+inference time,False
+first layer,False
+low-rank relationships,True
+choose an algorithm,True
+leaves,False
+Cognitron,True
+hyperbolic tangent,True
+pose estimation,True
+perturbation size,True
+human head,True
+convolving,True
+input size,True
+odd layers,False
+capture,False
+unlabeled data,True
+Convolutional Layer,True
+additive noise,True
+parameter space,True
+sequence of gradients,True
+true relations,False
+regularizing,True
+human-level performance,False
+French,False
+debug,False
+machine learning concepts,True
+model family,True
+factorized prior,True
+intuition,False
+learning in these models,True
+asymptotes,True
+lookup table,False
+slope,True
+oscillatory,False
+optimization,True
+bottom layer,False
+slow feature analysis,True
+machine learning techniques,True
+Helmholtz machine,True
+strong prior,False
+CD-k,True
+input image,False
+Linear Least Squares,True
+moment matching,True
+higher level features,True
+mean parameter,True
+learning with it,True
+deep RNN,True
+absolute values,False
+deterministic,True
+character’s movement,False
+highest and lowest points,False
+non-zero singular values,True
+slowness principle,True
+probability density function,True
+Bayesian inference,True
+Hamiltonian Monte Carlo,True
+exponential distribution,True
+reconstruction function,True
+discrete data,True
+back-propagation through time,True
+auto-regressive networks,True
+binary pooling unit,True
+diffusion inversion,True
+factors of variation,True
+F-score,True
+accurate estimates,False
+Bernoulli parameters,True
+better model,True
+permutation invariant,True
+inference procedure,True
+introductory level calculus,True
+generalized La- grange function,True
+border,False
+mean field assumption,True
+deep versions,True
+elongated,False
+oscillating,False
+number of hidden units,True
+scalable way,True
+pretrained parameters,True
+axes,False
+convolutional network,True
+nonlinear relationships,True
+output gate,True
+neural network,True
+unfolded computational graph,True
+unsupervised learning task,True
+original data,False
+finishing time,False
+hidden units,True
+Bayesian regression model,True
+solar eclipse,False
+adversarial example generation,True
+multiple modalities,True
+uncertainty,True
+FPGA,True
+codes,True
+computer program,True
+evidence lower bound,True
+spam message,False
+chain rule of calculus,True
+computer vision,True
+activation functions,True
+ridge regression,True
+Radial basis function,True
+early stopping procedure,True
+document,False
+chord,False
+sick,False
+input copying task,False
+dynamic range,True
+memory components,True
+statistical learning theory,True
+ears,False
+Denoising,True
+vertical coordinate,False
+sum of squared errors,True
+back-propagation rules,True
+tokens,False
+output units,True
+dependencies,False
+numerical computation,True
+binary class variable,False
+error rate,True
+black pixels,False
+probability distribution,True
+logistic sigmoid,True
+projection,True
+cross-channel pooling strategies,True
+non-zero probability,True
+total loss,True
+tolerance,False
+Gaussian prior,True
+pooling operator,True
+artificial intelligence,True
+slab units,False
+bidirectional interactions,True
+direct probabilistic relationships,True
+full rank,True
+logarithm of zero,False
+shrink,False
+global minima,True
+first-order term,True
+missing inputs,False
+cross-entropy,True
+LCN,False
+asymptotically cheaper,False
+AIS estimates,True
+asymmetry,False
+canyon,False
+PCA,True
+optic nerve,False
+low cost,False
+convolve,True
+nonzero entries,True
+photos,False
+color,False
+corruption process,False
+concept drift,True
+separated,False
+many applications of convolution,True
+downsampling,True
+quadratic model,True
+recurrence relation,True
+linear units,True
+lighting,False
+learning procedure,True
+ensemble learning,True
+automated algorithms,True
+distribution over classes,True
+neighboring chains,False
+Monte Carlo estimate,True
+subjects,False
+integer powers,True
+Overflow and Underflow,True
+denoise data,True
+kernel trick,True
+Alice,False
+practical methodology,False
+cost function,True
+expressive power,False
+convolutional model,True
+individual elements,False
+dropout,True
+GSM,True
+KKT approach,True
+student network,False
+real-time computation,True
+grad_table,False
+explosion,False
+Newtonian scenario,True
+causality,True
+correlation,True
+Cholesky decomposition,True
+fine-tune,True
+Jacobian matrix,True
+low-level notions,True
+trigram,False
+uphill,False
+optimal reconstruction function,True
+third matrix,False
+interactions between hidden units,True
+graph theory,True
+output unit types,True
+matrix multiplication,True
+visible layer,True
+MCMC algorithm,True
+Bengio,True
+implicit zeroes,False
+explaining away interactions,True
+local solution,True
+Output Recurrence,False
+attention mechanisms,True
+LASSO,True
+MXNet,True
+line search,True
+maxout units,True
+total cost,False
+synthetic regression problem,True
+degree,False
+Gaussian noise,True
+generative stochastic networks,True
+Affine transform,True
+address number detection system,True
+logit,True
+direct interactions,False
+intersecting half-spaces,True
+neuron,True
+log-likelihood,True
+probability mass function,True
+more steps,True
+recursive nets,True
+teaching strategies,False
+recurrent graph,True
+input sequence,True
+DRAW model,True
+stability,True
+code distribution,False
+sufficient complexity,False
+word categories,False
+linear threshold units,True
+machine learning research,True
+pixel-wise segmentation,True
+sequence of characters,False
+operation,False
+sentiment analysis,True
+Bernoulli Distribution,True
+image segmentation,True
+downsampled convolution function,True
+sequence of words,False
+inefficient,False
+chain rule,True
+binary features,True
+output dimension,True
+mean-product of t-distribution,True
+total objective,False
+gating units,True
+Nesterov momentum,True
+RBM generator,True
+structure learning,True
+iteratively,True
+location-based addressing,False
+memorize specific instances,False
+parallelization,True
+cliffs,False
+long-term relationships,False
+possible distributions,True
+REINFORCE estimator,True
+Simple layer terminology,False
+has_fur,False
+penultimate layer,True
+very bad,False
+memory consumption,True
+continuation methods,True
+innovation,False
+Krylov methods,True
+Borel measurable function,True
+positive definite,True
+exploding gradients,True
+nonlinear geometric distortions,True
+indirect means of learning,True
+CIFAR-10,True
+outer product,False
+hill climbing,False
+deployed,False
+configuring,False
+class of tasks,True
+short path,True
+tossed coin,False
+mixture of experts,True
+max pooling,True
+sub-model,False
+pseudo-gradient,False
+deep learning models,True
+zero padding policy,False
+frames,True
+trees,False
+geometric argument,True
+complicated relationship,False
+mild assumptions,True
+design matrix,True
+pretrain features,True
+MCMC estimates,True
+Spearmint,True
+service,False
+root nodes,True
+ensemble methods,True
+output distribution,True
+epochs,True
+linear component,True
+iterate backwards,True
+contrast normalization,True
+semantics of the input,False
+desired distribution,False
+maximum likelihood training,True
+linked importance sampling,True
+Cramér-Rao bound,True
+bridge sampling,True
+Lipschitz constant,True
+dynamic Bayesian networks,True
+pseudolikelihood,True
+active paths,False
+probability distribution induced,True
+binary variable,True
+Dirac Distribution,True
+choice of metric,True
+ping pong ball,False
+maxima,True
+initial parameter value,False
+recognition rate,False
+critical points,True
+target,False
+batch normalization,True
+exponential cost,True
+approaches,False
+vanishing gradients,True
+ancestral sampling,True
+Kurita,False
+labeled training examples,True
+conditional RBM,True
+discrete alphabets,True
+correction factor,True
+unsupervised examples,True
+causal factors,True
+arbitrary value,False
+kernel flipping,True
+recursive chain rule,True
+sparsely connected approach,True
+universal approximator theorem,True
+indirect transmission,True
+similarity,False
+model distribution,True
+whitening,True
+sophisticated algorithms,True
+Gaussian scale parameters,True
+tangent space,True
+parameter updates,True
+hidden Markov models,True
+Singular Value Decomposition,True
+deeper layers,True
+nested categories,True
+kernel machines,True
+probability distribution function,True
+symbolic expression,True
+maximum function,True
+inference algorithms,True
+underdetermined problems,True
+ground truth,True
+capacity,True
+figure,False
+measure zero,True
+dynamic programming,True
+reservoir computing,True
+isotropic Laplace distribution,True
+transformed data,False
+interesting properties,False
+difficult task,False
+machine translation,True
+generator networks,True
+particle,False
+clique,False
+width,False
+algebraic expression,True
+curved part,False
+matrix inversion,True
+element V,False
+division,True
+slow mixing,False
+DAEs,True
+deployment,True
+explicit and discrete updates,True
+Monte Carlo estimator,True
+harmony,False
